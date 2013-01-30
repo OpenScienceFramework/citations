@@ -21,13 +21,17 @@ class Citation:
 
         # grab authors field
         self.setAuthors(matches.group('authors'))
-        print 'Authors: ' + self.getAuthors()
+        #print 'Authors: ' + self.getAuthors()
         # grab date field
         self.setDate(matches.group('date'))
-        print 'Date: ' + self.getDate()
+        #print 'Date: ' + self.getDate()
         # grab postData field
         self.setPostData(matches.group('postData'))
-        print 'Post Data: ' + self.getPostData()        
+        #print 'Post Data: ' + self.getPostData()        
+
+    # get raw data
+    def getRaw(self):
+        return self.rawData
 
     # set/get author
     def setAuthors(self, authors):
