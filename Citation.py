@@ -2,57 +2,54 @@ import re
 import pickle
 
 # class representing a citation
-class Citation:
+class Citation(dict):
 
     rawData = None
-
 
     # regex script for breaking apart fields
     rex_authors = re.compile('(?P<authors>.*)\((?P<date>.*)\)(?P<postData>.*)', re.DOTALL)
 
     # constructor
-    def __init__(self, data):
-        self.rawData = data
-        
+    def __init__(self, **kwargs):
+        for k,v in kwargs.iteritems():
+            self[k] = v
+
+    def __delitem__(self, key):
+        if key in self:
+            super(Citation, self).__delitem__(key)
+
+    __getattr__ = dict.__getitem__
+    __setattr__ = dict.__setitem__
+
     # parse and seperate fields from raw data
-    def getFields(self):
+    @classmethod
+    def parse(cls, raw):
+        self = cls()
+        self['raw'] = raw
+
         # seperate fields
-        matches = self.rex_authors.match(self.rawData)
+        matches = self.rex_authors.match(self.raw)
 
         # grab authors field
-        self.setAuthors(matches.group('authors'))
+        authors = matches.group('authors')
+        print authors
+        self.parse_authors(authors)
         #print 'Authors: ' + self.getAuthors()
         # grab date field
-        self.setDate(matches.group('date'))
+        issued = matches.group('date')
+        self.parse_date(issued)
         #print 'Date: ' + self.getDate()
         # grab postData field
-        self.setPostData(matches.group('postData'))
-        #print 'Post Data: ' + self.getPostData()        
-
-    # get raw data
-    def getRaw(self):
-        return self.rawData
-
-    # set/get author
-    def setAuthors(self, authors):
-        self.authors = authors
-        return self 
-    def getAuthors(self):
-        return self.authors
-
-    # set/get date
-    def setDate(self, date):
-        self.date = date
+        post = matches.group('postData')
+        self.parse_post(post)
+        #print 'Post Data: ' + self.getPostData()
         return self
-    def getDate(self):
-        return self.date
 
-    # set/get post data
-    def setPostData(self, postData):
-        self.postData = postData
-        return self
-    def getPostData(self):
-        return self.postData
+    def parse_authors(self, raw_authors):
+        self['author'] = []
 
+    def parse_date(self, raw_date):
+        self['issued'] = None
 
-
+    def parse_post(self, raw_post):
+        self['post'] = None
