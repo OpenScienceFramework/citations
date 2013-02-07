@@ -11,6 +11,7 @@ class Citation(dict):
 
     # constructor
     def __init__(self, **kwargs):
+	# for every key, populate the respecitve Citation field with its value
         for k,v in kwargs.iteritems():
             self[k] = v
 
@@ -21,9 +22,11 @@ class Citation(dict):
     __getattr__ = dict.__getitem__
     __setattr__ = dict.__setitem__
 
+    # returns citation obj - sublclass of dictionary
     # parse and seperate fields from raw data
     @classmethod
     def parse(cls, raw):
+	# create an empty Citation
         self = cls()
         self['raw'] = raw
 
