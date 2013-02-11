@@ -70,13 +70,13 @@ class Citation(dict):
             # (5.4) strip leading whitespace
             givenComposite = givenComposite.lstrip()
             # (5.5) add given initials and family to dictionary
-            authorComplete = {'given' : givenComposite, 'family' : uniqueAuthor.group('family')}
+            authorComplete = {unicode('given') : givenComposite, unicode('family') : uniqueAuthor.group('family')}
             # (5.6) append completed author to composite author dictionary
             authorList.append(authorComplete)
-        self['author'] = authorList
+        self[unicode('author')] = authorList
 
     def parse_date(self, date):
-        self['issued'] = date
+        self[unicode('issued')] = int(date)
 
     def parse_post(self, post):
         self['post'] = post
