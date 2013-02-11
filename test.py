@@ -17,7 +17,7 @@ def test_generator(a, b):
 
 # return dictionary less the key/values we don't want to test
 def clean(d):
-    for k in ['raw', 'type', 'style', 'DOI', 'post', 'title', 'volume', 'container-title', 'page']:
+    for k in ['raw', 'type', 'style', 'DOI', 'post', 'title', 'volume', 'container-title', 'contain-title', 'page']:
         del d[k]
     return d
 
