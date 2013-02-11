@@ -9,17 +9,19 @@ citations
 
 1. Fix regex for test failures
 
-    authors -- Done
-    issued -- Done
-    raw
-    type
-    style
-    post
-    title
-    volume
-    container-title
-    contain-title
-    page
+    <ol>
+    <li>authors -- Done</li>
+    <li>issued -- Done</li>
+    <li>raw</li>
+    <li>type</li>
+    <li>style</li>
+    <li>post</li>
+    <li>title</li>
+    <li>volume</li>
+    <li>container-title</li>
+    <li>contain-title</li>
+    <li>page</li>
+    </ol><br />
     
 1. Heuristic approach to regexing citations
 
