@@ -25,4 +25,6 @@ citations
     
 1. Heuristic approach to regexing citations
 
+1. Implement re.verbose for readability of complex regular expressions
+
 Schema we're using: https://github.com/citation-style-language/schema/blob/master/csl-data.json
