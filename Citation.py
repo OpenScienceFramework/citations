@@ -122,8 +122,36 @@ class Citation(dict):
             print(currentMatches.group('prePage'))
             print('\nPage: ')
             print(currentMatches.group('page'))
+            prePage = currentMatches.group('prePage')
         # grab "volume"
-
+        rex_volume = re.compile('(?P<preVolume>.*),\s*(?P<volume>\d+),(.*)')
+        currentMatches = rex_volume.match(prePage)
+        if currentMatches == None:
+            print('Big Failure.')
+        elif currentMatches.group('volume') == None:
+            print('No volume found.')
+        else:
+            volume = currentMatches.group('volume')
+            preVolume = currentMatches.group('preVolume')
+            print('Volume:' + volume + '\nPrevolume: ' + preVolume)
         # grab "container-title"
-
+        rex_container_title = re.compile('(?P<preContainerTitle>.*[\.\?!])*(?P<containerTitle>.*)$')
+        currentMatches = rex_container_title.match(preVolume)
+        if currentMatches == None:
+            print('Big Failure.')
+        elif currentMatches.group('containerTitle') == None:
+            print('No container title found.')
+        else:
+            containerTitle = currentMatches.group('containerTitle')
+            preContainerTitle = currentMatches.group('preContainerTitle')
+            print('Container-Title: ' + containerTitle + '\nPre-Container-Title: ' + preContainerTitle)
         # grab "title"
+        rex_title = re.compile('\s*\.\s*(?P<title>.*)')
+        currentMatches = rex_title.match(preContainerTitle)
+        if currentMatches == None:
+            print('Big Failure.')
+        elif currentMatches.group('title') == None:
+            print('No title found.')
+        else:
+            title = currentMatches.group('title')
+            print('Title: ' + title)
