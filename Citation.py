@@ -1,9 +1,9 @@
+#@TODO: How to handle exceptions for when regular expressions fail to find matches...
 import re
 
 
 # class representing a citation
 class Citation(dict):
-
     rawData = None
 
     # regex script for breaking apart fields
@@ -12,7 +12,7 @@ class Citation(dict):
     # constructor
     def __init__(self, **kwargs):
     # for every key, populate the respective Citation field with its value
-        for k,v in kwargs.iteritems():
+        for k, v in kwargs.iteritems():
             self[k] = v
 
     def __delitem__(self, key):
@@ -50,27 +50,27 @@ class Citation(dict):
     def parse_authors(self, authors):
         authorList = []
         # (1) regex expression for grabbing 'Familyname, I1.' || 'Familyname, I1. I2.'
-        rex_author_list = re.compile('[A-Z][a-z]+\,\s[A-Z]\.\s+[A-Z]\.|[A-Z][a-z]+\,\s[A-Z]\.', re.DOTALL)
+        rex_author_list = re.compile('[A-Z][a-z]+,\s[A-Z]\.\s+[A-Z]\.|[A-Z][a-z]+,\s[A-Z]\.', re.DOTALL)
         # (2) populate list with unique authors
         matches = re.findall(rex_author_list, authors)
-        # (3) regex for seperateing an authors family name from his given initial(s)
+        # (3) regex for separating an authors family name from his given initial(s)
         rex_authors = re.compile('(?P<family>[A-Z][a-z]*),\s+(?P<givenList>.+\.)', re.DOTALL)
-        # (4) regex for seperating given initals
+        # (4) regex for separating given initials
         rex_given_list = re.compile('([A-Z])\.', re.DOTALL)
-        # (5) for each author found, disect family and given names and add to 'authors' dict
+        # (5) for each author found, dissect family and given names and add to 'authors' dict
         for author in matches:
-            # (5.1) seperate family name from given initial(s)
+            # (5.1) separate family name from given initial(s)
             uniqueAuthor = rex_authors.match(author)
             # (5.2) find all initials of an authors given name and populate an array with strings
-            givenMatches = re.findall(rex_given_list, uniqueAuthor.group('givenList')) 
+            givenMatches = re.findall(rex_given_list, uniqueAuthor.group('givenList'))
             # (5.3) for each given initial add it to a composite string
             givenComposite = ''
             for given in givenMatches:
-                givenComposite = givenComposite + ' ' + given 
-            # (5.4) strip leading whitespace
+                givenComposite = givenComposite + ' ' + given
+                # (5.4) strip leading whitespace
             givenComposite = givenComposite.lstrip()
             # (5.5) add given initials and family to dictionary
-            authorComplete = {unicode('given') : givenComposite, unicode('family') : uniqueAuthor.group('family')}
+            authorComplete = {unicode('given'): givenComposite, unicode('family'): uniqueAuthor.group('family')}
             # (5.6) append completed author to composite author dictionary
             authorList.append(authorComplete)
         self[unicode('author')] = authorList
@@ -79,4 +79,51 @@ class Citation(dict):
         self[unicode('issued')] = int(date)
 
     def parse_post(self, post):
+        # store post data
         self['post'] = post
+
+        # parse DOI
+        # REGEX expression for grabbing everything before and after doi
+        #rex_DOI = re.compile('(?P<preDOI>.*)([DdOoIi:]{3,4})(?P<DOI>.*$)')
+        #@TODO: not grabbing "doi:"
+        rex_DOI = re.compile('(?P<preDOI>.*)([Dd][Oo][Ii]:?)?\s(?P<doi>.*)$')
+        #rex_DOI = re.compile('(?P<preDOI>.*)\s(?P<doi>.*)$')
+        # separate pre-DOI from DOI
+        currentMatches = rex_DOI.match(post)
+        # if found matches prepare and store doi field
+        if currentMatches == None:
+            print('Big Failure.')
+        elif currentMatches.group('doi') == None:
+            print('No doi found.')
+        else:
+            #grab doi
+            doi = currentMatches.group('doi')
+            #print('Doi: ' + doi)
+            # strip any leading whitespace
+            doi = doi.lstrip()
+            # store in dictionary
+            self[unicode('DOI')] = unicode(doi)
+
+        # grab pre-DOI information
+        preDOI = currentMatches.group('preDOI')
+        #print('Pre-DOI: ' + preDOI)
+        #print('Done')
+
+        # grab "page"
+        # (lazy search everything)(digits - digits)(everything else from the end of the string)
+        rex_page = re.compile('(?P<prePage>.*?)(?P<page>\d+[-]+\d+)(.*)$')
+        currentMatches = rex_page.match(preDOI)
+        if currentMatches == None:
+            print('Big Failure')
+        elif currentMatches.group('page') == None:
+            print('No page found.')
+        else:
+            print('Pre: ')
+            print(currentMatches.group('prePage'))
+            print('\nPage: ')
+            print(currentMatches.group('page'))
+        # grab "volume"
+
+        # grab "container-title"
+
+        # grab "title"
