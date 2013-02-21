@@ -42,5 +42,20 @@
         "volume":103,
         "page":"1-18",
         "DOI":"10.1037/a0021017"
+    },
+    {
+        "stle":"apa",
+        "type":"article-journal",
+        "raw":"Altman, D. G. Bland, J. M. (1995). Statistics notes: Absence of evidence is not evidence of absence. British Medical Journal, 311, 485. doi: 10.1136/bmj.311.7003.485",
+        "title":"Statistics notes: Absence of evidence is not evidence of absence.",
+        "author": [
+            {"family":"Altman", "given":"D G"},
+            {"family":"Bland", "given":"J M"}
+        ],
+        "issued":1995
+        "container-title":"British Medical Journal",
+        "volume":311,
+        "page":"485",
+        "DOI":"10.1136/bmj.311.7003.485"
     }
 ]
