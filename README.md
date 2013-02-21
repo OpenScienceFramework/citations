@@ -16,11 +16,11 @@ citations
     <li>type</li>
     <li>style</li>
     <li>post</li>
-    <li>title</li>
-    <li>volume</li>
-    <li>container-title</li>
-    <li>contain-title</li>
-    <li>page</li>
+    <li>title -- Done</li>
+    <li>volume -- Done</li>
+    <li>container-title -- Done</li>
+    <li>contain-title -- Done</li>
+    <li>page -- Done</li>
     </ol><br />
     
 1. Heuristic approach to regexing citations
