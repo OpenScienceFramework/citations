@@ -1,4 +1,5 @@
 #@TODO: How to handle exceptions for when regular expressions fail to find matches...
+#@TODO: create try/catch blocks for regular expression failures
 import re
 
 
@@ -76,40 +77,31 @@ class Citation(dict):
         self[unicode('author')] = authorList
 
     def parse_date(self, date):
+        # store issued
         self[unicode('issued')] = int(date)
 
     def parse_post(self, post):
-        # store post data
+        # store post
         self['post'] = post
 
         # parse DOI
         # REGEX expression for grabbing everything before and after doi
-        #rex_DOI = re.compile('(?P<preDOI>.*)([DdOoIi:]{3,4})(?P<DOI>.*$)')
         #@TODO: not grabbing "doi:"
         rex_DOI = re.compile('(?P<preDOI>.*)([Dd][Oo][Ii]:?)?\s(?P<doi>.*)$')
-        #rex_DOI = re.compile('(?P<preDOI>.*)\s(?P<doi>.*)$')
-        # separate pre-DOI from DOI
         currentMatches = rex_DOI.match(post)
-        # if found matches prepare and store doi field
         if currentMatches == None:
             print('Big Failure.')
-        elif currentMatches.group('doi') == None:
+        elif None == currentMatches.group('doi'):
             print('No doi found.')
         else:
-            #grab doi
+            # save pre-doi string
+            preDOI = currentMatches.group('preDOI')
+            # grab, clean, and prepare doi
             doi = currentMatches.group('doi')
-            #print('Doi: ' + doi)
-            # strip any leading whitespace
             doi = doi.lstrip()
-            # store in dictionary
             self[unicode('DOI')] = unicode(doi)
 
-        # grab pre-DOI information
-        preDOI = currentMatches.group('preDOI')
-        #print('Pre-DOI: ' + preDOI)
-        #print('Done')
-
-        # grab "page"
+        # parse "page"
         # (lazy search everything)(digits - digits)(everything else from the end of the string)
         rex_page = re.compile('(?P<prePage>.*?)(?P<page>\d+[-]+\d+)(.*)$')
         currentMatches = rex_page.match(preDOI)
@@ -118,12 +110,15 @@ class Citation(dict):
         elif currentMatches.group('page') == None:
             print('No page found.')
         else:
-            print('Pre: ')
-            print(currentMatches.group('prePage'))
-            print('\nPage: ')
-            print(currentMatches.group('page'))
+            # save pre-page string
             prePage = currentMatches.group('prePage')
+            # grab, clean, and store page
+            page = currentMatches.group('page')
+            page = page.lstrip()
+            self[unicode('page')] = unicode(page)
+
         # grab "volume"
+        # (everything before a comma) 0 or more whitespaces(everything before comma) comma (trash)
         rex_volume = re.compile('(?P<preVolume>.*),\s*(?P<volume>\d+),(.*)')
         currentMatches = rex_volume.match(prePage)
         if currentMatches == None:
@@ -131,10 +126,15 @@ class Citation(dict):
         elif currentMatches.group('volume') == None:
             print('No volume found.')
         else:
-            volume = currentMatches.group('volume')
+            # save pre-volume string
             preVolume = currentMatches.group('preVolume')
-            print('Volume:' + volume + '\nPrevolume: ' + preVolume)
+            # grab, clean, and store volume
+            volume = currentMatches.group('volume')
+            volume = volume.lstrip()
+            self[unicode('volume')] = int(volume)
+
         # grab "container-title"
+        # (everything until . || ? || !)(everything from the end of the string)
         rex_container_title = re.compile('(?P<preContainerTitle>.*[\.\?!])*(?P<containerTitle>.*)$')
         currentMatches = rex_container_title.match(preVolume)
         if currentMatches == None:
@@ -142,16 +142,23 @@ class Citation(dict):
         elif currentMatches.group('containerTitle') == None:
             print('No container title found.')
         else:
-            containerTitle = currentMatches.group('containerTitle')
+            # save pre-container-title string
             preContainerTitle = currentMatches.group('preContainerTitle')
-            print('Container-Title: ' + containerTitle + '\nPre-Container-Title: ' + preContainerTitle)
+            # grab, clean, and store container-title
+            containerTitle = currentMatches.group('containerTitle')
+            containerTitle = containerTitle.lstrip()
+            self[unicode('container-title')] = unicode(containerTitle)
+
         # grab "title"
-        rex_title = re.compile('\s*\.\s*(?P<title>.*)')
+        # (everything from the end of the string until a period followed by whitespace)
+        rex_title = re.compile('\s*\.\s*(?P<title>.*)$')
         currentMatches = rex_title.match(preContainerTitle)
         if currentMatches == None:
             print('Big Failure.')
         elif currentMatches.group('title') == None:
             print('No title found.')
         else:
+            # grab, clean, and store title
             title = currentMatches.group('title')
-            print('Title: ' + title)
+            title = title.lstrip()
+            self[unicode('title')] = unicode(title)
