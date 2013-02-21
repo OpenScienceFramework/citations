@@ -3,7 +3,7 @@
         "style":"apa",
         "type":"article-journal",
         "raw": "Aisenson, N. (1978). Fantasy and conservation among second grade children. The Journal of Genetic Psychology, 132, 155-156. 1 10.1080/00221325.1978.10533325",
-        "title":"Fantasy and conservation among second grade children",
+        "title":"Fantasy and conservation among second grade children.",
         "author": [
             {"family":"Aisenson", "given":"N"}
         ],
@@ -16,7 +16,7 @@
         "style":"apa",
         "type":"article-journal",
         "raw":"Albertson, K., & Shore, C. (2009). Holding in mind conflicting information: Pretending, working memory, and executive control. Journal of Cognition and Development, 9, 390-410. doi: 10.1080/15248370802678240",
-        "title":"Holding in mind conflicting information: Pretending, working memory, and executive control",
+        "title":"Holding in mind conflicting information: Pretending, working memory, and executive control.",
         "author":[
             {"family":"Albertson", "given":"K"},
             {"family":"Shore", "given":"C"}
@@ -38,7 +38,7 @@
             {"family":"Tenenbaum", "given":"H R"}
         ],
         "issued":2011,
-        "contain-title":"Journal of Educational Psychology",
+        "container-title":"Journal of Educational Psychology",
         "volume":103,
         "page":"1-18",
         "DOI":"10.1037/a0021017"
