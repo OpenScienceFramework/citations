@@ -12,10 +12,10 @@ citations
     <ol>
     <li>authors -- Done</li>
     <li>issued -- Done</li>
-    <li>raw</li>
-    <li>type</li>
-    <li>style</li>
-    <li>post</li>
+    <li>raw -- Done</li>
+    <li>type -- Done</li>
+    <li>style -- Done</li>
+    <li>post -- Done</li>
     <li>title -- Done</li>
     <li>volume -- Done</li>
     <li>container-title -- Done</li>
