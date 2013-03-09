@@ -3,26 +3,21 @@ citations
 
 1. Create test JSON
 
-    Manually parse citations into JSON -- Three done.
+    Manually parse more citations into JSON -- Four done.
 
-    Multiple JSON integration -- test.py hanldes this now? glob.glob /test/*JSON
+    Multiple JSON integration -- test.py handles this now? glob.glob /test/*JSON
 
-1. Fix regex for test failures
+1. Revise engine to extrapolate minimal data necessary for initialdatabase construction
 
     <ol>
-    <li>authors -- Done</li>
-    <li>issued -- Done</li>
-    <li>raw -- Done</li>
-    <li>type -- Done</li>
-    <li>style -- Done</li>
-    <li>post -- Done</li>
-    <li>title -- Done</li>
-    <li>volume -- Done</li>
-    <li>container-title -- Done</li>
-    <li>contain-title -- Done</li>
-    <li>page -- Done</li>
+    <li>authors</li>
+    <li>issued</li>
+    <li>title</li>
+    <li>journal</li>
     </ol><br />
-    
+
+1. Choose database -- MongoDB, Neo4j, OrientDB, HyperGraphDB, Titan?
+
 1. Heuristic approach to regexing citations
 
 1. Implement re.verbose for readability of complex regular expressions
