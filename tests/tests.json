@@ -57,19 +57,101 @@
         "volume":311,
         "page":"485",
         "DOI":"10.1136/bmj.311.7003.485"
-    }
+    },
     {
-        "stle":"apa",
+        "style":"apa",
         "type":"article-journal",
         "raw":"Ashiabi, G. S. (2007). Play in the preschool classroom: Its socioemotional significance and the teacher's role in play. Early Childhood Education Journal, 35, 199-207. doi: 10.1007/s10643-007-0165-8",
         "title":"Play in the preschool classroom: Its socioemotional significance and the teacher's role in play.",
         "author": [
             {"family":"Ashiabi", "given":"G S"}
         ],
-        "issued"2007:
+        "issued":2007,
         "container-title":"Early Childhood Education Journal",
         "volume":35,
         "page":"199-207",
         "DOI":"10.1007/s10643-007-0165-8"
+    },
+    {
+        "style":"apa",
+        "type":"article-journal",
+        "raw":"Astington, J. W. Jenkins, J. M. (1995). Theory of mind development and social understanding. Cognition & Emotion, 9, 151-165. doi: 10.1080/02699939508409006",
+        "title":"Theory of mind development and social understanding.",
+        "author": [
+            {"family":"Astington", "given":"J W"},
+            {"family":"Jenkins", "given":"J M"}
+        ],
+        "issued":1995,
+        "container-title":"Cognition & Emotion",
+        "volume":9,
+        "page":"151-165",
+        "DOI":"10.1080/02699939508409006"
+    },
+    {
+        "style":"apa",
+        "type":"article-journal",
+        "raw":"Barnett, L. A. (1984). Research note: Young children's resolution of distress through play. Journal of Child Psychology and Psychiatry, 25, 477-483. doi: 10.1111/j.1469-7610.1984.tb00165.x",
+        "title":"Research note: Young children's resolution of distress through play.",
+        "author": [
+            {"family":"Barnett", "given":"L A"}
+        ],
+        "issued":1984,
+        "container-title":"Journal of Child Psychology and Psychiatry",
+        "volume":25,
+        "page":"477-483",
+        "DOI":"10.1111/j.1469-7610.1984.tb00165.x"
+    },
+    {
+        "style":"apa",
+        "type":"article-journal",
+        "raw":"Barnett, L. A. Storm, B. (1981). Play, pleasure, and pain: The reduction of anxiety through play. Leisure Sciences, 4, 161-175. doi: 10.1080/01490408109512958",
+        "title":"Play, pleasure, and pain: The reduction of anxiety through play.",
+        "author": [
+            {"family":"Barnett", "given":"L A"},
+            {"family":"Storm", "given":"B"}
+        ],
+        "issued":1981,
+        "container-title":"Leisure Sciences",
+        "volume":4,
+        "page":"161-175",
+        "DOI":"10.1080/01490408109512958"
+    },
+    {
+        "style":"apa",
+        "type":"article-journal",
+        "raw":"Bates, E. Bretherton, I. Snyder, L. Shore, C. Volterra, V. (1980). Vocal and gestural symbols at 13 months. Merrill-Palmer Quarterly, 26, 407-423.",
+        "title":"Vocal and gestural symbols at 13 months.",
+        "author": [
+            {"family":"Bates", "given":"E"},
+            {"family":"Bretherton", "given":"I"},
+            {"family":"Snyder", "given":"L"},
+            {"family":"Shore", "given":"C"},
+            {"family":"Volterra", "given":"V"}
+        ],
+        "issued":1980,
+        "container-title":"Merrill-Palmer Quarterly",
+        "volume":26,
+        "page":"407-423",
+        "DOI":""
+    },
+    {
+        "style":"apa",
+        "type":"article-journal",
+        "raw":"Barnett, W. Jung, K. Yarosz, D. Thomas, J. Hornbeck, A. Stechuk, R. Burns, S. (2008). Educational effects of the Tools of the Mind curriculum: A randomized trial. Early Childhood Research Quarterly, 23, 299-313. doi: 10.1016/j.ecresq.2008.03.001",
+        "title":"Educational effects of the Tools of the Mind curriculum: A randomized trial.",
+        "author": [
+            {"family":"Barnett", "given":"W"},
+            {"family":"Jung", "given":"K"},
+            {"family":"Yarosz", "given":"D"},
+            {"family":"Thomas", "given":"J"},
+            {"family":"Hornbeck", "given":"A"},
+            {"family":"Stechuk", "given":"R"},
+            {"family":"Burns", "given":"S"}
+        ],
+        "issued":2008,
+        "container-title":"Early Childhood Research Quarterly",
+        "volume":23,
+        "page":"299-313",
+        "DOI":"10.1016/j.ecresq.2008.03.001"
     }
 ]
