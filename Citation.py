@@ -7,6 +7,9 @@ import re
 class Citation(dict):
     rawData = None
 
+    # testing purposes
+    debug = False
+
     # regex script for breaking apart fields
     rex_initial = re.compile('(?P<authors>.*)\((?P<date>.*)\)(?P<postData>.*)', re.DOTALL)
 
@@ -44,7 +47,11 @@ class Citation(dict):
 
         # grab postData field
         post = matches.group('postData')
-        self.parse_post(post)
+        self.parse_titleAndJournal(post)
+
+        # testing -- print out dict
+        #print(self)
+
         return self
 
     #@TODO: Need to parse string and store name in array as, family:lastname given:first/second initial
@@ -75,90 +82,31 @@ class Citation(dict):
             # (5.6) append completed author to composite author dictionary
             authorList.append(authorComplete)
         self[unicode('author')] = authorList
+        if self.debug:
+            for author in authorList:
+                print('Author: ')
+                print(author)
 
     def parse_date(self, date):
         # store issued
         self[unicode('issued')] = int(date)
+        if self.debug:
+            print('Date: ' + date)
 
-    def parse_post(self, post):
-        # store post
-        self['post'] = post
+    def parse_titleAndJournal(self, post):
+        # parse title and journal
+        # REGEX expression for grabbing the title and journal from postdata string
+        rex_titleAndJournal = re.compile('\.\s*(?P<title>.*[\.\?!])\s*(?P<journal>.*),(.*),')
+        titleAndJournal = rex_titleAndJournal.match(post)
 
-        # parse DOI
-        # REGEX expression for grabbing everything before and after doi
-        #@TODO: not grabbing "doi:"
-        rex_DOI = re.compile('(?P<preDOI>.*)([Dd][Oo][Ii]:?)?\s(?P<doi>.*)$')
-        currentMatches = rex_DOI.match(post)
-        if currentMatches == None:
-            print('Big Failure.')
-        elif None == currentMatches.group('doi'):
-            print('No doi found.')
-        else:
-            # save pre-doi string
-            preDOI = currentMatches.group('preDOI')
-            # grab, clean, and prepare doi
-            doi = currentMatches.group('doi')
-            doi = doi.lstrip()
-            self[unicode('DOI')] = unicode(doi)
-
-        # parse "page"
-        # (lazy search everything)(digits - digits)(everything else from the end of the string)
-        rex_page = re.compile('(?P<prePage>.*?)(?P<page>\d+[-]+\d+)(.*)$')
-        currentMatches = rex_page.match(preDOI)
-        if currentMatches == None:
-            print('Big Failure')
-        elif currentMatches.group('page') == None:
-            print('No page found.')
-        else:
-            # save pre-page string
-            prePage = currentMatches.group('prePage')
-            # grab, clean, and store page
-            page = currentMatches.group('page')
-            page = page.lstrip()
-            self[unicode('page')] = unicode(page)
-
-        # grab "volume"
-        # (everything before a comma) 0 or more whitespaces(everything before comma) comma (trash)
-        rex_volume = re.compile('(?P<preVolume>.*),\s*(?P<volume>\d+),(.*)')
-        currentMatches = rex_volume.match(prePage)
-        if currentMatches == None:
-            print('Big Failure.')
-        elif currentMatches.group('volume') == None:
-            print('No volume found.')
-        else:
-            # save pre-volume string
-            preVolume = currentMatches.group('preVolume')
-            # grab, clean, and store volume
-            volume = currentMatches.group('volume')
-            volume = volume.lstrip()
-            self[unicode('volume')] = int(volume)
-
-        # grab "container-title"
-        # (everything until . || ? || !)(everything from the end of the string)
-        rex_container_title = re.compile('(?P<preContainerTitle>.*[\.\?!])*(?P<containerTitle>.*)$')
-        currentMatches = rex_container_title.match(preVolume)
-        if currentMatches == None:
-            print('Big Failure.')
-        elif currentMatches.group('containerTitle') == None:
-            print('No container title found.')
-        else:
-            # save pre-container-title string
-            preContainerTitle = currentMatches.group('preContainerTitle')
-            # grab, clean, and store container-title
-            containerTitle = currentMatches.group('containerTitle')
-            containerTitle = containerTitle.lstrip()
-            self[unicode('container-title')] = unicode(containerTitle)
-
-        # grab "title"
-        # (everything from the end of the string until a period followed by whitespace)
-        rex_title = re.compile('\s*\.\s*(?P<title>.*)$')
-        currentMatches = rex_title.match(preContainerTitle)
-        if currentMatches == None:
-            print('Big Failure.')
-        elif currentMatches.group('title') == None:
-            print('No title found.')
-        else:
-            # grab, clean, and store title
-            title = currentMatches.group('title')
-            title = title.lstrip()
-            self[unicode('title')] = unicode(title)
+        # grab, clean, and store title
+        title = titleAndJournal.group('title')
+        title = title.lstrip()
+        self[unicode('title')] = unicode(title)
+        # grab, clean, and store journal
+        containerTitle = titleAndJournal.group('journal')
+        containerTitle = containerTitle.lstrip()
+        self[unicode('container-title')] = unicode(containerTitle)
+        if self.debug:
+            print('Journal: ' + containerTitle)
+            print('Title: ' + title)
