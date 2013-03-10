@@ -49,8 +49,11 @@ class Citation(dict):
         post = matches.group('postData')
         self.parse_titleAndJournal(post)
 
-        # testing -- print out dict
-        #print(self)
+        # create unique id for citation
+        self.setUID()
+
+        # create a reference list of references
+        self.setReferences()
 
         return self
 
@@ -106,7 +109,17 @@ class Citation(dict):
         # grab, clean, and store journal
         containerTitle = titleAndJournal.group('journal')
         containerTitle = containerTitle.lstrip()
-        self[unicode('container-title')] = unicode(containerTitle)
+        self[unicode('container_title')] = unicode(containerTitle)
         if self.debug:
             print('Journal: ' + containerTitle)
             print('Title: ' + title)
+
+    def setUID(self):
+        ID = str(self.issued) + "_" + self.title + "_" + self.container_title
+        self[unicode('UID')] = unicode(ID)
+        # testing
+        if self.debug:
+            print(self.UID)
+
+    def setReferences(self):
+        pass

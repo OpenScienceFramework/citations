@@ -8,113 +8,10 @@
             {"family":"Aisenson", "given":"N"}
         ],
         "issued":1978,
-        "container-title":"The Journal of Genetic Psychology",
+        "container_title":"The Journal of Genetic Psychology",
         "volume":132,
         "page":"155-156",
         "DOI":"10.1080/00221325.1978.10533325"
-    },{
-        "style":"apa",
-        "type":"article-journal",
-        "raw":"Albertson, K., & Shore, C. (2009). Holding in mind conflicting information: Pretending, working memory, and executive control. Journal of Cognition and Development, 9, 390-410. doi: 10.1080/15248370802678240",
-        "title":"Holding in mind conflicting information: Pretending, working memory, and executive control.",
-        "author":[
-            {"family":"Albertson", "given":"K"},
-            {"family":"Shore", "given":"C"}
-        ],
-        "issued":2009,
-        "container-title":"Journal of Cognition and Development",
-        "volume":9,
-        "page":"390-410",
-        "DOI":"10.1080/15248370802678240"
-    },{
-        "style":"apa",
-        "type":"article-journal",
-        "raw":"Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? Journal of Educational Psychology, 103, 1-18. doi: 10.1037/a0021017",
-        "title":"Does discovery-based instruction enhance learning?",
-        "author":[
-            {"family":"Alfieri", "given":"L"},
-            {"family":"Brooks", "given":"P J"},
-            {"family":"Aldrich", "given":"N J"},
-            {"family":"Tenenbaum", "given":"H R"}
-        ],
-        "issued":2011,
-        "container-title":"Journal of Educational Psychology",
-        "volume":103,
-        "page":"1-18",
-        "DOI":"10.1037/a0021017"
-    },
-    {
-        "style":"apa",
-        "type":"article-journal",
-        "raw":"Altman, D. G. Bland, J. M. (1995). Statistics notes: Absence of evidence is not evidence of absence. British Medical Journal, 311, 485. doi: 10.1136/bmj.311.7003.485",
-        "title":"Statistics notes: Absence of evidence is not evidence of absence.",
-        "author": [
-            {"family":"Altman", "given":"D G"},
-            {"family":"Bland", "given":"J M"}
-        ],
-        "issued":1995,
-        "container-title":"British Medical Journal",
-        "volume":311,
-        "page":"485",
-        "DOI":"10.1136/bmj.311.7003.485"
-    },
-    {
-        "style":"apa",
-        "type":"article-journal",
-        "raw":"Ashiabi, G. S. (2007). Play in the preschool classroom: Its socioemotional significance and the teacher's role in play. Early Childhood Education Journal, 35, 199-207. doi: 10.1007/s10643-007-0165-8",
-        "title":"Play in the preschool classroom: Its socioemotional significance and the teacher's role in play.",
-        "author": [
-            {"family":"Ashiabi", "given":"G S"}
-        ],
-        "issued":2007,
-        "container-title":"Early Childhood Education Journal",
-        "volume":35,
-        "page":"199-207",
-        "DOI":"10.1007/s10643-007-0165-8"
-    },
-    {
-        "style":"apa",
-        "type":"article-journal",
-        "raw":"Astington, J. W. Jenkins, J. M. (1995). Theory of mind development and social understanding. Cognition & Emotion, 9, 151-165. doi: 10.1080/02699939508409006",
-        "title":"Theory of mind development and social understanding.",
-        "author": [
-            {"family":"Astington", "given":"J W"},
-            {"family":"Jenkins", "given":"J M"}
-        ],
-        "issued":1995,
-        "container-title":"Cognition & Emotion",
-        "volume":9,
-        "page":"151-165",
-        "DOI":"10.1080/02699939508409006"
-    },
-    {
-        "style":"apa",
-        "type":"article-journal",
-        "raw":"Barnett, L. A. (1984). Research note: Young children's resolution of distress through play. Journal of Child Psychology and Psychiatry, 25, 477-483. doi: 10.1111/j.1469-7610.1984.tb00165.x",
-        "title":"Research note: Young children's resolution of distress through play.",
-        "author": [
-            {"family":"Barnett", "given":"L A"}
-        ],
-        "issued":1984,
-        "container-title":"Journal of Child Psychology and Psychiatry",
-        "volume":25,
-        "page":"477-483",
-        "DOI":"10.1111/j.1469-7610.1984.tb00165.x"
-    },
-    {
-        "style":"apa",
-        "type":"article-journal",
-        "raw":"Barnett, L. A. Storm, B. (1981). Play, pleasure, and pain: The reduction of anxiety through play. Leisure Sciences, 4, 161-175. doi: 10.1080/01490408109512958",
-        "title":"Play, pleasure, and pain: The reduction of anxiety through play.",
-        "author": [
-            {"family":"Barnett", "given":"L A"},
-            {"family":"Storm", "given":"B"}
-        ],
-        "issued":1981,
-        "container-title":"Leisure Sciences",
-        "volume":4,
-        "page":"161-175",
-        "DOI":"10.1080/01490408109512958"
     },
     {
         "style":"apa",
@@ -129,10 +26,83 @@
             {"family":"Volterra", "given":"V"}
         ],
         "issued":1980,
-        "container-title":"Merrill-Palmer Quarterly",
+        "container_title":"Merrill-Palmer Quarterly",
         "volume":26,
         "page":"407-423",
         "DOI":""
+    },
+    {
+        "style":"apa",
+        "type":"article-journal",
+        "raw":"Barnett, L. A. Storm, B. (1981). Play, pleasure, and pain: The reduction of anxiety through play. Leisure Sciences, 4, 161-175. doi: 10.1080/01490408109512958",
+        "title":"Play, pleasure, and pain: The reduction of anxiety through play.",
+        "author": [
+            {"family":"Barnett", "given":"L A"},
+            {"family":"Storm", "given":"B"}
+        ],
+        "issued":1981,
+        "container_title":"Leisure Sciences",
+        "volume":4,
+        "page":"161-175",
+        "DOI":"10.1080/01490408109512958"
+    },
+    {
+        "style":"apa",
+        "type":"article-journal",
+        "raw":"Barnett, L. A. (1984). Research note: Young children's resolution of distress through play. Journal of Child Psychology and Psychiatry, 25, 477-483. doi: 10.1111/j.1469-7610.1984.tb00165.x",
+        "title":"Research note: Young children's resolution of distress through play.",
+        "author": [
+            {"family":"Barnett", "given":"L A"}
+        ],
+        "issued":1984,
+        "container_title":"Journal of Child Psychology and Psychiatry",
+        "volume":25,
+        "page":"477-483",
+        "DOI":"10.1111/j.1469-7610.1984.tb00165.x"
+    },
+    {
+        "style":"apa",
+        "type":"article-journal",
+        "raw":"Astington, J. W. Jenkins, J. M. (1995). Theory of mind development and social understanding. Cognition & Emotion, 9, 151-165. doi: 10.1080/02699939508409006",
+        "title":"Theory of mind development and social understanding.",
+        "author": [
+            {"family":"Astington", "given":"J W"},
+            {"family":"Jenkins", "given":"J M"}
+        ],
+        "issued":1995,
+        "container_title":"Cognition & Emotion",
+        "volume":9,
+        "page":"151-165",
+        "DOI":"10.1080/02699939508409006"
+    },
+    {
+        "style":"apa",
+        "type":"article-journal",
+        "raw":"Altman, D. G. Bland, J. M. (1995). Statistics notes: Absence of evidence is not evidence of absence. British Medical Journal, 311, 485. doi: 10.1136/bmj.311.7003.485",
+        "title":"Statistics notes: Absence of evidence is not evidence of absence.",
+        "author": [
+            {"family":"Altman", "given":"D G"},
+            {"family":"Bland", "given":"J M"}
+        ],
+        "issued":1995,
+        "container_title":"British Medical Journal",
+        "volume":311,
+        "page":"485",
+        "DOI":"10.1136/bmj.311.7003.485"
+    },
+    {
+        "style":"apa",
+        "type":"article-journal",
+        "raw":"Ashiabi, G. S. (2007). Play in the preschool classroom: Its socioemotional significance and the teacher's role in play. Early Childhood Education Journal, 35, 199-207. doi: 10.1007/s10643-007-0165-8",
+        "title":"Play in the preschool classroom: Its socioemotional significance and the teacher's role in play.",
+        "author": [
+            {"family":"Ashiabi", "given":"G S"}
+        ],
+        "issued":2007,
+        "container_title":"Early Childhood Education Journal",
+        "volume":35,
+        "page":"199-207",
+        "DOI":"10.1007/s10643-007-0165-8"
     },
     {
         "style":"apa",
@@ -149,9 +119,41 @@
             {"family":"Burns", "given":"S"}
         ],
         "issued":2008,
-        "container-title":"Early Childhood Research Quarterly",
+        "container_title":"Early Childhood Research Quarterly",
         "volume":23,
         "page":"299-313",
         "DOI":"10.1016/j.ecresq.2008.03.001"
+    },
+    {
+        "style":"apa",
+        "type":"article-journal",
+        "raw":"Albertson, K., & Shore, C. (2009). Holding in mind conflicting information: Pretending, working memory, and executive control. Journal of Cognition and Development, 9, 390-410. doi: 10.1080/15248370802678240",
+        "title":"Holding in mind conflicting information: Pretending, working memory, and executive control.",
+        "author":[
+            {"family":"Albertson", "given":"K"},
+            {"family":"Shore", "given":"C"}
+        ],
+        "issued":2009,
+        "container_title":"Journal of Cognition and Development",
+        "volume":9,
+        "page":"390-410",
+        "DOI":"10.1080/15248370802678240"
+    },
+    {
+        "style":"apa",
+        "type":"article-journal",
+        "raw":"Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? Journal of Educational Psychology, 103, 1-18. doi: 10.1037/a0021017",
+        "title":"Does discovery-based instruction enhance learning?",
+        "author":[
+            {"family":"Alfieri", "given":"L"},
+            {"family":"Brooks", "given":"P J"},
+            {"family":"Aldrich", "given":"N J"},
+            {"family":"Tenenbaum", "given":"H R"}
+        ],
+        "issued":2011,
+        "container_title":"Journal of Educational Psychology",
+        "volume":103,
+        "page":"1-18",
+        "DOI":"10.1037/a0021017"
     }
 ]
