@@ -1,6 +1,7 @@
 import json
 import glob
 import unittest
+import random
 import networkx as nx
 import matplotlib.pyplot as plt
 
@@ -10,6 +11,7 @@ from Citation import Citation
 class CitationTest(unittest.TestCase):
     pass
 
+
 # returns a dynamic test function for comparing two dictionaries
 def test_generator(a, b):
     def test(self):
@@ -17,6 +19,7 @@ def test_generator(a, b):
         self.assertDictEqual(a, b)
 
     return test
+
 
 # return dictionary less the key/values we don't want to test
 def clean(d):
@@ -49,17 +52,25 @@ if __name__ == '__main__':
 
     # networkx testing cont'd
     # print(MockDB.keys())
-    # create graph
-    g = nx.Graph()
+    # create a digraph
+    graph = nx.DiGraph()
     # add nodes
+    counter = 0
+    # maintain array of 'articles'
+    nodes = [None] * 10
     for article in MockDB:
-        g.add_node(MockDB[article]['issued'])
-    # add edges
+        # add the article to the graph and array
+        graph.add_node(MockDB[article]['issued'])
+        nodes[counter] = MockDB[article]['issued']
+        if counter != 0:
+            # if it is not the first article, reference a random number of other articles
+            references = int(random.randrange(0, counter))
+            for num in range(0, references):
+                graph.add_edge(nodes[num], MockDB[article]['issued'])
+        counter += 1
     # draw graph
-    pos = nx.shell_layout(g)
-    nx.draw(g, pos)
+    pos = nx.shell_layout(graph)
+    nx.draw(graph, pos)
     # show graph
     plt.show()
-
-
     unittest.main()
