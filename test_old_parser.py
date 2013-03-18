@@ -4,7 +4,7 @@ import unittest
 import networkx as nx
 import matplotlib.pyplot as plt
 
-from Citation import Citation
+import citation
 
 unneeded_tags = ['raw', 'type', 'style', 'post', 'page', 'volume', 'DOI',
                  'references', 'UID']
@@ -16,13 +16,15 @@ def create_tests():
     for name in glob.glob("tests/*.json"):
         with open(name) as f:
             citations = json.load(f)
-        for citation in citations:
-            test_name = 'test in {} - {}'.format(name, citation['raw'])
-            a = Citation.parse(citation['raw'])
-            b = Citation(**citation)
+        for cit in citations:
+            test_name = 'test in {} - {}'.format(name, cit['raw'])
+            a = citation.parse(cit['raw'])
+            b = cit
             for k in unneeded_tags:
-                del a[k]
-                del b[k]
+                if k in a:
+                    del a[k]
+                if k in b:
+                    del b[k]
             def test(self):
                 assert a == b
             setattr(CheckCitation, test_name, test)

@@ -2,7 +2,7 @@
 
 from parse import parser
 
-class WhenParsingSample:
+class WhenParsingSingleEntry:
     def setup_method(self, method):
         text = u"""
         1. Marois R, Ivanoff J (2005) Capacity limits of information processing
@@ -32,6 +32,24 @@ class WhenParsingSample:
 
     def should_have_doi(self):
         assert self.result.doi == '10.1016/j.tics.2005.04.010'
+
+class WhenParsingManyEnties:
+    def setup_method(self, method):
+        text = u"""
+        1. Marois R, Ivanoff J (2005) Capacity limits of information processing
+        in the brain. Trends Cogn Sci 9: 296–305. doi:
+        10.1016/j.tics.2005.04.010. Find this article online
+
+        1. Marois R, Ivanoff J (2005) Capacity limits of information processing
+        in the brain. Trends Cogn Sci 9: 296–305. doi:
+        10.1016/j.tics.2005.04.010. Find this article online
+        """
+        parsed = parser(text)
+        self.result = parsed.lines()
+
+    def should_gives_multiple_results(self):
+        assert len(self.result) == 2
+
 
 class CheckParseWords:
     def should_normalize_whitespace(self):

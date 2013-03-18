@@ -1,4 +1,4 @@
-lines = garbage line+ garbage
+lines = line+
 line = ws refnumber:ref
        ws names:name
        ws '(' year:year ')'
@@ -7,7 +7,7 @@ line = ws refnumber:ref
        ws edition:edition ':'
        ws pages:pages '.'
        ws 'doi:' ws doi:doi
-       ws anything+
+       anything*
        -> Reference(ref, name, year, title, journal, edition, pages, doi[:-1])
 refnumber = <digit+>:n '.' -> n
 year = <digit+>
