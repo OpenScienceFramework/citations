@@ -1,0 +1,209 @@
+1.
+              Cambray G, Guerout AM, Mazel D (2010) Integrons. In: Campbell A, Lichten M, Schupbach G, editors. Annu Rev Genet: Annual Reviews. 141166. 
+2.
+              Labbate M, Case RJ, Stokes HW (2009) The integron/gene cassette system: an active player in bacterial adaptation. Methods Mol Biol 532: 103125. 
+                      Find this article online
+                    
+3.
+              Nield BS, Holmes AJ, Gillings MR, Recchia GD, Mabbutt BC, et al. (2001) Recovery of new integron classes from environmental DNA. FEMS Microbiol Lett 195: 5965. 
+                      Find this article online
+                    
+4.
+              Partridge SR (2011) Analysis of antibiotic resistance regions in Gram-negative bacteria. FEMS Microbiol Rev 35: 820855.
+        doi:
+        10.1111/j.1574-6976.2011.00277.x.
+       
+                      Find this article online
+                    
+5.
+              Boucher Y, Labbate M, Koenig JE, Stokes HW (2007) Integrons: mobilizable platforms that promote genetic diversity in bacteria. Trends Microbiol 15: 301309.
+        doi:
+        10.1016/j.tim.2007.05.004.
+       
+                      Find this article online
+                    
+6.
+              Thompson LF, Iida T, Swings J (2004) Biodiversity of Vibrios. Microbiol Mol Biol Rev 68: 403431.
+        doi:
+        10.1128/MMBR.68.3.403-431.2004.
+       
+                      Find this article online
+                    
+7.
+              Hazen TH, Pan L, Gu JD, Sobecky PA (2010) The contribution of mobile genetic elements to the evolution and ecology of Vibrios. FEMS Microbiol Ecol 74: 485499.
+        doi:
+        10.1111/j.1574-6941.2010.00937.x.
+       
+                      Find this article online
+                    
+8.
+              Guerin E, Cambray G, Sanchez-Alberola N, Campoy S, Erill I, et al. (2009) The SOS response controls integron recombination. Science 324: 10341034.
+        doi:
+        10.1126/science.1172914.
+       
+                      Find this article online
+                    
+9.
+              Michael C, Labbate M (2010) Gene cassette transcription in a large integron-associated array. BMC Genet 11: 82.
+        doi:
+        10.1186/1471-2156-11-82.
+       
+                      Find this article online
+                    
+10.
+              Barker A, Clark CA (1994) Identification of VCR, a repeated sequence associated with a locus encoding a hemagglutinin in Vibrio cholerae O1. J Bacteriol 176: 54505458. 
+                      Find this article online
+                    
+11.
+              Barker A, Manning PA (1997) VlpA of Vibrio cholerae O1: the first bacterial member of the alpha 2-microglobulin lipocalin superfamily. Microbiology 143: 18051813. 
+                      Find this article online
+                    
+12.
+              Deshpande CN, Harrop SJ, Boucher Y, Hassan KA, Di Leo R, et al.. (2011) Crystal structure of an integron gene cassette-associated protein from Vibrio cholerae identifies a cationic drug-binding module. PLoS ONE 6. 
+13.
+              Franzon VL, Barker A, Manning P (1993) Nucleotide sequence encoding the mannose-fucose-resistant hemagglutinin of Vibrio cholerae O1 and contstruction of a mutant. Infect Immun 61: 30323037. 
+                      Find this article online
+                    
+14.
+              Ogawa A (1993) Takeda,T (1993) The gene encoding the heat-stable enterotoxin of Vibrio cholerae is flanked by 123-bp direct repeats. Microbiol and Immunol 37: 607616. 
+                      Find this article online
+                    
+15.
+              Labbate M, Boucher Y, Roy Chowdhury P, Stokes H (2011) Integration of a laterally acquired gene into a cell network important for growth in a strain of Vibrio rotiferianus. BMC Microbiol 11: 253. 
+                      Find this article online
+                    
+16.
+              Labbate M, Boucher Y, Joss MJ, Michael CA, Gillings MR, et al. (2007) Use of chromosomal integron arrays as a phylogenetic typing system for Vibrio cholerae pandemic strains. Microbiology 153: 14881498. 
+                      Find this article online
+                    
+17.
+              Yu NY, Wagner JR, Laird MR, Melli G, Rey S, et al. (2010) PSORTb 3.0: Improved protein subcellular localization prediction with refined localization subcategories and predictive capabilities for all prokaryotes. Bioinformatics 26: 16081615.
+        doi:
+        10.1093/bioinformatics/btq249.
+       
+                      Find this article online
+                    
+18.
+              Heppelmann CJ, Benson LM, Bergen HR (2007) A simple method to remove contaminating salt from IPG strips prior to IEF. Electrophoresis 28: 39883991.
+        doi:
+        10.1002/elps.200700252.
+       
+                      Find this article online
+                    
+19.
+              Shaw MM, Riederer BM (2003) Sample preparation for two-dimensional gel electrophoresis. Proteomics 3: 14081417.
+        doi:
+        10.1002/pmic.200300471.
+       
+                      Find this article online
+                    
+20.
+              Chen Y, Dai J, Morris JG, Jr., Johnson JA (2010) Genetic analysis of the capsule polysaccharide (K antigen) and exopolysaccharide genes in pandemic Vibrio parahaemolyticus O3: K6. BMC Microbiol 10. 
+21.
+              Joseph LA, Wright AC (2004) Expression of Vibrio vulnificus capsular polysaccharide inhibits biofilm formation. J Bacteriol 186: 889893. 
+                      Find this article online
+                    
+22.
+              Poutrel B, Gilbert FB, Lebrun M (1995) Effects of culture conditions on production of Type-5 capsular polysaccharide by human and bovine Staphylococcus aureus strains. Clin Diagn Lab Immun 2: 166171. 
+                      Find this article online
+                    
+23.
+              Hall RM (1997) Mobile gene cassettes and integrons: Moving antibiotic resistance genes in Gram-negative bacteria. In: Chadwick DJGJ, editor. Antibiotic Resistance: Origins, Evolution, Selection and Spread. 192202. 
+24.
+              Partridge SR, Tsafnat G, Coiera E, Iredell JR (2009) Gene cassettes and cassette arrays in mobile resistance integrons. FEMS Microbiol Rev 33: 757784.
+        doi:
+        10.1111/j.1574-6976.2009.00175.x.
+       
+                      Find this article online
+                    
+25.
+              Gillings M, Holley Marita, Stokes HW, Holmes Andrew (2005) Integrons in Xanthomonas: A source of species genome diversity. PNAS 102: 44194424. 
+                      Find this article online
+                    
+26.
+              Koenig JE, Boucher Y, Charlebois RL, Nesbo C, Zhaxybayeva O, et al. (2008) Integron-associated gene cassettes in Halifax Harbour: assessment of a mobile gene pool in marine sediments. Environ Microbiol 10: 10241038.
+        doi:
+        10.1111/j.1462-2920.2007.01524.x.
+       
+                      Find this article online
+                    
+27.
+              Michael CA, Gillings MR, Holmes AJ, Hughes L, Andrew NR, et al. (2004) Mobile gene cassettes: A fundamental resource for bacterial evolution. Am Nat 164: 112.
+        doi:
+        10.1086/421733.
+       
+                      Find this article online
+                    
+28.
+              Nield BS, Willows RD, Torda AE, Gillings MR, Holmes AJ, Nevalainen KM, H Stokes, H.W Mabbutt (2004) B.C (2004) New enzymes from environmental cassette arrays: Functional attributes of a phosphotransferase and an RNA-methyltransferase. Protein Sci 13: 16511659.
+        doi:
+        10.1110/ps.04638704.
+       
+                      Find this article online
+                    
+29.
+              Robinson A, Guilfoyle AP, Sureshan V, Howell M, Harrop SJ, et al. (2008) Structural genomics of the bacterial mobile metagenome: an overview. Methods Mol Biol (Clifton, NJ) 426: 589595. 
+                      Find this article online
+                    
+30.
+              Robinson A, Wu PSC, Harrop SJ, Schaeffer PM, Dosztnyi Z, et al. (2005) Integron-associated mobile gene cassettes code for folded proteins: the structure of Bal32a, a new member of the adaptable [alpha]+[beta] barrel family. J Mol Biol 346: 12291241.
+        doi:
+        10.1016/j.jmb.2004.12.035.
+       
+                      Find this article online
+                    
+31.
+              Labbate M, Boucher Y, Luu I, Roy Chowdhury P, Stokes HW (2012) Integron associated mobile genes: Just a collection of plug in apps or essential components of cell network hardware? Mob Genet Elem In Press. 
+32.
+              Post DMB, Yu L, Krasity BC, Choudhury B, Mandel MJ, et al.. (2012) The O-antigen and core carbohydrate of Vibrio fischeri lipopolysaccharide: Composition and analysis of their role in Euprymna scolopes light organ colonization. J Biol Chem. 
+33.
+              Labrie SJ, Samson JE, Moineau S (2010) Bacteriophage resistance mechanisms. Nature Rev Microbiol 8: 317327.
+        doi:
+        10.1038/nrmicro2315.
+       
+                      Find this article online
+                    
+34.
+              Fong JCN, Syed KA, Klose KE, Yildiz FH (2010) Role of Vibrio polysaccharide (vps) genes in VPS production, biofilm formation and Vibrio cholerae pathogenesis. Microbiology 156: 27572769. 
+                      Find this article online
+                    
+35.
+              Smith AB, Siebeling RJ (2003) Identification of genetic loci required for capsular expression in Vibrio vulnificus. Infect Immun 71: 10911097. 
+                      Find this article online
+                    
+36.
+              Paludan-Mller C, Weichart D, McDougald D, Kjelleberg S (1996) Analysis of starvation conditions that allow for prolonged culturability of Vibrio vulnificus at low temperature. Microbiology 142: 16751684. 
+                      Find this article online
+                    
+37.
+              Boucher Y, Stokes.W.H. (2006) The roles of lateral gene transfer and vertical descent in Vibrio evolution. In: Fabiano Lopes Thompson BA, J. G Swings, editor. The Biology of Vibrios. 
+38.
+              Chowdhury PR, Boucher Y, Hassan KA, Paulsen IT, Stokes HW, et al. (2011) Genome Sequence of Vibrio rotiferianus Strain DAT722. J Bacteriol 193: 33813382.
+        doi:
+        10.1128/JB.05089-11.
+       
+                      Find this article online
+                    
+39.
+              Donnenberg MS, Kaper JB (1991) Construction of an eae deletion mutant of enteropathogenic Escherichia coli by using a positive-selection suicide vector. Infect Immun 59: 43104317. 
+                      Find this article online
+                    
+40.
+              Jobbins SE, Hill CJ, D'Souza-Basseal JM, Padula MP, Herbert BR, et al. (2010) Immunoproteomic Approach to Elucidating the Pathogenesis of Cryptococcosis Caused by Cryptococcus gattii. J Proteome Res 9: 38323841. 
+                      Find this article online
+                    
+41.
+              Aziz RK, Bartels D, Best AA, DeJongh M, Disz T, et al. (2008) The RAST server: Rapid annotations using subsystems technology. BMC Genomics 9: 15.
+        doi:
+        10.1186/1471-2164-9-75.
+       
+                      Find this article online
+                    
+42.
+              Apicella MA (2008) Isolation and characterization of lipopolysaccharides. Methods Mol Biol (Clifton, NJ) 431: 313. 
+                      Find this article online
+                    
+43.
+              Boucher Y, Nesbo C, Joss M, Robinson A, Mabbutt B, et al. (2006) Recovery and evolutionary analysis of complete integron gene cassette arrays from Vibrio. BMC Evol Biol 6: 3. 
+                      Find this article online
+                    

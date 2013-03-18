@@ -1,0 +1,238 @@
+1.
+              Zhu G, Golding GB, Dean AM (2005) The selective cause of an ancient adaptation. Science 307: 12791282.
+        doi:
+        10.1126/science.1106974.
+       
+                      Find this article online
+                    
+2.
+              Inoue H, Tamura T, Ehara N, Nishito A, Nakayama Y, et al. (2002) Biochemical and molecular characterization of the NAD+-dependent isocitrate dehydrogenase from the chemolithotroph Acidithiobacillus thiooxidans. FEMS Microbiol Lett 214: 127132. 
+                      Find this article online
+                    
+3.
+              Aoshima M, Ishii M, Igarashi Y (2004) A novel biotin protein required for reductive carboxylation of 2-oxoglutarate by isocitrate dehydrogenase in Hydrogenobacter thermophilus TK-6. Mol. Microbiol 51: 791798. 
+                      Find this article online
+                    
+4.
+              Stokke R, Madern D, Fedy AE, Karlsen S, Birkeland NK, et al. (2007) Biochemical characterization of isocitrate dehydrogenase from Methylococcus capsulatus reveals a unique NAD-dependent homotetrameric enzyme. Arch Microbiol 187: 361370. 
+                      Find this article online
+                    
+5.
+              Steen IH, Madern D, Karlstrm M, Lien T, Ladenstein R, et al. (2001) Comparison of isocitrate dehydrogenase from three hyperthermophiles reveals differences in thermostability, cofactor specificity, oligomeric state, and phylogenetic affiliation. J Biol Chem 276: 4392443931.
+        doi:
+        10.1074/jbc.M105999200.
+       
+                      Find this article online
+                    
+6.
+              Wang P, Jin MM, Su RR, Song P, Wang M, et al. (2011) Enzymatic characterization of isocitrate dehydrogenase from an emerging zoonotic pathogen Streptococcus suis. Biochimie 93: 14701475. 
+                      Find this article online
+                    
+7.
+              Wang P, Jin MM, Zhu GP (2012) Biochemical and molecular characterization of NAD+-dependent isocitrate dehydrogenase from the ethanologenic bacterium Zymomonas mobilis. FEMS Microbiol Lett 327: 134141. 
+                      Find this article online
+                    
+8.
+              Imada K, Tamura T, Takenaka R, Kobayashi I, Namba K, et al. (2008) Structure and quantum chemical analysis of NAD+-dependent isocitrate dehydrogenase: Hydride transfer and co-factor specificity. Proteins: Struct Funct Bioinf 70: 6371. 
+                      Find this article online
+                    
+9.
+              Taylor AB, Hu G, Hart PJ, McAlister-Henn L (2008) Allosteric motions in structures of yeast NAD+-specific isocitrate dehydrogenase. J Biol Chem 283: 1087210880. 
+                      Find this article online
+                    
+10.
+              Ceccarelli C, Grodsky NB, Ariyaratne N, Colman RF, Bahnson BJ (2002) Crystal structure of porcine mitochondrial NADP+-dependent isocitrate dehydrogenase complexed with Mn2+ and isocitrate. Insights into the enzyme mechanism. J Biol Chem 277: 4345443462. 
+                      Find this article online
+                    
+11.
+              Xu X, Zhao J, Xu Z, Peng B, Huang Q, et al. (2004) Structures of human cytosolic NADP-dependent isocitrate dehydrogenase reveal a novel self-regulatory mechanism of activity. J Biol Chem 279: 3394633957.
+        doi:
+        10.1074/jbc.M404298200.
+       
+                      Find this article online
+                    
+12.
+              Jo SH, Son MK, Koh HJ, Lee SM, Song IH, et al. (2001) Control of mitochondrial redox balance and cellular defense against oxidative damage by mitochondrial NADP+-dependent isocitrate dehydrogenase. J Biol Chem 276: 1616816176. 
+                      Find this article online
+                    
+13.
+              Kim SY, Park JW (2003) Cellular defense against singlet oxygen-induced oxidative damage by cytosolic NADP+-dependent isocitrate dehydrogenase. Free Radic Res 37: 309316. 
+                      Find this article online
+                    
+14.
+              Kim HJ, Kang BS, Park JW (2005) Cellular defense against heat shock-induced oxidative damage by mitochondrial NADP+-dependent isocitrate dehydrogenase. Free Radic Res 39: 441448. 
+                      Find this article online
+                    
+15.
+              Lee SM, Koh HJ, Park DC, Song BJ, Huh TL, et al. (2002) Cytosolic NADP+-dependent isocitrate dehydrogenase status modulates oxidative damage to cells. Free Radic Biol Med 32: 11851196. 
+                      Find this article online
+                    
+16.
+              Yan H, Parsons DW, Jin G, McLendon R, Rasheed BA, et al. (2009) IDH1 and IDH2 mutations in gliomas. N Engl J Med 360: 765773. 
+                      Find this article online
+                    
+17.
+              Gross S, Cairns RA, Minden MD, Driggers EM, Bittinger MA, et al. (2009) Cancer-associated metabolite 2-hydroxyglutarate accumulates in acute myelogenous leukemia with isocitrate dehydrogenase 1 and 2 mutations. J Exp Med 207: 339344.
+        doi:
+        10.1084/jem.20092506.
+       
+                      Find this article online
+                    
+18.
+              Krell D, Assoku M, Galloway M, Mulholland P, Tomlinson I, et al. (2011) Screen for IDH1, IDH2, IDH3, D2HGDH and L2HGDH mutations in glioblastoma. PLoS ONE 6(5): e19868. 
+                      Find this article online
+                    
+19.
+              Dang L, White DW, Gross S, Bennett BD, Bittinger MA, et al. (2009) Cancer-associated IDH1 mutations produce 2-hydroxyglutarate. Nature 462: 739744. 
+                      Find this article online
+                    
+20.
+              Jin G, Reitman ZJ, Spasojevic I, Batinic-Haberle I, Yang J, et al. (2011) 2-hydroxyglutarate production, but not dominant negative function, is conferred by glioma-derived NADP+-dependent isocitrate dehydrogenase mutations. PLoS ONE 6(2): e16812. 
+                      Find this article online
+                    
+21.
+              LaPorte DC (1993) The isocitrate dehydrogenase phosphorylation cycle: regulation and enzymology. J Cell Biochem 51: 1418.
+        doi:
+        10.1002/jcb.240510104.
+       
+                      Find this article online
+                    
+22.
+              Hurley JH, Dean AM, Sohl JL, Koshland DE, Stroud RM (1990) Regulation of an enzyme by phosphorylation at the active site. Science 249: 10121016.
+        doi:
+        10.1126/science.2204109.
+       
+                      Find this article online
+                    
+23.
+              Dean AM, Lee MH, Koshland DE (1989) Phosphorylation inactivates Escherichia coli isocitrate dehydrogenase by preventing isocitrate binding. J Biol Chem 264: 2048220486. 
+                      Find this article online
+                    
+24.
+              Thorsness PE, Koshland DE (1987) Inactivation of isocitrate dehydrogenase by phosphorylation is mediated by the negative charge of the phosphate. J Biol Chem 262: 1042210425. 
+                      Find this article online
+                    
+25.
+              Dean AM, Koshland DE (1990) Electrostatic and steric contributions to regulation at the active site of isocitrate dehydrogenase. Science 249: 10441046.
+        doi:
+        10.1126/science.2204110.
+       
+                      Find this article online
+                    
+26.
+              Singh SK, Matsuno K, LaPorte DC, Banaszak LJ (2001) Crystal structure of Bacillus subtilis isocitrate dehydrogenase at 1.55 . Insights into the nature of substrate specificity exhibited by Escherichia coli isocitrate dehydrogenase kinase/phosphatase. J Biol Chem 276: 2615426163. 
+                      Find this article online
+                    
+27.
+              Singh SK, Miller SP, Dean A, Banaszak LJ, LaPorte DC (2002) Bacillus subtilis isocitrate dehydrogenase. A substrate analogue for Escherichia coli isocitrate dehydrogenase kinase/phosphatase. J Biol Chem 277: 75677573. 
+                      Find this article online
+                    
+28.
+              Peng Y, Zhong C, Huang W, Ding J (2008) Structural studies of Saccharomyces cerevesiae mitochondrial NADP-dependent isocitrate dehydrogenase in different enzymatic states reveal substantial conformational changes during the catalytic reaction. Protein Sci 17: 15421554. 
+                      Find this article online
+                    
+29.
+              Chang F, Lemmon C, Lietha D, Eck M, Romer L (2011) Tyrosine phosphorylation of Rac1: a role in regulation of cell spreading. PLoS ONE 6(12): e28587.
+        doi:
+        10.1371/journal.pone.0028587.
+       
+                      Find this article online
+                    
+30.
+              Zaremba-Czogalla M, Piekarowicz K, Wachowicz K, Kozio K, Dubiska-Magiera M, et al. (2012) The different function of single phosphorylation sites of Drosophila melanogaster lamin Dm and lamin C. PLoS ONE. 7(2): e32649. 
+                      Find this article online
+                    
+31.
+              Matsuno K, Blais T, Serio AW, Conway T, Henkin TM, et al. (1999) Metabolic imbalance and sporulation in an isocitrate dehydrogenase mutant of Bacillus subtilis. J Bacteriol 181: 33823391. 
+                      Find this article online
+                    
+32.
+              Pace CN, Vajdos F, Fee L, Grimsley G, Gray T (1995) How to measure and predict the molar absorption coefficient of a protein. Protein Sci 4: 24112423.
+        doi:
+        10.1002/pro.5560041120.
+       
+                      Find this article online
+                    
+33.
+              Cvitkovitch DG, Gutierrez JA, Bleiweis AS (1997) Role of the citrate pathway in glutamate biosynthesis by Streptococcus mutans. J Bacteriol 179: 650655. 
+                      Find this article online
+                    
+34.
+              Grodsky NB, Soundar S, Colman RF (2000) Evaluation by site-directed mutagenesis of aspartic acid residues in the metal site of pig heart NADP-dependent isocitrate dehydrogenase. Biochemistry 39: 21932200. 
+                      Find this article online
+                    
+35.
+              Larkin MA, Blackshields G, Brown NP, Chenna R, McGettigan PA, et al. (2007) Clustal W and Clustal X version 2.0. Bioinformatics 23: 29472948.
+        doi:
+        10.1093/bioinformatics/btm404.
+       
+                      Find this article online
+                    
+36.
+              Gouet P, Courcelle E, Stuart DI, Mtoz F (1999) ESPript: analysis of multiple sequence alignments in PostScript. Bioinformatics 15: 305308.
+        doi:
+        10.1093/bioinformatics/15.4.305.
+       
+                      Find this article online
+                    
+37.
+              Hurley JH, Dean AM, Koshland DE, Stroud RM (1991) Catalytic mechanism of NADP+-dependent isocitrate dehydrogenase: implications from the structures of magnesium-isocitrate and NADP+ complexes. Biochemistry 30: 86718678. 
+                      Find this article online
+                    
+38.
+              Aoshima M, Igarashi Y (2008) Nondecarboxylating and decarboxylating isocitrate dehydrogenases: oxalosuccinate reductase as an ancestral form of isocitrate dehydrogenase. J Bacteriol 190: 20502055.
+        doi:
+        10.1128/JB.01799-07.
+       
+                      Find this article online
+                    
+39.
+              Zhang B, Wang B, Wang P, Cao Z, Huang E, et al. (2009) Enzymatic characterization of a monomeric isocitrate dehydrogenase from Streptomyces lividans TK54. Biochimie 91: 14051410. 
+                      Find this article online
+                    
+40.
+              Yoon JJ, Hattori T, Shimada M (2003) Purification and characterization of NADP-linked isocitrate dehydrogenase from the copper-tolerant wood-rotting basidiomycete Fomitopsis palustris. Biosci Biotechnol Biochem 67: 114120. 
+                      Find this article online
+                    
+41.
+              Meixner-Monori B, Kubicek CP, Harrer W, Schreferl G, Rohr M (1986) NADP-specific isocitrate dehydrogenase from the citric acid-accumulating fungus Aspergillus niger. Biochem J 236: 549557. 
+                      Find this article online
+                    
+42.
+              Hurley JH, Chen R, Dean AM (1996) Determinants of cofactor specificity in isocitrate dehydrogenase: structure of an engineered NADP+NAD+ specificity reversal mutant. Biochemistry 35: 56705678. 
+                      Find this article online
+                    
+43.
+              Stoddard BL, Dean AM, Koshland DE (1993) Structure of isocitrate dehydrogenase with isocitrate, nicotinamide adenine dinucleotide phosphate, and calcium at 2.5- resolution: a pseudo-Michaelis ternary complex. Biochemistry 32: 93109316.
+        doi:
+        10.1021/bi00087a008.
+       
+                      Find this article online
+                    
+44.
+              Borthwick AC, Holms WH, Nimmo HG (1984) The phosphorylation of Escherichia coli isocitrate dehydrogenase in intact cells. Biochem J 222: 797804. 
+                      Find this article online
+                    
+45.
+              Walsh K, Koshland DE (1985) Branch point control by the phosphorylation state of isocitrate dehydrogenase. A quantitative examination of fluxes during a regulatory transition. J Biol Chem 260: 84308437. 
+                      Find this article online
+                    
+46.
+              McKee JS, Nimmo HG (1989) Evidence for an arginine residue at the coenzyme-binding site of Escherichia coli isocitrate dehydrogenase. Biochem J 261: 301304. 
+                      Find this article online
+                    
+47.
+              LaPorte DC, Walsh K, Koshland DE (1984) The branch point effect. Ultrasensitivity and subsensitivity to metabolic control. J Biol Chem 259: 1406814075. 
+                      Find this article online
+                    
+48.
+              Hurley JH, Thorsness PE, Ramalingam V, Helmers NH, Koshland DE, et al. (1989) Structure of a bacterial enzyme regulated by phosphorylation, isocitrate dehydrogenase. Proc Natl Acad Sci USA 86: 86358639.
+        doi:
+        10.1073/pnas.86.22.8635.
+       
+                      Find this article online
+                    
+49.
+              Chen R, Grobler JA, Hurley JH, Dean AM (1996) Second-site suppression of regulatory phosphorylation in Escherichia coli isocitrate dehydrogenase. Protein Sci 5: 287295. 
+                      Find this article online
+                    

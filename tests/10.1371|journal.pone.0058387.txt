@@ -1,0 +1,165 @@
+1.
+              Eisen JA (1998) Phylogenomics: improving functional predictions for uncharacterized genes by evolutionary analysis. Genome Res 8: 163167. 
+                      Find this article online
+                    
+2.
+              Philippe H, Delsuc F, Brinkmann H, Lartillot N (2005) Phylogenomics. Annu Rev Ecol Evol Syst 36: 541562. 
+                      Find this article online
+                    
+3.
+              Hyatt D, Chen GL, LoCascio PF, Land ML, Larimer FW, et al. (2010) Prodigal: prokaryotic gene recognition and translation initiation site identification. BMC Bioinformatics 11: 119. 
+                      Find this article online
+                    
+4.
+              Rho M, Tang H, Ye Y (2010) FragGeneScan: predicting genes in short and error-prone reads. Nucleic Acids Res 38: e191. 
+                      Find this article online
+                    
+5.
+              Bakke P, Carney N, DeLoache W, Gearing M, Ingvorsen K, et al. (2009) Evaluation of three automated genome annotations for Halorhabdus utahensis. PLoS One 4: e6291. 
+                      Find this article online
+                    
+6.
+              Kislyuk A, Lomsadze A, Lapidus AL, Borodovsky M (2009) Frameshift detection in prokaryotic genomic sequences. Int J Bioinformatics Res Appl 5: 458477. 
+                      Find this article online
+                    
+7.
+              Hoff KJ (2009) The effect of sequencing errors on metagenomic gene prediction. BMC Genomics 10: 520. 
+                      Find this article online
+                    
+8.
+              Klassen JL, Currie CR (2012) Gene fragmentation in bacterial draft genomes: extent, consequences and mitigation. BMC Genomics 13: 14. 
+                      Find this article online
+                    
+9.
+              Hu GQ, Guo JT, Liu YC, Zhu H (2009) MetaTISA: metagenomic translation initiation site annotator for improving gene start prediction. Bioinformatics 25: 18431845. 
+                      Find this article online
+                    
+10.
+              Salzberg SL, Phillippy AM, Zimin A, Puiu D, Magoc T, et al. (2012) GAGE: a critical evaluation of genome assemblies and assembly algorithms. Genome Res 22: 557567. 
+                      Find this article online
+                    
+11.
+              Earl D, Bradnam K, St. John J, Darling A, Lin D, et al. (2011) Assemblathon 1: a competitive assessment of de novo short read assembly methods. Genome Res 21: 22242241. 
+                      Find this article online
+                    
+12.
+              Skovgaard M, Jensen LJ, Brunak S, Ussery D, Krogh A (2001) On the total number of genes and their length distribution in complete microbial genomes. Trends Genet 17: 425428. 
+                      Find this article online
+                    
+13.
+              Yu JF, Xiao K, Jiang DK, Guo J, Wang JH, et al. (2011) An integrative method for identifying the over-annotated protein-coding genes in microbial genomes. DNA Res 18: 435449.
+        doi:
+        10.1093/dnares/dsr030.
+       
+                      Find this article online
+                    
+14.
+              Hu GQ, Zheng X, Zhu HQ, She ZS (2009) Prediction of translation initiation site for microbial genomes with TriTISA. Bioinformatics 25: 123125. 
+                      Find this article online
+                    
+15.
+              Nielsen P, Krogh A (2005) Large-scale prokaryotic gene prediction and comparison to genome annotation. Bioinformatics 21: 43224329. 
+                      Find this article online
+                    
+16.
+              Hu GQ, Zheng X, Ju LN, Zhu H, She ZS (2008) Computational evaluation of TIS annotation for prokaryotic genomes. BMC Bioinformatics 9: 160. 
+                      Find this article online
+                    
+17.
+              Starmer J, Stomp A, Vouk M, Bitzer D (2006) Predicting Shine-Dalgarno sequence locations exposes genome annotation errors. PLoS Comput Biol 2: e57. 
+                      Find this article online
+                    
+18.
+              Dunbar J, Cohn JD, Wall ME (2011) Consistency of gene starts among Burkholderia genomes. BMC Genomics 12: 125. 
+                      Find this article online
+                    
+19.
+              Vallenet D, Engelen S, Mornico D, Cruveiller S, Fleury L, et al.. (2009) MicroScope: a platform for microbial genome annotation and comparative genomics. Database: bap021. 
+20.
+              Kislyuk AO, Katz LS, Agrawal S, Hagen MS, Conley AB, et al. (2010) A computational genomics pipeline for prokaryotic sequencing projects. Bioinformatics 26: 18191826. 
+                      Find this article online
+                    
+21.
+              Pati A, Ivanova N, Mikhailova N, Ovchinnikova G, Hooper SD, et al. (2010) GenePRIMP: a gene prediction improvement pipeline for prokaryotic genomes. Nat Meth 7: 455457. 
+                      Find this article online
+                    
+22.
+              Wall ME, Raghavan S, Cohn JD, Dunbar J (2011) Genome majority vote improves gene predictions. PLoS Comput Biol 7: e1002284. 
+                      Find this article online
+                    
+23.
+              Pallej A, Harrington ED, Bork P (2008) Large gene overlaps in prokaryotic genomes: result of functional constraints or mispredictions? BMC Genomics 9: 335. 
+                      Find this article online
+                    
+24.
+              Camacho C, Coulouris G, Avagyan V, Ma N, Papadopoulos J, et al. (2009) BLAST+: architecture and applications. BMC Bioinformatics 10: 421.
+        doi:
+        10.1186/1471-2105-10-421.
+       
+                      Find this article online
+                    
+25.
+              Ciccarelli FD, Doerks T, von Mering C, Creevey CJ, Snel B, et al. (2006) Toward automatic reconstruction of a highly resolved tree of life. Science 311: 12831287. 
+                      Find this article online
+                    
+26.
+              Marchler-Bauer A, Anderson JB, Derbyshire MK, DeWeese-Scott C, Gonzales NR, et al. (2007) CDD: a conserved domain database for interactive domain family analysis. Nucleic Acids Res 35: D237D240. 
+                      Find this article online
+                    
+27.
+              Edgar RC (2004) MUSCLE: multiple sequence alignment with high accuracy and high throughput. Nucleic Acids Res 32: 17921797. 
+                      Find this article online
+                    
+28.
+              Eddy SR (2011) Accelerated profile HMM searches. PLoS Comput Biol 7: e1002195.
+        doi:
+        10.1371/journal.pcbi.1002195.
+       
+                      Find this article online
+                    
+29.
+              Moran NA, McCutcheon JP, Nakabachi A (2008) Genomics and evolution of heritable bacterial symbionts. Annu Rev Genet 42: 165190. 
+                      Find this article online
+                    
+30.
+              Kristensen DM, Wolf YI, Mushegian AR, Koonin EV (2011) Computational methods for gene orthology inference. Brief Bioinform 12: 379391. 
+                      Find this article online
+                    
+31.
+              Fang G, Bhardwaj N, Robilotto R, Gerstein MB (2010) Getting started in gene orthology and functional analysis. PLoS Comput Biol 6: e1000703.
+        doi:
+        10.1371/journal.pcbi.1000703.
+       
+                      Find this article online
+                    
+32.
+              Rice P, Longden I, Bleasby A (2000) EMBOSS: the European Molecular Biology Open Software Suite. Trends Genet 16: 276277. 
+                      Find this article online
+                    
+33.
+              The Gene Ontology Consortium (2012) The Gene Ontology: enhancements for 2011. Nucleic Acids Res 40: D559D564. 
+                      Find this article online
+                    
+34.
+              Rodrguez-Ezpeleta N, Embley TM (2012) The SAR11 group of Alpha-Proteobacteria is not related to the origin of mitochondria. PLoS One 7: e30520. 
+                      Find this article online
+                    
+35.
+              Viklund J, Ettema TJG, Andersson SGE (2012) Independent genome reduction and phylogenetic reclassification of the oceanic SAR11 clade. Mol Biol Evol 29: 599615. 
+                      Find this article online
+                    
+36.
+              Lemmon AR, Brown JM, Stanger-Hall K, Lemmon EM (2009) The effect of ambiguous data on phylogenetic estimates obtained by maximum likelihood and bayesian inference. Syst Biol 58: 130145. 
+                      Find this article online
+                    
+37.
+              Wiens JJ, Tiu J (2012) Highly incomplete taxa can rescue phylogenetic analyses from the negative impacts of limited taxon sampling. PLoS One 7: e42925. 
+                      Find this article online
+                    
+38.
+              Wiens JJ (2006) Missing data and the design of phylogenetic analyses. J Biomed Inform 39: 3442.
+        doi:
+        10.1016/j.jbi.2005.04.001.
+       
+                      Find this article online
+                    

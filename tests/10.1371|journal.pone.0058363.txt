@@ -1,0 +1,346 @@
+1.
+              Liu L, Kakihara F, Kato M (2004) Characterization of six varieties of Cucumis melo L. based on morphological and physiological characters, including shelf-life of fruit. Euphytica 135: 305313. 
+                      Find this article online
+                    
+2.
+              Pech JC, Bouzayen M, Latch A (2008) Climacteric fruit ripening: ethylene-dependent and independent regulation of ripening pathways in melon fruit. Plant Sci 175: 114120. 
+                      Find this article online
+                    
+3.
+              Gonzalo MJ, Oliver M, Garcia-Mas J, Monfort A, Dolcet-Sanjuan R, et al. (2005) Simple-sequence repeat markers used in merging linkage maps of melon (Cucumis melo L.). Theor Appl Genet 110: 802811. 
+                      Find this article online
+                    
+4.
+              Deleu W, Esteras C, Roig C, Gonzlez-To M, Fernndez-Silva I, et al. (2009) A set of EST-SNPs for map saturation and cultivar identification in melon. BMC Plant Biol 9: 90. 
+                      Find this article online
+                    
+5.
+              Harel-Beja R, Tzuri G, Portnoy V, Lotan-Pompan M, Lev S, et al. (2010) A genetic map of melon highly enriched with fruit quality QTL and EST markers, including sugar and carotenoid metabolism genes. Theor Appl Genet 121: 511533. 
+                      Find this article online
+                    
+6.
+              van Leeuwen H, Monfort A, Zhang HB, Puigdomnech P (2003) Identification and characterization of a melon genomic region containing a resistance gene cluster from a constructed BAC library. Microlinearity between Cucumis melo and Arabidopsis thaliana. Plant Mol Biol 51: 703718. 
+                      Find this article online
+                    
+7.
+              Mascarell-Creus A, Caizares J, Vilarrasa-Blasi J, Mora-Garca S, Blanca J, et al. (2009) An oligo-based microarray offers novel transcriptomic approaches for the analysis of pathogen resistance and fruit quality traits in melon (Cucumis melo L.). BMC Genomics 10: 467. 
+                      Find this article online
+                    
+8.
+              Ophir R, Eshed R, Harel-Beja R, Tzuri G, Portnoy V, et al. (2010) High-throughput marker discovery in melon using a selfdesigned oligo microarray. BMC Genomics 11: 269. 
+                      Find this article online
+                    
+9.
+              Nieto C, Piron F, Dalmais M, Marco CF, Moriones E, et al. (2007) EcoTILLING for the identification of alleclic variants of melon eIF4E, a factor that controls virus susceptibility. BMC Plant Biol 7: 34. 
+                      Find this article online
+                    
+10.
+              Eduardo I, Arus P, Monforte AJ (2005) Development of a genomic library of near isogenic lines (NILs) in melon (Cucumis melo L.) from the exotic accession PI161375. Theor Appl Genet 112(1): 139148. 
+                      Find this article online
+                    
+11.
+              Portnoy V, Diber A, Pollock S, Karchi H, Lev S, et al. (2011) Use of non-normalized, non-amplified cDNA for 454-based RNA sequencing of fleshy melon fruit. Plant Gen 4: 3646.
+        doi:
+        10.3835/plantgenome2010.11.0026.
+       
+                      Find this article online
+                    
+12.
+              Clepet C, Joobeur T, Zheng Y, Jublot D, Huang M, et al. (2011) Analysis of expressed sequence tags generated from full-length enriched cDNA libraries of melon. BMC Genomics 12: 252.
+        doi:
+        10.1186/1471-2164-12-252.
+       
+                      Find this article online
+                    
+13.
+              Garcia-Mas J, Benjak A, Sanseverino W, Bourgeois M, Mir G, et al. (2012) The genome of melon (Cucumis melo L.). PNAS 109: 1187211877. 
+                      Find this article online
+                    
+14.
+              Ayub R, Guis M, Ben Amor M, Gillot L, Roustan JP, et al. (1996) Expression of ACC oxidase antisense gene inhibits ripening of cantaloupe melon fruits. Nat Biotechnol 14: 862866.
+        doi:
+        10.1038/nbt0796-862.
+       
+                      Find this article online
+                    
+15.
+              Guis M, Botondi R, Ben Amor M, Ayub R, Bouzayen M, et al. (1997) Ripening-associated biochemical traits of cantaloupe Charentais melons expressing an antisense ACC oxidase transgene. J Am Soc Hortic Sci 122: 748751. 
+                      Find this article online
+                    
+16.
+              Perin C, Gomez-Jimenez MC, Hagen L, Dogimont C, Pech JC, et al. (2002) Molecular and genetic characterization of a non-climacteric phenotype in melon reveals two loci conferring altered ethylene response in fruit. Plant Physiol 129: 300309.
+        doi:
+        10.1104/pp.010613.
+       
+                      Find this article online
+                    
+17.
+              Rasori A, Ruperti B, Bonghi C, Tonutti P, Ramina A (2002) Characterization of two putative ethylene receptor genes expressed during peach fruit development and abscission. J Exp Bot 53: 23332339. 
+                      Find this article online
+                    
+18.
+              Ruperti B, Cattivelli L, Pagni S, Ramina A (2002) Ethylene responsive genes are differentially regulated during abscission, organ senescence and wounding in peach (Prunus persica). J Exp Bot 53: 429437. 
+                      Find this article online
+                    
+19.
+              Nakano R, Ogura E, Kubo Y, Inaba A (2003) Ethylene biosynthesis in detached young persimmon fruit is initiated in calyx and modulated by water loss from the fruit. Plant Physiol 131: 276286.
+        doi:
+        10.1104/pp.010462.
+       
+                      Find this article online
+                    
+20.
+              Li J, Yuan R (2008) NAA and Ethylene regulate expression of genes related to ethylene biosynthesis, perception, and cell wall degradation during fruit abscission and ripening in delicious apples. J Plant Growth Regul 27: 283295.
+        doi:
+        10.1007/s00344-008-9055-6.
+       
+                      Find this article online
+                    
+21.
+              Jianguo L, Hong Z, Rongcai Y (2010) Profiling the expression of genes related to ethylene biosynthesis, ethylene perception, and cell wall degradation during fruit abscission and fruit ripening in apple. J Am Soc Hortic Sci 135: 391401. 
+                      Find this article online
+                    
+22.
+              Parra-Lobato MC, Gomez-Jimenez MC (2011) Polyamine-induced modulation of genes involved in ethylene biosynthesis and signalling pathways and nitric oxide production during olive mature fruit abscission. J Exp Bot 62: 44474465.
+        doi:
+        10.1093/jxb/err124.
+       
+                      Find this article online
+                    
+23.
+              Botton A, Eccher G, Forcato C, Ferrarini A, Begheldo M, et al.. (2011) Signaling pathways mediating the induction of apple fruitlet&nbsp;abscission. Plant Physiol&nbsp;155: 185208. 
+24.
+              Webster B (1975) Anatomical and histochemical modifications associated with abscission of Cucumis fruits. J Amer Soc Hort Sci 100 (2): 180184. 
+                      Find this article online
+                    
+25.
+              Meir S, Philosoph-Hadas S, Sundaresan S, Selvaraj KSV, Burd S, et al. (2010) Microarray analysis of the abscission-related transcriptome in the tomato flower abscission zone in response to auxin depletion. Plant Physiol 154: 19291956. 
+                      Find this article online
+                    
+26.
+              Gonzalez-Carranza ZH, Roberts JA (2012) Ethylene and cell separation processes. Annual Plant Reviews 44: 243273. 
+                      Find this article online
+                    
+27.
+              Agusti J, Merelo P, Cercos M, Tadeo FR, Taln M (2009) Comparative transcriptional survey between laser-microdissected cells from laminar abscission zone and petiolar cortical tissue during ethylene-promoted abscission in citrus leaves. BMC Plant Biol 9: 127.
+        doi:
+        10.1186/1471-2229-9-127.
+       
+                      Find this article online
+                    
+28.
+              Tucker ML, Burke A, Murphy CA, Thai VK, Ehrenfried ML (2007) Gene expression profiles for cell wall-modifying proteins associated with soybean cyst nematode infection, petiole abscission, root tips, flowers, apical buds, and leaves. J Exp Bot 58: 33953406.
+        doi:
+        10.1093/jxb/erm188.
+       
+                      Find this article online
+                    
+29.
+              Cai S, Lashbrook CC (2008) Stamen abscission zone transcriptome profiling reveals new candidates for abscission control: enhanced retention of floral organs in transgenic plants overexpressing Arabidopsis ZINC FINGER PROTEIN2. Plant Physiol 146: 13051321. 
+                      Find this article online
+                    
+30.
+              Singh AP, Tripathi SK, Nath P, Sane AP (2011) Petal abscission in rose is associated with the differential expression of two ethylene-responsive xyloglucan endotransglucosylase/hydrolase genes, RbXTH1 and RbXTH2. J Exp Bot 62: 50915103.
+        doi:
+        10.1093/jxb/err209.
+       
+                      Find this article online
+                    
+31.
+              Rose JK, Hadfield KA, Labavitch JM, Bennett AB (1998) Temporal sequence of cell wall disassembly in rapidly ripening melon fruit. Plant Physiol 117: 345361.
+        doi:
+        10.1104/pp.117.2.345.
+       
+                      Find this article online
+                    
+32.
+              Keuskamp DH, Sasidharan R, Vos I, Peeters AJ, Voesenek LA, et al. (2011) Blue-light-mediated shade avoidance requires combined auxin and brassinosteroid action in Arabidopsis seedlings. Plant J 67: 208217.
+        doi:
+        10.1111/j.1365-313X.2011.04597.x.
+       
+                      Find this article online
+                    
+33.
+              Ogawa M, Kay P, Wilson S, Swain SM (2009) ARABIDOPSIS DEHISCENCE ZONE POLYGALACTURONASE1 (ADPG1), ADPG2, and QUARTET2 are Polygalacturonases required for cell separation during reproductive development in Arabidopsis. Plant Cell 21: 216233.
+        doi:
+        10.1105/tpc.108.063768.
+       
+                      Find this article online
+                    
+34.
+              Zhu H, Dardick CD, Beers EP, Callanhan AM, Xia R, et al. (2011) Transcriptomics of shading-induced and NAA induced abscission in apple (Malus domestica) reveals a shared pathway involving reduced photosynthesis, alterations in carbohydrate transport and signaling and hormone crosstalk. BMC Plant Biol 11: 138. 
+                      Find this article online
+                    
+35.
+              Merkouropoulos G, Shirsat AH (2003) The unusual Arabidopsis extensin gene Atext1 is expressed throughout plant development and is induced by a variety of biotic and abiotic stresses. Planta 217: 356366.
+        doi:
+        10.1007/s00425-003-1002-y.
+       
+                      Find this article online
+                    
+36.
+              Farrar K, Evans IM, Topping JF, Souter MA, Nielsen JE, et al. (2003) EXORDIUM a gene expressed in proliferating cells and with a role in meristem function, identified by promoter trapping in Arabidopsis. Plant J 33: 6173.
+        doi:
+        10.1046/j.1365-313X.2003.01608.x.
+       
+                      Find this article online
+                    
+37.
+              Li P, Pei Y, Sang X, Ling Y, Yang Z, et al. (2009) Transgenic indica rice expressing a bitter melon (Momordica charantia) class I chitinase gene (McCHIT1) confers enhanced resistance to Magnaporthe grisea and Rhizoctonia solani. Eur J Plant Pathol 125: 533543. 
+                      Find this article online
+                    
+38.
+              Deneka M, Neeft M, van der Sluijs P (2003) Regulation of membrane transport by rab GTPases. Crit Rev Biochem Mol Biol 38: 121142.
+        doi:
+        10.1080/713609214.
+       
+                      Find this article online
+                    
+39.
+              Lycett G (2008) The role of Rab GTPases in cell wall metabolism. J Exp Bot 59: 40614074.
+        doi:
+        10.1093/jxb/ern255.
+       
+                      Find this article online
+                    
+40.
+              Leyman B, Geelen D, Blatt MR (2000) Localization and control of expression of Nt-Syr1, a tobacco SNARE protein. Plant J 24: 369381. 
+                      Find this article online
+                    
+41.
+              Liljegren SJ, Leslie ME, Darnielle L, Lewis MW, Taylor SM, et al.. (2009) Regulation of membrane trafficking and organ separation by the NEVERSHED ARF-GAP protein. Development&nbsp;136: 19091918. 
+42.
+              Haizel T, Merkle T, Pay A, Fejes E, Nagy F (1997) Characterization of proteins that interact with the GTP-bound form of the regulatory GTPase Ran in Arabidopsis. Plant J11: 93103.
+        doi:
+        10.1046/j.1365-313X.1997.11010093.x.
+       
+                      Find this article online
+                    
+43.
+              Wang X, Xu Y, Han Y, Bao S, Du J, et al. (2006) Overexpression of RAN1 in rice and Arabidopsis alters primordial meristem, mitotic progress, and sensitivity to auxin. Plant Physiol 140: 91101.
+        doi:
+        10.1104/pp.105.071670.
+       
+                      Find this article online
+                    
+44.
+              Zang A, Xu X, Neill S, Cai W (2010) Overexpression of OsRAN2 in rice and Arabidopsis renders transgenic plants hypersensitive to salinity and osmotic stress. J Exp Bot 61: 777789. 
+                      Find this article online
+                    
+45.
+              Yamaoka S, Leaver CJ (2008) EMB2473/MIRO1, an Arabidopsis Miro GTPase, is required for embryogenesis and influences mitochondrial morphology in pollen. Plant Cell 20: 589601.
+        doi:
+        10.1105/tpc.107.055756.
+       
+                      Find this article online
+                    
+46.
+              Burr CA, Leslie ME, Orlowski SK, Chen I, Wright CE, et al. (2011) CAST AWAY, a membrane-associated receptor-like kinase, inhibits organ abscission in Arabidopsis. Plant Physiol 156: 18371850.
+        doi:
+        10.1104/pp.111.175224.
+       
+                      Find this article online
+                    
+47.
+              Cho SK, Larue CT, Chevalier D, Wang H, Jinn TL, et al. (2008) Regulation of floral organ abscission in Arabidopsis thaliana. Proc Natl Acad Sci USA 105: 1562915634.
+        doi:
+        10.1073/pnas.0805539105.
+       
+                      Find this article online
+                    
+48.
+              Lewis MW, Leslie ME, Fulcher EH, Darnielle L, Healy PN, et al. (2010) The SERK1 receptor-like kinase regulates organ separation in Arabidopsis flowers. Plant J 62: 817828.
+        doi:
+        10.1111/j.1365-313X.2010.04194.x.
+       
+                      Find this article online
+                    
+49.
+              Gomez-Jimenez MC, Paredes MA, Gallardo M, Sanchez-Calle IM (2010) Mature fruit abscission is associated with up-regulation of polyamine metabolism in the olive abscission zone. J Plant Physiol 167: 14321441.
+        doi:
+        10.1016/j.jplph.2010.05.020.
+       
+                      Find this article online
+                    
+50.
+              Gil-Amado JA, Gomez-Jimenez MC (2012) Regulation of polyamine metabolism and biosynthetic gene expression during olive MFA. Planta 235: 12211237. 
+                      Find this article online
+                    
+51.
+              Gomez-Cadenas A, Mehouachi J, Tadeo FR, Primo-Millo E, Talon M (2000) Hormonal regulation of fruitlet abscission induced by carbohydrate shortage in citrus. Planta 210: 636643. 
+                      Find this article online
+                    
+52.
+              Kuromori T, Shinozaki K (2010) ABA transport factors found in Arabidopsis ABC transporters. Plant Signal Behav 5: 11241126.
+        doi:
+        10.4161/psb.5.9.12566.
+       
+                      Find this article online
+                    
+53.
+              Dal Cin V, Velasco R, Ramina A (2009) Dominance induction of fruitlet shedding in Malus 3 domestica (L. Borkh): molecular changes associated with polar auxin transport. BMC Plant Biol 9: 139152. 
+                      Find this article online
+                    
+54.
+              Vandenbussche F, Petrsek J, Zdnkov P, Hoyerov K, Pesek B, et al. (2010) The auxin influx carriers AUX1 and LAX3 are involved in auxin-ethylene interactions during apical hook development in Arabidopsis thaliana seedlings. Development 137: 597606.
+        doi:
+        10.1242/dev.040790.
+       
+                      Find this article online
+                    
+55.
+              Pattison R, Catal C (2012) Evaluating auxin distribution in tomato (Solanum lycopersicum) through an analysis of the PIN and AUX/LAX gene families. Plant J 70: 585598. 
+                      Find this article online
+                    
+56.
+              Pieterse CMJ, van Loon LCV (2004) NPR1: the spider in the web of induced resistance signaling pathways. Curr Opin Plant Biol 7: 456464.
+        doi:
+        10.1016/j.pbi.2004.05.006.
+       
+                      Find this article online
+                    
+57.
+              Gudesblat GE, Russinova E (2011) Plants grow on brassinosteroids. Curr Opin Plant Biol 14: 18. 
+                      Find this article online
+                    
+58.
+              Tang W, Yuan M, Wang R, Yang Y, Wang C, et al. (2011) PP2A activates brassinosteroid-responsive gene expression and plant growth by dephosphorylating BZR1. Nat Cell Biol 13: 124131.
+        doi:
+        10.1038/ncb2151.
+       
+                      Find this article online
+                    
+59.
+              Skottke KR, Yoon GM, Kieber JJ, DeLong A (2011) Protein Phosphatase 2A Controls ethylene biosynthesis by differentially regulating the turnover of acc synthase isoforms. PLoS Genetics 7: e1001370. 
+                      Find this article online
+                    
+60.
+              Mortazavi A, Williams BA, McCue K, Schaeffer L, Wold B (2008) Mapping and quantifying mammalian transcriptomes by RNA-Seq. Nat Methods 5(7): 621628.
+        doi:
+        10.1038/nmeth.1226.
+       
+                      Find this article online
+                    
+61.
+              Robinson MD, McCarthy DJ, Smyth GK (2010) edgeR: a Bioconductor package for differential expression analysis of digital gene expression data. Bioinformatics. 26(1): 13940. 
+                      Find this article online
+                    
+62.
+              Garber M, Grabherr MG, Guttman M, Trapnell C (2011) Computational methods for transcriptome annotation and quantification using RNA-seq. Nat Methods 8(6): 469477. 
+                      Find this article online
+                    
+63.
+              Vijay N, Poelstra JW, Knstner A, Wolf JB (2012) Challenges and strategies in transcriptome assembly and differential gene expression quantification. A comprehensive in silico assessment of RNA-seq experiments. Mol Ecol.doi:10.1111/mec.12014 
+64.
+              Gene Ontology Consortium (2010) Nucleic Acids Res. 38 (Database issue):D331335. 
+65.
+              EisenMB, Spellman PT, Brown PO, Botstein D (1998) Cluster analysis and display of genome-wide expression patterns. Proc Natl Acad Sci USA 95: 1486314868. 
+                      Find this article online
+                    
+66.
+              Thompson JD, Higgins DG, Gibson TJ (1994) CLUSTALW: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice. Nucleic Acids Res 22: 46734680.
+        doi:
+        10.1093/nar/22.22.4673.
+       
+                      Find this article online
+                    

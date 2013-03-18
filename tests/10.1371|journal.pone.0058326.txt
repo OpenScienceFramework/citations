@@ -1,0 +1,146 @@
+1.
+              Ghildiyal M, Zamore PD (2009) Small silencing RNAs: an expanding universe. Nat Rev Genet 10: 94108  doi:10.1038/nrg2504. . 
+2.
+              Kim VN, Han J, Siomi MC (2009) Biogenesis of small RNAs in animals. Nat Rev Mol Cell Biol 10: 126139  doi:10.1038/nrm2632. . 
+3.
+              Carthew RW, Sontheimer EJ (2009) Origins and Mechanisms of miRNAs and siRNAs. Cell 136: 642655  doi:10.1016/j.cell.2009.01.035. . 
+4.
+              Hutvagner G, Simard MJ (2008) Argonaute proteins: key players in RNA silencing. Nat Rev Mol Cell Biol 9: 2232  doi:10.1038/nrm2321. . 
+5.
+              Czech B, Hannon GJ (2011) Small RNA sorting: matchmaking for Argonautes. Nat Rev Genet 12: 1931  doi:10.1038/nrg2916. . 
+6.
+              Schwarz DS, Hutvgner G, Du T, Xu Z, Aronin N, et al. (2003) Asymmetry in the assembly of the RNAi enzyme complex. Cell 115: 199208. 
+                      Find this article online
+                    
+7.
+              Amarzguioui M, Prydz H (2004) An algorithm for selection of functional siRNA sequences. Biochem Biophys Res Commun 316: 10501058  doi:10.1016/j.bbrc.2004.02.157. . 
+8.
+              Reynolds A, Leake D, Boese Q, Scaringe S, Marshall WS, et al. (2004) Rational siRNA design for RNA interference. Nat Biotechnol 22: 326330  doi:10.1038/nbt936. . 
+9.
+              Jagla B, Aulner N, Kelly PD, Song D, Volchuk A, et al. (2005) Sequence characteristics of functional siRNAs. RNA 11: 864872  doi:10.1261/rna.7275905. . 
+10.
+              Ui-Tei K, Naito Y, Takahashi F, Haraguchi T, Ohki-Hamazaki H, et al. (2004) Guidelines for the selection of highly effective siRNA sequences for mammalian and chick RNA interference. Nucleic Acids Res 32: 936948  doi:10.1093/nar/gkh247. . 
+11.
+              Czech B, Hannon GJ (2011) Small RNA sorting: matchmaking for Argonautes. Nat Rev Genet 12: 1931  doi:10.1038/nrg2916. . 
+12.
+              Jackson AL, Bartz SR, Schelter J, Kobayashi SV, Burchard J, et al. (2003) Expression profiling reveals off-target gene regulation by RNAi. Nat Biotechnol 21: 635637  doi:10.1038/nbt831. . 
+13.
+              Jackson AL, Linsley PS (2004) Noise amidst the silence: off-target effects of siRNAs? Trends Genet 20: 521524  doi:10.1016/j.tig.2004.08.006. . 
+14.
+              Scacheri PC, Rozenblatt-Rosen O, Caplen NJ, Wolfsberg TG, Umayam L, et al. (2004) Short interfering RNAs can induce unexpected and divergent changes in the levels of untargeted proteins in mammalian cells. Proc Natl Acad Sci USA 101: 18921897  doi:10.1073/pnas.0308698100. . 
+15.
+              Pei Y, Tuschl T (2006) On the art of identifying effective and specific siRNAs. Nat Methods 3: 670676  doi:10.1038/nmeth911. . 
+16.
+              Lim LP, Lau NC, Garrett-Engele P, Grimson A, Schelter JM, et al. (2005) Microarray analysis shows that some microRNAs downregulate large numbers of target mRNAs. Nature 433: 769773  doi:10.1038/nature03315. . 
+17.
+              Birmingham A, Anderson EM, Reynolds A, Ilsley-Tyree D, Leake D, et al. (2006) 3 UTR seed matches, but not overall identity, are associated with RNAi off-targets. Nat Methods 3: 199204  doi:10.1038/nmeth854. . 
+18.
+              Sigoillot FD, King RW (2011) Vigilance and validation: Keys to success in RNAi screening. ACS Chem Biol 6: 4760  doi:10.1021/cb100358f. . 
+19.
+              Wang L, Mu FY (2004) A Web-based design center for vector-based siRNA and siRNA cassette. Bioinformatics 20: 18181820  doi:10.1093/bioinformatics/bth164. . 
+20.
+              Levenkova N, Gu Q, Rux JJ (2004) Gene specific siRNA selector. Bioinformatics 20: 430432  doi:10.1093/bioinformatics/btg437. . 
+21.
+              Muhonen P, Holthofer H (2010) Bioinformatic approaches to siRNA selection and optimization. Methods Mol Biol 623: 93107  doi:10.1007/978-1-60761-588-0_6. . 
+22.
+              Naito Y, Yamada T, Ui-Tei K, Morishita S, Saigo K (2004) siDirect: highly effective, target-specific siRNA design software for mammalian RNA interference. Nucleic Acids Res 32: W124129  doi:10.1093/nar/gkh442. . 
+23.
+              Yamada T, Morishita S (2004) Computing highly specific and noise-tolerant oligomers efficiently. J Bioinform Comput Biol 2: 2146.
+        doi:
+        10.1142/S0219720004000454.
+       
+                      Find this article online
+                    
+24.
+              Freier SM, Kierzek R, Jaeger JA, Sugimoto N, Caruthers MH, et al. (1986) Improved free-energy parameters for predictions of RNA duplex stability. Proc Natl Acad Sci USA 83: 93739377. 
+                      Find this article online
+                    
+25.
+              Kaderali L, Schliep A (2002) Selecting signature oligonucleotides to identify organisms using DNA arrays. Bioinformatics 18: 13401349. 
+                      Find this article online
+                    
+26.
+              Li F, Stormo GD (2001) Selection of optimal DNA oligos for gene expression arrays. Bioinformatics 17: 10671076. 
+                      Find this article online
+                    
+27.
+              Chou H-H, Hsia A-P, Mooney DL, Schnable PS (2004) Picky: oligo microarray design for large genomes. Bioinformatics 20: 28932902  doi:10.1093/bioinformatics/bth347. . 
+28.
+              Chou H-H, Trisiriroj A, Park S, Hsing Y-IC, Ronald PC, et al. (2009) Direct calibration of PICKY-designed microarrays. BMC Bioinformatics 10: 347  doi:10.1186/1471-2105-10-347. . 
+29.
+              Breslauer KJ, Frank R, Blcker H, Marky LA (1986) Predicting DNA duplex stability from the base sequence. Proc Natl Acad Sci USA 83: 37463750.
+        doi:
+        10.1073/pnas.83.11.3746.
+       
+                      Find this article online
+                    
+30.
+              Rychlik W, Spencer WJ, Rhoads RE (1990) Optimization of the annealing temperature for DNA amplification in vitro. Nucleic Acids Res 18: 64096412. 
+                      Find this article online
+                    
+31.
+              Allawi HT, SantaLucia J (1997) Thermodynamics and NMR of internal G.T mismatches in DNA. Biochemistry 36: 1058110594  doi:10.1021/bi962590c. . 
+32.
+              SantaLucia J, Allawi HT, Seneviratne PA (1996) Improved nearest-neighbor parameters for predicting DNA duplex stability. Biochemistry 35: 35553562  doi:10.1021/bi951907q. . 
+33.
+              Allawi HT, SantaLucia J (1998) Nearest neighbor thermodynamic parameters for internal G.A mismatches in DNA. Biochemistry 37: 21702179  doi:10.1021/bi9724873. . 
+34.
+              Peyret N, Seneviratne PA, Allawi HT, SantaLucia J (1999) Nearest-neighbor thermodynamics and NMR of DNA sequences with internal A.A, C.C, G.G, and T.T mismatches. Biochemistry 38: 34683477  doi:10.1021/bi9825091. . 
+35.
+              Allawi HT, SantaLucia J (1998) Nearest-neighbor thermodynamics of internal A.C mismatches in DNA: sequence dependence and pH effects. Biochemistry 37: 94359444  doi:10.1021/bi9803729. . 
+36.
+              Allawi HT, SantaLucia J (1998) Thermodynamics of internal C.T mismatches in DNA. Nucleic Acids Res 26: 26942701. 
+                      Find this article online
+                    
+37.
+              Bommarito S, Peyret N, SantaLucia J (2000) Thermodynamic parameters for DNA sequences with dangling ends. Nucleic Acids Res 28: 19291934. 
+                      Find this article online
+                    
+38.
+              Zuker M, Mathews DH, Turner DH (1999) Algorithms and thermodynamics for RNA secondary structure predictions: a practical guide. In: Barciszewski J, Clark B, eds. Proceedings of the NATO Advanced Research Workshop. Dordrecht: Kluwer Academic. 1143. 
+39.
+              Paredes CJ, Senger RS, Spath IS, Borden JR, Sillers R, et al. (2007) A general framework for designing and validating oligomer-based DNA microarrays and its application to Clostridium acetobutylicum. Appl Environ Microbiol 73: 46314638  doi:10.1128/AEM.00144-07. . 
+40.
+              Udall JA, Swanson JM, Haller K, Rapp RA, Sparks ME, et al. (2006) A global assembly of cotton ESTs. Genome Res 16: 441450  doi:10.1101/gr.4602906. . 
+41.
+              Sato M, Mitra RM, Coller J, Wang D, Spivey NW, et al. (2007) A high-performance, small-scale microarray for expression profiling of many samples in Arabidopsis-pathogen studies. Plant J 49: 565577  doi:10.1111/j.1365-313X.2006.02972.x. . 
+42.
+              Doddapaneni H, Yadav JS (2005) Microarray-based global differential expression profiling of P450 monooxygenases and regulatory proteins for signal transduction pathways in the white rot fungus Phanerochaete chrysosporium. Mol Genet Genomics 274: 454466  doi:10.1007/s00438-005-0051-2. . 
+43.
+              Chou H-H (2010) Shared probe design and existing microarray reanalysis using PICKY. BMC Bioinformatics 11: 196  doi:10.1186/1471-2105-11-196. . 
+44.
+              Zuker M (2003) Mfold web server for nucleic acid folding and hybridization prediction. Nucleic Acids Res 31: 34063415. 
+                      Find this article online
+                    
+45.
+              Kim D-H, Behlke MA, Rose SD, Chang M-S, Choi S, et al. (2005) Synthetic dsRNA Dicer substrates enhance RNAi potency and efficacy. Nat Biotechnol 23: 222226  doi:10.1038/nbt1051. . 
+46.
+              Rose SD, Kim D-H, Amarzguioui M, Heidel JD, Collingwood MA, et al. (2005) Functional polarity is introduced by Dicer processing of short substrate RNAs. Nucleic Acids Res 33: 41404156  doi:10.1093/nar/gki732. . 
+47.
+              Patzel V, Rutz S, Dietrich I, Kberle C, Scheffold A, et al. (2005) Design of siRNAs producing unstructured guide-RNAs results in improved RNA interference efficiency. Nat Biotechnol 23: 14401444  doi:10.1038/nbt1151. . 
+48.
+              Rossetto M, Ciccarino P, Boisselier B, Labussiere M, Sanson M (2011) Metabolism of glioma and IDH1/IDH2 mutations. Rev Neurol (Paris) 167: 699703  doi:10.1016/j.neurol.2011.08.002. . 
+49.
+              Onoue H, Tanaka H, Tanaka K, Doira N, Ito Y (2000) Heterooligomer of type 1 and type 2 inositol 1, 4, 5-trisphosphate receptor expressed in rat liver membrane fraction exists as tetrameric complex. Biochem Biophys Res Commun 267: 928933  doi:10.1006/bbrc.1999.2065. . 
+50.
+              Birmingham A, Anderson E, Sullivan K, Reynolds A, Boese Q, et al. (2007) A protocol for designing siRNAs with high functionality and specificity. Nat Protoc 2: 20682078  doi:10.1038/nprot.2007.278. . 
+51.
+              Chaudhary A, Srivastava S, Garg S (2011) Development of a software tool and criteria evaluation for efficient design of small interfering RNA. Biochemical and Biophysical Research Communications 404: 313320  doi:10.1016/j.bbrc.2010.11.114. . 
+52.
+              Naito Y, Yoshimura J, Morishita S, Ui-Tei K (2009) siDirect 2.0: updated software for designing functional siRNA with reduced seed-dependent off-target effect. BMC Bioinformatics 10: 392  doi:10.1186/1471-2105-10-392. . 
+53.
+              Bartel DP (2009) MicroRNAs: target recognition and regulatory functions. Cell 136: 215233  doi:10.1016/j.cell.2009.01.002. . 
+54.
+              Kawamata T, Tomari Y (2010) Making RISC. Trends Biochem Sci 35: 368376  doi:10.1016/j.tibs.2010.03.009. . 
+55.
+              Leuschner PJF, Ameres SL, Kueng S, Martinez J (2006) Cleavage of the siRNA passenger strand during RISC assembly in human cells. EMBO Rep 7: 314320  doi:10.1038/sj.embor.7400637. . 
+56.
+              Matranga C, Tomari Y, Shin C, Bartel DP, Zamore PD (2005) Passenger-strand cleavage facilitates assembly of siRNA into Ago2-containing RNAi enzyme complexes. Cell 123: 607620  doi:10.1016/j.cell.2005.08.044. . 
+57.
+              Radoni A, Thulke S, Mackay IM, Landt O, Siegert W, et al. (2004) Guideline to reference gene selection for quantitative real-time PCR. Biochem Biophys Res Commun 313: 856862. 
+                      Find this article online
+                    
+58.
+              Tellmann G (2006) The E-Method: a highly accurate technique for gene-expression analysis. Nature Methods | Application Notes: iii. doi:10.1038/nmeth894. 
+59.
+              Kruger J, Rehmsmeier M (2006) RNAhybrid: microRNA target prediction easy, fast and flexible. Nucleic Acids Research 34: W451W454  doi:10.1093/nar/gkl243. . 

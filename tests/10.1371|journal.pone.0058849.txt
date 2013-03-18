@@ -1,0 +1,244 @@
+1.
+              Krieg AM (2007) Antiinfective applications of toll-like receptor 9 agonists. Proc Am Thorac Soc 4: 28994.
+        doi:
+        10.1513/pats.200701-021AW.
+       
+                      Find this article online
+                    
+2.
+              Abreu MT, Fukata M, Arditi M (2005) TLR signaling in the gut in health and disease. J Immunol 174: 445360. 
+                      Find this article online
+                    
+3.
+              Sommariva M, De Cecco L, De Cesare M, Sfondrini L, Mnard S, et al. (2011) TLR9-agonists oppositely modulate DNA-repair genes in tumor vesus immune cells and ehance chemotherapy effects. Cancer Res 71: 638290. 
+                      Find this article online
+                    
+4.
+              De Cesare M, Calcaterra C, Pratesi G, Gatti L, Zunino F, et al. (2008) Eradication of ovarian tumor xenografts by locoregional administration of targeted immunotherapy. Clin Cancer Res 14: 55128.
+        doi:
+        10.1158/1078-0432.CCR-08-0445.
+       
+                      Find this article online
+                    
+5.
+              Filipowicz W, Bhattacharyya SN, Sonenberg N (2008) Mechanisms of post-transcriptional regulation by microRNAs: are the answers in sight? Nat Rev Genet 9: 10214.
+        doi:
+        10.1038/nrg2290.
+       
+                      Find this article online
+                    
+6.
+              Bartel DP (2009) MicroRNAs: target recognition and regulatory functions. Cell 136: 21533.
+        doi:
+        10.1016/j.cell.2009.01.002.
+       
+                      Find this article online
+                    
+7.
+              Griffiths-Jones S, Saini HK, van DS, Enright AJ (2008) miRBase: tools for microRNA genomics. Nucleic Acids Res 36: D154D158.
+        doi:
+        10.1093/nar/gkm952.
+       
+                      Find this article online
+                    
+8.
+              Griffiths-Jones S, Grocock RJ, van DS, Bateman A, Enright AJ (2006) miRBase: microRNA sequences, targets and gene nomenclature. Nucleic Acids Res 34: D140D144.
+        doi:
+        10.1093/nar/gkj112.
+       
+                      Find this article online
+                    
+9.
+              Griffiths-Jones S (2004) The microRNA Registry. Nucleic Acids Res 32: D109D111.
+        doi:
+        10.1093/nar/gkh023.
+       
+                      Find this article online
+                    
+10.
+              Hermeking H (2012) MicroRNAs in the p53 network: micromanagement of tumour suppression. Nat Rev Cancer 12: 61326.
+        doi:
+        10.1038/nrc3318.
+       
+                      Find this article online
+                    
+11.
+              Selbach M, Schwanhausser B, Thierfelder N, Fang Z, Khanin R, et al. (2008) Widespread changes in protein synthesis induced by microRNAs. Nature 455: 5863.
+        doi:
+        10.1038/nature07228.
+       
+                      Find this article online
+                    
+12.
+              Wu S, Huang S, Ding J, Zhao Y, Liang L, et al. (2010) Multiple microRNAs modulate p21Cip1/Waf1 expression by directly targeting its 3 untranslated region. Oncogene 29: 23028.
+        doi:
+        10.1038/onc.2010.34.
+       
+                      Find this article online
+                    
+13.
+              Allen KE, Weiss GJ (2010) Resistance may not be futile: microRNA biomarkers for chemoresistance and potential therapeutics. Mol Cancer Ther 9: 312636.
+        doi:
+        10.1158/1535-7163.MCT-10-0397.
+       
+                      Find this article online
+                    
+14.
+              Landau DA, Slack FJ (2011) MicroRNAs in mutagenesis, genomic instability, and DNA repair. Semin Oncol 38: 74351.
+        doi:
+        10.1053/j.seminoncol.2011.08.003.
+       
+                      Find this article online
+                    
+15.
+              Hu H, Gatti RA (2011) MicroRNAs: new players in the DNA damage response. J Mol Cell Biol 3: 1518.
+        doi:
+        10.1093/jmcb/mjq042.
+       
+                      Find this article online
+                    
+16.
+              Sommariva M, De Cecco L, Tagliabue E, Balsari A (2012) Modulation of DNA repair genes induced by TLR9 agonists. A strategy to elimate altered cells? OncoImmunology 1: 2589. 
+                      Find this article online
+                    
+17.
+              Benard J, Da Silva J, De Blois MC, Boyer P, Duvillard P, et al. (1985) Characterization of a human ovarian adenocarcinoma line, IGROV1, in tissue culture and in nude mice. Cancer Res 45: 49709. 
+                      Find this article online
+                    
+18.
+              Wright GW, Simon RM (2003) A random variance model for detection of differential gene expression in small microarray experiments. Bioinformatics 19: 244855.
+        doi:
+        10.1093/bioinformatics/btg345.
+       
+                      Find this article online
+                    
+19.
+              Sales G, Coppe A, Bisognin A, Biasiolo M, Bortoluzzi S, et al. (2010) MAGIA, a web-based tool for miRNA and Genes Integrated Analysis. Nucleic Acids Res 38: W352W359.
+        doi:
+        10.1093/nar/gkq423.
+       
+                      Find this article online
+                    
+20.
+              Shih KK, Qin LX, Tanner EJ, Zhou Q, Bisogna M, et al. (2011) A microRNA survival signature (MiSS) for advanced ovarian cancer. Gynecol Oncol 121: 44450.
+        doi:
+        10.1016/j.ygyno.2011.01.025.
+       
+                      Find this article online
+                    
+21.
+              Bagnoli M, De CL, Granata A, Nicoletti R, Marchesi E, et al. (2011) Identification of a chrXq27.3 microRNA cluster associated with early relapse in advanced stage ovarian cancer patients. Oncotarget 2: 126578. 
+                      Find this article online
+                    
+22.
+              Johnson WE, Li C, Rabinovic A (2007) Adjusting batch effects in microarray expression data using empirical Bayes methods. Biostatistics 8: 11827.
+        doi:
+        10.1093/biostatistics/kxj037.
+       
+                      Find this article online
+                    
+23.
+              Dolezalova D, Mraz M, Barta T, Plevova K, Vinarsky V, et al. (2012) MicroRNAs regulate p21(Waf1/Cip1) protein expression and the DNA damage response in human embryonic stem cells. Stem Cells 30: 136272. 
+                      Find this article online
+                    
+24.
+              Berezikov E, Thuemmler F, van Laake LW, Kondova I, Bontrop R, et al. (2006) Diversity of microRNAs in human and chimpanzee brain. Nat Genet 38: 13757.
+        doi:
+        10.1038/ng1914.
+       
+                      Find this article online
+                    
+25.
+              Nam EJ, Yoon H, Kim SW, Kim H, Kim YT, et al. (2008) MicroRNA expression profiles in serous ovarian carcinoma. Clin Cancer Res 14: 26905.
+        doi:
+        10.1158/1078-0432.CCR-07-1731.
+       
+                      Find this article online
+                    
+26.
+              Kim TH, Kim YK, Kwon Y, Heo JH, Kang H, et al. (2010) Deregulation of miR-519a, 153, and 4855p and its clinicopathological relevance in ovarian epithelial tumours. Histopathology 57: 73443.
+        doi:
+        10.1111/j.1365-2559.2010.03686.x.
+       
+                      Find this article online
+                    
+27.
+              Stronach EA, Alfraidi A, Rama N, Datler C, Studd JB, et al. (2011) HDAC4-regulated STAT1 activation mediates platinum resistance in ovarian cancer. Cancer Res 71: 441222.
+        doi:
+        10.1158/0008-5472.CAN-10-4111.
+       
+                      Find this article online
+                    
+28.
+              Baltimore D, Boldin MP, OConnell RM, Rao DS, Taganov KD (2008) MicroRNAs: new regulators of immune cell development and function. Nat Immunol 9: 83945.
+        doi:
+        10.1038/ni.f.209.
+       
+                      Find this article online
+                    
+29.
+              Lodish HF, Zhou B, Liu G, Chen CZ (2008) Micromanagement of the immune system by microRNAs. Nat Rev Immunol 8: 12030. 
+                      Find this article online
+                    
+30.
+              OConnell RM, Rao DS, Chaudhuri AA, Baltimore D (2010) Physiological and pathological roles for microRNAs in the immune system. Nat Rev Immunol 10: 11122.
+        doi:
+        10.1038/nri2708.
+       
+                      Find this article online
+                    
+31.
+              Nahid MA, Satoh M, Chan EK (2011) MicroRNA in TLR signaling and endotoxin tolerance. Cell Mol Immunol 8: 388403.
+        doi:
+        10.1038/cmi.2011.26.
+       
+                      Find this article online
+                    
+32.
+              Valadi H, Ekstrom K, Bossios A, Sjostrand M, Lee JJ, et al. (2007) Exosome-mediated transfer of mRNAs and microRNAs is a novel mechanism of genetic exchange between cells. Nat Cell Biol 9: 6549.
+        doi:
+        10.1038/ncb1596.
+       
+                      Find this article online
+                    
+33.
+              Jin KL, Park JY, Noh EJ, Hoe KL, Lee JH, et al. (2010) The effect of combined treatment with cisplatin and histone deacetylase inhibitors on HeLa cells. J Gynecol Oncol 21: 2628.
+        doi:
+        10.3802/jgo.2010.21.4.262.
+       
+                      Find this article online
+                    
+34.
+              Ozaki K, Kishikawa F, Tanaka M, Sakamoto T, Tanimura S, et al. (2008) Histone deacetylase inhibitors enhance the chemosensitivity of tumor cells with cross-resistance to a wide range of DNA-damaging drugs. Cancer Sci 99: 37684.
+        doi:
+        10.1111/j.1349-7006.2007.00669.x.
+       
+                      Find this article online
+                    
+35.
+              Stiborova M, Eckschlager T, Poljakova J, Hrabeta J, Adam V, et al.. (2012) The synergistic effects of DNA-targeted chemotherapeutics and histone deacetylase inhibitors as therapeutic strategies for cancer treatment. Curr Med Chem. 
+36.
+              Thurn KT, Thomas S, Moore A, Munster PN (2011) Rational therapeutic combinations with histone deacetylase inhibitors for the treatment of cancer. Future Oncol 7: 26383.
+        doi:
+        10.2217/fon.11.2.
+       
+                      Find this article online
+                    
+37.
+              Gryder BE, Sodji QH, Oyelere AK (2012) Targeted cancer therapy: giving histone deacetylase inhibitors all they need to succeed. Future Med Chem 4: 50524.
+        doi:
+        10.4155/fmc.12.3.
+       
+                      Find this article online
+                    
+38.
+              Miska EA (2005) How microRNAs control cell division, differentiation and death. Curr Opin Genet Dev 15: 5638.
+        doi:
+        10.1016/j.gde.2005.08.005.
+       
+                      Find this article online
+                    
+39.
+              Jackson AL, Levin AA (2012) Developing microRNA Therapeutics: Approaching the Unique Complexities. Nucleic Acid Ther 22: 21325. 
+                      Find this article online
+                    

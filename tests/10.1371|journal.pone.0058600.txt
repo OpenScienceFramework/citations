@@ -1,0 +1,54 @@
+1.
+              Vogel A, Noack J, Httman G, Paltauf G (2005) Mechanisms of femtosecond laser nanosurgery of cells and tissues. Appl Phys B 81: : 10151047. Available: http://link.springer.com/article/10.1007%2Fs00340-005-2036-6?LI=true. Accessed 11 December 2012. 
+2.
+              Baumgart J, Kuetemeyer K, Bintig W, Ngezahayo A, Ertmer W, et al.. (2009) Repetition rate dependency of reactive oxygen species formation during femtosecond laser-based cell surgery. J Biomed Opt 14: : 054040. Available:http://www.ncbi.nlm.nih.gov/pubmed/19895141. Accessed 7 June 2012. 
+3.
+              Thayil A, Pereira A, Mathew M, Artigas D, Blanco E, et al.. (2008) Decrease in laser ablation threshold for epithelial tissue microsurgery in a living Drosophila embryo during dorsal closure. Journal of Microscopy 232: : 362368. Available: http://www.ncbi.nlm.nih.gov/pubmed/19017235. Accessed 11 December 2012. 
+4.
+              Santos SICO, Mathew M, Loza-Alvarez P (2010) Real time imaging of femtosecond laser induced nano-neurosurgery dynamics in C. elegans. Opt Express 18: : 364377 .Available:http://www.opticsexpress.org/abstract.cfm?URI=oe-18-1-364. Accessed 11 November 2012. 
+5.
+              Yanik M, Cinar H, Cinar H, Chisholm A, Jin Y, et al.. (2004) Neurosurgery - Functional regeneration after laser axotomy. NATURE 432: : 822822 .Available: http://www.nature.com/nature/journal/v432/n7019/abs/432822a.html. Accessed 11 December 2012. 
+6.
+              Gabel C, Gabel H, Pavlichin D, Kao A, Clark D, et al.. (2007) Neural circuits mediate electrosensory behavior in Caenorhabditis elegans. Journal of Neuroscience 27: : 75867596 .Available: http://www.ncbi.nlm.nih.gov/pubmed/17626220. Accessed 11 December 2012. 
+7.
+              Clark D, Biron D, Sengupta P, Samuel A (2006) The AFD sensory neurons encode multiple functions underlying thermotactic behavior in Caenorhabditis elegans. Journal of Neuroscience 26: : 74447451 .Available: http://www.ncbi.nlm.nih.gov/pubmed/16837592. Accessed 11 December 2012. 
+8.
+              Clark D, Gabel C, Lee T, Samuel A (2007) Short-term adaptation and temporal processing in the cryophilic response of Caenorhabditis elegans. Journal of Neurophysiology 97: : 19031910 .Available: http://www.ncbi.nlm.nih.gov/pubmed/17151225. Accessed 11 December 2012. 
+9.
+              Chung S, Clark D, Gabel C, Mazur E, Samuel A (2006) The role of the AFD neuron in C. elegans thermotaxis analyzed using femtosecond laser ablation. BMC Neuroscience 7: : 30 .Available:http://www.biomedcentral.com/1471-2202/7/30. Accessed 11 November 2010. 
+10.
+              WormAtlas, AltunZFHerndonLACrockerCLintsRHallDH(ed.s)20022012. Available:http://www.wormatlas.org/. Accessed 13 March 2012. 
+11.
+              Yanik MF, Cinar H, Cinar HN, Gibby A, Chisholm AD, et al. (2006) Nerve Regeneration in Caenorhabditis elegans After Femtosecond Laser Axotomy. Selected Topics in Quantum Electronics, IEEE Journal of 12: 12831291  doi:10.1109/JSTQE.2006.879579.  
+12.
+              Bourgeois F, Ben-Yakar A (2007) Femtosecond laser nanoaxotomy properties and their effect on axonal recovery in C. elegans. Opt Express 15: : 85218531 .Available:http://www.opticsexpress.org/abstract.cfm?URI=oe-15-14-8521. Accessed 11 November 2010. 
+13.
+              Plotnikov SV, Millard AC, Campagnola PJ, Mohler WA (2006) Characterization of the Myosin-Based Source for Second-Harmonic Generation from Muscle Sarcomeres. Biophysical Journal 90: : 693703. Available:http://www.sciencedirect.com/science/article/B94RW-4TT2KGN-12/2/fc107ba3139426289d3004cb14fa34a1. Accessed 11 November 2010. 
+14.
+              Psilodimitrakopoulos S, Santos SICO, Amat-Roldan I, Thayil AKN, Artigas D, et al.. (2009) In vivo, pixel-resolution mapping of thick filaments' orientation in nonfibrilar muscle using polarization-sensitive second harmonic generation microscopy. J Biomed Opt 14: : 014001. Available:http://link.aip.org/link/JBOPFO/v14/i1/p014001/s1&amp;Agg=doi. Accessed 10 August 2011. 
+15.
+              Mathew M, Santos SICO, Zalvidea D, Loza-Alvarez P (2009) Multimodal optical workstation for simultaneous linear, nonlinear microscopy and nanomanipulation: Upgrading a commercial confocal inverted microscope. Rev Sci Instrum 80: : 073701. Available:http://link.aip.org/link/RSINAK/v80/i7/p073701/s1&amp;Agg=doi. Accessed 11 November 2010. 
+16.
+              Brenner S (1974) The Genetics of Caenorhabditis Elegans. Genetics 77: : 7194. Available:http://www.genetics.org/cgi/content/abstract/77/1/71. Accessed 11 November 2010. 
+17.
+              Grill S, Stelzer EHK (1999) Method to calculate lateral and axial gain factors of optical setups with a large solid angle. J Opt Soc Am A 16 : 26582665 . Available:http://josaa.osa.org/abstract.cfm?URI=josaa-16-11-2658. Accessed 12 November 2010. 
+18.
+              Shaham (ed.) S (2006) Methods in cell biology. Available: http://www.wormbook.org. 
+19.
+              Psilodimitrakopoulos S, Petegnief V, Soria G, Amat-Roldan I, Artigas D, et al.. (2009) Estimation of the effective orientation of the SHG source in primary cortical neurons. Opt Express 17: : 1441814425. Available:http://www.opticsexpress.org/abstract.cfm?URI=oe-17-16-14418. Accessed 10 August 2011. 
+20.
+              Chung S, Clark D, Gabel C, Mazur E, Samuel A (2006) The role of the AFD neuron in C. elegans thermotaxis analyzed using femtosecond laser ablation. BMC Neuroscience 7: : 30. Available:http://www.biomedcentral.com/1471-2202/7/30. Accessed 11 November 2010. 
+21.
+              Psilodimitrakopoulos S, Artigas D, Soria G, Amat-Roldan I, Planas AM, et al.. (2009) Quantitative discrimination between endogenousSHG sources in mammalian tissue, based ontheir polarization response. Opt Express 17: : 1016810176. Available:http://www.opticsexpress.org/abstract.cfm?URI=oe-17-12-10168. Accessed 10 August 2011. 
+22.
+              Campagnola PJ, Loew LM (2003) Second-harmonic imaging microscopy for visualizing biomolecular arrays in cells, tissues and organisms. Nat Biotech 21: : 13561360. Available:http://dx.doi.org/10.1038/nbt894. Accessed 11 November 2010. 
+23.
+              Recher G, Roude D, Tascon C, D'Amico L-A, Tiaho F (2011) Double-band sarcomeric SHG pattern induced by adult skeletal muscles alteration during myofibrils preparation. J Microsc 241: : 207211. Available:http://www.ncbi.nlm.nih.gov/pubmed/21118220. Accessed 17 June 2012. 
+24.
+              Recher G, Roude D, Schaub E, Tiaho F (2011) Skeletal muscle sarcomeric SHG patterns photo-conversion by femtosecond infrared laser. Biomed Opt Express 2: : 374384. Available:http://www.ncbi.nlm.nih.gov/pubmed/21339882. Accessed 17 June 2012. 
+25.
+              Knig K (2006) Cell Damage During Multi-Photon Microscopy. In: Pawley JB, editor. Handbook Of Biological Confocal Microscopy. Boston, MA: Springer US. pp. 680689. Available:http://www.springerlink.com/content/p11x52u6565753l6/. Accessed 2 September 2011. 
+26.
+              Kuetemeyer K, Rezgui R, Lubatschowski H, Heisterkamp A (2011) Mechanisms of femtosecond laser cell surgery in the low-density plasma regime. Proceedings of SPIE 7897: : 7897047897045. Available:http://spiedigitallibrary.org/proceedings/resource/2/psisdg/7897/1/789704_1?isAuthorized=no. Accessed 7 June 2012. 
+27.
+              Kalies S, Kuetemeyer K, Heisterkamp A (2011) Mechanisms of high-order photobleaching and its relationship to intracellular ablation. Biomed Opt Express 2: : 805816. Available:http://www.opticsinfobase.org/boe/abstract.cfm?URI=boe-2-4-805. Accessed 7 June 2012. 
