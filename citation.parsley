@@ -1,0 +1,21 @@
+lines = garbage line+ garbage
+line = ws refnumber:ref
+       ws names:name
+       ws '(' year:year ')'
+       ws title:title
+       ws journal:journal
+       ws edition:edition ':'
+       ws pages:pages '.'
+       ws 'doi:' ws doi:doi
+       ws anything+
+       -> Reference(ref, name, year, title, journal, edition, pages, doi[:-1])
+refnumber = <digit+>:n '.' -> n
+year = <digit+>
+edition = <digit+>
+names = <words>:first (',' ws <words>)*:rest -> [first] + rest
+title = words:w '.' -> w
+words = (<word (ws word)*>):w -> normalize(w)
+word = letter+
+journal = <words>
+pages = <digit+>:start anything:c ?(c in DASHES) <digit+>:end -> (start, end)
+doi = <(letterOrDigit | '.' | '/')+>
