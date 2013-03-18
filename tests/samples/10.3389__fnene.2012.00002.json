@@ -1,0 +1,1509 @@
+[
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "19", 
+    "text": "Arnaudeau, S., Kelley, W. L., Walsh, J. V. Jr., and Demaurex, N. (2001). Mitochondria recycle Ca(2&#43;) to the endoplasmic reticulum and prevent the depletion of neighboring endoplasmic reticulum regions. J. Biol. Chem. 276, 29430&#x02013;29439.", 
+    "sponsors": [
+      "NHLBI"
+    ], 
+    "abstxt": "To study Ca(2+) fluxes between mitochondria and the endoplasmic reticulum (ER), we used &quot;cameleon&quot; indicators targeted to the cytosol, the ER lumen, and the mitochondrial matrix. High affinity mitochondrial probes saturated in approximately 20% of mitochondria during histamine stimulation of HeLa cells, whereas a low affinity probe reported averaged peak values of 106 +/- 5 microm, indicating that Ca(2+) transients reach high levels in a fraction of mitochondria. In concurrent ER measurements, [Ca(2+)](ER) averaged 371 +/- 21 microm at rest and decreased to 133 +/- 14 microm and 59 +/- 5 microm upon stimulation with histamine and thapsigargin, respectively, indicating that substantial ER refilling occur during agonist stimulation. A larger ER depletion was observed when mitochondrial Ca(2+) uptake was prevented by oligomycin and rotenone or when Ca(2+) efflux from mitochondria was blocked by CGP 37157, indicating that some of the Ca(2+) taken up by mitochondria is re-used for ER refilling. Accordingly, ER regions close to mitochondria released less Ca(2+) than ER regions lacking mitochondria. The ER heterogeneity was abolished by thapsigargin, oligomycin/rotenone, or CGP 37157, indicating that mitochondrial Ca(2+) uptake locally modulate ER refilling. These observations indicate that some mitochondria are very close to the sites of Ca(2+) release and recycle a substantial portion of the captured Ca(2+) back to vicinal ER domains. The distance between the two organelles thus determines both the amplitude of mitochondrial Ca(2+) signals and the filling state of neighboring ER regions.", 
+    "lpage": "29439", 
+    "grants": [
+      "HL61297"
+    ], 
+    "journal-title": "The Journal of biological chemistry", 
+    "fpage": "29430", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Arnaudeau", 
+        "S"
+      ], 
+      [
+        "Kelley", 
+        "W L"
+      ], 
+      [
+        "Walsh", 
+        "J V"
+      ], 
+      [
+        "Demaurex", 
+        "N"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Mitochondria recycle Ca(2+) to the endoplasmic reticulum and prevent the depletion of neighboring endoplasmic reticulum regions.", 
+    "pmid": "11358971", 
+    "pmonth": [
+      "Aug"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2005"
+    ], 
+    "pubday": "2", 
+    "text": "Attwell, D., and Gibb, A. (2005). Neuroenergetics and the kinetic design of excitatory synapses. Nat. Rev. Neurosci. 6, 841&#x02013;849.", 
+    "sponsors": [
+      "Wellcome Trust"
+    ], 
+    "abstxt": "Why is the characteristic timescale of neural information processing in the millisecond range, corresponding to a 'clock speed' of about 1 kHz, whereas the clock speed of modern computers is about 3 GHz? Here we investigate how the brain's energy supply limits the maximum rate at which the brain can compute, and how the molecular components of excitatory synapses have evolved properties that are matched to the information processing they perform.", 
+    "lpage": "849", 
+    "grants": [], 
+    "journal-title": "Nature reviews. Neuroscience", 
+    "fpage": "841", 
+    "keywords": [], 
+    "pubyear": "2005", 
+    "auths": [
+      [
+        "Attwell", 
+        "David"
+      ], 
+      [
+        "Gibb", 
+        "Alasdair"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "Neuroenergetics and the kinetic design of excitatory synapses.", 
+    "pmid": "16261178", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "13", 
+    "text": "Attwell, D., and Laughlin, S. B. (2001). An energy budget for signaling in the grey matter of the brain. J. Cereb. Blood Flow Metab. 21, 1133&#x02013;1145.", 
+    "sponsors": [], 
+    "abstxt": "Anatomic and physiologic data are used to analyze the energy expenditure on different components of excitatory signaling in the grey matter of rodent brain. Action potentials and postsynaptic effects of glutamate are predicted to consume much of the energy (47% and 34%, respectively), with the resting potential consuming a smaller amount (13%), and glutamate recycling using only 3%. Energy usage depends strongly on action potential rate--an increase in activity of 1 action potential/cortical neuron/s will raise oxygen consumption by 145 mL/100 g grey matter/h. The energy expended on signaling is a large fraction of the total energy used by the brain; this favors the use of energy efficient neural codes and wiring patterns. Our estimates of energy usage predict the use of distributed codes, with &lt;or=15% of neurons simultaneously active, to reduce energy consumption and allow greater computing power from a fixed number of neurons. Functional magnetic resonance imaging signals are likely to be dominated by changes in energy usage associated with synaptic currents and action potential propagation.", 
+    "lpage": "1145", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "1133", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Attwell", 
+        "D"
+      ], 
+      [
+        "Laughlin", 
+        "S B"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "An energy budget for signaling in the grey matter of the brain.", 
+    "pmid": "11598490", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2002"
+    ], 
+    "pubday": "16", 
+    "text": "Babinec, P., and Babincov, M. (2002). Spatial distribution of ion channel activity in biological membranes: the role of noise. Bioelectrochemistry 56, 167&#x02013;170.", 
+    "sponsors": [], 
+    "abstxt": "A new approach is proposed to model a collective ion channel dynamics. We have assumed that ion channels create a two-component spatio-temporal interaction field. Every channel at its current spatial location in membrane contributes permanently to this field with its state (open or closed) and coupling strength to other channels. This field is described by a reaction-diffusion equation, the transition of ion channel from closed to open state (and vice versa) is described by a master equation, and migration of channels in membrane is described by a set of Langevin equations coupled by the interaction field. Within this model, we have investigated critical conditions for spatial distribution of ion channel activity.", 
+    "lpage": "170", 
+    "grants": [], 
+    "journal-title": "Bioelectrochemistry (Amsterdam, Netherlands)", 
+    "fpage": "167", 
+    "keywords": [], 
+    "pubyear": "2002", 
+    "auths": [
+      [
+        "Babinec", 
+        "P"
+      ], 
+      [
+        "Babincov\u0e23\u0e01", 
+        "M"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Spatial distribution of ion channel activity in biological membranes: the role of noise.", 
+    "pmid": "12009467", 
+    "pmonth": [
+      "May"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2002"
+    ], 
+    "pubday": "25", 
+    "text": "Baker, H. L., Errington, R. J., Davies, S. C., and Campbel, A. K. (2002). A mathematical model predicts that calreticulin interacts with the endoplasmic reticulum Ca2&#43;&#x02013;ATPase. Biophys. J. 82, 582&#x02013;590.", 
+    "sponsors": [], 
+    "abstxt": "A robust mathematical model developed from single cell calcium (Ca(2+)) dynamics has enabled us to predict the consequences of over-expression of endoplasmic reticulum-located chaperones. Model predictions concluded that calreticulin interacts with the lumenal domain of the sarcoplasmic and endoplasmic reticulum Ca(2+)-activated ATPase (SERCA) pump, altering pump affinity for Ca(2+) (K(1/2) switches from 247 to 431 nM) and hence generating Ca(2+) oscillations. Expression of calreticulin in the ER generated an average of six transient-decline oscillations during the Ca(2+) recovery phase, upon exposure to maximal levels of the agonist ATP. In contrast, normal cells produced a single Ca(2+) transient with few or no oscillations. By conditioning the model to experimental data, parameters for generation and decay of IP(3) and SERCA pump kinetics were determined. To elucidate the possible source of the oscillatory behavior three possible oscillators, 1) IP(3), 2) IP(3)R, and 3) SERCA pump, were investigated and parameters constrained by experimental data to produce the best candidate. Each of the three oscillators generated very good fits with experimental data. However, converting a normal exponential recovery to a transient-decline oscillator predicted that the SERCA pump is the most likely candidate for calreticulin-mediated Ca(2+) release, highlighting the role of this chaperone as a signal protein within the endoplasmic reticulum.", 
+    "lpage": "590", 
+    "grants": [], 
+    "journal-title": "Biophysical journal", 
+    "fpage": "582", 
+    "keywords": [], 
+    "pubyear": "2002", 
+    "auths": [
+      [
+        "Baker", 
+        "Helen L"
+      ], 
+      [
+        "Errington", 
+        "Rachel J"
+      ], 
+      [
+        "Davies", 
+        "Sally C"
+      ], 
+      [
+        "Campbell", 
+        "Anthony K"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "A mathematical model predicts that calreticulin interacts with the endoplasmic reticulum Ca(2+)-ATPase.", 
+    "pmid": "11806903", 
+    "pmonth": [
+      "Feb"
+    ]
+  }, 
+  {
+    "text": "Beard, D. A., and Qian, H. (2008). Chemical Biophysics: Quantitative Analysis of Cellular Systems. Cambridge: Cambridge University Press."
+  }, 
+  {
+    "pyear": [
+      "1992"
+    ], 
+    "pubday": "1", 
+    "text": "Buchholtz, F., Golowasch, J., Epstein, I. R., and Marder, E. (1992). Mathematical model of an identified stomatogastric ganglion neuron. J. Neurophysiol. 67, 332&#x02013;340.", 
+    "sponsors": [
+      "NIMH"
+    ], 
+    "abstxt": "1. The ionic currents in the lateral pyloric (LP) cell of the stomatogastric ganglion (STG) described in the preceding paper of the rock crab Cancer borealis were fit with a set of differential equations that describe their voltage, time, and Ca2+ dependence. The voltage-dependent currents modeled are a delayed rectifier-like current, id; a Ca(2+)-activated outward current, io(Ca); a transient A-like current, iA; a Ca2+ current, iCa; an inwardly rectifying current, ih; and a fast tetrodotoxin (TTX)-sensitive Na+ current, iNa. 2. A single-compartment, isopotential model of the LP cell was constructed from the six voltage-dependent currents, a voltage-independent leak current il, a Ca2+ buffering system, and the membrane capacitance. 3. The behavior of the model LP neuron was compared with that of the biological neuron by simulating physiological experiments carried out in both voltage-clamp and current-clamp modes. The model and biological neurons show similar action-potential shapes, durations, steady-state current-voltage (I-V) curves, and respond to injected current in a comparable way.", 
+    "lpage": "340", 
+    "grants": [
+      "MH-46742"
+    ], 
+    "journal-title": "Journal of neurophysiology", 
+    "fpage": "332", 
+    "keywords": [], 
+    "pubyear": "1992", 
+    "auths": [
+      [
+        "Buchholtz", 
+        "F"
+      ], 
+      [
+        "Golowasch", 
+        "J"
+      ], 
+      [
+        "Epstein", 
+        "I R"
+      ], 
+      [
+        "Marder", 
+        "E"
+      ]
+    ], 
+    "pubmonth": "2", 
+    "article-title": "Mathematical model of an identified stomatogastric ganglion neuron.", 
+    "pmid": "1373763", 
+    "pmonth": [
+      "Feb"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2009"
+    ], 
+    "pubday": "28", 
+    "text": "Cloutier, M., Bolger, F. B., Lowry, J. P., and Wellstead, P. (2009). An integrative dynamic model of brain energy metabolism using in vivo neurochemical measurements. J. Comput. Neurosci. 27, 391&#x02013;414.", 
+    "sponsors": [], 
+    "abstxt": "An integrative, systems approach to the modelling of brain energy metabolism is presented. Mechanisms such as glutamate cycling between neurons and astrocytes and glycogen storage in astrocytes have been implemented. A unique feature of the model is its calibration using in vivo data of brain glucose and lactate from freely moving rats under various stimuli. The model has been used to perform simulated perturbation experiments that show that glycogen breakdown in astrocytes is significantly activated during sensory (tail pinch) stimulation. This mechanism provides an additional input of energy substrate during high consumption phases. By way of validation, data from the perfusion of 50 microM propranolol in the rat brain was compared with the model outputs. Propranolol affects the glucose dynamics during stimulation, and this was accurately reproduced in the model by a reduction in the glycogen breakdown in astrocytes. The model's predictive capacity was verified by using data from a sensory stimulation (restraint) that was not used for model calibration. Finally, a sensitivity analysis was conducted on the model parameters, this showed that the control of energy metabolism and transport processes are critical in the metabolic behaviour of cerebral tissue.", 
+    "lpage": "414", 
+    "grants": [], 
+    "journal-title": "Journal of computational neuroscience", 
+    "fpage": "391", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Cloutier", 
+        "Mathieu"
+      ], 
+      [
+        "Bolger", 
+        "Fiachra B"
+      ], 
+      [
+        "Lowry", 
+        "John P"
+      ], 
+      [
+        "Wellstead", 
+        "Peter"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "An integrative dynamic model of brain energy metabolism using in vivo neurochemical measurements.", 
+    "pmid": "19396534", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2000"
+    ], 
+    "pubday": "18", 
+    "text": "Duchen, M. R. (2000). Mitochondria and calcium: from cell signalling to cell death. J. Physiol. (Lond.) 529, 57&#x02013;68.", 
+    "sponsors": [], 
+    "abstxt": "While a pathway for Ca2+ accumulation into mitochondria has long been established, its functional significance is only now becoming clear in relation to cell physiology and pathophysiology. The observation that mitochondria take up Ca2+ during physiological Ca2+ signalling in a variety of cell types leads to four questions: (i) 'What is the impact of mitochondrial Ca2+ uptake on mitochondrial function?' (ii) 'What is the impact of mitochondrial Ca2+ uptake on Ca2+ signalling?' (iii) 'What are the consequences of impaired mitochondrial Ca2+ uptake for cell function?' and finally (iv) 'What are the consequences of pathological [Ca2+]c signalling for mitochondrial function?' These will be addressed in turn. Thus: (i) accumulation of Ca2+ into mitochondria regulates mitochondrial metabolism and causes a transient depolarisation of mitochondrial membrane potential. (ii) Mitochondria may act as a spatial Ca2+ buffer in many cells, regulating the local Ca2+ concentration in cellular microdomains. This process regulates processes dependent on local cytoplasmic Ca2+ concentration ([Ca2+]c), particularly the flux of Ca2+ through IP3-gated channels of the endoplasmic reticulum (ER) and the channels mediating capacitative Ca2+ influx through the plasma membrane. Consequently, mitochondrial Ca2+ uptake plays a substantial role in shaping [Ca2+]c signals in many cell types. (iii) Impaired mitochondrial Ca2+ uptake alters the spatiotemporal characteristics of cellular [Ca2+]c signalling and downregulates mitochondrial metabolism. (iv) Under pathological conditions of cellular [Ca2+]c overload, particularly in association with oxidative stress, mitochondrial Ca2+ uptake may trigger pathological states that lead to cell death. In the model of glutamate excitotoxicity, microdomains of [Ca2+]c are apparently central, as the pathway to cell death seems to require the local activation of neuronal nitric oxide synthase (nNOS), itself held by scaffolding proteins in close association with the NMDA receptor. Mitochondrial Ca2+ uptake in combination with NO production triggers the collapse of mitochondrial membrane potential, culminating in delayed cell death.", 
+    "lpage": "68", 
+    "grants": [], 
+    "journal-title": "The Journal of physiology", 
+    "fpage": "57", 
+    "keywords": [], 
+    "pubyear": "2000", 
+    "auths": [
+      [
+        "Duchen", 
+        "M R"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "Mitochondria and calcium: from cell signalling to cell death.", 
+    "pmid": "11080251", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2002"
+    ], 
+    "pubday": "10", 
+    "text": "Echtay, K. S., Murphy, M. P., Smith, R. A. J., Talbot, D. A., and Brand, M. D. (2002). Superoxide activates mitochondrial uncoupling protein 2 from the matrix side. J. Biol. Chem. 277, 47129&#x02013;47135.", 
+    "sponsors": [], 
+    "abstxt": "Superoxide activates nucleotide-sensitive mitochondrial proton transport through the uncoupling proteins UCP1, UCP2, and UCP3 (Echtay, K. S., et al. (2002) Nature 415, 1482-1486). Two possible mechanisms were proposed: direct activation of the UCP proton transport mechanism by superoxide or its products and a cycle of hydroperoxyl radical entry coupled to UCP-catalyzed superoxide anion export. Here we provide evidence for the first mechanism and show that superoxide activates UCP2 in rat kidney mitochondria from the matrix side of the mitochondrial inner membrane: (i) Exogenous superoxide inhibited matrix aconitase, showing that external superoxide entered the matrix. (ii) Superoxide-induced uncoupling was abolished by low concentrations of the mitochondrially targeted antioxidants 10-(6'-ubiquinonyl)decyltriphenylphosphonium (mitoQ) or 2-[2-(triphenylphosphonio)ethyl]-3,4-dihydro-2,5,7,8-tetramethyl-2H-1-benzopyran-6-ol bromide (mitoVit E), which are ubiquinone (Q) or tocopherol derivatives targeted to the matrix by covalent attachment to triphenylphosphonium cation. However, superoxide-induced uncoupling was not affected by similar concentrations of the nontargeted antioxidants Q(o), Q(1), decylubiquinone, vitamin E, or 6-hydroxy-2,5,7,8-tetramethylchroman 2-carboxylic acid (TROLOX) or of the mitochondrially targeted but redox-inactive analogs decyltriphenylphosphonium or 4-chlorobutyltriphenylphosphonium. Thus matrix superoxide appears to be necessary for activation of UCP2 by exogenous superoxide. (iii) When the reduced to oxidized ratio of mitoQ accumulated by mitochondria was increased by inhibiting cytochrome oxidase, it induced nucleotide-sensitive uncoupling that was not inhibited by external superoxide dismutase. Under these conditions quinols are known to produce superoxide, and because mitoQ is localized within the mitochondrial matrix this suggests that production of superoxide in the matrix was sufficient to activate UCP2. Furthermore, the superoxide did not need to be exported or to cycle across the inner membrane to cause uncoupling. We conclude that superoxide (or its products) exerts its uncoupling effect by activating the proton transport mechanism of uncoupling proteins at the matrix side of the mitochondrial inner membrane.", 
+    "lpage": "47135", 
+    "grants": [], 
+    "journal-title": "The Journal of biological chemistry", 
+    "fpage": "47129", 
+    "keywords": [], 
+    "pubyear": "2002", 
+    "auths": [
+      [
+        "Echtay", 
+        "Karim S"
+      ], 
+      [
+        "Murphy", 
+        "Michael P"
+      ], 
+      [
+        "Smith", 
+        "Robin A J"
+      ], 
+      [
+        "Talbot", 
+        "Darren A"
+      ], 
+      [
+        "Brand", 
+        "Martin D"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Superoxide activates mitochondrial uncoupling protein 2 from the matrix side. Studies using targeted antioxidants.", 
+    "pmid": "12372827", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1974"
+    ], 
+    "pubday": "1", 
+    "text": "Fienberg, S. E. (1974). Stochastic models for single neuron firing trains: a survey. Biometrics 30, 399&#x02013;427.", 
+    "sponsors": [], 
+    "abstxt": null, 
+    "lpage": "427", 
+    "grants": [], 
+    "journal-title": "Biometrics", 
+    "fpage": "399", 
+    "keywords": [], 
+    "pubyear": "1974", 
+    "auths": [
+      [
+        "Fienberg", 
+        "S E"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Stochastic models for single neuron firing trains: a survey.", 
+    "pmid": "4370394", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "text": "Fitzhugh, R. (1955). Mathematical models of threshold phenomena in the nerve membrane. Bull. Math. Biophys. 17, 257&#x02013;278."
+  }, 
+  {
+    "pyear": [
+      "2005"
+    ], 
+    "pubday": "7", 
+    "text": "Green, D. R., and Green, D. R. (2005). Apoptotic pathways: ten minutes to dead. Cell 121, 671&#x02013;674.", 
+    "sponsors": [], 
+    "abstxt": "For more than a decade, it has been apparent that apoptosis and other forms of cell death are often controlled at one or more crucial steps involving the mitochondria. Recent findings, including an elegant investigation in a recent issue of Cell (Hao et al., 2005), have helped to elucidate fundamental aspects of this involvement while raising puzzling new questions about mitochondrial routes to cellular demise. The emerging, if preliminary, perspective these new studies provide may represent either a refinement of our views of how cells die or, perhaps, the beginnings of what amounts to a reformulation of our ideas.", 
+    "lpage": "674", 
+    "grants": [], 
+    "journal-title": "Cell", 
+    "fpage": "671", 
+    "keywords": [], 
+    "pubyear": "2005", 
+    "auths": [
+      [
+        "Green", 
+        "Douglas R"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Apoptotic pathways: ten minutes to dead.", 
+    "pmid": "15935754", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2002"
+    ], 
+    "pubday": "2", 
+    "text": "Hardy, J., and Selkoe, D. J. (2002). The amyloid hypothesis of Alzheimer&#x02019;s disease: progress and problems on the road to therapeutics. Science 297, 2209.", 
+    "sponsors": [], 
+    "abstxt": null, 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Science (New York, N.Y.)", 
+    "fpage": "2209", 
+    "keywords": [], 
+    "pubyear": "2002", 
+    "auths": [
+      [
+        "Azaroff", 
+        "Leonid V"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "A bad agenda?", 
+    "pmid": "12353523", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2005"
+    ], 
+    "pubday": "10", 
+    "text": "Harrison, L. M., David, O., and Fritson, K. J. (2005). Stochastic models of neuronal dynamics. Philos. Trans. R. Soc. Lond. B Biol. Sci. 360, 1075&#x02013;1091.", 
+    "sponsors": [
+      "Wellcome Trust"
+    ], 
+    "abstxt": "Cortical activity is the product of interactions among neuronal populations. Macroscopic electrophysiological phenomena are generated by these interactions. In principle, the mechanisms of these interactions afford constraints on biologically plausible models of electrophysiological responses. In other words, the macroscopic features of cortical activity can be modelled in terms of the microscopic behaviour of neurons. An evoked response potential (ERP) is the mean electrical potential measured from an electrode on the scalp, in response to some event. The purpose of this paper is to outline a population density approach to modelling ERPs. We propose a biologically plausible model of neuronal activity that enables the estimation of physiologically meaningful parameters from electrophysiological data. The model encompasses four basic characteristics of neuronal activity and organization: (i) neurons are dynamic units, (ii) driven by stochastic forces, (iii) organized into populations with similar biophysical properties and response characteristics and (iv) multiple populations interact to form functional networks. This leads to a formulation of population dynamics in terms of the Fokker-Planck equation. The solution of this equation is the temporal evolution of a probability density over state-space, representing the distribution of an ensemble of trajectories. Each trajectory corresponds to the changing state of a neuron. Measurements can be modelled by taking expectations over this density, e.g. mean membrane potential, firing rate or energy consumption per neuron. The key motivation behind our approach is that ERPs represent an average response over many neurons. This means it is sufficient to model the probability density over neurons, because this implicitly models their average state. Although the dynamics of each neuron can be highly stochastic, the dynamics of the density is not. This means we can use Bayesian inference and estimation tools that have already been established for deterministic systems. The potential importance of modelling density dynamics (as opposed to more conventional neural mass models) is that they include interactions among the moments of neuronal states (e.g. the mean depolarization may depend on the variance of synaptic currents through nonlinear mechanisms).Here, we formulate a population model, based on biologically informed model-neurons with spike-rate adaptation and synaptic dynamics. Neuronal sub-populations are coupled to form an observation model, with the aim of estimating and making inferences about coupling among sub-populations using real data. We approximate the time-dependent solution of the system using a bi-orthogonal set and first-order perturbation expansion. For didactic purposes, the model is developed first in the context of deterministic input, and then extended to include stochastic effects. The approach is demonstrated using synthetic data, where model parameters are identified using a Bayesian estimation scheme we have described previously.", 
+    "lpage": "1091", 
+    "grants": [], 
+    "journal-title": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences", 
+    "fpage": "1075", 
+    "keywords": [], 
+    "pubyear": "2005", 
+    "auths": [
+      [
+        "Harrison", 
+        "L M"
+      ], 
+      [
+        "David", 
+        "O"
+      ], 
+      [
+        "Friston", 
+        "K J"
+      ]
+    ], 
+    "pubmonth": "8", 
+    "article-title": "Stochastic models of neuronal dynamics.", 
+    "pmid": "16087449", 
+    "pmonth": [
+      "May"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2000"
+    ], 
+    "pubday": "24", 
+    "text": "Hayashi, Y., Shi, S. H., Esteban, J. A., Piccini, A., Poncer, J. C., and Malinow, R. (2000). Driving AMPA receptors into synapses by LTP and CaMKII: requirement for GluR1 and PDZ domain interaction. Science 287, 2262&#x02013;2267.", 
+    "sponsors": [], 
+    "abstxt": "To elucidate mechanisms that control and execute activity-dependent synaptic plasticity, alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate receptors (AMPA-Rs) with an electrophysiological tag were expressed in rat hippocampal neurons. Long-term potentiation (LTP) or increased activity of the calcium/calmodulin-dependent protein kinase II (CaMKII) induced delivery of tagged AMPA-Rs into synapses. This effect was not diminished by mutating the CaMKII phosphorylation site on the GluR1 AMPA-R subunit, but was blocked by mutating a predicted PDZ domain interaction site. These results show that LTP and CaMKII activity drive AMPA-Rs to synapses by a mechanism that requires the association between GluR1 and a PDZ domain protein.", 
+    "lpage": "2267", 
+    "grants": [], 
+    "journal-title": "Science (New York, N.Y.)", 
+    "fpage": "2262", 
+    "keywords": [], 
+    "pubyear": "2000", 
+    "auths": [
+      [
+        "Hayashi", 
+        "Y"
+      ], 
+      [
+        "Shi", 
+        "S H"
+      ], 
+      [
+        "Esteban", 
+        "J A"
+      ], 
+      [
+        "Piccini", 
+        "A"
+      ], 
+      [
+        "Poncer", 
+        "J C"
+      ], 
+      [
+        "Malinow", 
+        "R"
+      ]
+    ], 
+    "pubmonth": "3", 
+    "article-title": "Driving AMPA receptors into synapses by LTP and CaMKII: requirement for GluR1 and PDZ domain interaction.", 
+    "pmid": "10731148", 
+    "pmonth": [
+      "Mar"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "20", 
+    "text": "Hirai, K., Aliev, G., Nunomura, A., Fujioka, H., Russell, R. L., Atwood, C. S., Johnson, A. B., Kress, Y., Vinters, H. V., Tabaton, M., Shimohama, S., Cash, A. D., Siedlak, S. L., Harris, P. L., Jones, P. K., Petersen, R. B., Perry, G., and Smith, M. A. (2001). Mitochondrial abnormalities in Alzheimer&#x02019;s disease. J. Neurosci. 21, 3017&#x02013;3023.", 
+    "sponsors": [
+      "NIA", 
+      "NIA", 
+      "NINDS", 
+      "NIA"
+    ], 
+    "abstxt": "The finding that oxidative damage, including that to nucleic acids, in Alzheimer's disease is primarily limited to the cytoplasm of susceptible neuronal populations suggests that mitochondrial abnormalities might be part of the spectrum of chronic oxidative stress of Alzheimer's disease. In this study, we used in situ hybridization to mitochondrial DNA (mtDNA), immunocytochemistry of cytochrome oxidase, and morphometry of electron micrographs of biopsy specimens to determine whether there are mitochondrial abnormalities in Alzheimer's disease and their relationship to oxidative damage marked by 8-hydroxyguanosine and nitrotyrosine. We found that the same neurons showing increased oxidative damage in Alzheimer's disease have a striking and significant increase in mtDNA and cytochrome oxidase. Surprisingly, much of the mtDNA and cytochrome oxidase is found in the neuronal cytoplasm and in the case of mtDNA, the vacuoles associated with lipofuscin. Morphometric analysis showed that mitochondria are significantly reduced in Alzheimer's disease. The relationship shown here between the site and extent of mitochondrial abnormalities and oxidative damage suggests an intimate and early association between these features in Alzheimer's disease.", 
+    "lpage": "3023", 
+    "grants": [
+      "AG09287", 
+      "AG14249", 
+      "NS38648", 
+      "P50 AG16570"
+    ], 
+    "journal-title": "The Journal of neuroscience : the official journal of the Society for Neuroscience", 
+    "fpage": "3017", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Hirai", 
+        "K"
+      ], 
+      [
+        "Aliev", 
+        "G"
+      ], 
+      [
+        "Nunomura", 
+        "A"
+      ], 
+      [
+        "Fujioka", 
+        "H"
+      ], 
+      [
+        "Russell", 
+        "R L"
+      ], 
+      [
+        "Atwood", 
+        "C S"
+      ], 
+      [
+        "Johnson", 
+        "A B"
+      ], 
+      [
+        "Kress", 
+        "Y"
+      ], 
+      [
+        "Vinters", 
+        "H V"
+      ], 
+      [
+        "Tabaton", 
+        "M"
+      ], 
+      [
+        "Shimohama", 
+        "S"
+      ], 
+      [
+        "Cash", 
+        "A D"
+      ], 
+      [
+        "Siedlak", 
+        "S L"
+      ], 
+      [
+        "Harris", 
+        "P L"
+      ], 
+      [
+        "Jones", 
+        "P K"
+      ], 
+      [
+        "Petersen", 
+        "R B"
+      ], 
+      [
+        "Perry", 
+        "G"
+      ], 
+      [
+        "Smith", 
+        "M A"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "Mitochondrial abnormalities in Alzheimer's disease.", 
+    "pmid": "11312286", 
+    "pmonth": [
+      "May"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1952"
+    ], 
+    "pubday": "1", 
+    "text": "Hodgkin, A. L., and Huxley, A. F. (1952). A quantitative description of membrane current and its application to conduction and excitation in nerve. J. Physiol. (Lond.) 117, 500&#x02013;544.", 
+    "sponsors": [], 
+    "abstxt": null, 
+    "lpage": "544", 
+    "grants": [], 
+    "journal-title": "The Journal of physiology", 
+    "fpage": "500", 
+    "keywords": [], 
+    "pubyear": "1952", 
+    "auths": [
+      [
+        "HODGKIN", 
+        "A L"
+      ], 
+      [
+        "HUXLEY", 
+        "A F"
+      ]
+    ], 
+    "pubmonth": "8", 
+    "article-title": "A quantitative description of membrane current and its application to conduction and excitation in nerve.", 
+    "pmid": "12991237", 
+    "pmonth": [
+      "Aug"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "5", 
+    "text": "J&#x000E4;ger, S., Handschin, C., St-Pierre, J., and Spiegelman, B. M. (2007). AMP-activated protein kinase (AMPK) action in skeletal muscle via direct phosphorylation of PGC-1&#x003B1;. PNAS 104, 12017&#x02013;12022.", 
+    "sponsors": [
+      "NIDDK", 
+      "NIDDK"
+    ], 
+    "abstxt": "Activation of AMP-activated kinase (AMPK) in skeletal muscle increases glucose uptake, fatty acid oxidation, and mitochondrial biogenesis by increasing gene expression in these pathways. However, the transcriptional components that are directly targeted by AMPK are still elusive. The peroxisome-proliferator-activated receptor gamma coactivator 1alpha (PGC-1alpha) has emerged as a master regulator of mitochondrial biogenesis; furthermore, it has been shown that PGC-1alpha gene expression is induced by exercise and by chemical activation of AMPK in skeletal muscle. Using primary muscle cells and mice deficient in PGC-1alpha, we found that the effects of AMPK on gene expression of glucose transporter 4, mitochondrial genes, and PGC-1alpha itself are almost entirely dependent on the function of PGC-1alpha protein. Furthermore, AMPK phosphorylates PGC-1alpha directly both in vitro and in cells. These direct phosphorylations of the PGC-1alpha protein at threonine-177 and serine-538 are required for the PGC-1alpha-dependent induction of the PGC-1alpha promoter. These data indicate that AMPK phosphorylation of PGC-1alpha initiates many of the important gene regulatory functions of AMPK in skeletal muscle.", 
+    "lpage": "12022", 
+    "grants": [
+      "DK54477", 
+      "P30 DK040561-12"
+    ], 
+    "journal-title": "Proceedings of the National Academy of Sciences of the United States of America", 
+    "fpage": "12017", 
+    "keywords": [], 
+    "pubyear": "2007", 
+    "auths": [
+      [
+        "J\ucc44ger", 
+        "Sibylle"
+      ], 
+      [
+        "Handschin", 
+        "Christoph"
+      ], 
+      [
+        "St-Pierre", 
+        "Julie"
+      ], 
+      [
+        "Spiegelman", 
+        "Bruce M"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "AMP-activated protein kinase (AMPK) action in skeletal muscle via direct phosphorylation of PGC-1alpha.", 
+    "pmid": "17609368", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1999"
+    ], 
+    "pubday": "26", 
+    "text": "Jouaville, L. S., Pinton, P., Bastianutto, C., Rutter, G. A., and Rizzuto, R. (1999). Regulation of mitochondrial ATP synthesis by calcium: evidence for a long-term metabolic priming. Proc. Natl. Acad. Sci. U.S.A. 96, 13807&#x02013;13812.", 
+    "sponsors": [
+      "Telethon", 
+      "Wellcome Trust"
+    ], 
+    "abstxt": "In recent years, mitochondria have emerged as important targets of agonist-dependent increases in cytosolic Ca(2+) concentration. Here, we analyzed the significance of Ca(2+) signals for the modulation of organelle function by directly measuring mitochondrial and cytosolic ATP levels ([ATP](m) and [ATP](c), respectively) with specifically targeted chimeras of the ATP-dependent photoprotein luciferase. In both HeLa cells and primary cultures of skeletal myotubes, stimulation with agonists evoking cytosolic and mitochondrial Ca(2+) signals caused increases in [ATP](m) and [ATP](c) that depended on two parameters: (i) the amplitude of the Ca(2+) rise in the mitochondrial matrix, and (ii) the availability of mitochondrial substrates. Moreover, the Ca(2+) elevation induced a long-lasting priming that persisted long after agonist washout and caused a major increase in [ATP](m) upon addition of oxidative substrates. These results demonstrate a direct role of mitochondrial Ca(2+) in driving ATP production and unravel a form of cellular memory that allows a prolonged metabolic activation in stimulated cells.", 
+    "lpage": "13812", 
+    "grants": [
+      "850"
+    ], 
+    "journal-title": "Proceedings of the National Academy of Sciences of the United States of America", 
+    "fpage": "13807", 
+    "keywords": [], 
+    "pubyear": "1999", 
+    "auths": [
+      [
+        "Jouaville", 
+        "L S"
+      ], 
+      [
+        "Pinton", 
+        "P"
+      ], 
+      [
+        "Bastianutto", 
+        "C"
+      ], 
+      [
+        "Rutter", 
+        "G A"
+      ], 
+      [
+        "Rizzuto", 
+        "R"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "Regulation of mitochondrial ATP synthesis by calcium: evidence for a long-term metabolic priming.", 
+    "pmid": "10570154", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "text": "Kandel, E. R., Schwartz, J., and Jessell, T. (1991). Principles of Neuroscience, 4th Edn. New York: McGraw-Hill."
+  }, 
+  {
+    "text": "Keizer, K. (2002). Computational Cell Biology. New York: Springer Publications."
+  }, 
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "15", 
+    "text": "Linden, D. J. (2001). The expression of cerebellar LTD in culture is not associated with changes in AMPA-receptor kinetics, agonist affinity, or unitary conductance. Proc. Natl. Acad. Sci. U.S.A. 98, 14066&#x02013;14071.", 
+    "sponsors": [
+      "NIMH", 
+      "NIMH"
+    ], 
+    "abstxt": "Cerebellar long-term synaptic depression (LTD) is a model system of neuronal information storage that is expressed postsynaptically as a functional down-regulation of alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptors. What properties of postsynaptic AMPA receptors are changed? Several lines of evidence argue against changes in AMPA-receptor kinetics. Neither LTD evoked in cultured granule-cell Purkinje cell (PC) pairs nor an LTD-like phenomenon evoked by phorbol ester application was associated with alterations in evoked AMPA receptor-mediated excitatory post-synaptic current (EPSC) or mEPSC kinetics. LTD produced by pairing glutamate pulses with depolarization was not altered by prior application of the desensitization-reducing compound cyclothiazide. Finally, rapid application of glutamate to lifted PCs revealed no significant alterations in AMPA-receptor kinetic properties after LTD induction. When this system was used to apply varying concentrations of glutamate, no alteration in AMPA-receptor glutamate affinity was seen after LTD induction. Finally, peak-scaled nonstationary fluctuation analysis was applied to estimate AMPA-receptor unitary conductance before and after LTD induction in a cultured cell pair, and this analysis too revealed no significant change. These results suggest that cerebellar LTD may be expressed solely as a reduction in the number of functional AMPA receptors in the postsynaptic density [Wang, Y.-T. &amp; Linden, D. J. (2000) Neuron 25, 635-664].", 
+    "lpage": "14071", 
+    "grants": [
+      "MH01590", 
+      "MH51106"
+    ], 
+    "journal-title": "Proceedings of the National Academy of Sciences of the United States of America", 
+    "fpage": "14066", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Linden", 
+        "D J"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "The expression of cerebellar LTD in culture is not associated with changes in AMPA-receptor kinetics, agonist affinity, or unitary conductance.", 
+    "pmid": "11707583", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "text": "Mattson, M. P., Gleichmann, M., and Cheng, A. (2008). Mitochondria in neuroplasticity and neurological disorders. J. Neurosci. 60, 748&#x02013;766."
+  }, 
+  {
+    "pyear": [
+      "2006"
+    ], 
+    "pubday": "1", 
+    "text": "Mogilevskaya, E., Demin, O., and Goryanin, I. (2006). Kinetic model of mitochondrial Krebs cycle: unraveling the mechanism of salicylate hepatotoxic effects. J. Biol. Phys. 32, 245&#x02013;271.", 
+    "sponsors": [], 
+    "abstxt": "This paper studies the effect of salicylate on the energy metabolism of mitochondria using in silico simulations. A kinetic model of the mitochondrial Krebs cycle is constructed using information on the individual enzymes. Model parameters for the rate equations are estimated using in vitro experimental data from the literature. Enzyme concentrations are determined from data on respiration in mitochondrial suspensions containing glutamate and malate. It is shown that inhibition in succinate dehydrogenase and alpha-ketoglutarate dehydrogenase by salicylate contributes substantially to the cumulative inhibition of the Krebs cycle by salicylates. Uncoupling of oxidative phosphorylation has little effect and coenzyme A consumption in salicylates transformation processes has an insignificant effect on the rate of substrate oxidation in the Krebs cycle. It is found that the salicylate-inhibited Krebs cycle flux can be increased by flux redirection through addition of external glutamate and malate, and depletion in external alpha-ketoglutarate and glycine concentrations.", 
+    "lpage": "271", 
+    "grants": [], 
+    "journal-title": "Journal of biological physics", 
+    "fpage": "245", 
+    "keywords": [], 
+    "pubyear": "2006", 
+    "auths": [
+      [
+        "Mogilevskaya", 
+        "Ekaterina"
+      ], 
+      [
+        "Demin", 
+        "Oleg"
+      ], 
+      [
+        "Goryanin", 
+        "Igor"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Kinetic model of mitochondrial Krebs cycle: unraveling the mechanism of salicylate hepatotoxic effects.", 
+    "pmid": "19669466", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "text": "Mohan, A. (2008). The MMINi-DASS Simulator and its Application to Visual Pathway Connectivity Prediction. [A thesis submitted to WAran Research FoundaTion]. Available at: http://www.warftindia.org/Ashutosh.pdf"
+  }, 
+  {
+    "text": "Mohan, A., Nagarajan, V., Sekhar, S., Sharath, N. K., Thiagarajan, T. S., Ramanathan, S., and Kannan, D. (2010a). &#x0201C;Energetics based simulation of large-scale 3D neuronal network: energetics-based models,&#x0201D; in Frontiers Neuroscience Conference Abstract: Neuroinformatics 2010, Kobe. doi: 10.3389/conf.fnins.2010.13.00092"
+  }, 
+  {
+    "text": "Mohan, A., Nagarajan, V., Ramanathan, S., Sekhar, S., Thiagarajan, T. S., Kannan, D., and Sharath, N. K. (2010b). &#x0201C;Energetics-based simulation of 3D neuronal network: neurogenesis-inspired structure generation,&#x0201D; in Frontiers Neuroscience Conference Abstract: Neuroinformatics 2010, Kobe. doi: 10.3389/conf.fnins.2010.13.00097"
+  }, 
+  {
+    "pyear": [
+      "1982"
+    ], 
+    "pubday": "1", 
+    "text": "Oja, E. (1982). A simplified neuron model as a principal component analyzer. J. Math. Biol. 15, 267&#x02013;273.", 
+    "sponsors": [], 
+    "abstxt": null, 
+    "lpage": "273", 
+    "grants": [], 
+    "journal-title": "Journal of mathematical biology", 
+    "fpage": "267", 
+    "keywords": [], 
+    "pubyear": "1982", 
+    "auths": [
+      [
+        "Oja", 
+        "E"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "A simplified neuron model as a principal component analyzer.", 
+    "pmid": "7153672", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "14", 
+    "text": "Parekh, A. B. (2003). Mitochondrial regulation of intracellular Ca2&#43; signaling: more than just simple Ca2&#43; buffers. News Physiol. Sci. 18, 252&#x02013;256.", 
+    "sponsors": [], 
+    "abstxt": "Mitochondrial Ca(2+) uptake shapes the profile of intracellular Ca(2+) signals, both spatially and temporally. In addition, such uptake controls the gating of Ca(2+) release and store-operated Ca(2+) entry channels, partitions cells into subcellular Ca(2+) hotspots, and can result in the release of diffusible signals into the cytosol that subsequently regulate protein function.", 
+    "lpage": "256", 
+    "grants": [], 
+    "journal-title": "News in physiological sciences : an international journal of physiology produced jointly by the International Union of Physiological Sciences and the American Physiological Society", 
+    "fpage": "252", 
+    "keywords": [], 
+    "pubyear": "2003", 
+    "auths": [
+      [
+        "Parekh", 
+        "Anant B"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "Mitochondrial regulation of intracellular Ca2+ signaling: more than just simple Ca2+ buffers.", 
+    "pmid": "14614159", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1957"
+    ], 
+    "pubday": "6", 
+    "text": "Rall, W. (1957). Membrane time constant of motoneurons. Science 126, 454.", 
+    "sponsors": [], 
+    "abstxt": null, 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Science (New York, N.Y.)", 
+    "fpage": "454", 
+    "keywords": [], 
+    "pubyear": "1957", 
+    "auths": [
+      [
+        "RALL", 
+        "W"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Membrane time constant of motoneurons.", 
+    "pmid": "13467230", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1959"
+    ], 
+    "pubday": "1", 
+    "text": "Rall, W. (1959). Branching dendritic trees and motoneuron membrane resistivity. Exp. Neurol. 1, 491&#x02013;527.", 
+    "sponsors": [], 
+    "abstxt": null, 
+    "lpage": "527", 
+    "grants": [], 
+    "journal-title": "Experimental neurology", 
+    "fpage": "491", 
+    "keywords": [], 
+    "pubyear": "1959", 
+    "auths": [
+      [
+        "RALL", 
+        "W"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "Branching dendritic trees and motoneuron membrane resistivity.", 
+    "pmid": "14435979", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1960"
+    ], 
+    "pubday": "1", 
+    "text": "Rall, W. (1960). Membrane potential transients and membrane time constant of motoneurons. Exp. Neurol. 2, 503&#x02013;532.", 
+    "sponsors": [], 
+    "abstxt": null, 
+    "lpage": "532", 
+    "grants": [], 
+    "journal-title": "Experimental neurology", 
+    "fpage": "503", 
+    "keywords": [], 
+    "pubyear": "1960", 
+    "auths": [
+      [
+        "RALL", 
+        "W"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Membrane potential transients and membrane time constant of motoneurons.", 
+    "pmid": "13739270", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "text": "Ramanathan, S. (2011). 3D Neuronal Structure: Towards Generation, Simulation and Optimization for Brain Specific Region. [A thesis submitted to WAran Research FoundaTion]. Available at: www.warftindia.org/Subbu.pdf"
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "18", 
+    "text": "Remy, S., and Spruston, N. (2007). Dendritic spikes induce single-burst long-term potentiation. Proc. Natl. Acad. Sci. U.S.A. 104, 17192&#x02013;17197.", 
+    "sponsors": [
+      "NIMH", 
+      "NINDS", 
+      "NCRR"
+    ], 
+    "abstxt": "The hippocampus is essential for episodic memory, which requires single-trial learning. Although long-term potentiation (LTP) of synaptic strength is a candidate mechanism for learning, it is typically induced by using repeated synaptic activation to produce precisely timed, high-frequency, or rhythmic firing. Here we show that hippocampal synapses potentiate robustly in response to strong activation by a single burst. The induction mechanism of this single-burst LTP requires activation of NMDA receptors, L-type voltage-gated calcium channels, and dendritic spikes. Thus, dendritic spikes are a critical trigger for a form of LTP that is consistent with the function of the hippocampus in episodic memory.", 
+    "lpage": "17197", 
+    "grants": [
+      "MH 074866", 
+      "NS 35180", 
+      "RR 01549"
+    ], 
+    "journal-title": "Proceedings of the National Academy of Sciences of the United States of America", 
+    "fpage": "17192", 
+    "keywords": [], 
+    "pubyear": "2007", 
+    "auths": [
+      [
+        "Remy", 
+        "Stefan"
+      ], 
+      [
+        "Spruston", 
+        "Nelson"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Dendritic spikes induce single-burst long-term potentiation.", 
+    "pmid": "17940015", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "text": "Reutimann, J. A. (1999). Model of synaptic short-term plasticity and its adaptation."
+  }, 
+  {
+    "pyear": [
+      "2004"
+    ], 
+    "pubday": "30", 
+    "text": "Rousset, S., Alves-Guerra, M. C., Mozo, J., Miroux, B., Cassard-Doulcier, A. M., Bouillaud, F., and Ricquier, D. (2004). The biology of uncoupling proteins. Diabetes 53(Suppl. 1), S130&#x02013;S135.", 
+    "sponsors": [], 
+    "abstxt": "Uncoupling proteins (UCPs) are mitochondrial transporters present in the inner membrane of mitochondria. They are found in all mammals and in plants. They belong to the family of anion mitochondrial carriers including adenine nucleotide transporters. The term &quot;uncoupling protein&quot; was originally used for UCP1, which is uniquely present in mitochondria of brown adipocytes, the thermogenic cells that maintain body temperature in small rodents. In these cells, UCP1 acts as a proton carrier activated by free fatty acids and creates a shunt between complexes of the respiratory chain and ATP synthase. Activation of UCP1 enhances respiration, and the uncoupling process results in a futile cycle and dissipation of oxidation energy as heat. UCP2 is ubiquitous and highly expressed in the lymphoid system, macrophages, and pancreatic islets. UCP3 is mainly expressed in skeletal muscles. In comparison to the established uncoupling and thermogenic activities of UCP1, UCP2 and UCP3 appear to be involved in the limitation of free radical levels in cells rather than in physiological uncoupling and thermogenesis. Moreover, UCP2 is a regulator of insulin secretion and UCP3 is involved in fatty acid metabolism.", 
+    "lpage": "S135", 
+    "grants": [], 
+    "journal-title": "Diabetes", 
+    "fpage": "S130", 
+    "keywords": [], 
+    "pubyear": "2004", 
+    "auths": [
+      [
+        "Rousset", 
+        "Sophie"
+      ], 
+      [
+        "Alves-Guerra", 
+        "Marie-Clotilde"
+      ], 
+      [
+        "Mozo", 
+        "Julien"
+      ], 
+      [
+        "Miroux", 
+        "Bruno"
+      ], 
+      [
+        "Cassard-Doulcier", 
+        "Anne-Marie"
+      ], 
+      [
+        "Bouillaud", 
+        "Fr\u00e9d\u00e9ric"
+      ], 
+      [
+        "Ricquier", 
+        "Daniel"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "The biology of mitochondrial uncoupling proteins.", 
+    "pmid": "14749278", 
+    "pmonth": [
+      "Feb"
+    ]
+  }, 
+  {
+    "text": "Schulman, R. G., and Rothman, D. L. (2004). Brain Energetics and Neuronal Activity. Chichester: Wiley."
+  }, 
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "3", 
+    "text": "Schuss, Z., Nadler, B., and Eisenberg, R. S. (2001). Derivation of Poisson and Nernst-Planck equations in a bath and channel from a molecular model. Phys. Rev. E Stat. Nonlin. Soft Matter Phys. 64, 036116.", 
+    "sponsors": [], 
+    "abstxt": "Permeation of ions from one electrolytic solution to another, through a protein channel, is a biological process of considerable importance. Permeation occurs on a time scale of micro- to milliseconds, far longer than the femtosecond time scales of atomic motion. Direct simulations of atomic dynamics are not yet possible for such long-time scales; thus, averaging is unavoidable. The question is what and how to average. In this paper, we average a Langevin model of ionic motion in a bulk solution and protein channel. The main result is a coupled system of averaged Poisson and Nernst-Planck equations (CPNP) involving conditional and unconditional charge densities and conditional potentials. The resulting NP equations contain the averaged force on a single ion, which is the sum of two components. The first component is the gradient of a conditional electric potential that is the solution of Poisson's equation with conditional and permanent charge densities and boundary conditions of the applied voltage. The second component is the self-induced force on an ion due to surface charges induced only by that ion at dielectric interfaces. The ion induces surface polarization charge that exerts a significant force on the ion itself, not present in earlier PNP equations. The proposed CPNP system is not complete, however, because the electric potential satisfies Poisson's equation with conditional charge densities, conditioned on the location of an ion, while the NP equations contain unconditional densities. The conditional densities are closely related to the well-studied pair-correlation functions of equilibrium statistical mechanics. We examine a specific closure relation, which on the one hand replaces the conditional charge densities by the unconditional ones in the Poisson equation, and on the other hand replaces the self-induced force in the NP equation by an effective self-induced force. This effective self-induced force is nearly zero in the baths but is approximately equal to the self-induced force in and near the channel. The charge densities in the NP equations are interpreted as time averages over long times of the motion of a quasiparticle that diffuses with the same diffusion coefficient as that of a real ion, but is driven by the averaged force. In this way, continuum equations with averaged charge densities and mean-fields can be used to describe permeation through a protein channel.", 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Physical review. E, Statistical, nonlinear, and soft matter physics", 
+    "fpage": "036116", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Schuss", 
+        "Z"
+      ], 
+      [
+        "Nadler", 
+        "B"
+      ], 
+      [
+        "Eisenberg", 
+        "R S"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Derivation of Poisson and Nernst-Planck equations in a bath and channel from a molecular model.", 
+    "pmid": "11580403", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2006"
+    ], 
+    "pubday": "30", 
+    "text": "Sherwood, C. C., Stimpson, C. D., Raghanti, M. N., Wildman, D. E. Uddin, M., Grossman, L. I., Goodman, M., Redmond, J. C., Bonar, C. J., Erwin, J. M., and Hof, P. R. (2006). Evolution of increased glia&#x02013;neuron ratios in the human frontal cortex. Proc. Natl. Acad. Sci. U.S.A. 103, 13606&#x02013;13611.", 
+    "sponsors": [
+      "NIA"
+    ], 
+    "abstxt": "Evidence from comparative studies of gene expression and evolution suggest that human neocortical neurons may be characterized by unusually high levels of energy metabolism. The current study examined whether there is a disproportionate increase in glial cell density in the human frontal cortex in comparison with other anthropoid primate species (New World monkeys, Old World monkeys, and hominoids) to support greater metabolic demands. Among 18 species of anthropoids, humans displayed the greatest departure from allometric scaling expectations for the density of glia relative to neurons in layer II/III of dorsolateral prefrontal cortex (area 9L). However, the human glia-neuron ratio in this prefrontal region did not differ significantly from allometric predictions based on brain size. Further analyses of glia-neuron ratios across frontal areas 4, 9L, 32, and 44 in a sample of humans, chimpanzees, and macaque monkeys showed that regions involved in specialized human cognitive functions, such as &quot;theory of mind&quot; (area 32) and language (area 44) have not evolved differentially higher requirements for metabolic support. Taken together, these findings suggest that greater metabolic consumption of human neocortical neurons relates to the energetic costs of maintaining expansive dendritic arbors and long-range projecting axons in the context of an enlarged brain.", 
+    "lpage": "13611", 
+    "grants": [
+      "P30 AG13854"
+    ], 
+    "journal-title": "Proceedings of the National Academy of Sciences of the United States of America", 
+    "fpage": "13606", 
+    "keywords": [], 
+    "pubyear": "2006", 
+    "auths": [
+      [
+        "Sherwood", 
+        "Chet C"
+      ], 
+      [
+        "Stimpson", 
+        "Cheryl D"
+      ], 
+      [
+        "Raghanti", 
+        "Mary Ann"
+      ], 
+      [
+        "Wildman", 
+        "Derek E"
+      ], 
+      [
+        "Uddin", 
+        "Monica"
+      ], 
+      [
+        "Grossman", 
+        "Lawrence I"
+      ], 
+      [
+        "Goodman", 
+        "Morris"
+      ], 
+      [
+        "Redmond", 
+        "John C"
+      ], 
+      [
+        "Bonar", 
+        "Christopher J"
+      ], 
+      [
+        "Erwin", 
+        "Joseph M"
+      ], 
+      [
+        "Hof", 
+        "Patrick R"
+      ]
+    ], 
+    "pubmonth": "8", 
+    "article-title": "Evolution of increased glia-neuron ratios in the human frontal cortex.", 
+    "pmid": "16938869", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "text": "Shulman, R. G., and Rothman, D. L. (eds) (2005). Brain Energetics, and Neuronal Activity. Chichester: John Wiley and Sons Limited, 315."
+  }, 
+  {
+    "text": "Sklar, B. (2001). Digital Communications: Fundamentals and Applications. New Jersey: Prentice Hall."
+  }, 
+  {
+    "pyear": [
+      "2004"
+    ], 
+    "pubday": "21", 
+    "text": "Steinberg, J. P., Huganir, R. L., and Linden, D. J. (2004). N-ethylmaleimide-sensitive factor is required for the synaptic incorporation and removal of AMPA receptors during cerebellar long-term depression. Proc. Natl. Acad. Sci. U.S.A. 101, 18212&#x02013;18216.", 
+    "sponsors": [], 
+    "abstxt": "Cerebellar long-term depression (LTD) is a persistent attenuation of synaptic transmission at the parallel fiber-Purkinje cell synapse mediated by the removal of GluR2 subunit-containing alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptors. The removal of AMPA receptors requires protein kinase C phosphorylation of the GluR2 subunit within its carboxyl-terminal PSD-95/Discs Large/Zona Occludens-1 (PDZ) ligand and binding of the PDZ domain-containing protein, PICK1. The sequence of the GluR2 subunit is similar to that of the GluR3 and GluR4c subunits, which also contain PDZ ligands and protein kinase C consensus sites. Although GluR3 and GluR4c are also expressed in Purkinje cells, we have previously shown that cerebellar LTD is absent in GluR2(-/-) mice, suggesting that these subunits are unable to substitute functionally for GluR2. Here, we examine the apparent difference in the regulation of these AMPA receptor subunits by attempting to rescue LTD in GluR2(-/-) Purkinje cells with WT and mutant GluR2 and GluR3 subunits. Our results show that the selective interaction of the GluR2 subunit with the N-ethylmaleimide-sensitive factor protein is required for synaptic, but not extrasynaptic, incorporation of AMPA receptors as well as for their competence to undergo LTD. In addition, perfusion of a synthetic peptide that acutely disrupts the interaction of GluR2 with N-ethylmaleimide-sensitive factor selectively depletes GluR2-containing receptors from synapses and occludes LTD. These findings demonstrate that interaction of AMPA receptors with N-ethylmaleimide-sensitive factor plays a critical role in incorporation of AMPA receptors into synapses and for their subsequent removal during cerebellar LTD.", 
+    "lpage": "18216", 
+    "grants": [], 
+    "journal-title": "Proceedings of the National Academy of Sciences of the United States of America", 
+    "fpage": "18212", 
+    "keywords": [], 
+    "pubyear": "2004", 
+    "auths": [
+      [
+        "Steinberg", 
+        "Jordan P"
+      ], 
+      [
+        "Huganir", 
+        "Richard L"
+      ], 
+      [
+        "Linden", 
+        "David J"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "N-ethylmaleimide-sensitive factor is required for the synaptic incorporation and removal of AMPA receptors during cerebellar long-term depression.", 
+    "pmid": "15608060", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2004"
+    ], 
+    "pubday": "26", 
+    "text": "S&#x000FC;dhof, T. C. (2004). The synaptic vesicle cycle. Annu. Rev. Neurosci. 27, 509&#x02013;547.", 
+    "sponsors": [], 
+    "abstxt": "Neurotransmitter release is mediated by exocytosis of synaptic vesicles at the presynaptic active zone of nerve terminals. To support rapid and repeated rounds of release, synaptic vesicles undergo a trafficking cycle. The focal point of the vesicle cycle is Ca2+-triggered exocytosis that is followed by different routes of endocytosis and recycling. Recycling then leads to the docking and priming of the vesicles for another round of exo- and endocytosis. Recent studies have led to a better definition than previously available of how Ca2+ triggers exocytosis and how vesicles recycle. In particular, insight into how Munc18-1 collaborates with SNARE proteins in fusion, how the vesicular Ca2+ sensor synaptotagmin 1 triggers fast release, and how the vesicular Rab3 protein regulates release by binding to the active zone proteins RIM1 alpha and RIM2 alpha has advanced our understanding of neurotransmitter release. The present review attempts to relate these molecular data with physiological results in an emerging view of nerve terminals as macromolecular machines.", 
+    "lpage": "547", 
+    "grants": [], 
+    "journal-title": "Annual review of neuroscience", 
+    "fpage": "509", 
+    "keywords": [], 
+    "pubyear": "2004", 
+    "auths": [
+      [
+        "Sudhof", 
+        "Thomas C"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "The synaptic vesicle cycle.", 
+    "pmid": "15217342", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2000"
+    ], 
+    "pubday": "11", 
+    "text": "Tsodyks, M., Uziel, A., and Markram, H. (2000). Synchrony generation in recurrent networks with frequency-dependent synapses. J. Neurosci. 20, RC50.", 
+    "sponsors": [], 
+    "abstxt": "Throughout the neocortex, groups of neurons have been found to fire synchronously on the time scale of several milliseconds. This near coincident firing of neurons could coordinate the multifaceted information of different features of a stimulus. The mechanisms of generating such synchrony are not clear. We simulated the activity of a population of excitatory and inhibitory neurons randomly interconnected into a recurrent network via synapses that display temporal dynamics in their transmission; surprisingly, we found a behavior of the network where action potential activity spontaneously self-organized to produce highly synchronous bursts involving virtually the entire network. These population bursts were also triggered by stimuli to the network in an all-or-none manner. We found that the particular intensities of the external stimulus to specific neurons were crucial to evoke population bursts. This topographic sensitivity therefore depends on the spectrum of basal discharge rates across the population and not on the anatomical individuality of the neurons, because this was random. These results suggest that networks in which neurons are even randomly interconnected via frequency-dependent synapses could exhibit a novel form of reflex response that is sensitive to the nature of the stimulus as well as the background spontaneous activity.", 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "The Journal of neuroscience : the official journal of the Society for Neuroscience", 
+    "fpage": "RC50", 
+    "keywords": [], 
+    "pubyear": "2000", 
+    "auths": [
+      [
+        "Tsodyks", 
+        "M"
+      ], 
+      [
+        "Uziel", 
+        "A"
+      ], 
+      [
+        "Markram", 
+        "H"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Synchrony generation in recurrent networks with frequency-dependent synapses.", 
+    "pmid": "10627627", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1997"
+    ], 
+    "pubday": "1", 
+    "text": "Turrens, J. F. (1997). Superoxide production by the mitochondrial respiratory chain. Biosci. Rep. 17, 3&#x02013;8.", 
+    "sponsors": [], 
+    "abstxt": null, 
+    "lpage": "8", 
+    "grants": [], 
+    "journal-title": "Bioscience reports", 
+    "fpage": "3", 
+    "keywords": [], 
+    "pubyear": "1997", 
+    "auths": [
+      [
+        "Turrens", 
+        "J F"
+      ]
+    ], 
+    "pubmonth": "2", 
+    "article-title": "Superoxide production by the mitochondrial respiratory chain.", 
+    "pmid": "9171915", 
+    "pmonth": [
+      "Feb"
+    ]
+  }, 
+  {
+    "text": "van Pelt, J., van Ooyen, A., and Uylings, H. B. M. (2001). &#x0201C;Modeling dendritic geometry and the development of nerve connections,&#x0201D; in Computational Neuroscience: Realistic Modeling for Experimentalists, ed. E. De Schutter (Boca Raton: CRC Press), 179&#x02013;208."
+  }, 
+  {
+    "text": "Venkateswaran, N., Elangovan, V. K., Ganesan, K., Sagar, T. R. S., Aananthakrishanan, S., Ramalingam, S., Gopalakrishnan, S., Manivannan, M., Srinivasan, D., Krishnamurthy, V., Chandrasekar, K., Venkatesan, V., Subramaniam, B., Sangkar, V., Vasudevan, A., Ganapathy, S., Murali, S., and Thyagarajan, M. (2008). &#x0201C;On the concept of simultaneous execution of multiple applications on hierarchically based cluster and the silicon operating system,&#x0201D; in IEEE International Symposium on Parallel and Distributed Processing, 2008, Miami, FL."
+  }, 
+  {
+    "text": "Venkateswaran, N., Kabaleeswaran, D. K., Vignesh, S. R., Ramanathan, S., Jagathrakshakan, S. S., Narayanasamy, N., Sekhar, S., Krishnan, N. S., and Thiagarajan, T. S. (2011). &#x0201C;Single neuron development &#x02013; a neurogenesis inspired structure generation model,&#x0201D; in Frontiers Neuroinformatics Conference Abstract, Boston. doi: 10.3389/conf.fninf.2011.08.00162"
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "9", 
+    "text": "Volman, V., Ben-Jacob, E., and Levine, H. (2007). The astrocyte as a gatekeeper of synaptic information transfer. Neural. Comput. 19, 303&#x02013;326.", 
+    "sponsors": [], 
+    "abstxt": "We present a simple biophysical model for the coupling between synaptic transmission and the local calcium concentration on an enveloping astrocytic domain. This interaction enables the astrocyte to modulate the information flow from presynaptic to postsynaptic cells in a manner dependent on previous activity at this and other nearby synapses. Our model suggests a novel, testable hypothesis for the spike timing statistics measured for rapidly firing cells in culture experiments.", 
+    "lpage": "326", 
+    "grants": [], 
+    "journal-title": "Neural computation", 
+    "fpage": "303", 
+    "keywords": [], 
+    "pubyear": "2007", 
+    "auths": [
+      [
+        "Volman", 
+        "Vladislav"
+      ], 
+      [
+        "Ben-Jacob", 
+        "Eshel"
+      ], 
+      [
+        "Levine", 
+        "Herbert"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "The astrocyte as a gatekeeper of synaptic information transfer.", 
+    "pmid": "17206866", 
+    "pmonth": [
+      "Feb"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "26", 
+    "text": "Weber, J. T., De Zeeuw, C. I., Linden, D. J., and Hansel, C. (2003). Long-term depression of climbing fiber-evoked calcium transients in Purkinje cell dendrites. Proc. Natl. Acad. Sci. U.S.A. 100, 2878&#x02013;2883.", 
+    "sponsors": [
+      "NIMH", 
+      "NIMH"
+    ], 
+    "abstxt": "In recent years much has been learned about the molecular requirements for inducing long-term synaptic depression (LTD) in various brain regions. However, very little is known about the consequences of LTD induction for subsequent signaling events in postsynaptic neurons. We have addressed this issue by examining homosynaptic LTD at the cerebellar climbing fiber (CF)-Purkinje cell (PC) synapse. This synapse is built for reliable and massive excitation: Activation of a single axon produces an unusually large alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionic acid receptor-mediated synaptic current, the depolarization of which drives a regenerative complex spike producing a large, widespread Ca(2+) transient in PC dendrites. Here we test whether CF LTD has an impact on dendritic, complex spike-evoked Ca(2+) signals by simultaneously performing long-term recordings of complex spikes and microfluorimetric Ca(2+) measurements in PC dendrites in rat cerebellar slices. Our data show that LTD of the CF excitatory postsynaptic current produces a reduction in both slow components of the complex spike waveform and complex spike-evoked dendritic Ca(2+) transients. This LTD of dendritic Ca(2+) signals may provide a neuroprotective mechanism and/or constitute &quot;heterosynaptic metaplasticity&quot; by reducing the probability for subsequent induction of those forms of use-dependent plasticity, which require CF-evoked Ca(2+) signals such as parallel fiber-PC LTD and interneuron-PC LTP.", 
+    "lpage": "2883", 
+    "grants": [
+      "MH01590", 
+      "MH51106"
+    ], 
+    "journal-title": "Proceedings of the National Academy of Sciences of the United States of America", 
+    "fpage": "2878", 
+    "keywords": [], 
+    "pubyear": "2003", 
+    "auths": [
+      [
+        "Weber", 
+        "John T"
+      ], 
+      [
+        "De Zeeuw", 
+        "Chris I"
+      ], 
+      [
+        "Linden", 
+        "David J"
+      ], 
+      [
+        "Hansel", 
+        "Christian"
+      ]
+    ], 
+    "pubmonth": "2", 
+    "article-title": "Long-term depression of climbing fiber-evoked calcium transients in Purkinje cell dendrites.", 
+    "pmid": "12601151", 
+    "pmonth": [
+      "Mar"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "11", 
+    "text": "Yu, T. P., McKinney, S., Lester, H. A., and Davidson, N. (2001). &#x003B3;-Aminobutyric acid type A receptors modulate cAMP-mediated long-term potentiation and long-term depression at monosynaptic CA3&#x02013;CA1 synapses. Proc. Natl. Acad. Sci. U.S.A. 98, 5264&#x02013;5269.", 
+    "sponsors": [], 
+    "abstxt": "cAMP induces a protein-synthesis-dependent late phase of long-term potentiation (LTP) at CA3-CA1 synapses in acute hippocampal slices. Herein we report cAMP-mediated LTP and long-term depression (LTD) at monosynaptic CA3-CA1 cell pairs in organotypic hippocampal slice cultures. After bath application of the membrane-permeable cAMP analog adenosine 3',5'-cyclic monophosphorothioate, Sp isomer (Sp-cAMPS), synaptic transmission was enhanced for at least 2 h. Consistent with previous findings, the late phase of LTP requires activation of cAMP-dependent protein kinase A and protein synthesis. There is also an early phase of LTP induced by cAMP; the early phase depends on protein kinase A but, in contrast to the later phase, does not require protein synthesis. In addition, the cAMP-induced LTP is associated with a reduction of paired-pulse facilitation, suggesting that presynaptic modification may be involved. Furthermore, we found that Sp-cAMPS induced LTD in slices pretreated with picrotoxin, a gamma-aminobutyric acid type A (GABA(A)) receptor antagonist. This form of LTD depends on protein synthesis and protein phosphatase(s) and is accompanied by an increased ratio of failed synaptic transmission. These results suggest that GABA(A) receptors can modulate the effect of cAMP on synaptic transmission and thus determine the direction of synaptic plasticity.", 
+    "lpage": "5269", 
+    "grants": [], 
+    "journal-title": "Proceedings of the National Academy of Sciences of the United States of America", 
+    "fpage": "5264", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Yu", 
+        "T P"
+      ], 
+      [
+        "McKinney", 
+        "S"
+      ], 
+      [
+        "Lester", 
+        "H A"
+      ], 
+      [
+        "Davidson", 
+        "N"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "Gamma-aminobutyric acid type A receptors modulate cAMP-mediated long-term potentiation and long-term depression at monosynaptic CA3-CA1 synapses.", 
+    "pmid": "11296264", 
+    "pmonth": [
+      "Apr"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2004"
+    ], 
+    "pubday": "11", 
+    "text": "Zeviani, M., and Di Donato, S. (2004). Mitochondrial disorders. Brain 127, 2153&#x02013;2172.", 
+    "sponsors": [
+      "Telethon", 
+      "Telethon"
+    ], 
+    "abstxt": "In the medical literature the term 'mitochondrial disorders' is to a large extent applied to the clinical syndromes associated with abnormalities of the common final pathway of mitochondrial energy metabolism, i.e. oxidative phosphorylation (OXPHOS). Faulty oxidative phosphorylation may be due to overall dysfunction of the respiratory chain, a heteromultimeric structure embedded in the inner mitochondrial membrane, or can be associated with single or multiple defects of the five complexes forming the respiratory chain itself. From the genetic standpoint, the respiratory chain is a unique structure of the inner mitochondrial membrane formed by means of the complementation of two separate genetic systems: the nuclear genome and the mitochondrial genome. The nuclear genome encodes the large majority of the protein subunits of the respiratory complexes and most of the mitochondrial DNA (mtDNA) replication and expression systems, whereas the mitochondrial genome encodes only 13 respiratory complex subunits, and some RNA components of the mitochondrial translational apparatus. Accordingly, mitochondrial disorders due to defects in OXPHOS include both mendelian-inherited and cytoplasmic-inherited diseases. This review describes human genetic diseases associated with mtDNA and nuclear DNA mutations leading to impaired OXPHOS.", 
+    "lpage": "2172", 
+    "grants": [
+      "GGP02323", 
+      "GGP030039"
+    ], 
+    "journal-title": "Brain : a journal of neurology", 
+    "fpage": "2153", 
+    "keywords": [], 
+    "pubyear": "2004", 
+    "auths": [
+      [
+        "Zeviani", 
+        "Massimo"
+      ], 
+      [
+        "Di Donato", 
+        "Stefano"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Mitochondrial disorders.", 
+    "pmid": "15358637", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2002"
+    ], 
+    "pubday": "22", 
+    "text": "Zong, H., Ren, J. M., Young, L. H., Pypaert, M., Mu, J., Birnbaum, M. J., and Shulman, G. I. (2002). AMP kinase is required for mitochondrial biogenesis in skeletal muscle in response to chronic energy deprivation. Proc. Natl. Acad. Sci. U.S.A. 99, 15983&#x02013;15987.", 
+    "sponsors": [
+      "NIDDK", 
+      "NIDDK", 
+      "NHLBI", 
+      "NIDDK"
+    ], 
+    "abstxt": "Mitochondrial biogenesis is a critical adaptation to chronic energy deprivation, yet the signaling mechanisms responsible for this response are poorly understood. To examine the role of AMP-activated protein kinase (AMPK), an evolutionarily conserved fuel sensor, in mitochondrial biogenesis we studied transgenic mice expressing a dominant-negative mutant of AMPK in muscle (DN-AMPK). Both DN-AMPK and WT mice were treated with beta-guanidinopropionic acid (GPA), a creatine analog, which led to similar reductions in the intramuscular ATPAMP ratio and phosphocreatine concentrations. In WT mice, GPA treatment resulted in activation of muscle AMPK and mitochondrial biogenesis. However, the same GPA treatment in DN-AMPK mice had no effect on AMPK activity or mitochondrial content. Furthermore, AMPK inactivation abrogated GPA-induced increases in the expression of peroxisome proliferator-activated receptor gamma coactivator 1alpha and calciumcalmodulin-dependent protein kinase IV (both master regulators of mitochondrial biogenesis). These data demonstrate that by sensing the energy status of the muscle cell, AMPK is a critical regulator involved in initiating mitochondrial biogenesis.", 
+    "lpage": "15987", 
+    "grants": [
+      "P30 DK-45735", 
+      "R01 DK-40936", 
+      "R01 HL-6381", 
+      "U24 DK-59635"
+    ], 
+    "journal-title": "Proceedings of the National Academy of Sciences of the United States of America", 
+    "fpage": "15983", 
+    "keywords": [], 
+    "pubyear": "2002", 
+    "auths": [
+      [
+        "Zong", 
+        "Haihong"
+      ], 
+      [
+        "Ren", 
+        "Jian Ming"
+      ], 
+      [
+        "Young", 
+        "Lawrence H"
+      ], 
+      [
+        "Pypaert", 
+        "Marc"
+      ], 
+      [
+        "Mu", 
+        "James"
+      ], 
+      [
+        "Birnbaum", 
+        "Morris J"
+      ], 
+      [
+        "Shulman", 
+        "Gerald I"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "AMP kinase is required for mitochondrial biogenesis in skeletal muscle in response to chronic energy deprivation.", 
+    "pmid": "12444247", 
+    "pmonth": [
+      "Dec"
+    ]
+  }
+]

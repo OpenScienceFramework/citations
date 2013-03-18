@@ -1,0 +1,1919 @@
+[
+  {
+    "pyear": [
+      "1998"
+    ], 
+    "pubday": "13", 
+    "text": "Aguirre, G. K., Zarahn, E., and D&#x02019;Esposito, M. (1998). The variability of human, BOLD hemodynamic responses. Neuroimage 8, 360&#x02013;369.", 
+    "sponsors": [
+      "NIA", 
+      "NINDS"
+    ], 
+    "abstxt": "Cerebral hemodynamic responses to brief periods of neural activity are delayed and dispersed in time. The specific shape of these responses is of some importance to the design and analysis of blood oxygenation level-dependent (BOLD), functional magnetic resonance imaging (fMRI) experiments. Using fMRI scanning, we examine here the characteristics and variability of hemodynamic responses from the central sulcus in human subjects during an event-related, simple reaction time task. Specifically, we determine the contribution of subject, day, and scanning session (within a day) to variability in the shape of evoked hemodynamic response. We find that while there is significant and substantial variability in the shape of responses collected across subjects, responses collected during multiple scans within a single subject are less variable. The results are discussed in terms of the impact of response variability upon sensitivity and specificity of analyses of event-related fMRI designs.", 
+    "lpage": "369", 
+    "grants": [
+      "AG13483", 
+      "NS01762"
+    ], 
+    "journal-title": "NeuroImage", 
+    "fpage": "360", 
+    "keywords": [], 
+    "pubyear": "1998", 
+    "auths": [
+      [
+        "Aguirre", 
+        "G K"
+      ], 
+      [
+        "Zarahn", 
+        "E"
+      ], 
+      [
+        "D'esposito", 
+        "M"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "The variability of human, BOLD hemodynamic responses.", 
+    "pmid": "9811554", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1996"
+    ], 
+    "pubday": "27", 
+    "text": "Arieli, A., Sterkin, A., Grinvald, A., and Aertsen, A. (1996). Dynamics of ongoing activity: explanation of the large variability in evoked cortical responses. Science 273, 1868&#x02013;1871.", 
+    "sponsors": [], 
+    "abstxt": "Evoked activity in the mammalian cortex and the resulting behavioral responses exhibit a large variability to repeated presentations of the same stimulus. This study examined whether the variability can be attributed to ongoing activity. Ongoing and evoked spatiotemporal activity patterns in the cat visual cortex were measured with real-time optical imaging; local field potentials and discharges of single neurons were recorded simultaneously, by electrophysiological techniques. The evoked activity appeared deterministic, and the variability resulted from the dynamics of ongoing activity, presumably reflecting the instantaneous state of cortical networks. In spite of the large variability, evoked responses in single trials could be predicted by linear summation of the deterministic response and the preceding ongoing activity. Ongoing activity must play an important role in cortical function and cannot be ignored in exploration of cognitive processes.", 
+    "lpage": "1871", 
+    "grants": [], 
+    "journal-title": "Science (New York, N.Y.)", 
+    "fpage": "1868", 
+    "keywords": [], 
+    "pubyear": "1996", 
+    "auths": [
+      [
+        "Arieli", 
+        "A"
+      ], 
+      [
+        "Sterkin", 
+        "A"
+      ], 
+      [
+        "Grinvald", 
+        "A"
+      ], 
+      [
+        "Aertsen", 
+        "A"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Dynamics of ongoing activity: explanation of the large variability in evoked cortical responses.", 
+    "pmid": "8791593", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "29", 
+    "text": "Becker, R., Reinacher, M., Freyer, F., Villringer, A., and Ritter, P. (2011). How ongoing neuronal oscillations account for evoked FMRI variability. J. Neurosci. 31, 11016&#x02013;11027.", 
+    "sponsors": [], 
+    "abstxt": "Variability of evoked single-trial responses despite constant input or task is a feature of large-scale brain signals recorded by fMRI. Initial evidence signified relevance of fMRI signal variability for perception and behavior. Yet the underlying intrinsic neuronal sources have not been previously substantiated. Here, we address this issue using simultaneous EEG-fMRI and real-time classification of ongoing alpha-rhythm states triggering visual stimulation in human subjects. We investigated whether spontaneous neuronal oscillations-as reflected in the posterior alpha rhythm-account for variability of evoked fMRI responses. Based on previous work, we specifically hypothesized linear superposition of fMRI activity related to fluctuations of ongoing alpha rhythm and a visually evoked fMRI response. We observed that spontaneous alpha-rhythm power fluctuations largely explain evoked fMRI response variance in extrastriate, thalamic, and cerebellar areas. For extrastriate areas, we confirmed the linear superposition hypothesis. We hence linked evoked fMRI response variability to an intrinsic rhythm's power fluctuations. These findings contribute to our conceptual understanding of how brain rhythms can account for trial-by-trial variability in stimulus processing.", 
+    "lpage": "11027", 
+    "grants": [], 
+    "journal-title": "The Journal of neuroscience : the official journal of the Society for Neuroscience", 
+    "fpage": "11016", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Becker", 
+        "Robert"
+      ], 
+      [
+        "Reinacher", 
+        "Matthias"
+      ], 
+      [
+        "Freyer", 
+        "Frank"
+      ], 
+      [
+        "Villringer", 
+        "Arno"
+      ], 
+      [
+        "Ritter", 
+        "Petra"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "How ongoing neuronal oscillations account for evoked fMRI variability.", 
+    "pmid": "21795550", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2008"
+    ], 
+    "pubday": "30", 
+    "text": "Berwick, J., Johnston, D., Jones, M., Martindale, J., Martin, C., Kennerley, A. J., et al. (2008). Fine detail of neurovascular coupling revealed by spatiotemporal analysis of the hemodynamic response to single whisker stimulation in rat barrel cortex. J. Neurophysiol. 99, 787&#x02013;798.", 
+    "sponsors": [
+      "NINDS"
+    ], 
+    "abstxt": "The spatial resolution of hemodynamic-based neuroimaging techniques, including functional magnetic resonance imaging, is limited by the degree to which neurons regulate their blood supply on a fine scale. Here we investigated the spatial detail of neurovascular events with a combination of high spatiotemporal resolution two-dimensional spectroscopic optical imaging, multichannel electrode recordings and cytochrome oxidase histology in the rodent whisker barrel field. After mechanical stimulation of a single whisker, we found two spatially distinct cortical hemodynamic responses: a transient response in the &quot;upstream&quot; branches of surface arteries and a later highly localized increase in blood volume centered on the activated cortical column. Although the spatial representation of this localized response exceeded that of a single &quot;barrel,&quot; the spread of hemodynamic activity accurately reflected the neural response in neighboring columns rather than being due to a passive &quot;overspill.&quot; These data confirm hemodynamics are capable of providing accurate &quot;single-condition&quot; maps of neural activity.", 
+    "lpage": "798", 
+    "grants": [
+      "R01-NS-445671-01"
+    ], 
+    "journal-title": "Journal of neurophysiology", 
+    "fpage": "787", 
+    "keywords": [], 
+    "pubyear": "2007", 
+    "auths": [
+      [
+        "Berwick", 
+        "J"
+      ], 
+      [
+        "Johnston", 
+        "D"
+      ], 
+      [
+        "Jones", 
+        "M"
+      ], 
+      [
+        "Martindale", 
+        "J"
+      ], 
+      [
+        "Martin", 
+        "C"
+      ], 
+      [
+        "Kennerley", 
+        "A J"
+      ], 
+      [
+        "Redgrave", 
+        "P"
+      ], 
+      [
+        "Mayhew", 
+        "J E W"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "Fine detail of neurovascular coupling revealed by spatiotemporal analysis of the hemodynamic response to single whisker stimulation in rat barrel cortex.", 
+    "pmid": "18046008", 
+    "pmonth": [
+      "Feb"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2005"
+    ], 
+    "pubday": "4", 
+    "text": "Berwick, J., Johnston, D., Jones, M., Martindale, J., Redgrave, P., McLoughlin, N., et al. (2005). Neurovascular coupling investigated with two-dimensional optical imaging spectroscopy in rat whisker barrel cortex. Eur. J. Neurosci. 22, 1655&#x02013;1666.", 
+    "sponsors": [
+      "NINDS", 
+      "Wellcome Trust"
+    ], 
+    "abstxt": "Optical imaging slit spectroscopy is a powerful method for estimating quantitative changes in cerebral haemodynamics, such as deoxyhaemoglobin, oxyhaemoglobin and blood volume (Hbr, HbO2 and Hbt, respectively). Its disadvantage is that there is a large loss of spatial data as one image dimension is used to encode spectral wavelength information. Single wavelength optical imaging, on the other hand, produces high-resolution spatiotemporal maps of brain activity, but yields only indirect measures of Hbr, HbO2 and Hbt. In this study we perform two-dimensional optical imaging spectroscopy (2D-OIS) in rat barrel cortex during contralateral whisker stimulation to obtain two-dimensional maps over time of Hbr, HbO2 and Hbt. The 2D-OIS was performed by illuminating the cortex with four wavelengths of light (575, 559, 495 and 587 nm), which were presented sequentially at a high frame rate (32 Hz). The contralateral whisker pad was stimulated using two different durations: 1 and 16 s (5 Hz, 1.2 mA). Control experiments used a hypercapnic (5% CO2) challenge to manipulate baseline blood flow and volume in the absence of corresponding neural activation. The 2D-OIS method allowed separation of artery, vein and parenchyma regions. The magnitude of the haemodynamic response elicited varied considerably between different vascular compartments; the largest responses in Hbt were in the arteries and the smallest in the veins. Phase lags in the HbO2 response between arteries and veins suggest that a process of upstream signalling maybe responsible for dilating the arteries. There was also a consistent increase in Hbr from arterial regions after whisker stimulation.", 
+    "lpage": "1666", 
+    "grants": [
+      "R01-NS445671-01"
+    ], 
+    "journal-title": "The European journal of neuroscience", 
+    "fpage": "1655", 
+    "keywords": [], 
+    "pubyear": "2005", 
+    "auths": [
+      [
+        "Berwick", 
+        "J"
+      ], 
+      [
+        "Johnston", 
+        "D"
+      ], 
+      [
+        "Jones", 
+        "M"
+      ], 
+      [
+        "Martindale", 
+        "J"
+      ], 
+      [
+        "Redgrave", 
+        "P"
+      ], 
+      [
+        "McLoughlin", 
+        "N"
+      ], 
+      [
+        "Schiessl", 
+        "I"
+      ], 
+      [
+        "Mayhew", 
+        "J E W"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Neurovascular coupling investigated with two-dimensional optical imaging spectroscopy in rat whisker barrel cortex.", 
+    "pmid": "16197506", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1995"
+    ], 
+    "pubday": "1", 
+    "text": "Biswal, B., Yetkin, F. Z., Haughton, V. M., and Hyde, J. S. (1995). Functional connectivity in the motor cortex of resting human brain using echo-planar MRI. Magn. Reson. Med. 34, 537&#x02013;541.", 
+    "sponsors": [
+      "NCI"
+    ], 
+    "abstxt": "An MRI time course of 512 echo-planar images (EPI) in resting human brain obtained every 250 ms reveals fluctuations in signal intensity in each pixel that have a physiologic origin. Regions of the sensorimotor cortex that were activated secondary to hand movement were identified using functional MRI methodology (FMRI). Time courses of low frequency (&lt; 0.1 Hz) fluctuations in resting brain were observed to have a high degree of temporal correlation (P &lt; 10(-3)) within these regions and also with time courses in several other regions that can be associated with motor function. It is concluded that correlation of low frequency fluctuations, which may arise from fluctuations in blood oxygenation or flow, is a manifestation of functional connectivity of the brain.", 
+    "lpage": "541", 
+    "grants": [
+      "CA41464"
+    ], 
+    "journal-title": "Magnetic resonance in medicine : official journal of the Society of Magnetic Resonance in Medicine / Society of Magnetic Resonance in Medicine", 
+    "fpage": "537", 
+    "keywords": [], 
+    "pubyear": "1995", 
+    "auths": [
+      [
+        "Biswal", 
+        "B"
+      ], 
+      [
+        "Yetkin", 
+        "F Z"
+      ], 
+      [
+        "Haughton", 
+        "V M"
+      ], 
+      [
+        "Hyde", 
+        "J S"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Functional connectivity in the motor cortex of resting human brain using echo-planar MRI.", 
+    "pmid": "8524021", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "26", 
+    "text": "Boorman, L., Kennerley, A. J., Johnston, D., Jones, M., Zheng, Y., Redgrave, P., et al. (2010). Negative blood oxygen level dependence in the rat: a model for investigating the role of suppression in neurovascular coupling. J. Neurosci. 30, 4285&#x02013;4294.", 
+    "sponsors": [
+      "Medical Research Council"
+    ], 
+    "abstxt": "Modern neuroimaging techniques rely on neurovascular coupling to show regions of increased brain activation. However, little is known of the neurovascular coupling relationships that exist for inhibitory signals. To address this issue directly we developed a preparation to investigate the signal sources of one of these proposed inhibitory neurovascular signals, the negative blood oxygen level-dependent (BOLD) response (NBR), in rat somatosensory cortex. We found a reliable NBR measured in rat somatosensory cortex in response to unilateral electrical whisker stimulation, which was located in deeper cortical layers relative to the positive BOLD response. Separate optical measurements (two-dimensional optical imaging spectroscopy and laser Doppler flowmetry) revealed that the NBR was a result of decreased blood volume and flow and increased levels of deoxyhemoglobin. Neural activity in the NBR region, measured by multichannel electrodes, varied considerably as a function of cortical depth. There was a decrease in neuronal activity in deep cortical laminae. After cessation of whisker stimulation there was a large increase in neural activity above baseline. Both the decrease in neuronal activity and increase above baseline after stimulation cessation correlated well with the simultaneous measurement of blood flow suggesting that the NBR is related to decreases in neural activity in deep cortical layers. Interestingly, the magnitude of the neural decrease was largest in regions showing stimulus-evoked positive BOLD responses. Since a similar type of neural suppression in surround regions was associated with a negative BOLD signal, the increased levels of suppression in positive BOLD regions could importantly moderate the size of the observed BOLD response.", 
+    "lpage": "4294", 
+    "grants": [
+      "G0601,581"
+    ], 
+    "journal-title": "The Journal of neuroscience : the official journal of the Society for Neuroscience", 
+    "fpage": "4285", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Boorman", 
+        "Luke"
+      ], 
+      [
+        "Kennerley", 
+        "Aneurin J"
+      ], 
+      [
+        "Johnston", 
+        "David"
+      ], 
+      [
+        "Jones", 
+        "Myles"
+      ], 
+      [
+        "Zheng", 
+        "Ying"
+      ], 
+      [
+        "Redgrave", 
+        "Peter"
+      ], 
+      [
+        "Berwick", 
+        "Jason"
+      ]
+    ], 
+    "pubmonth": "3", 
+    "article-title": "Negative blood oxygen level dependence in the rat: a model for investigating the role of suppression in neurovascular coupling.", 
+    "pmid": "20335464", 
+    "pmonth": [
+      "Mar"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2009"
+    ], 
+    "pubday": "19", 
+    "text": "Busch, N. A., Dubois, J., and VanRullen, R. (2009). The phase of ongoing EEG oscillations predicts visual perception. J. Neurosci. 29, 7869&#x02013;7876.", 
+    "sponsors": [], 
+    "abstxt": "Oscillations are ubiquitous in electrical recordings of brain activity. While the amplitude of ongoing oscillatory activity is known to correlate with various aspects of perception, the influence of oscillatory phase on perception remains unknown. In particular, since phase varies on a much faster timescale than the more sluggish amplitude fluctuations, phase effects could reveal the fine-grained neural mechanisms underlying perception. We presented brief flashes of light at the individual luminance threshold while EEG was recorded. Although the stimulus on each trial was identical, subjects detected approximately half of the flashes (hits) and entirely missed the other half (misses). Phase distributions across trials were compared between hits and misses. We found that shortly before stimulus onset, each of the two distributions exhibited significant phase concentration, but at different phase angles. This effect was strongest in the theta and alpha frequency bands. In this time-frequency range, oscillatory phase accounted for at least 16% of variability in detection performance and allowed the prediction of performance on the single-trial level. This finding indicates that the visual detection threshold fluctuates over time along with the phase of ongoing EEG activity. The results support the notion that ongoing oscillations shape our perception, possibly by providing a temporal reference frame for neural codes that rely on precise spike timing.", 
+    "lpage": "7876", 
+    "grants": [], 
+    "journal-title": "The Journal of neuroscience : the official journal of the Society for Neuroscience", 
+    "fpage": "7869", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Busch", 
+        "Niko A"
+      ], 
+      [
+        "Dubois", 
+        "Julien"
+      ], 
+      [
+        "VanRullen", 
+        "Rufin"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "The phase of ongoing EEG oscillations predicts visual perception.", 
+    "pmid": "19535598", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "23", 
+    "text": "Devor, A., Dunn, A. K., Andermann, M. L., Ulbert, I., Boas, D. A., and Dale, A. M. (2003). Coupling of total hemoglobin concentration, oxygenation, and neural activity in rat somatosensory cortex. Neuron 39, 353&#x02013;359.", 
+    "sponsors": [
+      "NCRR", 
+      "NIBIB", 
+      "NINDS", 
+      "NCRR"
+    ], 
+    "abstxt": "Recent advances in brain imaging techniques, including functional magnetic resonance imaging (fMRI), offer great promise for noninvasive mapping of brain function. However, the indirect nature of the imaging signals to the underlying neural activity limits the interpretation of the resulting maps. The present report represents the first systematic study with sufficient statistical power to quantitatively characterize the relationship between changes in blood oxygen content and the neural spiking and synaptic activity. Using two-dimensional optical measurements of hemodynamic signals, simultaneous recordings of neural activity, and an event-related stimulus paradigm, we demonstrate that (1) there is a strongly nonlinear relationship between electrophysiological measures of neuronal activity and the hemodynamic response, (2) the hemodynamic response continues to grow beyond the saturation of electrical activity, and (3) the initial increase in deoxyhemoglobin that precedes an increase in blood volume is counterbalanced by an equal initial decrease in oxyhemoglobin.", 
+    "lpage": "359", 
+    "grants": [
+      "P41 RR14075", 
+      "R01 EB00790-01A2", 
+      "R01 NS044623", 
+      "R01 RR13609"
+    ], 
+    "journal-title": "Neuron", 
+    "fpage": "353", 
+    "keywords": [], 
+    "pubyear": "2003", 
+    "auths": [
+      [
+        "Devor", 
+        "Anna"
+      ], 
+      [
+        "Dunn", 
+        "Andrew K"
+      ], 
+      [
+        "Andermann", 
+        "Mark L"
+      ], 
+      [
+        "Ulbert", 
+        "Istvan"
+      ], 
+      [
+        "Boas", 
+        "David A"
+      ], 
+      [
+        "Dale", 
+        "Anders M"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Coupling of total hemoglobin concentration, oxygenation, and neural activity in rat somatosensory cortex.", 
+    "pmid": "12873390", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2008"
+    ], 
+    "pubday": "2", 
+    "text": "Devor, A., Hillman, E. M., Tian, P., Waeber, C., Teng, I. C., Ruvinskaya, L., et al. (2008). Stimulus-induced changes in blood flow and 2-deoxyglucose uptake dissociate in ipsilateral somatosensory cortex. J. Neurosci. 28, 14347&#x02013;14357.", 
+    "sponsors": [
+      "NIBIB", 
+      "NIBIB", 
+      "NIBIB", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NCRR"
+    ], 
+    "abstxt": "The present study addresses the relationship between blood flow and glucose consumption in rat primary somatosensory cortex (SI) in vivo. We examined bilateral neuronal and hemodynamic changes and 2-deoxyglucose (2DG) uptake, as measured by autoradiography, in response to unilateral forepaw stimulation. In contrast to the contralateral forepaw area, where neuronal activity, blood oxygenation/flow and 2DG uptake increased in unison, we observed, in the ipsilateral SI, a blood oxygenation/flow decrease and arteriolar vasoconstriction in the presence of increased 2DG uptake. Laminar electrophysiological recordings revealed an increase in ipsilateral spiking consistent with the observed increase in 2DG uptake. The vasoconstriction and the decrease in blood flow in the presence of an increase in 2DG uptake in the ipsilateral SI contradict the prominent metabolic hypothesis regarding the regulation of cerebral blood flow, which postulates that the state of neuroglial energy consumption determines the regional blood flow through the production of vasoactive metabolites. We propose that other factors, such as neuronal (and glial) release of messenger molecules, might play a dominant role in the regulation of blood flow in vivo in response to a physiological stimulus.", 
+    "lpage": "14357", 
+    "grants": [
+      "EB003832", 
+      "EB00790", 
+      "EB2066", 
+      "NS-051188", 
+      "NS-053684", 
+      "NS-057476", 
+      "NS-059832", 
+      "NS-48422", 
+      "P01NS-055104", 
+      "R01 NS048422-04", 
+      "R01 NS063226-05", 
+      "R21 NS053684-01", 
+      "R21 NS053684-02", 
+      "R21 NS053684-03", 
+      "RR021907"
+    ], 
+    "journal-title": "The Journal of neuroscience : the official journal of the Society for Neuroscience", 
+    "fpage": "14347", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Devor", 
+        "Anna"
+      ], 
+      [
+        "Hillman", 
+        "Elizabeth M C"
+      ], 
+      [
+        "Tian", 
+        "Peifang"
+      ], 
+      [
+        "Waeber", 
+        "Christian"
+      ], 
+      [
+        "Teng", 
+        "Ivan C"
+      ], 
+      [
+        "Ruvinskaya", 
+        "Lana"
+      ], 
+      [
+        "Shalinsky", 
+        "Mark H"
+      ], 
+      [
+        "Zhu", 
+        "Haihao"
+      ], 
+      [
+        "Haslinger", 
+        "Robert H"
+      ], 
+      [
+        "Narayanan", 
+        "Suresh N"
+      ], 
+      [
+        "Ulbert", 
+        "Istvan"
+      ], 
+      [
+        "Dunn", 
+        "Andrew K"
+      ], 
+      [
+        "Lo", 
+        "Eng H"
+      ], 
+      [
+        "Rosen", 
+        "Bruce R"
+      ], 
+      [
+        "Dale", 
+        "Anders M"
+      ], 
+      [
+        "Kleinfeld", 
+        "David"
+      ], 
+      [
+        "Boas", 
+        "David A"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Stimulus-induced changes in blood flow and 2-deoxyglucose uptake dissociate in ipsilateral somatosensory cortex.", 
+    "pmid": "19118167", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2006"
+    ], 
+    "pubday": "13", 
+    "text": "Fox, M. D., Snyder, A. Z., Zacks, J. M., and Raichle, M. E. (2006). Coherent spontaneous activity accounts for trial-to-trial variability in human evoked brain responses. Nat. Neurosci. 9, 23&#x02013;25.", 
+    "sponsors": [
+      "NINDS"
+    ], 
+    "abstxt": "Trial-to-trial variability in the blood oxygen level-dependent (BOLD) response of functional magnetic resonance imaging has been shown to be relevant to human perception and behavior, but the sources of this variability remain unknown. We demonstrate that coherent spontaneous fluctuations in human brain activity account for a significant fraction of the variability in measured event-related BOLD responses and that spontaneous and task-related activity are linearly superimposed in the human brain.", 
+    "lpage": "25", 
+    "grants": [
+      "NS06833"
+    ], 
+    "journal-title": "Nature neuroscience", 
+    "fpage": "23", 
+    "keywords": [], 
+    "pubyear": "2005", 
+    "auths": [
+      [
+        "Fox", 
+        "Michael D"
+      ], 
+      [
+        "Snyder", 
+        "Abraham Z"
+      ], 
+      [
+        "Zacks", 
+        "Jeffrey M"
+      ], 
+      [
+        "Raichle", 
+        "Marcus E"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Coherent spontaneous activity accounts for trial-to-trial variability in human evoked brain responses.", 
+    "pmid": "16341210", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1994"
+    ], 
+    "pubday": "1", 
+    "text": "Golanov, E. V., Yamamoto, S., and Reis, D. J. (1994). Spontaneous waves of cerebral blood flow associated with a pattern of electrocortical activity. Am. J. Physiol. 266, R204&#x02013;R214.", 
+    "sponsors": [
+      "NHLBI"
+    ], 
+    "abstxt": "We examined the relationship between spontaneous changes in regional cerebral blood flow and electrocortical (ECoG) activity in spinalized rats anesthetized with 1.5% isoflurane. Regional cerebral blood flow, measured by laser-Doppler flowmetry, and ECoG activity were measured bilaterally in frontal and parietal cortex. Spontaneous cerebrovascular waves (SCWs) were seen in all (n = 80) rats and consisted of sawtoothed waves with an average amplitude of 20.1 +/- 0.78%, a duration of 11.7 +/- 0.6 s, and a frequency of 6.3 +/- 0.2 min-1. SCWs were always preceded by a high-amplitude burst of ECoG activity (averaging 752.0 +/- 41.8 microV at 5.6 +/- 0.2 Hz) and comparable to the well-recognized burst-suppression/barbiturate-spindle patterns of ECoG activity. The latency between bursts and SCWs averaged 1.71 +/- 0.05 s. The frequency of bursts and SCWs was highly correlated within and between cortical areas bilaterally (r &gt; 0.9) and appeared synchronously across brain. Deepening anesthesia (to 1.75% isoflurane) reduced the frequency of bursts and SCWs by &gt; 30% but not their correlation (r &gt; 0.9) and minimally increased burst-SCW latency. SCWs differed from an uncommon sinusoidal oscillation regional cerebral blood flow triggered by changes in arterial pressure and independent of the ECoG. Bursts and SCWs were not affected by inhibition of nitric oxide synthase. The results indicate that a population of local cortical neurons, probably driven from subcortical pacemakers, when excited, elicits local cerebrovascular vasodilation.", 
+    "lpage": "R214", 
+    "grants": [
+      "HL-18974"
+    ], 
+    "journal-title": "The American journal of physiology", 
+    "fpage": "R204", 
+    "keywords": [], 
+    "pubyear": "1994", 
+    "auths": [
+      [
+        "Golanov", 
+        "E V"
+      ], 
+      [
+        "Yamamoto", 
+        "S"
+      ], 
+      [
+        "Reis", 
+        "D J"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Spontaneous waves of cerebral blood flow associated with a pattern of electrocortical activity.", 
+    "pmid": "8304543", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "31", 
+    "text": "Greicius, M. D., Krasnow, B., Reiss, A. L., and Menon, V. (2003). Functional connectivity in the resting brain: a network analysis of the default mode hypothesis. Proc. Natl. Acad. Sci. U.S.A. 100, 253&#x02013;258.", 
+    "sponsors": [
+      "NICHD", 
+      "NICHD", 
+      "NIMH", 
+      "NIMH", 
+      "NIMH"
+    ], 
+    "abstxt": "Functional imaging studies have shown that certain brain regions, including posterior cingulate cortex (PCC) and ventral anterior cingulate cortex (vACC), consistently show greater activity during resting states than during cognitive tasks. This finding led to the hypothesis that these regions constitute a network supporting a default mode of brain function. In this study, we investigate three questions pertaining to this hypothesis: Does such a resting-state network exist in the human brain? Is it modulated during simple sensory processing? How is it modulated during cognitive processing? To address these questions, we defined PCC and vACC regions that showed decreased activity during a cognitive (working memory) task, then examined their functional connectivity during rest. PCC was strongly coupled with vACC and several other brain regions implicated in the default mode network. Next, we examined the functional connectivity of PCC and vACC during a visual processing task and show that the resultant connectivity maps are virtually identical to those obtained during rest. Last, we defined three lateral prefrontal regions showing increased activity during the cognitive task and examined their resting-state connectivity. We report significant inverse correlations among all three lateral prefrontal regions and PCC, suggesting a mechanism for attenuation of default mode network activity during cognitive processing. This study constitutes, to our knowledge, the first resting-state connectivity analysis of the default mode and provides the most compelling evidence to date for the existence of a cohesive default mode network. Our findings also provide insight into how this network is modulated by task demands and what functions it might subserve.", 
+    "lpage": "258", 
+    "grants": [
+      "HD31715", 
+      "HD40761", 
+      "MH01142", 
+      "MH19938", 
+      "MH62430"
+    ], 
+    "journal-title": "Proceedings of the National Academy of Sciences of the United States of America", 
+    "fpage": "253", 
+    "keywords": [], 
+    "pubyear": "2002", 
+    "auths": [
+      [
+        "Greicius", 
+        "Michael D"
+      ], 
+      [
+        "Krasnow", 
+        "Ben"
+      ], 
+      [
+        "Reiss", 
+        "Allan L"
+      ], 
+      [
+        "Menon", 
+        "Vinod"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Functional connectivity in the resting brain: a network analysis of the default mode hypothesis.", 
+    "pmid": "12506194", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2006"
+    ], 
+    "pubday": "16", 
+    "text": "Haslinger, R., Ulbert, I., Moore, C. I., Brown, E. N., and Devor, A. (2006). Analysis of LFP phase predicts sensory response of barrel cortex. J. Neurophysiol. 96, 1658&#x02013;1663.", 
+    "sponsors": [
+      "NINDS", 
+      "NIDA", 
+      "NIBIB", 
+      "NIMH"
+    ], 
+    "abstxt": "Several previous studies have shown the existence of Up and Down states and have linked their magnitude (e.g., depolarization level) to the size of sensory-evoked responses. Here, we studied how the temporal dynamics of such states influence the sensory-evoked response to vibrissa deflection. Under alpha-chloralose anesthesia, barrel cortex exhibits strong quasi-periodic approximately 1-Hz local field potential (LFP) oscillations generated by the synchronized fluctuation of large populations of neurons between depolarized (Up) and hyperpolarized (Down) states. Using a linear depth electrode array, we recorded the LFP and multiunit activity (MUA) simultaneously across multiple layers of the barrel column and used the LFP to approximate the subthreshold Up-Down fluctuations. Our central finding is that the MUA response is a strong function of the LFP oscillation's phase. When only ongoing LFP magnitude was considered, the response was largest in the Down state, in agreement with previous studies. However, consideration of the LFP phase revealed that the MUA response varied smoothly as a function of LFP phase in a manner that was not monotonically dependent on LFP magnitude. The LFP phase is therefore a better predictor of the MUA response than the LFP magnitude is. Our results suggest that, in the presence of ongoing oscillations, there can be a continuum of response properties and that each phase may, at times, need to be considered a distinct cortical state.", 
+    "lpage": "1663", 
+    "grants": [
+      "NS-051188", 
+      "R01 DA-015644", 
+      "R01 EB-00790", 
+      "R01 MH-59733"
+    ], 
+    "journal-title": "Journal of neurophysiology", 
+    "fpage": "1658", 
+    "keywords": [], 
+    "pubyear": "2006", 
+    "auths": [
+      [
+        "Haslinger", 
+        "R"
+      ], 
+      [
+        "Ulbert", 
+        "I"
+      ], 
+      [
+        "Moore", 
+        "C I"
+      ], 
+      [
+        "Brown", 
+        "E N"
+      ], 
+      [
+        "Devor", 
+        "A"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Analysis of LFP phase predicts sensory response of barrel cortex.", 
+    "pmid": "16775200", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "text": "Herman, P., Sanganahalli, B. G., Sachdev, R. N. S., McCormick, D., and Hyder, F. (2010). Effect of fluctuations in BOLD signal on trial-to-trial variability of BOLD responses. Soc. Neurosci. Abstr. 178.16."
+  }, 
+  {
+    "pyear": [
+      "2005"
+    ], 
+    "pubday": "28", 
+    "text": "Jones, M., Berwick, J., Hewson-Stoate, N., Gias, C., and Mayhew, J. (2005). The effect of hypercapnia on the neural and hemodynamic responses to somatosensory stimulation. Neuroimage 27, 609&#x02013;623.", 
+    "sponsors": [
+      "NCRR", 
+      "NINDS"
+    ], 
+    "abstxt": "Modern non-invasive imaging techniques utilize the coupling between neural activity and changes in blood flow, volume and oxygenation to map the functional architecture of the human brain. An understanding of how the hemodynamic response is influenced by pre-stimulus baseline perfusion is important for the interpretation of imaging data. To address this issue, the present study measured hemodynamics with optical imaging spectroscopy and laser Doppler flowmetry, while multi-channel electrophysiology was used to record local field potentials (LFP) and multi-unit activity (MUA). The response to whisker stimulation in rodent barrel cortex was recorded during baseline (normocapnia) and elevated perfusion rates produced by two levels of hypercapnia (5 and 10%). With the exception of the 'washout' of deoxyhemoglobin, which was attenuated, all aspects of the neural and hemodynamic response to whisker stimulation were similar during 5% hypercapnia to those evoked during normocapnia. In contrast, 10% hypercapnia produced cortical arousal and a reduction in both the current sink and MUA elicited by stimulation. Blood flow and volume responses were reduced by a similar magnitude to that observed in the current sink. The deoxyhemoglobin 'washout', however, was attenuated to a greater degree than could be expected from the neural activity. These data suggest that imaging techniques based on perfusion or blood volume changes may be more robust to shifts in baseline than those based on the dilution of deoxyhemoglobin, such as conventional BOLD fMRI.", 
+    "lpage": "623", 
+    "grants": [
+      "P41-RR09754", 
+      "R0INSS445671"
+    ], 
+    "journal-title": "NeuroImage", 
+    "fpage": "609", 
+    "keywords": [], 
+    "pubyear": "2005", 
+    "auths": [
+      [
+        "Jones", 
+        "Myles"
+      ], 
+      [
+        "Berwick", 
+        "Jason"
+      ], 
+      [
+        "Hewson-Stoate", 
+        "Nicola"
+      ], 
+      [
+        "Gias", 
+        "Carlos"
+      ], 
+      [
+        "Mayhew", 
+        "John"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "The effect of hypercapnia on the neural and hemodynamic responses to somatosensory stimulation.", 
+    "pmid": "15978844", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "16", 
+    "text": "Jones, M., Berwick, J., Johnston, D., and Mayhew, J. (2001). Concurrent optical imaging spectroscopy and laser-Doppler flowmetry: the relationship between blood flow, oxygenation, and volume in rodent barrel cortex. Neuroimage 13, 1002&#x02013;1015.", 
+    "sponsors": [], 
+    "abstxt": "Functional magnetic resonance imaging (fMRI) is based on the coupling between neural activity and changes in the concentration of the endogenous paramagnetic contrast agent deoxygenated hemoglobin. Changes in the blood oxygen level-dependent (BOLD) signal result from a complex interplay of blood volume, flow, and oxygen consumption. Optical imaging spectroscopy (OIS) has been used to measure changes in blood volume and saturation in response to increased neural activity, while laser Doppler Flowmetry (LDF) can be used to measure flow changes and is now commonplace in neurovascular research. Here, we use concurrent OIS and LDF to examine the hemodynamic response in rodent barrel cortex using electrical stimulation of the whisker pad at varying intensities. Spectroscopic analysis showed that stimulation produced a biphasic early increase in deoxygenated hemoglobin (Hbr), followed by a decrease below baseline, reaching minima at approximately 3.7 s. There was no evidence for a corresponding early decrease in oxygenated hemoglobin (HbO(2)), which simply increased after stimulation, reaching maximum at approximately 3.2 s. The time courses of changes in blood volume (CBV) and blood flow (CBF) were similar. Both increased within a second of stimulation onset and peaked at approximately 2.7 s, after which CBV returned to baseline at a slower rate than CBF. The changes in Hbr, Hbt, and CBF were used to estimate changes in oxygen consumption (CMRO(2)), which increased within a second of stimulation and peaked approximately 2.2 s after stimulus onset. Analysis of the relative magnitudes of CBV and CBF indicates that the fractional changes of CBV could be simply scaled to match those of CBF. We found the relationship to be well approximated by CBV = CBF(0.29). A similar relationship was found using the response to elevated fraction of inspired carbon dioxide (FICO(2)).", 
+    "lpage": "1015", 
+    "grants": [], 
+    "journal-title": "NeuroImage", 
+    "fpage": "1002", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Jones", 
+        "M"
+      ], 
+      [
+        "Berwick", 
+        "J"
+      ], 
+      [
+        "Johnston", 
+        "D"
+      ], 
+      [
+        "Mayhew", 
+        "J"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Concurrent optical imaging spectroscopy and laser-Doppler flowmetry: the relationship between blood flow, oxygenation, and volume in rodent barrel cortex.", 
+    "pmid": "11352606", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2002"
+    ], 
+    "pubday": "19", 
+    "text": "Jones, M., Berwick, J., and Mayhew, J. (2002). Changes in blood flow, oxygenation, and volume following extended stimulation of rodent barrel cortex. Neuroimage 15, 474&#x02013;487.", 
+    "sponsors": [], 
+    "abstxt": "Simultaneous optical imaging spectroscopy and laser-Doppler flowmetry were used in rodent barrel cortex to examine the hemodynamic response to extended electrical stimulation (20 s, 5 Hz) of the whisker pad. Stimulation results in a fast early increase in deoxyhemoglobin concentration (Hbr) followed by a later decrease to a &quot;plateau&quot; phase approximately 4 s after stimulation onset. There was no corresponding decrease in oxyhemoglobin (HbO(2)), which simply increased after stimulation, reaching a plateau at approximately 5 s. The time series of flow and volume had similar onset times and did not differ significantly throughout the presentation of the stimuli. Following stimulation cessation all aspects of the hemodynamic response returned to baseline with a long decay constant (&gt;20 s), CBV doing so at a slower rate than CBF. The time courses of CBF, CBV, Hbr, and HbO(2) were very similar to that produced by a brief stimulus up to peak. The relationship between the flow and the volume changes is well approximated by the expression CBV = CBF(phi). We find phi to be slightly lower under stimulation (0.26 +/- 0.0152) than during hypercapnia (0.32 +/- 0.0172). Saturation and flow data were used to estimate changes in CMRO(2) for a range of baseline oxygen extraction fractions (OEF). In the case of hypercapnia CMRO(2) was biphasic, increasing after onset and sharply decreasing below baseline following cessation. If it is assumed that there is no &quot;net&quot; increase in CMRO(2) (i.e., SigmaDeltaCMRO(2) = 0) following the onset and offset of hypercapnia, then the corresponding estimate of baseline OEF is 0.45. Evidence for increased oxygen consumption was obtained for all stimulation intensities assuming a baseline OEF of 0.45.", 
+    "lpage": "487", 
+    "grants": [], 
+    "journal-title": "NeuroImage", 
+    "fpage": "474", 
+    "keywords": [], 
+    "pubyear": "2002", 
+    "auths": [
+      [
+        "Jones", 
+        "Myles"
+      ], 
+      [
+        "Berwick", 
+        "Jason"
+      ], 
+      [
+        "Mayhew", 
+        "John"
+      ]
+    ], 
+    "pubmonth": "2", 
+    "article-title": "Changes in blood flow, oxygenation, and volume following extended stimulation of rodent barrel cortex.", 
+    "pmid": "11848691", 
+    "pmonth": [
+      "Mar"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2008"
+    ], 
+    "pubday": "1", 
+    "text": "Jones, M., Devonshire, I. M., Berwick, J., Martin, C., Redgrave, P., and Mayhew, J. (2008). Altered neurovascular coupling during information-processing states. Eur. J. Neurosci. 27, 2758&#x02013;2772.", 
+    "sponsors": [
+      "Medical Research Council"
+    ], 
+    "abstxt": "Brain imaging techniques rely on changes in blood flow, volume and oxygenation to infer the loci and magnitude of changes in activity. Although progress has been made in understanding the link between stimulus-evoked neural activity and haemodynamics, the extent to which neurovascular-coupling relationships remain constant during different states of baseline cortical activity is poorly understood. Optical imaging spectroscopy, laser Doppler flowmetry and electrophysiology were used to measure haemodynamics and neural activity in the barrel cortex of anaesthetized rats. The responses to stimulation of the whisker pad were recorded during quiescence and cortical desynchronization produced by stimulation of the brainstem. Cortical desynchronization was accompanied by increases in baseline blood flow, volume and oxygenation. Haemodynamic responses to low-frequency whisker stimuli (1 Hz) were attenuated during arousal compared with that observed during quiescence. During arousal it was possible to increase stimulus-evoked haemodynamics by increasing the frequency of the stimulus. Neural responses to low-frequency stimuli were also attenuated but to a far lesser extent than the reduction in the accompanying haemodynamics. In contrast, neuronal activity evoked by high-frequency stimuli (40 Hz) was enhanced during arousal, but induced haemodynamic responses of a similar magnitude compared with that observed for the same high-frequency stimulus presented during quiescence. These data suggest that there may be differences in stimulus-evoked neural activity and accompanying haemodynamics during different information-processing states.", 
+    "lpage": "2772", 
+    "grants": [
+      "G0100538"
+    ], 
+    "journal-title": "The European journal of neuroscience", 
+    "fpage": "2758", 
+    "keywords": [], 
+    "pubyear": "2008", 
+    "auths": [
+      [
+        "Jones", 
+        "Myles"
+      ], 
+      [
+        "Devonshire", 
+        "Ian M"
+      ], 
+      [
+        "Berwick", 
+        "Jason"
+      ], 
+      [
+        "Martin", 
+        "Chris"
+      ], 
+      [
+        "Redgrave", 
+        "Peter"
+      ], 
+      [
+        "Mayhew", 
+        "John"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Altered neurovascular coupling during information-processing states.", 
+    "pmid": "18445054", 
+    "pmonth": [
+      "May"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2004"
+    ], 
+    "pubday": "15", 
+    "text": "Jones, M., Hewson-Stoate, N., Martindale, J., Redgrave, P., and Mayhew, J. (2004). Nonlinear coupling of neural activity and CBF in rodent barrel cortex. Neuroimage 22, 956&#x02013;965.", 
+    "sponsors": [
+      "NCRR", 
+      "NINDS"
+    ], 
+    "abstxt": "The relationship between neural activity and accompanying changes in cerebral blood flow (CBF) and oxygenation must be fully understood before data from brain imaging techniques can be correctly interpreted. Whether signals in fMRI reflect the neural input or output of an activated region is still unclear. Similarly, quantitative relationships between neural activity and changes in CBF are not well understood. The present study addresses these issues by using simultaneous laser Doppler flowmetry (LDF) to measure CBF and multichannel electrophysiology to record neural activity in the form of field potentials and multiunit spiking. We demonstrate that CBF-activation coupling is a nonlinear inverse sigmoid function. Comparing the data with previous work suggests that within a cortical model, CBF shows greatest spatial correlation with a current sink 500 microm below the surface corresponding to sensory input. These results show that care must be exercised when interpreting imaging data elicited by particularly strong or weak stimuli and that hemodynamic changes may better reflect the input to a region rather than its spiking output.", 
+    "lpage": "965", 
+    "grants": [
+      "P41-RR09754", 
+      "R0INSS445671"
+    ], 
+    "journal-title": "NeuroImage", 
+    "fpage": "956", 
+    "keywords": [], 
+    "pubyear": "2004", 
+    "auths": [
+      [
+        "Jones", 
+        "Myles"
+      ], 
+      [
+        "Hewson-Stoate", 
+        "Nicola"
+      ], 
+      [
+        "Martindale", 
+        "John"
+      ], 
+      [
+        "Redgrave", 
+        "Peter"
+      ], 
+      [
+        "Mayhew", 
+        "John"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Nonlinear coupling of neural activity and CBF in rodent barrel cortex.", 
+    "pmid": "15193627", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2005"
+    ], 
+    "pubday": "21", 
+    "text": "Kennerley, A. J., Berwick, J., Martindale, J., Johnston, D., Papadakis, N., and Mayhew, J. E. (2005). Concurrent fMRI and optical measures for the investigation of the hemodynamic response function. Magn. Reson. Med. 54, 354&#x02013;365.", 
+    "sponsors": [
+      "NINDS", 
+      "Wellcome Trust"
+    ], 
+    "abstxt": "Functional magnetic resonance imaging (fMRI) signal variations are based on a combination of changes in cerebral blood flow (CBF) and volume (CBV), and blood oxygenation. We investigated the relationship between these hemodynamic parameters in the rodent barrel cortex by performing fMRI concurrently with laser Doppler flowmetry (LDF) or optical imaging spectroscopy (OIS), following whisker stimulation and hypercapnic challenge. A difference between the positions of the maximum blood oxygenation level-dependent (BOLD) and CBV changes was observed in coronal fMRI maps, with the BOLD region being more superficial. A 6.5% baseline blood volume fraction in this superficial region dropped to 4% in deeper cortical layers (corresponding to total hemoglobin baseline volumes Hbt0 = 110 microM and 67 microM, respectively), as inferred from maps of deltaR2*. Baseline volume profiles were used to parameterize the Monte Carlo simulations (MCS) to interpret the 2D OIS. From this it was found that the optical blood volume measurements (i.e., changes in total hemoglobin) equated with CBV-MRI measurements when the MRI data were taken from superficial cortical layers. Optical measures of activation showed a good spatial overlap with fMRI measurements taken in the same plane (covering the right hemisphere surface). Changes in CBV and CBF followed the scaling relationship CBV = CBF(alpha), with mean alpha = 0.38 +/- 0.06.", 
+    "lpage": "365", 
+    "grants": [
+      "5R01NS044567"
+    ], 
+    "journal-title": "Magnetic resonance in medicine : official journal of the Society of Magnetic Resonance in Medicine / Society of Magnetic Resonance in Medicine", 
+    "fpage": "354", 
+    "keywords": [], 
+    "pubyear": "2005", 
+    "auths": [
+      [
+        "Kennerley", 
+        "Aneurin J"
+      ], 
+      [
+        "Berwick", 
+        "Jason"
+      ], 
+      [
+        "Martindale", 
+        "John"
+      ], 
+      [
+        "Johnston", 
+        "David"
+      ], 
+      [
+        "Papadakis", 
+        "Nikos"
+      ], 
+      [
+        "Mayhew", 
+        "John E"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Concurrent fMRI and optical measures for the investigation of the hemodynamic response function.", 
+    "pmid": "16032695", 
+    "pmonth": [
+      "Aug"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1992"
+    ], 
+    "pubday": "15", 
+    "text": "Kwong, K. K., Belliveau, J. W., Chesler, D. A., Goldberg, I. E., Weisskoff, R. M., Poncelet, B. P., et al. (1992). Dynamic magnetic resonance imaging of human brain activity during primary sensory stimulation. Proc. Natl. Acad. Sci. U.S.A. 89, 5675&#x02013;5679.", 
+    "sponsors": [
+      "NCI", 
+      "NCI", 
+      "NHLBI"
+    ], 
+    "abstxt": "Neuronal activity causes local changes in cerebral blood flow, blood volume, and blood oxygenation. Magnetic resonance imaging (MRI) techniques sensitive to changes in cerebral blood flow and blood oxygenation were developed by high-speed echo planar imaging. These techniques were used to obtain completely noninvasive tomographic maps of human brain activity, by using visual and motor stimulus paradigms. Changes in blood oxygenation were detected by using a gradient echo (GE) imaging sequence sensitive to the paramagnetic state of deoxygenated hemoglobin. Blood flow changes were evaluated by a spin-echo inversion recovery (IR), tissue relaxation parameter T1-sensitive pulse sequence. A series of images were acquired continuously with the same imaging pulse sequence (either GE or IR) during task activation. Cine display of subtraction images (activated minus baseline) directly demonstrates activity-induced changes in brain MR signal observed at a temporal resolution of seconds. During 8-Hz patterned-flash photic stimulation, a significant increase in signal intensity (paired t test; P less than 0.001) of 1.8% +/- 0.8% (GE) and 1.8% +/- 0.9% (IR) was observed in the primary visual cortex (V1) of seven normal volunteers. The mean rise-time constant of the signal change was 4.4 +/- 2.2 s for the GE images and 8.9 +/- 2.8 s for the IR images. The stimulation frequency dependence of visual activation agrees with previous positron emission tomography observations, with the largest MR signal response occurring at 8 Hz. Similar signal changes were observed within the human primary motor cortex (M1) during a hand squeezing task and in animal models of increased blood flow by hypercapnia. By using intrinsic blood-tissue contrast, functional MRI opens a spatial-temporal window onto individual brain physiology.", 
+    "lpage": "5679", 
+    "grants": [
+      "5PO1CA48729-02", 
+      "R01-CA40303", 
+      "R01-HL39810"
+    ], 
+    "journal-title": "Proceedings of the National Academy of Sciences of the United States of America", 
+    "fpage": "5675", 
+    "keywords": [], 
+    "pubyear": "1992", 
+    "auths": [
+      [
+        "Kwong", 
+        "K K"
+      ], 
+      [
+        "Belliveau", 
+        "J W"
+      ], 
+      [
+        "Chesler", 
+        "D A"
+      ], 
+      [
+        "Goldberg", 
+        "I E"
+      ], 
+      [
+        "Weisskoff", 
+        "R M"
+      ], 
+      [
+        "Poncelet", 
+        "B P"
+      ], 
+      [
+        "Kennedy", 
+        "D N"
+      ], 
+      [
+        "Hoppel", 
+        "B E"
+      ], 
+      [
+        "Cohen", 
+        "M S"
+      ], 
+      [
+        "Turner", 
+        "R"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Dynamic magnetic resonance imaging of human brain activity during primary sensory stimulation.", 
+    "pmid": "1608978", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "15", 
+    "text": "Le Van Quyen, M., and Bragin, A. (2007). Analysis of dynamic brain oscillations: methodological advances. Trends Neurosci. 30, 365&#x02013;373.", 
+    "sponsors": [], 
+    "abstxt": "In recent years, new recording technologies have advanced such that, at high temporal and spatial resolutions, oscillations of neuronal networks can be identified from simultaneous, multisite recordings. However, because of the deluge of multichannel data generated by these experiments, achieving the full potential of parallel neuronal recordings also depends on the development of new mathematical methods that can extract meaningful information relating to time, frequency and space. Here, we aim to bridge this gap by focusing on up-to-date recording techniques for measurement of network oscillations and new analysis tools for their quantitative assessment. In particular, we emphasize how these methods can be applied, what property might be inferred from neuronal signals and potentially productive future directions. This review is part of the INMED and TINS special issue, Physiogenic and pathogenic oscillations: the beauty and the beast, derived from presentations at the annual INMED and TINS symposium (http://inmednet.com).", 
+    "lpage": "373", 
+    "grants": [], 
+    "journal-title": "Trends in neurosciences", 
+    "fpage": "365", 
+    "keywords": [], 
+    "pubyear": "2007", 
+    "auths": [
+      [
+        "Le Van Quyen", 
+        "Michel"
+      ], 
+      [
+        "Bragin", 
+        "Anatol"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Analysis of dynamic brain oscillations: methodological advances.", 
+    "pmid": "17559951", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "12", 
+    "text": "Le Van Quyen, M., Foucher, J., Lachaux, J., Rodriguez, E., Lutz, A., Martinerie, J., et al. (2001). Comparison of Hilbert transform and wavelet methods for the analysis of neuronal synchrony. J. Neurosci. Methods 111, 83&#x02013;98.", 
+    "sponsors": [], 
+    "abstxt": "The quantification of phase synchrony between neuronal signals is of crucial importance for the study of large-scale interactions in the brain. Two methods have been used to date in neuroscience, based on two distinct approaches which permit a direct estimation of the instantaneous phase of a signal [Phys. Rev. Lett. 81 (1998) 3291; Human Brain Mapping 8 (1999) 194]. The phase is either estimated by using the analytic concept of Hilbert transform or, alternatively, by convolution with a complex wavelet. In both methods the stability of the instantaneous phase over a window of time requires quantification by means of various statistical dependence parameters (standard deviation, Shannon entropy or mutual information). The purpose of this paper is to conduct a direct comparison between these two methods on three signal sets: (1) neural models; (2) intracranial signals from epileptic patients; and (3) scalp EEG recordings. Levels of synchrony that can be considered as reliable are estimated by using the technique of surrogate data. Our results demonstrate that the differences between the methods are minor, and we conclude that they are fundamentally equivalent for the study of neuroelectrical signals. This offers a common language and framework that can be used for future research in the area of synchronization.", 
+    "lpage": "98", 
+    "grants": [], 
+    "journal-title": "Journal of neuroscience methods", 
+    "fpage": "83", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Le Van Quyen", 
+        "M"
+      ], 
+      [
+        "Foucher", 
+        "J"
+      ], 
+      [
+        "Lachaux", 
+        "J"
+      ], 
+      [
+        "Rodriguez", 
+        "E"
+      ], 
+      [
+        "Lutz", 
+        "A"
+      ], 
+      [
+        "Martinerie", 
+        "J"
+      ], 
+      [
+        "Varela", 
+        "F J"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Comparison of Hilbert transform and wavelet methods for the analysis of neuronal synchrony.", 
+    "pmid": "11595276", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "13", 
+    "text": "Logothetis, N. K., Pauls, J., Augath, M., Trinath, T., and Oeltermann, A. (2001). Neurophysiological investigation of the basis of the fMRI signal. Nature 412, 150&#x02013;157.", 
+    "sponsors": [], 
+    "abstxt": "Functional magnetic resonance imaging (fMRI) is widely used to study the operational organization of the human brain, but the exact relationship between the measured fMRI signal and the underlying neural activity is unclear. Here we present simultaneous intracortical recordings of neural signals and fMRI responses. We compared local field potentials (LFPs), single- and multi-unit spiking activity with highly spatio-temporally resolved blood-oxygen-level-dependent (BOLD) fMRI responses from the visual cortex of monkeys. The largest magnitude changes were observed in LFPs, which at recording sites characterized by transient responses were the only signal that significantly correlated with the haemodynamic response. Linear systems analysis on a trial-by-trial basis showed that the impulse response of the neurovascular system is both animal- and site-specific, and that LFPs yield a better estimate of BOLD responses than the multi-unit responses. These findings suggest that the BOLD contrast mechanism reflects the input and intracortical processing of a given area rather than its spiking output.", 
+    "lpage": "157", 
+    "grants": [], 
+    "journal-title": "Nature", 
+    "fpage": "150", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Logothetis", 
+        "N K"
+      ], 
+      [
+        "Pauls", 
+        "J"
+      ], 
+      [
+        "Augath", 
+        "M"
+      ], 
+      [
+        "Trinath", 
+        "T"
+      ], 
+      [
+        "Oeltermann", 
+        "A"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Neurophysiological investigation of the basis of the fMRI signal.", 
+    "pmid": "11449264", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1998"
+    ], 
+    "pubday": "29", 
+    "text": "Lowe, M. J., Mock, B. J., and Sorenson, J. A. (1998). Functional connectivity in single and multislice echoplanar imaging using resting-state fluctuations. Neuroimage 7, 119&#x02013;132.", 
+    "sponsors": [
+      "NCI"
+    ], 
+    "abstxt": "A previous report of correlations in low-frequency resting-state fluctuations between right and left hemisphere motor cortices in rapidly sampled single-slice echoplanar data is confirmed using a whole-body echoplanar MRI scanner at 1.5 T. These correlations are extended to lower sampling rate multislice echoplanar acquisitions and other right/left hemisphere-symmetric functional cortices. The specificity of the correlations in the lower sampling-rate acquisitions is lower due to cardiac and respiratory-cycle effects which are aliased into the pass-band of the low-pass filter. Data are combined for three normal right-handed male subjects. Correlations to left hemisphere motor cortex, visual cortex, and amygdala are measured in long resting-state scans.", 
+    "lpage": "132", 
+    "grants": [
+      "T32 CA09206"
+    ], 
+    "journal-title": "NeuroImage", 
+    "fpage": "119", 
+    "keywords": [], 
+    "pubyear": "1998", 
+    "auths": [
+      [
+        "Lowe", 
+        "M J"
+      ], 
+      [
+        "Mock", 
+        "B J"
+      ], 
+      [
+        "Sorenson", 
+        "J A"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "Functional connectivity in single and multislice echoplanar imaging using resting-state fluctuations.", 
+    "pmid": "9558644", 
+    "pmonth": [
+      "Feb"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2009"
+    ], 
+    "pubday": "25", 
+    "text": "Majeed, W., Magnuson, M., and Keilholz, S. D. (2009). Spatiotemporal dynamics of low frequency fluctuations in BOLD fMRI of the rat. J. Magn. Reson. Imaging 30, 384&#x02013;393.", 
+    "sponsors": [
+      "NINDS"
+    ], 
+    "abstxt": "To examine spatiotemporal dynamics of low frequency fluctuations in rat cortex.", 
+    "lpage": "393", 
+    "grants": [
+      "R21 NS057718-01A2"
+    ], 
+    "journal-title": "Journal of magnetic resonance imaging : JMRI", 
+    "fpage": "384", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Majeed", 
+        "Waqas"
+      ], 
+      [
+        "Magnuson", 
+        "Matthew"
+      ], 
+      [
+        "Keilholz", 
+        "Shella D"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Spatiotemporal dynamics of low frequency fluctuations in BOLD fMRI of the rat.", 
+    "pmid": "19629982", 
+    "pmonth": [
+      "Aug"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2000"
+    ], 
+    "pubday": "9", 
+    "text": "Mayhew, J., Johnston, D., Berwick, J., Jones, M., Coffey, P., and Zheng, Y. (2000). Spectroscopic analysis of neural activity in brain: increased oxygen consumption following activation of barrel cortex. Neuroimage 12, 664&#x02013;675.", 
+    "sponsors": [], 
+    "abstxt": "This research investigates the hemodynamic response to stimulation of the barrel cortex in anaesthetized rats using optical imaging and spectroscopy (Bonhoeffer and Grinvald, 1996; Malonek and Grinvald, 1996; Mayhew et al., 1999). A slit spectrograph was used to collect spectral image data sequences. These were analyzed using an algorithm that corrects for the wavelength dependency in the optical path lengths produced by the light scattering properties of tissue. The analysis produced the changes in the oxy- and deoxygenation of hemoglobin following stimulation. Two methods of stimulation were used. One method mechanically vibrated a single whisker, the other electrically stimulated the whisker pad. The electrical stimulation intensity varied from 0.4 to 1.6 mA. The hemodynamic responses to stimulation increased as a function of intensity. At 0.4 mA they were commensurate with those from the mechanical stimulation; however, the responses at the higher levels were greater by a factor of approximately 10. For both methods of data collection, the results of the spectroscopic analysis showed an early increase in deoxygenated hemoglobin (Hbr) with no evidence for a corresponding decrease in oxygenated hemoglobin (HbO(2)). Evidence for increased oxygen consumption (CMRO(2)) was obtained by converting the fractional changes in blood volume (Hbt) into estimates of changes in blood flow (Grubb et al., 1974) and using the resulting time course to scale the fractional changes in Hbr. The results show an early increase CMRO(2) peaking approximately 2 s after stimulation onset. Using these methods, we find evidence for increased oxygen consumption following increased neural activity even at low levels of stimulation intensity.", 
+    "lpage": "675", 
+    "grants": [], 
+    "journal-title": "NeuroImage", 
+    "fpage": "664", 
+    "keywords": [], 
+    "pubyear": "2000", 
+    "auths": [
+      [
+        "Mayhew", 
+        "J"
+      ], 
+      [
+        "Johnston", 
+        "D"
+      ], 
+      [
+        "Berwick", 
+        "J"
+      ], 
+      [
+        "Jones", 
+        "M"
+      ], 
+      [
+        "Coffey", 
+        "P"
+      ], 
+      [
+        "Zheng", 
+        "Y"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Spectroscopic analysis of neural activity in brain: increased oxygen consumption following activation of barrel cortex.", 
+    "pmid": "11112398", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1999"
+    ], 
+    "pubday": "25", 
+    "text": "Mayhew, J., Zheng, Y., Hou, Y., Vuksanovic, B., Berwick, J., Askew, S., et al. (1999). Spectroscopic analysis of changes in remitted illumination: the response to increased neural activity in brain. Neuroimage 10, 304&#x02013;326.", 
+    "sponsors": [], 
+    "abstxt": "Imaging of neural activation has been used to produce maps of functional architecture and metabolic activity. There is some uncertainty associated with the sources underlying the intrinsic signals. It has been reported that following increased neural activity there was little increased oxygen consumption ( approximately 5%), although glucose consumption increased by approximately 50%. The research we describe uses a modification of the Beer-Lambert Law called path-length scaling analysis (PLSA) to analyze the spectra of the hemodynamic and metabolic responses to vibrissal stimulation in rat somatosensory cortex. The results of the PLSA algorithm were compared with those obtained using a linear spectrographic analysis method (we refer to this as LMCA). There are differences in the results of the analysis depending on which of the two algorithms (PLSA or LMCA) is used. Using the LMCA algorithm, we obtain results showing an increase in the volume of Hbr at approximately 2 s, following onset of stimulation but no complementary decrease in oxygenated haemoglobin (HbO(2)). These results are similar to a previous report. In contrast, after using the PLSA algorithm, the time series of the chromophore changes shows no evidence for an increase in the volume of deoxygenated haemoglobin (Hbr). However, after further analysis of the time series from the PLSA using general linear models (GLM) to remove contributions from low frequency baseline oscillations, both the HbO(2) and Hbr times series of the response to stimulation were found to be biphasic with an early decrease in saturation peaking approximately 1 s after onset of stimulation followed by a larger increase in saturation peaking at approximately 3 s. Finally, following the PLSA-then-GLM analysis procedure, we do not find convincing evidence for an increase in cytochrome oxidation following stimulation, though we demonstrate the PLSA algorithm to be capable of disassociating changes in cytochrome oxidation state from changes in hemoglobin oxygenation.", 
+    "lpage": "326", 
+    "grants": [], 
+    "journal-title": "NeuroImage", 
+    "fpage": "304", 
+    "keywords": [], 
+    "pubyear": "1999", 
+    "auths": [
+      [
+        "Mayhew", 
+        "J"
+      ], 
+      [
+        "Zheng", 
+        "Y"
+      ], 
+      [
+        "Hou", 
+        "Y"
+      ], 
+      [
+        "Vuksanovic", 
+        "B"
+      ], 
+      [
+        "Berwick", 
+        "J"
+      ], 
+      [
+        "Askew", 
+        "S"
+      ], 
+      [
+        "Coffey", 
+        "P"
+      ]
+    ], 
+    "pubmonth": "8", 
+    "article-title": "Spectroscopic analysis of changes in remitted illumination: the response to increased neural activity in brain.", 
+    "pmid": "10458944", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1996"
+    ], 
+    "pubday": "1", 
+    "text": "Mayhew, J. E., Askew, S., Zheng, Y., Porrill, J., Westby, G. W., Redgrave, P., et al. (1996). Cerebral vasomotion: a 0.1-Hz oscillation in reflected light imaging of neural activity. Neuroimage 4, 183&#x02013;193.", 
+    "sponsors": [
+      "NHLBI", 
+      "Wellcome Trust"
+    ], 
+    "abstxt": "Imaging of scattered and reflected light from the surface of neural structures can reveal the functional architecture within large populations of neurons. These techniques exploit, as one of the principal signal sources, reflectance changes produced by local variation in blood volume and oxygen saturation related to neural activity. We found that a major source of variability in the captured light signal is a pervasive low-frequency (0.1-Hz) oscillation which apparently results from regional cerebral blood flow. This signal is present in brain parenchyma as well as the microvasculature and exhibits many characteristics of the low-frequency &quot;vasomotion&quot; signals observed in peripheral microcirculation. Concurrent measurements in brain with a laser Doppler flow meter contained an almost identical low-frequency signal. The presence of the 0.1-Hz oscillation in the cerebral microcirculation could underlie a portion of the previously described characteristics reported in reflected-light imaging studies. The prevalence of the oscillatory phenomena in the brain raises substantial temporal sampling issues for optical imaging and for other visualization techniques which depend on changes in regional cerebral blood dynamics, such as functional magnetic resonance imaging.", 
+    "lpage": "193", 
+    "grants": [
+      "HL-22418"
+    ], 
+    "journal-title": "NeuroImage", 
+    "fpage": "183", 
+    "keywords": [], 
+    "pubyear": "1996", 
+    "auths": [
+      [
+        "Mayhew", 
+        "J E"
+      ], 
+      [
+        "Askew", 
+        "S"
+      ], 
+      [
+        "Zheng", 
+        "Y"
+      ], 
+      [
+        "Porrill", 
+        "J"
+      ], 
+      [
+        "Westby", 
+        "G W"
+      ], 
+      [
+        "Redgrave", 
+        "P"
+      ], 
+      [
+        "Rector", 
+        "D M"
+      ], 
+      [
+        "Harper", 
+        "R M"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Cerebral vasomotion: a 0.1-Hz oscillation in reflected light imaging of neural activity.", 
+    "pmid": "9345508", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1994"
+    ], 
+    "pubday": "6", 
+    "text": "Molgedey, L., and Schuster, H. G. (1994). Separation of a mixture of independent signals using time delayed correlations. Phys. Rev. Lett. 72, 3634&#x02013;3637.", 
+    "sponsors": [], 
+    "abstxt": null, 
+    "lpage": "3637", 
+    "grants": [], 
+    "journal-title": "Physical review letters", 
+    "fpage": "3634", 
+    "keywords": [], 
+    "pubyear": "1994", 
+    "auths": [], 
+    "pubmonth": "6", 
+    "article-title": "Separation of a mixture of independent signals using time delayed correlations.", 
+    "pmid": "10056251", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2008"
+    ], 
+    "pubday": "15", 
+    "text": "Monto, S., Palva, S., Voipio, J., and Palva, J. M. (2008). Very slow EEG fluctuations predict the dynamics of stimulus detection and oscillation amplitudes in humans. J. Neurosci. 28, 8268&#x02013;8272.", 
+    "sponsors": [], 
+    "abstxt": "Our ability to perceive weak signals is correlated among consecutive trials and fluctuates slowly over time. Although this &quot;streaking effect&quot; has been known for decades, the underlying neural network phenomena have remained largely unidentified. We examined the dynamics of human behavioral performance and its correlation with infraslow (0.01-0.1 Hz) fluctuations in ongoing brain activity. Full-band electroencephalography revealed prominent infraslow fluctuations during the execution of a somatosensory detection task. Similar fluctuations were predominant also in the dynamics of behavioral performance. The subjects' ability to detect the sensory stimuli was strongly correlated with the phase, but not with the amplitude of the infraslow EEG fluctuations. These data thus reveal a direct electrophysiological correlate for the slow fluctuations in human psychophysical performance. We then examined the correlation between the phase of infraslow EEG fluctuations and the amplitude of 1-40 Hz neuronal oscillations in six frequency bands. Like the behavioral performance, the amplitudes in these frequency bands were robustly correlated with the phase of the infraslow fluctuations. These data hence suggest that the infraslow fluctuations reflect the excitability dynamics of cortical networks. We conclude that ongoing 0.01-0.1 Hz EEG fluctuations are prominent and functionally significant during execution of cognitive tasks.", 
+    "lpage": "8272", 
+    "grants": [], 
+    "journal-title": "The Journal of neuroscience : the official journal of the Society for Neuroscience", 
+    "fpage": "8268", 
+    "keywords": [], 
+    "pubyear": "2008", 
+    "auths": [
+      [
+        "Monto", 
+        "Simo"
+      ], 
+      [
+        "Palva", 
+        "Satu"
+      ], 
+      [
+        "Voipio", 
+        "Juha"
+      ], 
+      [
+        "Palva", 
+        "J Matias"
+      ]
+    ], 
+    "pubmonth": "8", 
+    "article-title": "Very slow EEG fluctuations predict the dynamics of stimulus detection and oscillation amplitudes in humans.", 
+    "pmid": "18701689", 
+    "pmonth": [
+      "Aug"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2000"
+    ], 
+    "pubday": "9", 
+    "text": "Obrig, H., Neufang, M., Wenzel, R., Kohl, M., Steinbrink, J., Einhaupl, K., et al. (2000). Spontaneous low frequency oscillations of cerebral hemodynamics and metabolism in human adults. Neuroimage 12, 623&#x02013;639.", 
+    "sponsors": [], 
+    "abstxt": "We investigated slow spontaneous oscillations in cerebral oxygenation in the human adult's visual cortex. The rationale was (1) to demonstrate their detectability by near infrared spectroscopy (NIRS); (2) to analyze the spectral power of as well as the phase relationship between the different NIRS parameters (oxygenated and deoxygenated hemoglobin and cytochrome-oxidase; oxy-Hb/deoxy-Hb/Cyt-ox). Also (3) influences of functional stimulation and hypercapnia on power and phase shifts were investigated. The results show that-in line with the literature-low frequency oscillations (LFO) centred around 0.1 s(-1) and even slower oscillations at about 0.04 s(-1) (very low frequency, VLFO) can be distinguished. Their respective power differs between oxy-Hb, deoxy-Hb, and Cyt-ox. Either frequency (LFO and VLFO) is altered in magnitude by functional stimulation of the cortical area examined. Also we find a change of the phase shift between the vascular parameters (oxy-Hb, tot-Hb) and the metabolic parameter (Cyt-ox) evoked by the stimulation. It is shown that hypercapnia attenuates the LFO in oxy-Hb and deoxy-Hb. Conclusions: (1) spontaneous vascular and metabolic LFO and VLFO can be reproducibly detected by NIRS in the human adult. (2) Their spectral characteristics and their response to hypercapnia are in line with those described in exposed cortex (for review see (Hudetz et al., 1998)) and correspond to findings with transcranial doppler sonography (TCD) (Diehl et al., 1995) and fMRI (Biswal et al., 1997). (3) The magnitude of and phase relation between NIRS-parameters at the LFO may allow for a local noninvasive assessment of autoregulatory mechanisms in the adult brain.", 
+    "lpage": "639", 
+    "grants": [], 
+    "journal-title": "NeuroImage", 
+    "fpage": "623", 
+    "keywords": [], 
+    "pubyear": "2000", 
+    "auths": [
+      [
+        "Obrig", 
+        "H"
+      ], 
+      [
+        "Neufang", 
+        "M"
+      ], 
+      [
+        "Wenzel", 
+        "R"
+      ], 
+      [
+        "Kohl", 
+        "M"
+      ], 
+      [
+        "Steinbrink", 
+        "J"
+      ], 
+      [
+        "Einh\u00e4upl", 
+        "K"
+      ], 
+      [
+        "Villringer", 
+        "A"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Spontaneous low frequency oscillations of cerebral hemodynamics and metabolism in human adults.", 
+    "pmid": "11112395", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1992"
+    ], 
+    "pubday": "1", 
+    "text": "Ogawa, S., Tank, D. W., Menon, R., Ellermann, J. M., Kim, S. G., Merkle, H., et al. (1992). Intrinsic signal changes accompanying sensory stimulation: functional brain mapping with magnetic resonance imaging. Proc. Natl. Acad. Sci. U.S.A. 89, 5951&#x02013;5955.", 
+    "sponsors": [
+      "NHLBI", 
+      "NHLBI"
+    ], 
+    "abstxt": "We report that visual stimulation produces an easily detectable (5-20%) transient increase in the intensity of water proton magnetic resonance signals in human primary visual cortex in gradient echo images at 4-T magnetic-field strength. The observed changes predominantly occur in areas containing gray matter and can be used to produce high-spatial-resolution functional brain maps in humans. Reducing the image-acquisition echo time from 40 msec to 8 msec reduces the amplitude of the fractional signal change, suggesting that it is produced by a change in apparent transverse relaxation time T*2. The amplitude, sign, and echo-time dependence of these intrinsic signal changes are consistent with the idea that neural activation increases regional cerebral blood flow and concomitantly increases venous-blood oxygenation.", 
+    "lpage": "5955", 
+    "grants": [
+      "HL32427", 
+      "HL33600"
+    ], 
+    "journal-title": "Proceedings of the National Academy of Sciences of the United States of America", 
+    "fpage": "5951", 
+    "keywords": [], 
+    "pubyear": "1992", 
+    "auths": [
+      [
+        "Ogawa", 
+        "S"
+      ], 
+      [
+        "Tank", 
+        "D W"
+      ], 
+      [
+        "Menon", 
+        "R"
+      ], 
+      [
+        "Ellermann", 
+        "J M"
+      ], 
+      [
+        "Kim", 
+        "S G"
+      ], 
+      [
+        "Merkle", 
+        "H"
+      ], 
+      [
+        "Ugurbil", 
+        "K"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Intrinsic signal changes accompanying sensory stimulation: functional brain mapping with magnetic resonance imaging.", 
+    "pmid": "1631079", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "text": "Pikovsky, A., Rosenblum, M., and Kurths, J. (2001). Synchronization &#x02013; A Universal Concept in Nonlinear Sciences. Cambridge: Cambridge University Press."
+  }, 
+  {
+    "text": "Saka, M., Berwick, J., and Jones, M. (2010). Linear superposition of sensory-evoked and ongoing cortical hemodynamics. Front. Neuroenergetics 2:23. doi:10.3389/fnene.2010.00023"
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "11", 
+    "text": "Scheeringa, R., Mazaheri, A., Bojak, I., Norris, D. G., and Kleinschmidt, A. (2011). Modulation of visually evoked cortical FMRI responses by phase of ongoing occipital alpha oscillations. J. Neurosci. 31, 3813&#x02013;3820.", 
+    "sponsors": [], 
+    "abstxt": "Using simultaneous electroencephalography as a measure of ongoing activity and functional magnetic resonance imaging (fMRI) as a measure of the stimulus-driven neural response, we examined whether the amplitude and phase of occipital alpha oscillations at the onset of a brief visual stimulus affects the amplitude of the visually evoked fMRI response. When accounting for intrinsic coupling of alpha amplitude and occipital fMRI signal by modeling and subtracting pseudo-trials, no significant effect of prestimulus alpha amplitude on the evoked fMRI response could be demonstrated. Regarding the effect of alpha phase, we found that stimuli arriving at the peak of the alpha cycle yielded a lower blood oxygenation level-dependent (BOLD) fMRI response in early visual cortex (V1/V2) than stimuli presented at the trough of the cycle. Our results therefore show that phase of occipital alpha oscillations impacts the overall strength of a visually evoked response, as indexed by the BOLD signal. This observation complements existing evidence that alpha oscillations reflect periodic variations in cortical excitability and suggests that the phase of oscillations in postsynaptic potentials can serve as a mechanism of gain control for incoming neural activity. Finally, our findings provide a putative neural basis for observations of alpha phase dependence of visual perceptual performance.", 
+    "lpage": "3820", 
+    "grants": [], 
+    "journal-title": "The Journal of neuroscience : the official journal of the Society for Neuroscience", 
+    "fpage": "3813", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Scheeringa", 
+        "Ren\u00e9"
+      ], 
+      [
+        "Mazaheri", 
+        "Ali"
+      ], 
+      [
+        "Bojak", 
+        "Ingo"
+      ], 
+      [
+        "Norris", 
+        "David G"
+      ], 
+      [
+        "Kleinschmidt", 
+        "Andreas"
+      ]
+    ], 
+    "pubmonth": "3", 
+    "article-title": "Modulation of visually evoked cortical FMRI responses by phase of ongoing occipital alpha oscillations.", 
+    "pmid": "21389236", 
+    "pmonth": [
+      "Mar"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2009"
+    ], 
+    "pubday": "18", 
+    "text": "Schroeder, C. E., and Lakatos, P. (2009). Low-frequency neuronal oscillations as instruments of sensory selection. Trends Neurosci. 32, 9&#x02013;18.", 
+    "sponsors": [
+      "NIMH", 
+      "NIMH", 
+      "NIDCD", 
+      "NIMH", 
+      "NIMH", 
+      "NIMH", 
+      "NIMH"
+    ], 
+    "abstxt": "Neuroelectric oscillations reflect rhythmic shifting of neuronal ensembles between high and low excitability states. In natural settings, important stimuli often occur in rhythmic streams, and when oscillations entrain to an input rhythm their high excitability phases coincide with events in the stream, effectively amplifying neuronal input responses. When operating in a 'rhythmic mode', attention can use these differential excitability states as a mechanism of selection by simply enforcing oscillatory entrainment to a task-relevant input stream. When there is no low-frequency rhythm that oscillations can entrain to, attention operates in a 'continuous mode', characterized by extended increase in gamma synchrony. We review the evidence for early sensory selection by oscillatory phase-amplitude modulations, its mechanisms and its perceptual and behavioral consequences.", 
+    "lpage": "18", 
+    "grants": [
+      "MH 060358", 
+      "MH 061989", 
+      "R01 DC011490-11", 
+      "R01 MH060358-02", 
+      "R01 MH060358-03", 
+      "R01 MH061989-09", 
+      "R01 MH061989-10"
+    ], 
+    "journal-title": "Trends in neurosciences", 
+    "fpage": "9", 
+    "keywords": [], 
+    "pubyear": "2008", 
+    "auths": [
+      [
+        "Schroeder", 
+        "Charles E"
+      ], 
+      [
+        "Lakatos", 
+        "Peter"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "Low-frequency neuronal oscillations as instruments of sensory selection.", 
+    "pmid": "19012975", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "26", 
+    "text": "Sheth, S., Nemoto, M., Guiou, M., Walker, M., Pouratian, N., and Toga, A. W. (2003). Evaluation of coupling between optical intrinsic signals and neuronal activity in rat somatosensory cortex. Neuroimage 19, 884&#x02013;894.", 
+    "sponsors": [
+      "NIGMS", 
+      "NIMH", 
+      "NIMH", 
+      "NIMH"
+    ], 
+    "abstxt": "We investigated the coupling between perfusion-related brain imaging signals and evoked neuronal activity using optical imaging of intrinsic signals (OIS) at 570 and 610 nm. OIS at 570 nm reflects changes in cerebral blood volume (CBV), and the 610 nm response is related to hemoglobin oxygenation changes. We assessed the degree to which these components of the hemodynamic response were coupled to neuronal activity in rat barrel, hindpaw, and forepaw somatosensory cortex by simultaneously recording extracellular evoked field potentials (EPs) and OIS while varying stimulation frequency. In all stimulation paradigms, 10 Hz stimulation evoked the largest optical and electrophysiological responses. Across all animals, the 610 late phase and 570 responses correlated linearly with sigmaEP (P &lt; 0.05) during both whisker deflection and electrical hindpaw stimulation, but the 610 early phase did not (whisker P = 0.27, hindpaw P = 0.28). The signal-to-noise ratio (SNR) of the 610 early phase (whisker 3.1, hindpaw 5.3) was much less than that for the late phase (whisker 14, hindpaw 51) and 570 response (whisker 11, hindpaw 46). During forepaw stimulation, however, the 610 early phase had a SNR (17) higher than that during hindpaw stimulation and correlated well with neuronal activity (P &lt; 0.05). We conclude that the early deoxygenation change does not correlate consistently with neuronal activity, possibly because of its low SNR. The robust CBV-related response, however, has a high SNR and correlates well with evoked cortical activity.", 
+    "lpage": "894", 
+    "grants": [
+      "GM08042", 
+      "MH/NS52083", 
+      "MH12796", 
+      "MH19950"
+    ], 
+    "journal-title": "NeuroImage", 
+    "fpage": "884", 
+    "keywords": [], 
+    "pubyear": "2003", 
+    "auths": [
+      [
+        "Sheth", 
+        "Sameer"
+      ], 
+      [
+        "Nemoto", 
+        "Masahito"
+      ], 
+      [
+        "Guiou", 
+        "Michael"
+      ], 
+      [
+        "Walker", 
+        "Melissa"
+      ], 
+      [
+        "Pouratian", 
+        "Nader"
+      ], 
+      [
+        "Toga", 
+        "Arthur W"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Evaluation of coupling between optical intrinsic signals and neuronal activity in rat somatosensory cortex.", 
+    "pmid": "12880817", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2008"
+    ], 
+    "pubday": "10", 
+    "text": "Shmuel, A., and Leopold, D. A. (2008). Neuronal correlates of spontaneous fluctuations in fMRI signals in monkey visual cortex: implications for functional connectivity at rest. Hum. Brain Mapp. 29, 751&#x02013;761.", 
+    "sponsors": [], 
+    "abstxt": "Recent studies have demonstrated large amplitude spontaneous fluctuations in functional-MRI (fMRI) signals in humans in the resting state. Importantly, these spontaneous fluctuations in blood-oxygenation-level-dependent (BOLD) signal are often synchronized over distant parts of the brain, a phenomenon termed functional-connectivity. Functional-connectivity is widely assumed to reflect interregional coherence of fluctuations in activity of the underlying neuronal networks. Despite the large body of human imaging literature on spontaneous activity and functional-connectivity in the resting state, the link to underlying neural activity remains tenuous. Through simultaneous fMRI and intracortical neurophysiological recording, we demonstrate correlation between slow fluctuations in BOLD signals and concurrent fluctuations in the underlying locally measured neuronal activity. This correlation varied with time-lag of BOLD relative to neuronal activity, resembling a traditional hemodynamic response function with peaks at approximately 6 s lag of BOLD signal. The correlations were reliably detected when the neuronal signal consisted of either the spiking rate of a small group of neurons, or relative power changes in the multi-unit activity band, and particularly in the local field potential gamma band. Analysis of correlation between the voxel-by-voxel fMRI time-series and the neuronal activity measured within one cortical site showed patterns of correlation that slowly traversed cortex. BOLD fluctuations in widespread areas in visual cortex of both hemispheres were significantly correlated with neuronal activity from a single recording site in V1. To the extent that our V1 findings can be generalized to other cortical areas, fMRI-based functional-connectivity between remote regions in the resting state can be linked to synchronization of slow fluctuations in the underlying neuronal signals.", 
+    "lpage": "761", 
+    "grants": [], 
+    "journal-title": "Human brain mapping", 
+    "fpage": "751", 
+    "keywords": [], 
+    "pubyear": "2008", 
+    "auths": [
+      [
+        "Shmuel", 
+        "Amir"
+      ], 
+      [
+        "Leopold", 
+        "David A"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Neuronal correlates of spontaneous fluctuations in fMRI signals in monkey visual cortex: Implications for functional connectivity at rest.", 
+    "pmid": "18465799", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "15", 
+    "text": "Spitzer, M. W., Calford, M. B., Clarey, J. C., Pettigrew, J. D., and Roe, A. W. (2001). Spontaneous and stimulus-evoked intrinsic optical signals in primary auditory cortex of the cat. J. Neurophysiol. 85, 1283&#x02013;1298.", 
+    "sponsors": [], 
+    "abstxt": "Spontaneous and tone-evoked changes in light reflectance were recorded from primary auditory cortex (A1) of anesthetized cats (barbiturate induction, ketamine maintenance). Spontaneous 0.1-Hz oscillations of reflectance of 540- and 690-nm light were recorded in quiet. Stimulation with tone pips evoked localized reflectance decreases at 540 nm in 3/10 cats. The distribution of patches &quot;activated&quot; by tones of different frequencies reflected the known tonotopic organization of auditory cortex. Stimulus-evoked reflectance changes at 690 nm were observed in 9/10 cats but lacked stimulus-dependent topography. In two experiments, stimulus-evoked optical signals at 540 nm were compared with multiunit responses to the same stimuli recorded at multiple sites. A significant correlation (P &lt; 0.05) between magnitude of reflectance decrease and multiunit response strength was evident in only one of five stimulus conditions in each experiment. There was no significant correlation when data were pooled across all stimulus conditions in either experiment. In one experiment, the spatial distribution of activated patches, evident in records of spontaneous activity at 540 nm, was similar to that of patches activated by tonal stimuli. These results suggest that local cerebral blood volume changes reflect the gross tonotopic organization of A1 but are not restricted to the sites of spiking neurons.", 
+    "lpage": "1298", 
+    "grants": [], 
+    "journal-title": "Journal of neurophysiology", 
+    "fpage": "1283", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Spitzer", 
+        "M W"
+      ], 
+      [
+        "Calford", 
+        "M B"
+      ], 
+      [
+        "Clarey", 
+        "J C"
+      ], 
+      [
+        "Pettigrew", 
+        "J D"
+      ], 
+      [
+        "Roe", 
+        "A W"
+      ]
+    ], 
+    "pubmonth": "3", 
+    "article-title": "Spontaneous and stimulus-evoked intrinsic optical signals in primary auditory cortex of the cat.", 
+    "pmid": "11247997", 
+    "pmonth": [
+      "Mar"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "22", 
+    "text": "VanRullen, R., and Koch, C. (2003). Is perception discrete or continuous? Trends Cogn. Sci. 7, 207&#x02013;213.", 
+    "sponsors": [], 
+    "abstxt": "How does conscious perception evolve following stimulus presentation? The idea that perception relies on discrete processing epochs has been often considered, but never widely accepted. The alternative, a continuous translation of the external world into explicit perception, although more intuitive and subjectively appealing, cannot satisfactorily account for a large body of psychophysical data. Cortical and thalamocortical oscillations in different frequency bands could provide a neuronal basis for such discrete processes, but are rarely analyzed in this context. This article reconciles the unduly abandoned topic of discrete perception with current views and advances in neuroscience.", 
+    "lpage": "213", 
+    "grants": [], 
+    "journal-title": "Trends in cognitive sciences", 
+    "fpage": "207", 
+    "keywords": [], 
+    "pubyear": "2003", 
+    "auths": [
+      [
+        "VanRullen", 
+        "Rufin"
+      ], 
+      [
+        "Koch", 
+        "Christof"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Is perception discrete or continuous?", 
+    "pmid": "12757822", 
+    "pmonth": [
+      "May"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "15", 
+    "text": "Zheng, Y., Johnston, D., Berwick, J., and Mayhew, J. (2001). Signal source separation in the analysis of neural activity in brain. Neuroimage 13, 447&#x02013;458.", 
+    "sponsors": [], 
+    "abstxt": "This research examines the spatial and temporal characteristics of the responses to stimulation of the barrel cortex in anesthetized rats using optical imaging with particular emphasis on methods of analysis which reduce the effects of low-frequency oscillations on localization of the activated cortical region. Image sequences were captured using a light source with a narrow bandwidth of wavelength (590 +/- 2 nm). On each trial image data were collected at 15 Hz and stored over a 12-s period starting 8 s before stimulation onset. Stimulation was for 1 s using an oscillating whisker vibrator (approximately 1-mm deflection at 5 Hz). For each subject a total of 30 experimental trials were collected and averaged. There was an interstimulus interval of 26 s. The trial-averaged data were analyzed using two related signal source separation algorithms. Both algorithms use a weak model of the expected temporal response as a filter to exclude contributions from low-frequency baseline oscillations which we call the V-signal. We found that both algorithms successfully separated most of the effects of the V-signal from the response to the stimulation. The performance of the algorithms compared favorably with the performance of related algorithms without weak constraints and the &quot;ratio of means&quot; strategy used by C. H. Chen-Bee et al. (1996b, J. Neurosci. Methods 68:28-37; C. H. Chen-Bee et al., 2000, J. Neurosci. Methods 97:157-173).", 
+    "lpage": "458", 
+    "grants": [], 
+    "journal-title": "NeuroImage", 
+    "fpage": "447", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Zheng", 
+        "Y"
+      ], 
+      [
+        "Johnston", 
+        "D"
+      ], 
+      [
+        "Berwick", 
+        "J"
+      ], 
+      [
+        "Mayhew", 
+        "J"
+      ]
+    ], 
+    "pubmonth": "2", 
+    "article-title": "Signal source separation in the analysis of neural activity in brain.", 
+    "pmid": "11170810", 
+    "pmonth": [
+      "Mar"
+    ]
+  }
+]

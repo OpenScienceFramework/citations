@@ -1,0 +1,392 @@
+[
+  {
+    "text": "Akkin, T., Landowne, D., and Sivaprakasam, A. (2010). Detection of neural action potentials using optical coherence tomography: intensity and phase measurements with and without dyes. Front. Neuroenergetics 2:22. doi: 10.3389/fnene.2010.00022"
+  }, 
+  {
+    "text": "Allegra Mascaro, A. L., Sacconi, L., and Pavone, F. S. (2010). Multi-photon nanosurgery in live brain. Front. Neuroenergetics 2:21. doi: 10.3389/fnene.2010.00021"
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "26", 
+    "text": "Barros, L. F. (2010). Towards single-cell real-time imaging of energy metabolism in the brain. Front. Neuroenergetics 2:4. doi: 10.3389/fnene.2010.00004", 
+    "sponsors": [], 
+    "abstxt": null, 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Frontiers in neuroenergetics", 
+    "fpage": "4", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Barros", 
+        "L Felipe"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Towards single-cell real-time imaging of energy metabolism in the brain.", 
+    "pmid": "20577639", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "10", 
+    "text": "Buxton, R. B. (2010). Interpreting oxygenation-based neuroimaging signals: the importance and the challenge of understanding brain oxygen metabolism. Front. Neuroenergetics 2:8. doi: 10.3389/fnene.2010.00008", 
+    "sponsors": [
+      "NINDS"
+    ], 
+    "abstxt": "Functional magnetic resonance imaging is widely used to map patterns of brain activation based on blood oxygenation level dependent (BOLD) signal changes associated with changes in neural activity. However, because oxygenation changes depend on the relative changes in cerebral blood flow (CBF) and cerebral metabolic rate of oxygen (CMRO(2)), a quantitative interpretation of BOLD signals, and also other functional neuroimaging signals related to blood or tissue oxygenation, is fundamentally limited until we better understand brain oxygen metabolism and how it is related to blood flow. However, the positive side of the complexity of oxygenation signals is that when combined with dynamic CBF measurements they potentially provide the best tool currently available for investigating the dynamics of CMRO(2). This review focuses on the problem of interpreting oxygenation-based signals, the challenges involved in measuring CMRO(2) in general, and what is needed to put oxygenation-based estimates of CMRO(2) on a firm foundation. The importance of developing a solid theoretical framework is emphasized, both as an essential tool for analyzing oxygenation-based multimodal measurements, and also potentially as a way to better understand the physiological phenomena themselves. The existing data, integrated within a simple theoretical framework of O(2) transport, suggests the hypothesis that an important functional role of the mismatch of CBF and CMRO(2) changes with neural activation is to prevent a fall of tissue pO(2). Future directions for better understanding brain oxygen metabolism are discussed.", 
+    "lpage": null, 
+    "grants": [
+      "R01 NS036722"
+    ], 
+    "journal-title": "Frontiers in neuroenergetics", 
+    "fpage": "8", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Buxton", 
+        "Richard B"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Interpreting oxygenation-based neuroimaging signals: the importance and the challenge of understanding brain oxygen metabolism.", 
+    "pmid": "20616882", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "10", 
+    "text": "Cauli, B., and Hamel, E. (2010). Revisiting the role of neurons in neurovascular coupling. Front. Neuroenergetics 2:9. doi: 10.3389/fnene.2010.00009", 
+    "sponsors": [], 
+    "abstxt": "In this article, we will review molecular, anatomical, physiological and pharmacological data in an attempt to better understand how excitatory and inhibitory neurons recruited by distinct afferent inputs to the cerebral cortex contribute to the coupled hemodynamic response, and how astrocytes can act as intermediaries to these neuronal populations. We aim at providing the pros and cons to the following statements that, depending on the nature of the afferent input to the neocortex, (i) different neuronal or astroglial messengers, likely acting in sequence, mediate the hemodynamic changes, (ii) some recruited neurons release messengers that directly alter blood vessel tone, (iii) others act by modulating neuronal and astroglial activity, and (iv) astrocytes act as intermediaries for both excitatory and inhibitory neurotransmitters. We will stress that a given afferent signal activates a precise neuronal circuitry that determines the mediators of the hemodynamic response as well as the level of interaction with surrounding astrocytes.", 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Frontiers in neuroenergetics", 
+    "fpage": "9", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Cauli", 
+        "Bruno"
+      ], 
+      [
+        "Hamel", 
+        "Edith"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Revisiting the role of neurons in neurovascular coupling.", 
+    "pmid": "20616884", 
+    "pmonth": []
+  }, 
+  {
+    "text": "Filosa, J. A. (2010). Vascular tone and neurovascular coupling: considerations toward an improved in vitro model. Front. Neuroenergetics 2:16. doi: 10.3389/fnene.2010.00016"
+  }, 
+  {
+    "text": "Gregg, N. M., White, B. R., Zeff, B. W., Berger, A. J., and Culver, J. P. (2010). Brain specificity of diffuse optical imaging: improvements from superficial signal regression and tomography. Front. Neuroenergetics 2:14. doi: 10.3389/fnene.2010.00014"
+  }, 
+  {
+    "text": "Hamilton, N. B., Attwell, D., and Hall, C. N. (2010). Pericyte-mediated regulation of capillary diameter: a component of neurovascular coupling in health and disease. Front. Neuroenergetics 2:5. doi: 10.3389/fnene.2010.00005"
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "5", 
+    "text": "Harel, N., Bolan, P. J., Turner, R., Ugurbil, K., and Yacoub, E. (2010). Recent advances in high-resolution mr application and its implications for neurovascular coupling research. Front. Neuroenergetics 2:130. doi: 10.3389/fnene.2010.00130", 
+    "sponsors": [
+      "NIBIB", 
+      "NIBIB", 
+      "NIBIB", 
+      "NIBIB"
+    ], 
+    "abstxt": "The current understanding of fMRI, regarding its vascular origins, is based on numerous assumptions and theoretical modeling, but little experimental validation exists to support or challenge these models. The known functional properties of cerebral vasculature are limited mainly to the large pial surface and the small capillary level vessels. However, a significant lack of knowledge exists regarding the cluster of intermediate-sized vessels, mainly the intracortical, connecting these two groups of vessels and where, arguably, key blood flow regulation takes place. In recent years, advances in MR technology and methodology have enabled the probing of the brain, both structurally and functionally, at resolutions and coverage not previously attainable. Functional MRI has been utilized to map functional units down to the levels of cortical columns and lamina. These capabilities open new possibilities for investigating neurovascular coupling and testing hypotheses regarding fundamental cerebral organization. Here, we summarize recent cutting-edge MR applications for studying neurovascular and functional imaging, both in humans as well as in animal models. In light of the described imaging capabilities, we put forward a theory in which a cortical column, an ensemble of neurons involved in a particular neuronal computation is spatially correlated with a specific vascular unit, i.e., a cluster of an emerging principle vein surrounded by a set of diving arteries. If indeed such a correlation between functional (neuronal) and structural (vascular) units exist as a fundamental intrinsic cortical feature, one could conceivably delineate functional domains in cortical areas that are not known or have not been identified.", 
+    "lpage": null, 
+    "grants": [
+      "R01 EB008645", 
+      "R01 EB008645-02", 
+      "R01 EB008645-03", 
+      "R01 EB008645-04"
+    ], 
+    "journal-title": "Frontiers in neuroenergetics", 
+    "fpage": "130", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Harel", 
+        "Noam"
+      ], 
+      [
+        "Bolan", 
+        "Patrick J"
+      ], 
+      [
+        "Turner", 
+        "Robert"
+      ], 
+      [
+        "Ugurbil", 
+        "Kamil"
+      ], 
+      [
+        "Yacoub", 
+        "Essa"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "Recent Advances in High-Resolution MR Application and Its Implications for Neurovascular Coupling Research.", 
+    "pmid": "21048903", 
+    "pmonth": []
+  }, 
+  {
+    "text": "Harris, S., Jones, M., Zheng, Y., and Berwick, J. (2010). Does neural input or processing play a greater role in the magnitude of neuroimaging signals?. Front Neuroenergetics 2:15. doi: 10.3389/fnene.2010.00015"
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "10", 
+    "text": "Hu, S., and Wang, L. V. (2010). Neurovascular photoacoustic tomography. Front. Neuroenergetics 2:10. doi: 10.3389/fnene.2010.00010", 
+    "sponsors": [
+      "NCI", 
+      "NIBIB", 
+      "NIBIB"
+    ], 
+    "abstxt": "Neurovascular coupling refers to the relationship between neuronal activities and downstream hemodynamic responses. Photoacoustic tomography (PAT), enabling comprehensive label-free imaging of hemodynamic activities with highly scalable penetration and spatial resolution, has great potential in the study of neurovascular coupling. In this review, we first introduce the technical basis of hemodynamic PAT - including label-free quantification of total hemoglobin concentration, blood oxygenation, and blood flow - as well as its applications in hemodynamic monitoring. Then, we demonstrate the potential application of PAT in neurovascular imaging by highlighting representative studies on cerebral vascular responses to whisker stimulation and Alzheimer's disease. Finally, potential research directions and associated technical challenges are discussed.", 
+    "lpage": null, 
+    "grants": [
+      "R01 CA134539-03", 
+      "R01 EB000712-09", 
+      "R01 EB008085-04"
+    ], 
+    "journal-title": "Frontiers in neuroenergetics", 
+    "fpage": "10", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Hu", 
+        "Song"
+      ], 
+      [
+        "Wang", 
+        "Lihong V"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Neurovascular photoacoustic tomography.", 
+    "pmid": "20616885", 
+    "pmonth": []
+  }, 
+  {
+    "text": "Hyder, F., Sanganahalli, B. G., Herman, P., Coman, D., Maandag, N. J., Behar, K. L., Blumenfeld, H., and Rothman, D. L. (2010). Neurovascular and neurometabolic couplings in dynamic calibrated fMRI: transient oxidative neuroenergetics for block-design and event-related paradigms. Front. Neuroenergetics 2:18. doi: 10.3389/fnene.2010.00018"
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "12", 
+    "text": "Kleinfeld, D., Blinder, P., Drew, P. J., Driscoll, J. D., Muller, A., Tsai, P. S., and Shih, A. Y. (2011). A guide to delineate the logic of neurovascular signaling in the brain. Front. Neuroenergetics 3:1. doi: 10.3389/fnene.2011.00001", 
+    "sponsors": [], 
+    "abstxt": "The neurovascular system may be viewed as a distributed nervous system within the brain. It transforms local neuronal activity into a change in the tone of smooth muscle that lines the walls of arterioles and microvessels. We review the current state of neurovascular coupling, with an emphasis on signaling molecules that convey information from neurons to neighboring vessels. At the level of neocortex, this coupling is mediated by: (i) a likely direct interaction with inhibitory neurons, (ii) indirect interaction, via astrocytes, with excitatory neurons, and (iii) fiber tracts from subcortical layers. Substantial evidence shows that control involves competition between signals that promote vasoconstriction versus vasodilation. Consistent with this picture is evidence that, under certain circumstances, increased neuronal activity can lead to vasoconstriction rather than vasodilation. This confounds na\u8ab0ve interpretations of functional brain images. We discuss experimental approaches to detect signaling molecules in vivo with the goal of formulating an empirical basis for the observed logic of neurovascular control.", 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Frontiers in neuroenergetics", 
+    "fpage": "1", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Kleinfeld", 
+        "David"
+      ], 
+      [
+        "Blinder", 
+        "Pablo"
+      ], 
+      [
+        "Drew", 
+        "Patrick J"
+      ], 
+      [
+        "Driscoll", 
+        "Jonathan D"
+      ], 
+      [
+        "Muller", 
+        "Arnaud"
+      ], 
+      [
+        "Tsai", 
+        "Philbert S"
+      ], 
+      [
+        "Shih", 
+        "Andy Y"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "A guide to delineate the logic of neurovascular signaling in the brain.", 
+    "pmid": "21559095", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "10", 
+    "text": "Koch, S. P., Habermehl, C., Mehnert, J., Schmitz, C. H., Holtze, S., Villringer, A., Steinbrink, J., and Obrig, H. (2010). High-resolution optical functional mapping of the human somatosensory cortex. Front. Neuroenergetics 2:12. doi: 10.3389/fnene.2010.00012", 
+    "sponsors": [], 
+    "abstxt": "Non-invasive optical imaging of brain function has been promoted in a number of fields in which functional magnetic resonance imaging (fMRI) is limited due to constraints induced by the scanning environment. Beyond physiological and psychological research, bedside monitoring and neurorehabilitation may be relevant clinical applications that are yet little explored. A major obstacle to advocate the tool in clinical research is insufficient spatial resolution. Based on a multi-distance high-density optical imaging setup, we here demonstrate a dramatic increase in sensitivity of the method. We show that optical imaging allows for the differentiation between activations of single finger representations in the primary somatosensory cortex (SI). Methodologically our findings confirm results in a pioneering study by Zeff et al. (2007) and extend them to the homuncular organization of SI. After performing a motor task, eight subjects underwent vibrotactile stimulation of the little finger and the thumb. We used a high-density diffuse-optical sensing array in conjunction with optical tomographic reconstruction. Optical imaging disclosed three discrete activation foci one for motor and two discrete foci for vibrotactile stimulation of the first and fifth finger, respectively. The results were co-registered to the individual anatomical brain anatomy (MRI) which confirmed the localization in the expected cortical gyri in four subjects. This advance in spatial resolution opens new perspectives to apply optical imaging in the research on plasticity notably in patients undergoing neurorehabilitation.", 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Frontiers in neuroenergetics", 
+    "fpage": "12", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Koch", 
+        "Stefan P"
+      ], 
+      [
+        "Habermehl", 
+        "Christina"
+      ], 
+      [
+        "Mehnert", 
+        "Jan"
+      ], 
+      [
+        "Schmitz", 
+        "Christoph H"
+      ], 
+      [
+        "Holtze", 
+        "Susanne"
+      ], 
+      [
+        "Villringer", 
+        "Arno"
+      ], 
+      [
+        "Steinbrink", 
+        "Jens"
+      ], 
+      [
+        "Obrig", 
+        "Hellmuth"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "High-resolution optical functional mapping of the human somatosensory cortex.", 
+    "pmid": "20616883", 
+    "pmonth": []
+  }, 
+  {
+    "text": "Lin, A. L., Gao, J. H., Duong, T. Q., and Fox, P. T. (2011). Functional neuroimaging: a physiological perspective. Front. Neuroenergetics 2:17. doi: 10.3389/fnene.2010.00017"
+  }, 
+  {
+    "text": "Lindauer, U., Dirnagl, U., Fuchtemeier, M., Bottiger, C., Offenhauser, N., Leithner, C., and Royl, G. (2010). Pathophysiological interference with neurovascular coupling &#x02013; when imaging based on hemoglobin might go blind. Front. Neuroenergetics 2:25. doi: 10.3389/fnene.2010.00025"
+  }, 
+  {
+    "text": "Logothetis, N. K. (2010). Neurovascular uncoupling: much ado about nothing. Front. Neuroenergetics 2:2. doi: 10.3389/fnene.2010.00002"
+  }, 
+  {
+    "text": "Luckl, J., Baker, W., Sun, Z. H., Durduran, T., Yodh, A. G., and Greenberg, J. H. (2010). The biological effect of contralateral forepaw stimulation in rat focal cerebral ischemia: a multispectral optical imaging study. Front. Neuroenergetics 2:19. doi: 10.3389/fnene.2010.00019"
+  }, 
+  {
+    "text": "Obrig, H., Rossi, S., Telkemeyer, S., and Wartenburger, I. (2010). From acoustic segmentation to language processing: evidence from optical imaging. Front. Neuroenergetics 2:13. doi: 10.3389/fnene.2010.00013"
+  }, 
+  {
+    "text": "Saka, M., Berwick, J., and Jones, M. (2010). Linear superposition of sensory-evoked and ongoing cortical hemodynamics. Front. Neuroenergetics 2:23. doi: 10.3389/fnene.2010.00023"
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "26", 
+    "text": "Sirotin, Y. B., and Das, A. (2010). Spatial relationship between flavoprotein fluorescence and the hemodynamic response in the primary visual cortex of alert macaque monkeys. Front. Neuroenergetics 2:6. doi: 10.3389/fnene.2010.00006", 
+    "sponsors": [], 
+    "abstxt": "Flavoprotein fluorescence imaging (FFI) is a novel intrinsic optical signal that is steadily gaining ground as a valuable imaging tool in neuroscience research due to its closer relationship with local metabolism relative to the more commonly used hemodynamic signals. We have developed a technique for FFI imaging in the primary visual cortex (V1) of alert monkeys. Due to the nature of neurovascular coupling, hemodynamic signals are known to spread beyond the locus of metabolic activity. To determine whether FFI signals could provide a more focal measure of cortical activity in alert animals, we compared FFI and hemodynamic point spreads (i.e. responses to a minimal visual stimulus) and functional mapping signals over V1 in macaques performing simple fixation tasks. FFI responses were biphasic, with an early and focal fluorescence increase followed by a delayed and spatially broader fluorescence decrease. As expected, the early fluorescence increase, indicating increased local oxidative metabolism, was somewhat narrower than the simultaneously observed hemodynamic response. However, the later FFI decrease was broader than the hemodynamic response and started prior to the cessation of visual stimulation suggesting different mechanisms underlying the two phases of the fluorescence signal. FFI mapping signals were free of vascular artifacts and comparable in amplitude to hemodynamic mapping signals. These results indicate that the FFI response may be a more local and direct indicator of cortical metabolism than the hemodynamic response in alert animals.", 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Frontiers in neuroenergetics", 
+    "fpage": "6", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Sirotin", 
+        "Yevgeniy B"
+      ], 
+      [
+        "Das", 
+        "Aniruddha"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Spatial Relationship between Flavoprotein Fluorescence and the Hemodynamic Response in the Primary Visual Cortex of Alert Macaque Monkeys.", 
+    "pmid": "20577638", 
+    "pmonth": []
+  }, 
+  {
+    "text": "Srienc, A. I., Kurth-Nelson, Z. L., and Newman, E. A. (2010). Imaging retinal blood flow with laser speckle flowmetry. Front. Neuroenergetics 2:128. doi: 10.3389/fnene.2010.00128"
+  }, 
+  {
+    "text": "Vanzetta, I., and Slovin, H. (2010). A BOLD assumption. Front. Neuroenergetics 2:24. doi: 10.3389/fnene.2010.00024"
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "10", 
+    "text": "Vazquez, A. L., Masamoto, K., Fukuda, M., and Kim, S. G. (2010). Cerebral oxygen delivery and consumption during evoked neural activity. Front. Neuroenergetics 2:11. doi: 10.3389/fnene.2010.00011", 
+    "sponsors": [
+      "NINDS", 
+      "NINDS"
+    ], 
+    "abstxt": "Increases in neural activity evoke increases in the delivery and consumption of oxygen. Beyond observations of cerebral tissue and blood oxygen, the role and properties of cerebral oxygen delivery and consumption during changes in brain function are not well understood. This work overviews the current knowledge of functional oxygen delivery and consumption and introduces recent and preliminary findings to explore the mechanisms by which oxygen is delivered to tissue as well as the temporal dynamics of oxygen metabolism. Vascular oxygen tension measurements have shown that a relatively large amount of oxygen exits pial arterioles prior to capillaries. Additionally, increases in cerebral blood flow (CBF) induced by evoked neural activation are accompanied by arterial vasodilation and also by increases in arteriolar oxygenation. This increase contributes not only to the down-stream delivery of oxygen to tissue, but also to delivery of additional oxygen to extra-vascular spaces surrounding the arterioles. On the other hand, the changes in tissue oxygen tension due to functional increases in oxygen consumption have been investigated using a method to suppress the evoked CBF response. The functional decreases in tissue oxygen tension induced by increases in oxygen consumption are slow to evoked changes in CBF under control conditions. Preliminary findings obtained using flavoprotein autofluorescence imaging suggest cellular oxidative metabolism changes at a faster rate than the average changes in tissue oxygen. These issues are important in the determination of the dynamic changes in tissue oxygen metabolism from hemoglobin-based imaging techniques such as blood oxygenation-level dependent functional magnetic resonance imaging (fMRI).", 
+    "lpage": null, 
+    "grants": [
+      "F32 NS056682", 
+      "F32 NS056682-03"
+    ], 
+    "journal-title": "Frontiers in neuroenergetics", 
+    "fpage": "11", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Vazquez", 
+        "Alberto L"
+      ], 
+      [
+        "Masamoto", 
+        "Kazuto"
+      ], 
+      [
+        "Fukuda", 
+        "Mitsuhiro"
+      ], 
+      [
+        "Kim", 
+        "Seong-Gi"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Cerebral oxygen delivery and consumption during evoked neural activity.", 
+    "pmid": "20616881", 
+    "pmonth": []
+  }
+]

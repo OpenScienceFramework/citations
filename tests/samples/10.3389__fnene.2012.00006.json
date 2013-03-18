@@ -1,0 +1,878 @@
+[
+  {
+    "text": "Arridge, S. R. (1999). Optical tomography in medical imaging. Inverse Probl. 15, R14&#x02013;R93."
+  }, 
+  {
+    "pyear": [
+      "1999"
+    ], 
+    "pubday": "8", 
+    "text": "Bevilacqua, F., Piguet, D., Marquet, P., Gross, J. D., Tromberg, B. J., and Depeursinge, C. (1999). In vivo local determination of tissue optical properties: applications to human brain. Appl. Opt. 38, 4939&#x02013;4950.", 
+    "sponsors": [], 
+    "abstxt": "Local and superficial near-infrared (NIR) optical-property characterization of turbid biological tissues can be achieved by measurement of spatially resolved diffuse reflectance at small source-detector separations (&lt;1.4 mm). However, in these conditions the inverse problem, i.e., calculation of localized absorption and the reduced scattering coefficients, is necessarily sensitive to the scattering phase function. This effect can be minimized if a new parameter of the phase function gamma, which depends on the first and the second moments of the phase function, is known. If gamma is unknown, an estimation of this parameter can be obtained by the measurement, but the uncertainty of the absorption coefficient is increased. A spatially resolved reflectance probe employing multiple detector fibers (0.3-1.4 mm from the source) is described. Monte Carlo simulations are used to determine gamma, the reduced scattering and absorption coefficients from reflectance data. Probe performance is assessed by measurements on phantoms, the optical properties of which were measured by other techniques [frequency domain photon migration (FDPM) and spatially resolved transmittance]. Our results show that changes in the absorption coefficient, the reduced scattering coefficient, and gamma can be measured to within +/-0.005 mm(-1), +/-0.05 mm(-1), and +/-0.2, respectively. In vivo measurements performed intraoperatively on a human skull and brain are reported for four NIR wavelengths (674, 811, 849, 956 nm) when the spatially resolved probe and FDPM are used. The spatially resolved probe shows optimum measurement sensitivity in the measurement volume immediately beneath the probe (typically 1 mm(3) in tissues), whereas FDPM typically samples larger regions of tissues. Optical-property values for human skull, white matter, scar tissue, optic nerve, and tumors are reported that show distinct absorption and scattering differences between structures and a dependence on the phase-function parameter gamma.", 
+    "lpage": "4950", 
+    "grants": [], 
+    "journal-title": "Applied optics", 
+    "fpage": "4939", 
+    "keywords": [], 
+    "pubyear": "2008", 
+    "auths": [
+      [
+        "Bevilacqua", 
+        "F"
+      ], 
+      [
+        "Piguet", 
+        "D"
+      ], 
+      [
+        "Marquet", 
+        "P"
+      ], 
+      [
+        "Gross", 
+        "J D"
+      ], 
+      [
+        "Tromberg", 
+        "B J"
+      ], 
+      [
+        "Depeursinge", 
+        "C"
+      ]
+    ], 
+    "pubmonth": "3", 
+    "article-title": "In vivo local determination of tissue optical properties: applications to human brain.", 
+    "pmid": "18323984", 
+    "pmonth": [
+      "Aug"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "10", 
+    "text": "Bluestone, A., Abdoulaev, G., Schmitz, C., Barbour, R., and Hielscher, A. (2001). Three-dimensional optical tomography of hemodynamics in the human head. Opt. Express 9, 272&#x02013;286.", 
+    "sponsors": [], 
+    "abstxt": "We report on the first three-dimensional, volumetric, tomographic localization of vascular reactivity in the brain. To this end we developed a model-based iterative image reconstruction scheme that employs adjoint differentiation methods to minimize the difference between measured and predicted data. The necessary human-head geometry and optode locations were determined with a photogrammetric method. To illustrate the performance of the technique, the three-dimensional distribution of changes in the concentration of oxyhemoglobin, deoxyhemoglobin, and total hemoglobin during a Valsalva maneuver were visualized. The observed results are consistent with previously reported effects concerning optical responses to hemodynamic perturbations.", 
+    "lpage": "286", 
+    "grants": [], 
+    "journal-title": "Optics express", 
+    "fpage": "272", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Bluestone", 
+        "A"
+      ], 
+      [
+        "Abdoulaev", 
+        "G"
+      ], 
+      [
+        "Schmitz", 
+        "C"
+      ], 
+      [
+        "Barbour", 
+        "R"
+      ], 
+      [
+        "Hielscher", 
+        "A"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Three-dimensional optical tomography of hemodynamics in the human head.", 
+    "pmid": "19421298", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "text": "Boas, D. A., Chen, K., Grebert, D., and Franceschini, M. A. (2004a). Improving the diffuse optical imaging spatial resolution of the cerebral hemodynamic response to brain activation in humans. Opt. Lett. 29, 1506&#x02013;1508."
+  }, 
+  {
+    "text": "Boas, D. A., Dale, A. M., and Franceschini, M. A. (2004b). Diffuse optical imaging of brain activation: approaches to optimizing image sensitivity, resolution, and accuracy. Neuroimage 23(Suppl. 1), S275&#x02013;S288."
+  }, 
+  {
+    "pyear": [
+      "2005"
+    ], 
+    "pubday": "9", 
+    "text": "Boas, D. A., and Dale, A. M. (2005). Simulation study of magnetic resonance imaging-guided cortically constrained diffuse optical tomography of human brain function. Appl. Opt. 44, 1957&#x02013;1968.", 
+    "sponsors": [
+      "NCRR", 
+      "NIBIB", 
+      "NIBIB"
+    ], 
+    "abstxt": "Diffuse optical imaging can measure brain activity noninvasively in humans through the scalp and skull by measuring the light intensity modulation arising from localized-activity-induced absorption changes within the cortex. Spatial resolution and localization accuracy are currently limited by measurement geometry to approximately 3 cm in the plane parallel to the scalp. Depth resolution is a more significant challenge owing to the limited angle tomography permitted by reflectance-only measurements. We combine previously established concepts for improving image quality and demonstrate, through simulation studies, their application for improving the image quality of adult human brain function. We show in a three-dimensional human head model that localization accuracy is significantly improved by the addition of measurements that provide overlapping samples of brain tissue. However, the reconstructed absorption contrast is significantly underestimated because its depth is underestimated. We show that the absorption contrast amplitude accuracy can be significantly improved by providing a cortical spatial constraint in the image reconstruction to obtain a better depth localization. The cortical constraint makes physiological sense since the brain-activity-induced absorption changes are occurring in the cortex and not in the scalp, skull, and cerebral spinal fluid. This spatial constraint is provided by segmentation of coregistered structural magnetic resonance imaging (MRI). However, the absorption contrast deep within the cortex is reconstructed superficially, resulting in an underestimation of the absorption contrast. The synthesis of techniques described here indicates that multimodality imaging of brain function with diffuse optical imaging and MRI has the potential to provide more quantitative estimates of the total and deoxyhemoglobin response to brain activation, which is currently not provided by either method independently. However, issues of depth resolution within the cortex remain to be resolved.", 
+    "lpage": "1968", 
+    "grants": [
+      "P41-RR14075", 
+      "R01-EB002482", 
+      "R01-EB00790"
+    ], 
+    "journal-title": "Applied optics", 
+    "fpage": "1957", 
+    "keywords": [], 
+    "pubyear": "2005", 
+    "auths": [
+      [
+        "Boas", 
+        "David A"
+      ], 
+      [
+        "Dale", 
+        "Anders M"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "Simulation study of magnetic resonance imaging-guided cortically constrained diffuse optical tomography of human brain function.", 
+    "pmid": "15813532", 
+    "pmonth": [
+      "Apr"
+    ]
+  }, 
+  {
+    "pyear": [], 
+    "pubday": "19", 
+    "text": "Brooksby, B., Jiang, S., Dehghani, H., Pogue, B. W., Paulsen, K. D., Weaver, J., Kogel, C., and Poplack, S. P. (2005). Combining near-infrared tomography and magnetic resonance imaging to study in vivo breast tissue: implementation of a Laplacian-type regularization to incorporate magnetic resonance structure. J. Biomed. Opt. 10, 051504.", 
+    "sponsors": [
+      "NCI", 
+      "NCI", 
+      "NCI"
+    ], 
+    "abstxt": "An imaging system that simultaneously performs near infrared (NIR) tomography and magnetic resonance imaging (MRI) is used to study breast tissue phantoms and a healthy woman in vivo. An NIR image reconstruction that exploits the combined data set is presented that implements the MR structure as a soft-constraint in the NIR property estimation. The algorithm incorporates the MR spatially segmented regions into a regularization matrix that links locations with similar MR properties, and applies a Laplacian-type filter to minimize variation within each region. When prior knowledge of the structure of phantoms is used to guide NIR property estimation, root mean square (rms) image error decreases from 26 to 58%. For a representative in vivo case, images of hemoglobin concentration, oxygen saturation, water fraction, scattering power, and scattering amplitude are derived and the properties of adipose and fibroglandular breast tissue types, identified from MRI, are quantified. Fibroglandular tissue is observed to have more than four times as much water content as adipose tissue, almost twice as much blood volume, and slightly reduced oxygen saturation. This approach is expected to improve recovery of abnormalities within the breast, as the inclusion of structural information increases the accuracy of recovery of embedded heterogeneities, at least in phantom studies.", 
+    "lpage": null, 
+    "grants": [
+      "P01CA80139", 
+      "R01CA69544", 
+      "U54CA105480"
+    ], 
+    "journal-title": "Journal of biomedical optics", 
+    "fpage": "051504", 
+    "keywords": [], 
+    "pubyear": "2005", 
+    "auths": [
+      [
+        "Brooksby", 
+        "Ben"
+      ], 
+      [
+        "Jiang", 
+        "Shudong"
+      ], 
+      [
+        "Dehghani", 
+        "Hamid"
+      ], 
+      [
+        "Pogue", 
+        "Brian W"
+      ], 
+      [
+        "Paulsen", 
+        "Keith D"
+      ], 
+      [
+        "Weaver", 
+        "John"
+      ], 
+      [
+        "Kogel", 
+        "Christine"
+      ], 
+      [
+        "Poplack", 
+        "Steven P"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "Combining near-infrared tomography and magnetic resonance imaging to study in vivo breast tissue: implementation of a Laplacian-type regularization to incorporate magnetic resonance structure.", 
+    "pmid": "16292948", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "1", 
+    "text": "Culver, J. P., Siegel, A. M., Stott, J. J., and Boas, D. A. (2003). Volumetric diffuse optical tomography of brain activity. Opt. Lett. 28, 2061&#x02013;2063.", 
+    "sponsors": [
+      "NINDS", 
+      "NCRR", 
+      "NINDS"
+    ], 
+    "abstxt": "We present three-dimensional diffuse optical tomography of the hemodynamic response to somatosensory stimulation in a rat. These images show the feasibility of volumetrically imaging the functional response to brain activity with diffuse light. A combination of positional optode calibration and contrast-to-noise ratio weighting was found to improve imaging performance.", 
+    "lpage": "2063", 
+    "grants": [
+      "K25-NS44339", 
+      "P41-RR14075", 
+      "R29-NS38842"
+    ], 
+    "journal-title": "Optics letters", 
+    "fpage": "2061", 
+    "keywords": [], 
+    "pubyear": "2003", 
+    "auths": [
+      [
+        "Culver", 
+        "Joseph P"
+      ], 
+      [
+        "Siegel", 
+        "Andrew M"
+      ], 
+      [
+        "Stott", 
+        "Jonathan J"
+      ], 
+      [
+        "Boas", 
+        "David A"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "Volumetric diffuse optical tomography of brain activity.", 
+    "pmid": "14587815", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "1", 
+    "text": "Custo, A., Boas, D. A., Tsuzuki, D., Dan, I., Mesquita, R., Fischl, B., Grimson, W. E., and Wells, W. III. (2010). Anatomical atlas-guided diffuse optical tomography of brain activation. Neuroimage 49, 561&#x02013;567.", 
+    "sponsors": [
+      "NCRR", 
+      "NCRR", 
+      "NCRR", 
+      "NCRR", 
+      "NIBIB", 
+      "NIBIB"
+    ], 
+    "abstxt": "We describe a neuroimaging protocol that utilizes an anatomical atlas of the human head to guide diffuse optical tomography of human brain activation. The protocol is demonstrated by imaging the hemodynamic response to median-nerve stimulation in three healthy subjects, and comparing the images obtained using a head atlas with the images obtained using the subject-specific head anatomy. The results indicate that using the head atlas anatomy it is possible to reconstruct the location of the brain activation to the expected gyrus of the brain, in agreement with the results obtained with the subject-specific head anatomy. The benefits of this novel method derive from eliminating the need for subject-specific head anatomy and thus obviating the need for a subject-specific MRI to improve the anatomical interpretation of diffuse optical tomography images of brain activation.", 
+    "lpage": "567", 
+    "grants": [
+      "P41 RR013218-12", 
+      "P41 RR014075-10", 
+      "P41-RR13218", 
+      "P41-RR14075", 
+      "U54 EB005149-02", 
+      "U54-EB-005149"
+    ], 
+    "journal-title": "NeuroImage", 
+    "fpage": "561", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Custo", 
+        "Anna"
+      ], 
+      [
+        "Boas", 
+        "David A"
+      ], 
+      [
+        "Tsuzuki", 
+        "Daisuke"
+      ], 
+      [
+        "Dan", 
+        "Ippeita"
+      ], 
+      [
+        "Mesquita", 
+        "Rickson"
+      ], 
+      [
+        "Fischl", 
+        "Bruce"
+      ], 
+      [
+        "Grimson", 
+        "W Eric L"
+      ], 
+      [
+        "Wells", 
+        "Williams"
+      ]
+    ], 
+    "pubmonth": "8", 
+    "article-title": "Anatomical atlas-guided diffuse optical tomography of brain activation.", 
+    "pmid": "19643185", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2006"
+    ], 
+    "pubday": "27", 
+    "text": "Custo, A., Wells, W. M. III, Barnett, A. H., Hillman, E. M., and Boas, D. A. (2006). Effective scattering coefficient of the cerebral spinal fluid in adult head models for diffuse optical imaging. Appl. Opt. 45, 4747&#x02013;4755.", 
+    "sponsors": [
+      "NCRR", 
+      "NIBIB"
+    ], 
+    "abstxt": "An efficient computation of the time-dependent forward solution for photon transport in a head model is a key capability for performing accurate inversion for functional diffuse optical imaging of the brain. The diffusion approximation to photon transport is much faster to simulate than the physically correct radiative transport equation (RTE); however, it is commonly assumed that scattering lengths must be much smaller than all system dimensions and all absorption lengths for the approximation to be accurate. Neither of these conditions is satisfied in the cerebrospinal fluid (CSF). Since line-of-sight distances in the CSF are small, of the order of a few millimeters, we explore the idea that the CSF scattering coefficient may be modeled by any value from zero up to the order of the typical inverse line-of-sight distance, or approximately 0.3 mm(-1), without significantly altering the calculated detector signals or the partial path lengths relevant for functional measurements. We demonstrate this in detail by using a Monte Carlo simulation of the RTE in a three-dimensional head model based on clinical magnetic resonance imaging data, with realistic optode geometries. Our findings lead us to expect that the diffusion approximation will be valid even in the presence of the CSF, with consequences for faster solution of the inverse problem.", 
+    "lpage": "4755", 
+    "grants": [
+      "P41-RR14075", 
+      "R01-EB002482"
+    ], 
+    "journal-title": "Applied optics", 
+    "fpage": "4747", 
+    "keywords": [], 
+    "pubyear": "2006", 
+    "auths": [
+      [
+        "Custo", 
+        "Anna"
+      ], 
+      [
+        "Wells", 
+        "William M"
+      ], 
+      [
+        "Barnett", 
+        "Alex H"
+      ], 
+      [
+        "Hillman", 
+        "Elizabeth M C"
+      ], 
+      [
+        "Boas", 
+        "David A"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Effective scattering coefficient of the cerebral spinal fluid in adult head models for diffuse optical imaging.", 
+    "pmid": "16799690", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2008"
+    ], 
+    "pubday": "15", 
+    "text": "Dehghani, H., Eames, M. E., Yalavarthy, P. K., Davis, S. C., Srinivasan, S., Carpenter, C. M., Pogue, B. W., and Paulsen, K. D. (2008). Near infrared optical tomography using NIRFAST: algorithm for numerical model and image reconstruction. Commun. Numer. Methods Eng. 25, 711&#x02013;732.", 
+    "sponsors": [
+      "NCI", 
+      "NCI", 
+      "NCI"
+    ], 
+    "abstxt": "Diffuse optical tomography, also known as near infrared tomography, has been under investigation, for non-invasive functional imaging of tissue, specifically for the detection and characterization of breast cancer or other soft tissue lesions. Much work has been carried out for accurate modeling and image reconstruction from clinical data. NIRFAST, a modeling and image reconstruction package has been developed, which is capable of single wavelength and multi-wavelength optical or functional imaging from measured data. The theory behind the modeling techniques as well as the image reconstruction algorithms is presented here, and 2D and 3D examples are presented to demonstrate its capabilities. The results show that 3D modeling can be combined with measured data from multiple wavelengths to reconstruct chromophore concentrations within the tissue. Additionally it is possible to recover scattering spectra, resulting from the dominant Mie-type scatter present in tissue. Overall, this paper gives a comprehensive over view of the modeling techniques used in diffuse optical tomographic imaging, in the context of NIRFAST software package.", 
+    "lpage": "732", 
+    "grants": [
+      "P01 CA080139-08", 
+      "P01 CA080139-09", 
+      "R01 CA078734-03"
+    ], 
+    "journal-title": "Communications in numerical methods in engineering", 
+    "fpage": "711", 
+    "keywords": [], 
+    "pubyear": "2008", 
+    "auths": [
+      [
+        "Dehghani", 
+        "Hamid"
+      ], 
+      [
+        "Eames", 
+        "Matthew E"
+      ], 
+      [
+        "Yalavarthy", 
+        "Phaneendra K"
+      ], 
+      [
+        "Davis", 
+        "Scott C"
+      ], 
+      [
+        "Srinivasan", 
+        "Subhadra"
+      ], 
+      [
+        "Carpenter", 
+        "Colin M"
+      ], 
+      [
+        "Pogue", 
+        "Brian W"
+      ], 
+      [
+        "Paulsen", 
+        "Keith D"
+      ]
+    ], 
+    "pubmonth": "8", 
+    "article-title": "Near infrared optical tomography using NIRFAST: Algorithm for numerical model and image reconstruction.", 
+    "pmid": "20182646", 
+    "pmonth": [
+      "Aug"
+    ]
+  }, 
+  {
+    "text": "Dehghani, H., Srinivasan, S., Pogue, B. W., and Gibson, A. (2009a). Numerical modelling and image reconstruction in diffuse optical tomography. Philos. Transact. A Math. Phys. Eng. Sci. 367, 3073&#x02013;3093."
+  }, 
+  {
+    "text": "Dehghani, H., White, B. R., Zeff, B. W., Tizzard, A., and Culver, J. P. (2009b). Depth sensitivity and image reconstruction analysis of dense imaging arrays for mapping brain function with diffuse optical tomography. Appl. Opt. 48, D137&#x02013;D143."
+  }, 
+  {
+    "text": "Eggebrecht, A. T., White, B. R., Ferradal, S. L., Chen, C., Zhan, Y., Snyder, A. Z., Dehghani, H., and Culver, J. P. (2012). A quantitative spatial comparison of high-density diffuse optical tomography and fMRI cortical mapping. Neuroimage."
+  }, 
+  {
+    "pyear": [
+      "2006"
+    ], 
+    "pubday": "26", 
+    "text": "Gibson, A. P., Austin, T., Everdell, N. L., Schweiger, M., Arridge, S. R., Meek, J. H., Wyatt, J. S., Delpy, D. T., and Hebden, J. C. (2006). Three-dimensional whole-head optical tomography of passive motor evoked responses in the neonate. Neuroimage 30, 521&#x02013;528.", 
+    "sponsors": [], 
+    "abstxt": "Optical tomography has been used to reconstruct three-dimensional images of the entire neonatal head during motor evoked responses. Data were successfully acquired during passive movement of each arm on four out of six infants examined, from which eight sets of bilateral images of hemodynamic parameters were reconstructed. Six out of the eight images showed the largest change in total hemoglobin in the region of the contralateral motor cortex. The mean distance between the peak response in the image and the estimated position of the contralateral motor cortex was 10.8 mm. These results suggest that optical tomography may provide an appropriate technique for non-invasive cot-side imaging of brain function.", 
+    "lpage": "528", 
+    "grants": [], 
+    "journal-title": "NeuroImage", 
+    "fpage": "521", 
+    "keywords": [], 
+    "pubyear": "2005", 
+    "auths": [
+      [
+        "Gibson", 
+        "A P"
+      ], 
+      [
+        "Austin", 
+        "T"
+      ], 
+      [
+        "Everdell", 
+        "N L"
+      ], 
+      [
+        "Schweiger", 
+        "M"
+      ], 
+      [
+        "Arridge", 
+        "S R"
+      ], 
+      [
+        "Meek", 
+        "J H"
+      ], 
+      [
+        "Wyatt", 
+        "J S"
+      ], 
+      [
+        "Delpy", 
+        "D T"
+      ], 
+      [
+        "Hebden", 
+        "J C"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Three-dimensional whole-head optical tomography of passive motor evoked responses in the neonate.", 
+    "pmid": "16246586", 
+    "pmonth": [
+      "Apr"
+    ]
+  }, 
+  {
+    "text": "Heiskala, J., Hiltunen, P., and Nissila, I. (2009a). Significance of background optical properties, time-resolved information and optode arrangement in diffuse optical imaging of term neonates. Phys. Med. Biol. 54, 535&#x02013;554."
+  }, 
+  {
+    "text": "Heiskala, J., Pollari, M., Metsaranta, M., Grant, P. E., and Nissila, I. (2009b). Probabilistic atlas can improve reconstruction from optical imaging of the neonatal brain. Opt. Express 17, 14977&#x02013;14992."
+  }, 
+  {
+    "text": "Koch, S. P., Habermehl, C., Mehnert, J., Schmitz, C. H., Holtze, S., Villringer, A., Steinbrink, J., and Obrig, H. (2010). High-resolution optical functional mapping of the human somatosensory cortex. Front Neuroenergetics 2:12."
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "3", 
+    "text": "Li, T., Gong, H., and Luo, Q. (2011). Visualization of light propagation in visible Chinese human head for functional near-infrared spectroscopy. J. Biomed. Opt. 16, 045001.", 
+    "sponsors": [], 
+    "abstxt": "Using the visible Chinese human data set, which faithfully represents human anatomy, we visualize the light propagation in the head in detail based on Monte Carlo simulation. The simulation is verified to agree with published experimental results in terms of a differential path-length factor. The spatial sensitivity profile turns out to seem like a fat tropical fish with strong distortion along the folding cerebral surface. The sensitive brain region covers the gray matter and extends to the superficial white matter, leading to a large penetration depth (&gt;3 cm). Finally, the optimal source-detector separation is suggested to be narrowed down to 3-3.5 cm, while the sensitivity of the detected signal to brain activation reaches the peak of 8%. These results indicate that the cerebral cortex folding geometry actually has substantial effects on light propagation, which should be necessarily considered for applications of functional near-infrared spectroscopy.", 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Journal of biomedical optics", 
+    "fpage": "045001", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Li", 
+        "Ting"
+      ], 
+      [
+        "Gong", 
+        "Hui"
+      ], 
+      [
+        "Luo", 
+        "Qingming"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Visualization of light propagation in visible Chinese human head for functional near-infrared spectroscopy.", 
+    "pmid": "21529068", 
+    "pmonth": [
+      "Apr"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "3", 
+    "text": "Niu, H., Khadka, S., Tian, F., Lin, Z. J., Lu, C., Zhu, C., and Liu, H. (2011). Resting-state functional connectivity assessed with two diffuse optical tomographic systems. J. Biomed. Opt. 16, 046006.", 
+    "sponsors": [
+      "NINDS"
+    ], 
+    "abstxt": "Functional near-infrared spectroscopy (fNIRS) is recently utilized as a new approach to assess resting-state functional connectivity (RSFC) in the human brain. For any new technique or new methodology, it is necessary to be able to replicate similar experiments using different instruments in order to establish its liability and reproducibility. We apply two different diffuse optical tomographic (DOT) systems (i.e., DYNOT and CW5), with various probe arrangements to evaluate RSFC in the sensorimotor cortex by utilizing a previously published experimental protocol and seed-based correlation analysis. Our results exhibit similar spatial patterns and strengths in RSFC between the bilateral motor cortexes. The consistent observations are obtained from both DYNOT and CW5 systems, and are also in good agreement with the previous fNIRS study. Overall, we demonstrate that the fNIRS-based RSFC is reproducible by various DOT imaging systems among different research groups, enhancing the confidence of neuroscience researchers and clinicians to utilize fNIRS for future applications.", 
+    "lpage": null, 
+    "grants": [
+      "4R33NS052850-03"
+    ], 
+    "journal-title": "Journal of biomedical optics", 
+    "fpage": "046006", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Niu", 
+        "Haijing"
+      ], 
+      [
+        "Khadka", 
+        "Sabin"
+      ], 
+      [
+        "Tian", 
+        "Fenghua"
+      ], 
+      [
+        "Lin", 
+        "Zi-Jing"
+      ], 
+      [
+        "Lu", 
+        "Chunming"
+      ], 
+      [
+        "Zhu", 
+        "Chaozhe"
+      ], 
+      [
+        "Liu", 
+        "Hanli"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Resting-state functional connectivity assessed with two diffuse optical tomographic systems.", 
+    "pmid": "21529075", 
+    "pmonth": [
+      "Apr"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "25", 
+    "text": "Obrig, H., and Villringer, A. (2003). Beyond the visible &#x02013; imaging the human brain with light. J. Cereb. Blood Flow Metab. 23, 1&#x02013;18.", 
+    "sponsors": [], 
+    "abstxt": "Optical approaches to investigate cerebral function and metabolism have long been applied in invasive studies. From the neuron cultured to the exposed cortex in the human during neurosurgical procedures, high spatial resolution can be reached and several processes such as membrane potential, cell swelling, metabolism of mitochondrial chromophores, and vascular response can be monitored, depending on the respective preparation. The authors focus on an extension of optical methods to the noninvasive application in the human. Starting with the pioneering work of J\u00f6bsis 25 years ago, near-infrared spectroscopy (NIRS) has been used to investigate functional activation of the human cerebral cortex. Recently, several groups have started to use imaging systems that allow the generation of images of a larger area of the subject's head and, thereby, the production of maps of cortical oxygenation changes. Such images have a much lower spatial resolution compared with the invasively obtained optical images. The noninvasive NIRS images, however, can be obtained in undemanding set-ups that can be easily combined with other functional methods, in particular EEG. Moreover, NIRS is applicable to bedside use. The authors briefly review some of the abundant literature on intrinsic optical signals and the NIRS imaging studies of the past few years. The weaknesses and strengths of the approach are critically discussed. The authors conclude that NIRS imaging has two major advantages: it can address issues concerning neurovascular coupling in the human adult and can extend functional imaging approaches to the investigation of the diseased brain.", 
+    "lpage": "18", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "1", 
+    "keywords": [], 
+    "pubyear": "2002", 
+    "auths": [
+      [
+        "Obrig", 
+        "Hellmuth"
+      ], 
+      [
+        "Villringer", 
+        "Arno"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Beyond the visible--imaging the human brain with light.", 
+    "pmid": "12500086", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "text": "O&#x02019;Leary, M. A. (1996). Imaging with Diffuse Photon Density Waves. Ph.D. thesis, University of Pennsylvania, Philadelphia."
+  }, 
+  {
+    "text": "Penrose, R. (1955). A generalized inverse for matrices. Proc. Camb. Philos. Soc. 51, 406&#x02013;413."
+  }, 
+  {
+    "pyear": [], 
+    "pubday": "11", 
+    "text": "Pogue, B. W., Davis, S. C., Song, X., Brooksby, B. A., Dehghani, H., and Paulsen, K. D. (2006). Image analysis methods for diffuse optical tomography. J. Biomed. Opt. 11, 33001.", 
+    "sponsors": [
+      "NCI", 
+      "NCI", 
+      "NCI"
+    ], 
+    "abstxt": "Three major analytical tools in imaging science are summarized and demonstrated relative to optical imaging in vivo. Standard resolution testing is optimal when infinite contrast is used and hardware evaluation is the goal. However, deep tissue imaging of absorption or fluorescent contrast agents in vivo often presents a different problem, which requires contrast-detail analysis. This analysis shows that the minimum detectable sizes are in the range of 1/10 the outer diameter, whereas minimum detectable contrast values are in the range of 10 to 20% relative to the continuous background values. This is estimated for objects being in the center of the domain being imaged, and as the heterogeneous region becomes closer to the surface, the lower limit on size and contrast can become arbitrarily low and more dictated by hardware specifications. Finally, if human observer detection of abnormalities in the images is the goal, as is standard in most radiological practice, receiver operating characteristic (ROC) curve and location receiver operating characteristic curve (LROC) are used. Each of these three major areas of image interpretation and analysis are reviewed in the context of medical imaging as well as how they are used to quantify the performance of diffuse optical imaging of tissue.", 
+    "lpage": null, 
+    "grants": [
+      "P01CA80139", 
+      "R01CA-109558", 
+      "R01CA69544"
+    ], 
+    "journal-title": "Journal of biomedical optics", 
+    "fpage": "33001", 
+    "keywords": [], 
+    "pubyear": "2006", 
+    "auths": [
+      [
+        "Pogue", 
+        "Brian W"
+      ], 
+      [
+        "Davis", 
+        "Scott C"
+      ], 
+      [
+        "Song", 
+        "Xiaomei"
+      ], 
+      [
+        "Brooksby", 
+        "Ben A"
+      ], 
+      [
+        "Dehghani", 
+        "Hamid"
+      ], 
+      [
+        "Paulsen", 
+        "Keith D"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Image analysis methods for diffuse optical tomography.", 
+    "pmid": "16822050", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "3", 
+    "text": "Strangman, G., Franceschini, M. A., and Boas, D. A. (2003). Factors affecting the accuracy of near-infrared spectroscopy concentration calculations for focal changes in oxygenation parameters. Neuroimage 18, 865&#x02013;879.", 
+    "sponsors": [
+      "NINDS", 
+      "NCRR", 
+      "NIMH", 
+      "NIMH", 
+      "NIMH", 
+      "NINDS"
+    ], 
+    "abstxt": "Near-infrared spectroscopy (NIRS) can be used to noninvasively measure changes in the concentrations of oxy- and deoxyhemoglobin in tissue. We have previously shown that while global changes can be reliably measured, focal changes can produce erroneous estimates of concentration changes (NeuroImage 13 (2001), 76). Here, we describe four separate sources for systematic error in the calculation of focal hemoglobin changes from NIRS data and use experimental methods and Monte Carlo simulations to examine the importance and mitigation methods of each. The sources of error are: (1). the absolute magnitudes and relative differences in pathlength factors as a function of wavelength, (2). the location and spatial extent of the absorption change with respect to the optical probe, (3). possible differences in the spatial distribution of hemoglobin species, and (4). the potential for simultaneous monitoring of multiple regions of activation. We found wavelength selection and optode placement to be important variables in minimizing such errors, and our findings indicate that appropriate experimental procedures could reduce each of these errors to a small fraction (&lt;10%) of the observed concentration changes.", 
+    "lpage": "879", 
+    "grants": [
+      "F32-NS10567", 
+      "P41-RR14075", 
+      "R01 MH062854-02", 
+      "R01 MH062854-03", 
+      "R01-MH62854", 
+      "R29-NS38842"
+    ], 
+    "journal-title": "NeuroImage", 
+    "fpage": "865", 
+    "keywords": [], 
+    "pubyear": "2003", 
+    "auths": [
+      [
+        "Strangman", 
+        "Gary"
+      ], 
+      [
+        "Franceschini", 
+        "Maria Angela"
+      ], 
+      [
+        "Boas", 
+        "David A"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Factors affecting the accuracy of near-infrared spectroscopy concentration calculations for focal changes in oxygenation parameters.", 
+    "pmid": "12725763", 
+    "pmonth": [
+      "Apr"
+    ]
+  }, 
+  {
+    "text": "White, B. R., and Culver, J. P. (2010a). Phase-encoded retinotopy as an evaluation of diffuse optical neuroimaging. Neuroimage 49, 568&#x02013;577."
+  }, 
+  {
+    "text": "White, B. R., and Culver, J. P. (2010b). Quantitative evaluation of high-density diffuse optical tomography: in vivo resolution and mapping performance. J. Biomed. Opt. 15, 026006."
+  }, 
+  {
+    "pyear": [
+      "2009"
+    ], 
+    "pubday": "7", 
+    "text": "White, B. R., Snyder, A. Z., Cohen, A. L., Petersen, S. E., Raichle, M. E., Schlaggar, B. L., and Culver, J. P. (2009). Resting-state functional connectivity in the human brain revealed with diffuse optical tomography. Neuroimage 47, 148&#x02013;156.", 
+    "sponsors": [
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NIBIB", 
+      "NIBIB", 
+      "NINDS", 
+      "NINDS", 
+      "NIBIB", 
+      "NIBIB", 
+      "NICHD", 
+      "NICHD", 
+      "NIBIB", 
+      "NICHD", 
+      "NIDA"
+    ], 
+    "abstxt": "Mapping resting-state networks allows insight into the brain's functional architecture and physiology and has rapidly become important in contemporary neuroscience research. Diffuse optical tomography (DOT) is an emerging functional neuroimaging technique with the advantages, relative to functional magnetic resonance imaging (fMRI), of portability and the ability to simultaneously measure both oxy- and deoxyhemoglobin. Previous optical studies have evaluated the temporal features of spontaneous resting brain signals. Herein, we develop techniques for spatially mapping functional connectivity with DOT (fc-DOT). Simultaneous imaging over the motor and visual cortices yielded robust correlation maps reproducing the expected functional neural architecture. The localization of the maps was confirmed with task-response studies and with subject-matched fc-MRI. These fc-DOT methods provide a task-less approach to mapping brain function in populations that were previously difficult to research. Our advances may permit new studies of early childhood development and of unconscious patients. In addition, the comprehensive hemoglobin contrasts of fc-DOT enable innovative studies of the biophysical origin of the functional connectivity signal.", 
+    "lpage": "156", 
+    "grants": [
+      "1F30NS062489", 
+      "K02 NS053425-03", 
+      "K02-NS053425", 
+      "P50 NS006833-420032", 
+      "P50-NS06833", 
+      "R01 EB009233-03", 
+      "R01 EB009233-04", 
+      "R01 NS046424-04", 
+      "R01-NS46424", 
+      "R21 EB007924", 
+      "R21 EB007924-02", 
+      "R21 HD057512", 
+      "R21 HD057512-01A1", 
+      "R21-EB007924", 
+      "R21-HD057512", 
+      "T90-DA022871"
+    ], 
+    "journal-title": "NeuroImage", 
+    "fpage": "148", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "White", 
+        "Brian R"
+      ], 
+      [
+        "Snyder", 
+        "Abraham Z"
+      ], 
+      [
+        "Cohen", 
+        "Alexander L"
+      ], 
+      [
+        "Petersen", 
+        "Steven E"
+      ], 
+      [
+        "Raichle", 
+        "Marcus E"
+      ], 
+      [
+        "Schlaggar", 
+        "Bradley L"
+      ], 
+      [
+        "Culver", 
+        "Joseph P"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "Resting-state functional connectivity in the human brain revealed with diffuse optical tomography.", 
+    "pmid": "19344773", 
+    "pmonth": [
+      "Aug"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "10", 
+    "text": "Zeff, B. W., White, B. R., Dehghani, H., Schlaggar, B. L., and Culver, J. P. (2007). Retinotopic mapping of adult human visual cortex with high-density diffuse optical tomography. Proc. Natl. Acad. Sci. U.S.A. 104, 12169&#x02013;12174.", 
+    "sponsors": [
+      "NINDS", 
+      "NINDS", 
+      "NIBIB", 
+      "NIBIB"
+    ], 
+    "abstxt": "Functional neuroimaging is a vital element of neuroscience and cognitive research and, increasingly, is an important clinical tool. Diffuse optical imaging is an emerging, noninvasive technique with unique portability and hemodynamic contrast capabilities for mapping brain function in young subjects and subjects in enriched or clinical environments. We have developed a high-performance, high-density diffuse optical tomography (DOT) system that overcomes previous limitations and enables superior image quality. We show herein the utility of the DOT system by presenting functional hemodynamic maps of the adult human visual cortex. The functional brain images have a high contrast-to-noise ratio, allowing visualization of individual activations and highly repeatable mapping within and across subjects. With the improved spatial resolution and localization, we were able to image functional responses of 1.7 cm in extent and shifts of &lt;1 cm. Cortical maps of angle and eccentricity in the visual field are consistent with retinotopic studies using functional MRI and positron-emission tomography. These results demonstrate that high-density DOT is a practical and powerful tool for mapping function in the human cortex.", 
+    "lpage": "12174", 
+    "grants": [
+      "K25 NS044339", 
+      "K25NS4339", 
+      "R21 EB007924", 
+      "R21EB7924"
+    ], 
+    "journal-title": "Proceedings of the National Academy of Sciences of the United States of America", 
+    "fpage": "12169", 
+    "keywords": [], 
+    "pubyear": "2007", 
+    "auths": [
+      [
+        "Zeff", 
+        "Benjamin W"
+      ], 
+      [
+        "White", 
+        "Brian R"
+      ], 
+      [
+        "Dehghani", 
+        "Hamid"
+      ], 
+      [
+        "Schlaggar", 
+        "Bradley L"
+      ], 
+      [
+        "Culver", 
+        "Joseph P"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Retinotopic mapping of adult human visual cortex with high-density diffuse optical tomography.", 
+    "pmid": "17616584", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "text": "Zhan, Y., Eggebrecht, A., Dehghani, H., and Culver, J. (2011). Quantitative evaluation of systematic imaging error due to uncertainty in tissue optical properties in high-density diffuse optical tomography. Proc. SPIE 7896, 78960O."
+  }
+]
