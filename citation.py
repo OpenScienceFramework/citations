@@ -122,4 +122,5 @@ class Citation(dict):
             print(self.UID)
 
     def setReferences(self):
-        pass
+        references = {}
+        self[unicode('references')] = references
