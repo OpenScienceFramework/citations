@@ -1,0 +1,62 @@
+[
+  {
+    "text": "1.\n              Germain RN, Meier-schellersheim M, Nita-lazar A, Fraser IDC (2011) Systems Biology in Immunology: A Computational Modeling Perspective. Annual Review of Immunology 29: 527\u2013585.\n        doi:\n        10.1146/annurev-immunol-030409-101317.\n       \n                      Find this article online\n                    "
+  }, 
+  {
+    "text": "2.\n              Efroni S, Harel D, Cohen IR (2003) Toward Rigorous Comprehension of Biological Complexity: Toward Rigorous Comprehension of Biological Complexity: Modeling, Execution, and Visualization of Thymic T-Cell Maturation. Genome Research 13: 2485\u20132497.\n        doi:\n        10.1101/gr.1215303.\n       \n                      Find this article online\n                    "
+  }, 
+  {
+    "text": "3.\n              Kirschner DE, Linderman JJ (2009) Mathematical and computational approaches can complement experimental studies of host-pathogen interactions. Cellular Microbiology 11: 531\u2013539. \n                      Find this article online\n                    "
+  }, 
+  {
+    "text": "4.\n              Andrews PS, Polack FAC, Sampson AT, Stepney S, Timmis J (2010) The CoSMoS Process, Version 0.1: A Process for the Modelling and Simulation of Complex Systems. Technical Report YCS-2010-453. Department of Computer Science, University of York 1\u201340. \n                      Find this article online\n                    "
+  }, 
+  {
+    "text": "5.\n              Helton JC (2008) Uncertainty and sensitivity analysis for models of complex systems. In: Barth TJ, Griebel M, Keyes DE, Nieminen RM, Roose D, et al.., editors. Computational Methods in Transport: Verification and Validation. Springer. pp. 207\u2013228. "
+  }, 
+  {
+    "text": "6.\n              Read M, Andrews PS, Timmis J, Kumar V (2012) Techniques for Grounding Agent-Based Simulations in the Real Domain: a case study in Experimental Autoimmune Encephalomyelitis. Mathematical and Computer Modelling of Dynamical Systems 18: 67\u201386.\n        doi:\n        10.1080/13873954.2011.601419.\n       \n                      Find this article online\n                    "
+  }, 
+  {
+    "text": "7.\n              Marino S, Hogue IB, Ray CJ, Kirschner DE (2008) A methodology for performing global uncertainty and sensitivity analysis in systems biology. Journal of theoretical biology 254: 178\u2013196.\n        doi:\n        10.1016/j.jtbi.2008.04.011.\n       \n                      Find this article online\n                    "
+  }, 
+  {
+    "text": "8.\n              Ray JCJ, Flynn JL, Kirschner DE (2009) Synergy between individual TNF-dependent functions determines granuloma performance for controlling mycobacterium tuberculosis infection. Journal of theoretical biology 182: 3706\u20133717.\n        doi:\n        10.4049/jimmunol.0802297.\n       \n                      Find this article online\n                    "
+  }, 
+  {
+    "text": "9.\n              Patel A, Harker N, Moreira-Santos L, Ferreira M, Alden K, et al. (2012) Differential RET responses orchestrate lymphoid and nervous enteric system development. Science Signalling 5: ra55. \n                      Find this article online\n                    "
+  }, 
+  {
+    "text": "10.\n              Alden K, Timmis J, Andrews PS, Veiga-Fernandes H, Coles MC (2012) Pairing experimentation and computational modelling to understand the role of tissue inducer cells in the development of lymphoid organs. Frontiers in Immunology 3: 172.\n        doi:\n        10.3389/fimmu.2012.00172.\n       \n                      Find this article online\n                    "
+  }, 
+  {
+    "text": "11.\n              Puzone R, Kohler B, Seiden P, Celada F (2002) IMMSIM, a flexible model for in machina experiments on immune system responses. Future Generation Computer Systems 18: 961\u2013972.\n        doi:\n        10.1016/S0167-739X(02)00075-4.\n       \n                      Find this article online\n                    "
+  }, 
+  {
+    "text": "12.\n              Meier-Schellersheim M, Xu X, Angermann B, Kunkel EJ, Jin T, et al. (2006) Key role of local regulation in chemosensing revealed by a new molecular interaction-based modeling method. PLoS Computational Biology 2: 710\u2013724. \n                      Find this article online\n                    "
+  }, 
+  {
+    "text": "13.\n              Saltelli A, Chan K, Scott EM (2000) Sensitivity Analysis. Wiley series in probability and statistics. Wiley \n                      Find this article online\n                    "
+  }, 
+  {
+    "text": "14.\n              Vargha A, Delaney HD (2000) A critique and improvement of the CL Common Language Effect Size Statistics of McGraw and Wong. Journal of Educational and Behavioural Statistics 25: 101\u2013132. \n                      Find this article online\n                    "
+  }, 
+  {
+    "text": "15.\n              Saltelli A, Bollardo R (1998) An alternative way to compute Fourier amplitude sensitivity test (FAST). Comput Stat Data Anal 26: 445\u2013460.\n        doi:\n        10.1016/S0167-9473(97)00043-1.\n       \n                      Find this article online\n                    "
+  }, 
+  {
+    "text": "16.\n              Saltelli A (2004) Sensitivity Analysis in practice: A guide to assessing scientific models. Wiley \n                      Find this article online\n                    "
+  }, 
+  {
+    "text": "17.\n              Tarantola S, Gatelli D, Mara TA (2006) Random balance designs for the estimation of first order global sensitivity indices. Reliability Engineering &amp; System Safety 91: 717\u2013727.\n        doi:\n        10.1016/j.ress.2005.06.003.\n       \n                      Find this article online\n                    "
+  }, 
+  {
+    "text": "18.\n              Ratto M, Pagano A, Young P (2007) State Dependent Parameter metamodelling and sensitivity analysis. Computer Physics Communications 177: 863\u2013876.\n        doi:\n        10.1016/j.cpc.2007.07.011.\n       \n                      Find this article online\n                    "
+  }, 
+  {
+    "text": "19.\n              Randall TD, Carragher DM, Rangel-Moreno J (2008) Development of secondary lymphoid organs. Annual Review Immunology 26: 627\u2013650.\n        doi:\n        10.1146/annurev.immunol.26.021607.090257.\n       \n                      Find this article online\n                    "
+  }, 
+  {
+    "text": "20.\n              Luther SA, Ansel KM, Cyster JG (2003) Overlapping roles of CXCL13, interleukin 7 receptor alpha, and CCR7 ligands in lymph node development. The Journal of experimental medicine 197: 1191\u20131198. \n                      Find this article online\n                    "
+  }
+]

@@ -1,0 +1,2183 @@
+[
+  {
+    "pyear": [
+      "2012"
+    ], 
+    "pubday": "1", 
+    "text": "Aanerud, J., Borghammer, P., Chakravarty, M. M., Vang, K., Rodell, A. B., J&#x000F3;nsdottir, K. Y., M&#x000F8;ller, A., Ashkanian, M., Vafaee, M. S., Iversen, P., Johannsen, P., and Gjedde, A. (2012). Brain energy metabolism and blood flow differences in healthy aging. J. Cereb. Blood Flow Metab. [Epub ahead of print]. doi:10.1038/jcbfm.2012.18", 
+    "sponsors": [], 
+    "abstxt": "Cerebral metabolic rate of oxygen consumption (CMRO(2)), cerebral blood flow (CBF), and oxygen extraction fraction (OEF) are important indices of healthy aging of the brain. Although a frequent topic of study, changes of CBF and CMRO(2) during normal aging are still controversial, as some authors find decreases of both CBF and CMRO(2) but increased OEF, while others find no change, and yet other find divergent changes. In this reanalysis of previously published results from positron emission tomography of healthy volunteers, we determined CMRO(2) and CBF in 66 healthy volunteers aged 21 to 81 years. The magnitudes of CMRO(2) and CBF declined in large parts of the cerebral cortex, including association areas, but the primary motor and sensory areas were relatively spared. We found significant increases of OEF in frontal and parietal cortices, excluding primary motor and somatosensory regions, and in the temporal cortex. Because of the inverse relation between OEF and capillary oxygen tension, increased OEF can compromise oxygen delivery to neurons, with possible perturbation of energy turnover. The results establish a possible mechanism of progression from healthy to unhealthy brain aging, as the regions most affected by age are the areas that are most vulnerable to neurodegeneration.", 
+    "lpage": "1187", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "1177", 
+    "keywords": [], 
+    "pubyear": "2012", 
+    "auths": [
+      [
+        "Aanerud", 
+        "Joel"
+      ], 
+      [
+        "Borghammer", 
+        "Per"
+      ], 
+      [
+        "Chakravarty", 
+        "M Mallar"
+      ], 
+      [
+        "Vang", 
+        "Kim"
+      ], 
+      [
+        "Rodell", 
+        "Anders B"
+      ], 
+      [
+        "J\u8d38nsdottir", 
+        "Kristjana Y"
+      ], 
+      [
+        "M\u9176ller", 
+        "Arne"
+      ], 
+      [
+        "Ashkanian", 
+        "Mahmoud"
+      ], 
+      [
+        "Vafaee", 
+        "Manouchehr S"
+      ], 
+      [
+        "Iversen", 
+        "Peter"
+      ], 
+      [
+        "Johannsen", 
+        "Peter"
+      ], 
+      [
+        "Gjedde", 
+        "Albert"
+      ]
+    ], 
+    "pubmonth": "3", 
+    "article-title": "Brain energy metabolism and blood flow differences in healthy aging.", 
+    "pmid": "22373642", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [], 
+    "pubday": "1", 
+    "text": "Ashwal, S., Perkin, R. M., Thompson, J. R., Tomasi, L. G., van Stralen, D., and Schneider, S. (1991). CBF and CBF/Pco2 reactivity in childhood strangulation. Pediatr. Neurol. 7, 369&#x02013;374.", 
+    "sponsors": [], 
+    "abstxt": "Four children with self-inflicted strangulation injuries had cerebral blood flow determined by stable xenon computed tomography (XeCTCBF) within 24 hours of admission. All had suffered a severe hypoxic-ischemic cerebral injury; 3 initially had fixed pupils, all were apneic with varying bradyarrhythmias, and the initial mean arterial pH was 7.26 (+/- 0.18). The initial blood glucose values were greater than 300 mg/dl (334 and 351 mg/dl) in the 2 patients who died compared to the 2 who survived (104 and 295 mg/dl). The cardiac index was depressed during the first several days of hospitalization in the 2 patients who died (less than 2.0 L/min/m2) compared to the 2 who survived. Total CBF was normal (63 +/- 8 ml/min/100 gm) and local variations in CBF were present. PCO2 reactivity was determined by hyperventilating the 4 patients for 20 min from an end tidal PCO2 of 39 +/- 3 torr to 29 +/- 1 torr and then repeating the XeCTCBF study. Marked regional variability in the CBF/PCO2 response was observed, ranging from 0.5-5.5 ml/min/100 gm/torr PCO2. In the 2 patients who died, the CBF/PCO2 was decreased (1.2 ml/min/100 gm/torr PCO2) compared to the 2 patients who survived (2.1 ml/min/100 gm/torr PCO2). Although CBF was normal in these 4 children, the hyperventilation response was depressed, variable, and even paradoxical which may be important in the evolution of further brain injury and is a critical factor in deciding whether hyperventilation may be of clinical benefit.(ABSTRACT TRUNCATED AT 250 WORDS)", 
+    "lpage": "374", 
+    "grants": [], 
+    "journal-title": "Pediatric neurology", 
+    "fpage": "369", 
+    "keywords": [], 
+    "pubyear": "1991", 
+    "auths": [
+      [
+        "Ashwal", 
+        "S"
+      ], 
+      [
+        "Perkin", 
+        "R M"
+      ], 
+      [
+        "Thompson", 
+        "J R"
+      ], 
+      [
+        "Tomasi", 
+        "L G"
+      ], 
+      [
+        "van Stralen", 
+        "D"
+      ], 
+      [
+        "Schneider", 
+        "S"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "CBF and CBF/PCO2 reactivity in childhood strangulation.", 
+    "pmid": "1764140", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [], 
+    "pubday": "1", 
+    "text": "Berne, R. M., Winn, H. R., and Rubio, R. (1981). The local regulation of cerebral blood flow. Prog. Cardiovasc. Dis. 24, 243&#x02013;260.", 
+    "sponsors": [
+      "NHLBI", 
+      "PHS"
+    ], 
+    "abstxt": null, 
+    "lpage": "260", 
+    "grants": [
+      "HL10384", 
+      "K07-N5004404"
+    ], 
+    "journal-title": "Progress in cardiovascular diseases", 
+    "fpage": "243", 
+    "keywords": [], 
+    "pubyear": "1981", 
+    "auths": [
+      [
+        "Berne", 
+        "R M"
+      ], 
+      [
+        "Winn", 
+        "H R"
+      ], 
+      [
+        "Rubio", 
+        "R"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "The local regulation of cerebral blood flow.", 
+    "pmid": "6795677", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "1984"
+    ], 
+    "pubday": "1", 
+    "text": "Blomqvist, G. (1984). On the construction of functional maps in position emission tomography. J. Cereb. Blood Flow Metab. 4, 629&#x02013;632.", 
+    "sponsors": [], 
+    "abstxt": "A linear algorithm for the rapid calculation of local rate constants is proposed. The method is applicable to the three-compartment models currently used in the analysis of positron camera measurements with [11C]methionine, [11C]deoxyglucose, and [11C]glucose. The same technique can also be used for the regional measurement of local blood flow with the aid of a freely diffusible tracer. The algorithm was applied to measurements on humans with [11C]glucose. As a comparison, the same data were also analyzed with a standard nonlinear technique. Good agreement between the two methods was obtained.", 
+    "lpage": "632", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "629", 
+    "keywords": [], 
+    "pubyear": "1984", 
+    "auths": [
+      [
+        "Blomqvist", 
+        "G"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "On the construction of functional maps in positron emission tomography.", 
+    "pmid": "6334095", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "17", 
+    "text": "Bola&#x000F1;os, J. P., Almeida, A., and Moncada, S. (2010). Glycolysis: a bioenergetic or a survival pathway? Trends Biochem. Sci. 35, 145&#x02013;149.", 
+    "sponsors": [], 
+    "abstxt": "Following inhibition of mitochondrial respiration neurons die rapidly, whereas astrocytes utilize glycolytically-generated ATP to increase their mitochondrial membrane potential, thus becoming more resistant to pro-apoptotic stimuli. Neurons are unable to increase glycolysis due to the lack of activity of the glycolysis-promoting enzyme 6-phosphofructo-2-kinase/fructose 2,6-bisphosphatase, isoform 3 (PFKFB3). In neurons, PFKFB3 is degraded constantly via the E3 ubiquitin ligase anaphase-promoting complex/cyclosome (APC/C)- CDH1. Glucose metabolism in neurons is directed mainly to the pentose phosphate pathway, leading to regeneration of reduced glutathione. In addition to their relevance to brain physiology and pathophysiology, these observations suggest that APC/C-CDH1 might link activation of glycolysis and cell proliferation as it is also involved in the regulation of cell cycle proteins.", 
+    "lpage": "149", 
+    "grants": [], 
+    "journal-title": "Trends in biochemical sciences", 
+    "fpage": "145", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Bola\u5358os", 
+        "Juan P"
+      ], 
+      [
+        "Almeida", 
+        "Angeles"
+      ], 
+      [
+        "Moncada", 
+        "Salvador"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Glycolysis: a bioenergetic or a survival pathway?", 
+    "pmid": "20006513", 
+    "pmonth": [
+      "Mar"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "19", 
+    "text": "Chen, Y., Wolk, D. A., Reddin, J. S., Korczykowski, M., Martinez, P. M., Musiek, E. S., Newberg, A. B., Julin, P., Arnold, S. E., Greenberg, J. H., and Detre, J. A. (2011). Voxel-level comparison of arterial spin-labeled perfusion MRI and FDG-PET in Alzheimer disease. Neurology 77, 1977&#x02013;1985.", 
+    "sponsors": [
+      "NIMH", 
+      "NINDS", 
+      "NCRR"
+    ], 
+    "abstxt": "We compared the ability of arterial spin labeling (ASL), an MRI method that measures cerebral blood flow (CBF), to that of FDG-PET in distinguishing patients with Alzheimer disease (AD) from healthy, age-matched controls.", 
+    "lpage": "1985", 
+    "grants": [
+      "MH080729", 
+      "NS058386", 
+      "RR002305"
+    ], 
+    "journal-title": "Neurology", 
+    "fpage": "1977", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Chen", 
+        "Y"
+      ], 
+      [
+        "Wolk", 
+        "D A"
+      ], 
+      [
+        "Reddin", 
+        "J S"
+      ], 
+      [
+        "Korczykowski", 
+        "M"
+      ], 
+      [
+        "Martinez", 
+        "P M"
+      ], 
+      [
+        "Musiek", 
+        "E S"
+      ], 
+      [
+        "Newberg", 
+        "A B"
+      ], 
+      [
+        "Julin", 
+        "P"
+      ], 
+      [
+        "Arnold", 
+        "S E"
+      ], 
+      [
+        "Greenberg", 
+        "J H"
+      ], 
+      [
+        "Detre", 
+        "J A"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "Voxel-level comparison of arterial spin-labeled perfusion MRI and FDG-PET in Alzheimer disease.", 
+    "pmid": "22094481", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2009"
+    ], 
+    "pubday": "13", 
+    "text": "Claassen, J. A., Diaz-Arrastia, R., Martin-Cook, K., Levine, B. D., and Zhang, R. (2009). Altered cerebral hemodynamics in early Alzheimer disease: a pilot study using transcranial Doppler. J. Alzheimers Dis. 17, 621&#x02013;629.", 
+    "sponsors": [
+      "NIA", 
+      "NIA"
+    ], 
+    "abstxt": "Cerebrovascular disease may contribute to the development and progression of Alzheimer's disease (AD). This study investigated whether impairments in cerebral hemodynamics can be detected in early-stage AD. Nine patients with mild AD and eight cognitively normal controls matched for age underwent brain magnetic resonance imaging and neuropsychological evaluation, followed by assessment of steady-state cerebral blood flow velocity (CBFV, transcranial Doppler), blood pressure (BP, Finapres), and cerebrovascular resistance index (BP/CBFV). Cerebral hemodynamics were quantified using spectral and transfer function analysis of BP and CBFV in rest, during standing up after squat, and during repeated squat-stand maneuvers. Compared to controls, AD patients had lower CBFV and higher cerebrovascular resistance index, unexplained by brain atrophy. Low-frequency variability of BP was enhanced, suggesting impaired arterial baroreflex function. However, CBFV variability was reduced despite enhanced BP variability, and dynamic cerebral autoregulation was not impaired. In conclusion, despite a distinct pattern of altered cerebral hemodynamics, AD patients may have normal autoregulation. However, the challenges for autoregulation in AD are higher, as our data show enhanced BP fluctuations. Increased cerebral vasoconstriction or reduced vasomotion also may attenuate CBFV variability.", 
+    "lpage": "629", 
+    "grants": [
+      "P30 AG012300-16", 
+      "P30 AG12300"
+    ], 
+    "journal-title": "Journal of Alzheimer's disease : JAD", 
+    "fpage": "621", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Claassen", 
+        "Jurgen A H R"
+      ], 
+      [
+        "Diaz-Arrastia", 
+        "Ramon"
+      ], 
+      [
+        "Martin-Cook", 
+        "Kristin"
+      ], 
+      [
+        "Levine", 
+        "Benjamin D"
+      ], 
+      [
+        "Zhang", 
+        "Rong"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Altered cerebral hemodynamics in early Alzheimer disease: a pilot study using transcranial Doppler.", 
+    "pmid": "19433892", 
+    "pmonth": []
+  }, 
+  {
+    "text": "Claassen, J. A., and Zhang, R. (2011). Cerebral autoregulation in Alzheimer&#x02019;s disease. J. Cereb. Blood Flow Metab. 31, 1572&#x02013;1577. [J. Appl. Physiol. 102, 870&#x02013;877]."
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "18", 
+    "text": "Claassen, J. A., Zhang, R., Fu, Q., Witkowski, S., and Levine, B. D. (2007). Transcranial Doppler estimation of cerebral blood flow and cerebrovascular conductance during modified rebreathing. J. Appl. Physiol. 102, 870&#x02013;877.", 
+    "sponsors": [], 
+    "abstxt": "Clinical transcranial Doppler assessment of cerebral vasomotor reactivity (CVMR) uses linear regression of cerebral blood flow velocity (CBFV) vs. end-tidal CO(2) (Pet(CO(2))) under steady-state conditions. However, the cerebral blood flow (CBF)-Pet(CO(2)) relationship is nonlinear, even for moderate changes in CO(2). Moreover, CBF is increased by increases in arterial blood pressure (ABP) during hypercapnia. We used a modified rebreathing protocol to estimate CVMR during transient breath-by-breath changes in CBFV and Pet(CO(2)). Ten healthy subjects (6 men) performed 15 s of hyperventilation followed by 5 min of rebreathing, with supplemental O(2) to maintain arterial oxygen saturation constant. To minimize effects of changes in ABP on CVMR estimation, cerebrovascular conductance index (CVCi) was calculated. CBFV-Pet(CO(2)) and CVCi-Pet(CO(2)) relationships were quantified by both linear and nonlinear logistic regression. In three subjects, muscle sympathetic nerve activity was recorded. From hyperventilation to rebreathing, robust changes occurred in Pet(CO(2)) (20-61 Torr), CBFV (-44 to +104% of baseline), CVCi (-39 to +64%), and ABP (-19 to +23%) (all P &lt; 0.01). Muscle sympathetic nerve activity increased by 446% during hypercapnia. The linear regression slope of CVCi vs. Pet(CO(2)) was less steep than that of CBFV (3 vs. 5%/Torr; P = 0.01). Logistic regression of CBF-Pet(CO(2)) (r(2) = 0.97) and CVCi-Pet(CO(2)) (r(2) = 0.93) was superior to linear regression (r(2) = 0.91, r(2) = 0.85; P = 0.01). CVMR was maximal (6-8%/Torr) for Pet(CO(2)) of 40-50 Torr. In conclusion, CBFV and CVCi responses to transient changes in Pet(CO(2)) can be described by a nonlinear logistic function, indicating that CVMR estimation varies within the range from hypocapnia to hypercapnia. Furthermore, quantification of the CVCi-Pet(CO(2)) relationship may minimize the effects of changes in ABP on the estimation of CVMR. The method developed provides insight into CVMR under transient breath-by-breath changes in CO(2).", 
+    "lpage": "877", 
+    "grants": [], 
+    "journal-title": "Journal of applied physiology (Bethesda, Md. : 1985)", 
+    "fpage": "870", 
+    "keywords": [], 
+    "pubyear": "2006", 
+    "auths": [
+      [
+        "Claassen", 
+        "Jurgen A H R"
+      ], 
+      [
+        "Zhang", 
+        "Rong"
+      ], 
+      [
+        "Fu", 
+        "Qi"
+      ], 
+      [
+        "Witkowski", 
+        "Sarah"
+      ], 
+      [
+        "Levine", 
+        "Benjamin D"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "Transcranial Doppler estimation of cerebral blood flow and cerebrovascular conductance during modified rebreathing.", 
+    "pmid": "17110510", 
+    "pmonth": [
+      "Mar"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "17", 
+    "text": "Deane, R., Du Yan, S., Submamaryan, R. K., LaRue, B., Jovanovic, S., Hogg, E., Welch, D., Manness, L., Lin, C., Yu, J., Zhu, H., Ghiso, J., Frangione, B., Stern, A., Schmidt, A. M., Armstrong, D. L., Arnold, B., Liliensiek, B., Nawroth, P., Hofman, F., Kindy, M., Stern, D., and Zlokovic, B. (2003). RAGE mediates amyloid-peptide transport across the blood-brain barrier and accumulation in brain. Nat. Med. 9, 907&#x02013;913.", 
+    "sponsors": [
+      "NIA", 
+      "NINDS"
+    ], 
+    "abstxt": "Amyloid-beta peptide (Abeta) interacts with the vasculature to influence Abeta levels in the brain and cerebral blood flow, providing a means of amplifying the Abeta-induced cellular stress underlying neuronal dysfunction and dementia. Systemic Abeta infusion and studies in genetically manipulated mice show that Abeta interaction with receptor for advanced glycation end products (RAGE)-bearing cells in the vessel wall results in transport of Abeta across the blood-brain barrier (BBB) and expression of proinflammatory cytokines and endothelin-1 (ET-1), the latter mediating Abeta-induced vasoconstriction. Inhibition of RAGE-ligand interaction suppresses accumulation of Abeta in brain parenchyma in a mouse transgenic model. These findings suggest that vascular RAGE is a target for inhibiting pathogenic consequences of Abeta-vascular interactions, including development of cerebral amyloidosis.", 
+    "lpage": "913", 
+    "grants": [
+      "AG16223", 
+      "NS34467"
+    ], 
+    "journal-title": "Nature medicine", 
+    "fpage": "907", 
+    "keywords": [], 
+    "pubyear": "2003", 
+    "auths": [
+      [
+        "Deane", 
+        "Rashid"
+      ], 
+      [
+        "Du Yan", 
+        "Shi"
+      ], 
+      [
+        "Submamaryan", 
+        "Ram Kumar"
+      ], 
+      [
+        "LaRue", 
+        "Barbara"
+      ], 
+      [
+        "Jovanovic", 
+        "Suzana"
+      ], 
+      [
+        "Hogg", 
+        "Elizabeth"
+      ], 
+      [
+        "Welch", 
+        "Deborah"
+      ], 
+      [
+        "Manness", 
+        "Lawrence"
+      ], 
+      [
+        "Lin", 
+        "Chang"
+      ], 
+      [
+        "Yu", 
+        "Jin"
+      ], 
+      [
+        "Zhu", 
+        "Hong"
+      ], 
+      [
+        "Ghiso", 
+        "Jorge"
+      ], 
+      [
+        "Frangione", 
+        "Blas"
+      ], 
+      [
+        "Stern", 
+        "Alan"
+      ], 
+      [
+        "Schmidt", 
+        "Ann Marie"
+      ], 
+      [
+        "Armstrong", 
+        "Don L"
+      ], 
+      [
+        "Arnold", 
+        "Bernd"
+      ], 
+      [
+        "Liliensiek", 
+        "Birgit"
+      ], 
+      [
+        "Nawroth", 
+        "Peter"
+      ], 
+      [
+        "Hofman", 
+        "Florence"
+      ], 
+      [
+        "Kindy", 
+        "Mark"
+      ], 
+      [
+        "Stern", 
+        "David"
+      ], 
+      [
+        "Zlokovic", 
+        "Berislav"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "RAGE mediates amyloid-beta peptide transport across the blood-brain barrier and accumulation in brain.", 
+    "pmid": "12808450", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "24", 
+    "text": "Devor, A., Sakadzic, S., Saisan, P. A., Yaseen, M. A., Roussakis, E., Srinivasan, V. J., Vinogradov, S. A., Rosen, B. R., Buxton, R. B., Dale, A. M., and Boas, D. A. (2011). &#x0201C;Overshoot&#x0201D; of O2 is required to maintain baseline tissue oxygenation at locations distal to blood vessels. J. Neurosci. 31, 13676&#x02013;13681.", 
+    "sponsors": [
+      "NIBIB", 
+      "NIBIB", 
+      "NIBIB", 
+      "NIBIB", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NIBIB", 
+      "NIBIB", 
+      "NIBIB", 
+      "NIBIB", 
+      "NIBIB", 
+      "NIBIB", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NIBIB", 
+      "NIBIB"
+    ], 
+    "abstxt": "In vivo imaging of cerebral tissue oxygenation is important in defining healthy physiology and pathological departures associated with cerebral disease. We used a recently developed two-photon microscopy method, based on a novel phosphorescent nanoprobe, to image tissue oxygenation in the rat primary sensory cortex in response to sensory stimulation. Our measurements showed that a stimulus-evoked increase in tissue pO\u2082 depended on the baseline pO\u2082 level. In particular, during sustained stimulation, the steady-state pO\u2082 at low-baseline locations remained at the baseline, despite large pO\u2082 increases elsewhere. In contrast to the steady state, where pO\u2082 never decreased below the baseline, transient decreases occurred during the &quot;initial dip&quot; and &quot;poststimulus undershoot.&quot; These results suggest that the increase in blood oxygenation during the hemodynamic response, which has been perceived as a paradox, may serve to prevent a sustained oxygenation drop at tissue locations that are remote from the vascular feeding sources.", 
+    "lpage": "13681", 
+    "grants": [
+      "EB007279", 
+      "EB00790", 
+      "EB009118", 
+      "EB2066", 
+      "K99 NS067050", 
+      "K99 NS067050-02", 
+      "NS051188", 
+      "NS055104", 
+      "NS057198", 
+      "NS057476", 
+      "P01 NS055104-05", 
+      "R00 NS067050", 
+      "R01 EB000790", 
+      "R01 EB000790-06A2", 
+      "R01 EB000790-07", 
+      "R01 EB002066-19", 
+      "R01 EB002066-20", 
+      "R01 EB007279-04", 
+      "R01 NS036722", 
+      "R01 NS051188-05", 
+      "R01 NS057198-04", 
+      "R01 NS057476-04", 
+      "R01 NS057476-05", 
+      "R21 EB009118-02", 
+      "R21 EB012620-02"
+    ], 
+    "journal-title": "The Journal of neuroscience : the official journal of the Society for Neuroscience", 
+    "fpage": "13676", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Devor", 
+        "Anna"
+      ], 
+      [
+        "Sakadzic", 
+        "Sava"
+      ], 
+      [
+        "Saisan", 
+        "Payam A"
+      ], 
+      [
+        "Yaseen", 
+        "Mohammad A"
+      ], 
+      [
+        "Roussakis", 
+        "Emmanuel"
+      ], 
+      [
+        "Srinivasan", 
+        "Vivek J"
+      ], 
+      [
+        "Vinogradov", 
+        "Sergei A"
+      ], 
+      [
+        "Rosen", 
+        "Bruce R"
+      ], 
+      [
+        "Buxton", 
+        "Richard B"
+      ], 
+      [
+        "Dale", 
+        "Anders M"
+      ], 
+      [
+        "Boas", 
+        "David A"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "&quot;Overshoot&quot; of O\u2082 is required to maintain baseline tissue oxygenation at locations distal to blood vessels.", 
+    "pmid": "21940458", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "text": "Eskildsen, S. F., and &#x000D8;stergaard, L. R. (2006). Active surface approach for extraction of the human cerebral cortex from MRI, MICCAI 2006. Lect. Notes Comput. Sci. 4191, 823&#x02013;830."
+  }, 
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "20", 
+    "text": "Farkas, E., and Luiten, P. G. (2001). Cerebral microvascular pathology in aging and Alzheimer&#x02019;s disease. Prog. Neurobiol. 64, 575&#x02013;611; 592.", 
+    "sponsors": [], 
+    "abstxt": "The aging of the central nervous system and the development of incapacitating neurological diseases like Alzheimer's disease (AD) are generally associated with a wide range of histological and pathophysiological changes eventually leading to a compromised cognitive status. Although the diverse triggers of the neurodegenerative processes and their interactions are still the topic of extensive debate, the possible contribution of cerebrovascular deficiencies has been vigorously promoted in recent years. Various forms of cerebrovascular insufficiency such as reduced blood supply to the brain or disrupted microvascular integrity in cortical regions may occupy an initiating or intermediate position in the chain of events ending with cognitive failure. When, for example, vasoconstriction takes over a dominating role in the cerebral vessels, the perfusion rate of the brain can considerably decrease causing directly or through structural vascular damage a drop in cerebral glucose utilization. Consequently, cerebral metabolism can suffer a setback leading to neuronal damage and a concomitant suboptimal cognitive capacity. The present review focuses on the microvascular aspects of neurodegenerative processes in aging and AD with special attention to cerebral blood flow, neural metabolic changes and the abnormalities in microvascular ultrastructure. In this context, a few of the specific triggers leading to the prominent cerebrovascular pathology, as well as the potential neurological outcome of the compromised cerebral microvascular system are also going to be touched upon to a certain extent, without aiming at total comprehensiveness. Finally, a set of animal models are going to be presented that are frequently used to uncover the functional relationship between cerebrovascular factors and the damage to neural networks.", 
+    "lpage": "611", 
+    "grants": [], 
+    "journal-title": "Progress in neurobiology", 
+    "fpage": "575", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Farkas", 
+        "E"
+      ], 
+      [
+        "Luiten", 
+        "P G"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "Cerebral microvascular pathology in aging and Alzheimer's disease.", 
+    "pmid": "11311463", 
+    "pmonth": [
+      "Aug"
+    ]
+  }, 
+  {
+    "text": "Gjedde, A. (2005). &#x0201C;Blood-brain transfer and metabolism of oxygen,&#x0201D; in Blood-Brain Barriers: From Ontogeny to Artificial Interfaces, Vol. 2, Chap. 22, eds R. S. Dermietzel, D. C. Spray and M. Nedergaard (Hoboken: John Wiley and Sons, Ltd.), 523&#x02013;549."
+  }, 
+  {
+    "pyear": [
+      "2005"
+    ], 
+    "pubday": "9", 
+    "text": "Gjedde, A., Johannsen, P., Cold, G. E., and Ostergaard, L. (2005). Cerebral metabolic response to low blood flow: possible role of cytochrome oxidase inhibition. J. Cereb. Blood Flow Metab. 25, 1183&#x02013;1196.", 
+    "sponsors": [], 
+    "abstxt": "The reactions of cerebral metabolism to imposed changes of cerebral blood flow (CBF) are poorly understood. A common explanation of the mismatched CBF and oxygen consumption (CMR(O(2))) during neuronal excitation holds that blood flow rises more than oxygen consumption to compensate for an absent oxygen reserve in brain mitochondria. The claim conversely implies that oxygen consumption must decline when blood flow declines. As the prevailing rate of reaction of oxygen with cytochrome c oxidase is linked to the tension of oxygen, the claim fails to explain how oxygen consumption is maintained during moderate reductions of CBF imposed by hyperventilation (hypocapnia) or cyclooxygenase (COX) inhibition. To resolve this contradiction, we extended the previously published oxygen delivery model with a term allowing for the adjustment of the affinity of cytochrome c oxidase to a prevailing oxygen tension. The extended model predicted constant oxygen consumption at moderately reduced blood flow. We determined the change of affinity of cytochrome c oxidase in the extended model by measuring CBF in seven, and CMR(O(2)) in five, young healthy volunteers before and during COX inhibition with indomethacin. The average CBF declined 35%, while neither regional nor average CMR(O(2)) changed significantly. The adjustment of cytochrome c oxidase affinity to the declining oxygen delivery could be ascribed to a hypothetical factor with several properties in common with nitric oxide.", 
+    "lpage": "1196", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "1183", 
+    "keywords": [], 
+    "pubyear": "2005", 
+    "auths": [
+      [
+        "Gjedde", 
+        "Albert"
+      ], 
+      [
+        "Johannsen", 
+        "Peter"
+      ], 
+      [
+        "Cold", 
+        "Georg E"
+      ], 
+      [
+        "Ostergaard", 
+        "Leif"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "Cerebral metabolic response to low blood flow: possible role of cytochrome oxidase inhibition.", 
+    "pmid": "15815583", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "26", 
+    "text": "Gjedde, A., Keiding, S., Vilstrup, H., and Iversen, P. (2010). No oxygen delivery limitation in hepatic encephalopathy. Metab. Brain Dis. 25, 57&#x02013;63.", 
+    "sponsors": [], 
+    "abstxt": "Hepatic encephalopathy is a condition of reduced brain functioning in which both blood flow and brain energy metabolism declined. It is not known whether blood flow or metabolism is the primary limiting factor of brain function in this condition. We used calculations of mitochondrial oxygen tension to choose between cause and effect in three groups of volunteers, including healthy control subjects (HC), patients with cirrhosis of the liver without hepatic encephalopathy (CL), and patients with cirrhosis with acute hepatic encephalopathy. Compared to HC subjects, blood flow and energy metabolism had declined in all gray matter regions of the brain in patients with HE but not significantly in patients with CL. Analysis of flow-metabolism coupling indicated that blood flow declined in HE as a consequence of reduced brain energy metabolism implied by the calculation of increased mitochondrial oxygen tensions that patients with HE were unable to utilize. We ascribe the inability to use the delivered oxygen of patients with HE to a specific inhibition associated with oxidative metabolism in mitochondria.", 
+    "lpage": "63", 
+    "grants": [], 
+    "journal-title": "Metabolic brain disease", 
+    "fpage": "57", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Gjedde", 
+        "Albert"
+      ], 
+      [
+        "Keiding", 
+        "Susanne"
+      ], 
+      [
+        "Vilstrup", 
+        "Hendrik"
+      ], 
+      [
+        "Iversen", 
+        "Peter"
+      ]
+    ], 
+    "pubmonth": "2", 
+    "article-title": "No oxygen delivery limitation in hepatic encephalopathy.", 
+    "pmid": "20182779", 
+    "pmonth": [
+      "Mar"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2002"
+    ], 
+    "pubday": "25", 
+    "text": "Gjedde, A., Marrett, S., and Vafaee, M. (2002). Oxidative and nonoxidative metabolism of excited neurons and astrocytes. J. Cereb. Blood Flow Metab. 22, 1&#x02013;14.", 
+    "sponsors": [], 
+    "abstxt": "There is evidence that the metabolic responses to afferent and efferent nervous activity are dissociated at sites of neuronal excitation in brain. Whether efferent activity follows afferent activity depends on the responsiveness of postsynaptic neurons, which in turn depends on the summation of excitatory and inhibitory postsynaptic potentials. The afferent activity excites the presynaptic terminals and astrocytes, whereas the efferent activity arises from excitation of the dendrites of projection neurons. Measurements in vivo indicate that primary stimulation, elicited by simple stimuli, gives rise to limited increases of energy metabolism associated with afferent activity. Reports show that a major consequence of afferent activity, in addition to the release of excitatory neurotransmitters from presynaptic terminals and the import of glutamate by astrocytes, is the establishment of rates of blood flow commensurate with increased rates of oxidative energy metabolism associated with efferent activity projecting from the site of activation. Increased flow rates overcome the inherent diffusion limitation of oxygen delivery, while increased rates of glycolysis elevate tissue pyruvate contents, to which oxygen consumption rates are matched. In vivo, neurons in the baseline condition sustain no net import of pyruvate or lactate, and the reported changes of metabolism subserving afferent and efferent activity are additive rather than linked by significant additional transfer of pyruvate or lactate from astrocytes. The dissociation of blood flow changes from efferent activity weakens the identification of functional states by changes of blood flow alone. It raises the possibility that uncoupling of flow from oxidative metabolism occurs at sites of low efferent activity, such that dissociations of flow and glycolysis from oxygen consumption signify imbalances of afferent and efferent activity.", 
+    "lpage": "14", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "1", 
+    "keywords": [], 
+    "pubyear": "2002", 
+    "auths": [
+      [
+        "Gjedde", 
+        "Albert"
+      ], 
+      [
+        "Marrett", 
+        "Sean"
+      ], 
+      [
+        "Vafaee", 
+        "Manouchehr"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Oxidative and nonoxidative metabolism of excited neurons and astrocytes.", 
+    "pmid": "11807388", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "17", 
+    "text": "Grammas, P., Martinez, J., and Miller, B. (2011). Cerebral microvascular endothelium and the pathogenesis of neurodegenerative diseases. Expert Rev. Mol. Med. 13, e19.", 
+    "sponsors": [
+      "NIA", 
+      "NIA", 
+      "NIA"
+    ], 
+    "abstxt": "Diseases of the central nervous system (CNS) pose a significant health challenge, but despite their diversity, they share many common features and mechanisms. For example, endothelial dysfunction has been implicated as a crucial event in the development of several CNS disorders, such as Alzheimer disease, Parkinson disease, amyotrophic lateral sclerosis, multiple sclerosis, human immunodeficiency virus (HIV)-1-associated neurocognitive disorder and traumatic brain injury. Breakdown of the blood-brain barrier (BBB) as a result of disruption of tight junctions and transporters, leads to increased leukocyte transmigration and is an early event in the pathology of these disorders. The brain endothelium is highly reactive because it serves as both a source of, and a target for, inflammatory proteins and reactive oxygen species. BBB breakdown thus leads to neuroinflammation and oxidative stress, which are implicated in the pathogenesis of CNS disease. Furthermore, the physiology and pathophysiology of endothelial cells are closely linked to the functioning of their mitochondria, and mitochondrial dysfunction is another important mediator of disease pathology in the brain. The high concentration of mitochondria in cerebrovascular endothelial cells might account for the sensitivity of the BBB to oxidant stressors. Here, we discuss how greater understanding of the role of BBB function could lead to new therapeutic approaches for diseases of the CNS that target the dynamic properties of brain endothelial cells.", 
+    "lpage": null, 
+    "grants": [
+      "AG020569", 
+      "AG028367", 
+      "AG15964"
+    ], 
+    "journal-title": "Expert reviews in molecular medicine", 
+    "fpage": "e19", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Grammas", 
+        "Paula"
+      ], 
+      [
+        "Martinez", 
+        "Joseph"
+      ], 
+      [
+        "Miller", 
+        "Bradley"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Cerebral microvascular endothelium and the pathogenesis of neurodegenerative diseases.", 
+    "pmid": "21676288", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "6", 
+    "text": "Hooijmans, C. R., Graven, C., Dederen, P. J., Tanila, H., van Groen, T., and Kiliaan, A. J. (2007). Amyloid beta deposition is related to decreased glucose transporter-1 levels and hippocampal atrophy in brains of aged APP/PS1 mice. Brain Res. 1181, 93&#x02013;103.", 
+    "sponsors": [], 
+    "abstxt": "The amount of the glucose transporter type-1 (GLUT-1) is decreased in the hippocampus and cerebral cortex of AD patients. In this study we therefore wanted to investigate the causal relationship between beta-amyloid (Abeta), GLUT-1 and hippocampal atrophy in the brains of young (8 months) and old (18 months) APP/PS1 mice.", 
+    "lpage": "9103", 
+    "grants": [], 
+    "journal-title": "Brain research", 
+    "fpage": "93", 
+    "keywords": [], 
+    "pubyear": "2007", 
+    "auths": [
+      [
+        "Hooijmans", 
+        "Carlijn R"
+      ], 
+      [
+        "Graven", 
+        "Coen"
+      ], 
+      [
+        "Dederen", 
+        "Pieter J"
+      ], 
+      [
+        "Tanila", 
+        "Heikki"
+      ], 
+      [
+        "van Groen", 
+        "Thomas"
+      ], 
+      [
+        "Kiliaan", 
+        "Amanda J"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Amyloid beta deposition is related to decreased glucose transporter-1 levels and hippocampal atrophy in brains of aged APP/PS1 mice.", 
+    "pmid": "17916337", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "25", 
+    "text": "Iliff, J. J., D&#x02019;Ambrosio, R., Ngai, A. C., and Winn, H. R. (2003). Adenosine receptors mediate glutamate-evoked arteriolar dilation in the rat cerebral cortex. Am. J. Physiol. Heart Circ. Physiol. 284, H1631&#x02013;H1637.", 
+    "sponsors": [
+      "NINDS"
+    ], 
+    "abstxt": "We tested the hypothesis that adenosine (Ado) mediates glutamate-induced vasodilation in the cerebral cortex by monitoring pial arteriole diameter in chloralose-anesthetized rats equipped with closed cranial windows. Topical application of 100 microM glutamate and 100 microM N-methyl-d-aspartate (NMDA) dilated pial arterioles (baseline diameter 25 +/- 2 microm) by 17 +/- 1% and 18 +/- 4%, respectively. Coapplication of the nonselective Ado receptor antagonist theophylline (Theo; 10 microM) significantly reduced glutamate- and NMDA-induced vasodilation to 4 +/- 2% (P &lt; 0.01) and 6 +/- 2% (P &lt; 0.05), whereas the Ado A(1) receptor antagonist 8-cyclopentyl-1,3-dipropylxanthine (0.1 microM) had no effect. Moreover, application of the Ado A(2A) receptor-selective antagonist 4-(2-[7-amino-2-(2-furyl)(1,2,4)triazolo(2,3-a)(1,3,5)triazin-5-ylamino]ethyl)phenol (ZM-241385), either by superfusion (0.1 microM, 1 microM) or intravenously (1 mg/kg), significantly inhibited the pial arteriole dilation response to glutamate. Neither Theo nor ZM-241385 affected vascular reactivity to mild hypercapnia induced by 5% CO(2) inhalation. These results suggest that Ado contributes to the dilation of rat cerebral arterioles induced by exogenous glutamate, and that the Ado A(2A) receptor subtype may be involved in this dilation response.", 
+    "lpage": "H1637", 
+    "grants": [
+      "NS 21076"
+    ], 
+    "journal-title": "American journal of physiology. Heart and circulatory physiology", 
+    "fpage": "H1631", 
+    "keywords": [], 
+    "pubyear": "2003", 
+    "auths": [
+      [
+        "Iliff", 
+        "Jeffrey J"
+      ], 
+      [
+        "D'Ambrosio", 
+        "Raimondo"
+      ], 
+      [
+        "Ngai", 
+        "Al C"
+      ], 
+      [
+        "Winn", 
+        "H Richard"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Adenosine receptors mediate glutamate-evoked arteriolar dilation in the rat cerebral cortex.", 
+    "pmid": "12543638", 
+    "pmonth": [
+      "May"
+    ]
+  }, 
+  {
+    "text": "Ito, H., Kanno, I., Ibaraki, M., Suhara, T., and Miura, S. (2008). Relationship between baseline cerebral blood flow and vascular responses to changes in PaCO2 measured by positron emission tomography in humans: implication of inter-individual variations of cerebral vascular tone. Acta Physiol. (Oxf.) 193, 325&#x02013;330."
+  }, 
+  {
+    "pyear": [
+      "2004"
+    ], 
+    "pubday": "20", 
+    "text": "Ito, H., Kanno, I., Kato, C., Sasaki, T., Ishii, K., Ouchi, Y., Iida, A., Okazawa, H., Hayashida, K., Tsuyuguchi, N., Ishii, K., Kuwabara, Y., and Senda, M. (2004). Database of normal human cerebral blood flow, cerebral blood volume, cerebral oxygen extraction fraction and cerebral metabolic rate of oxygen measured by positron emission tomography with 15O-labelled carbon dioxide or water, carbon monoxide and oxygen: a multicentre study in Japan. Eur. J. Nucl. Med. Mol. Imaging 31, 635&#x02013;643.", 
+    "sponsors": [], 
+    "abstxt": "Measurement of cerebral blood flow (CBF), cerebral blood volume (CBV), cerebral oxygen extraction fraction (OEF) and cerebral metabolic rate of oxygen (CMRO(2)) by positron emission tomography (PET) with oxygen-15 labelled carbon dioxide (C(15)O(2)) or (15)O-labelled water (H(2)(15)O), (15)O-labelled carbon monoxide (C(15)O) and (15)O-labelled oxygen ((15)O(2)) is useful for diagnosis and treatment planning in cases of cerebrovascular disease. The measured values theoretically depend on various factors, which may differ between PET centres. This study explored the applicability of a database of (15)O-PET by examining between-centre and within-centre variation in values. Eleven PET centres participated in this multicentre study; seven used the steady-state inhalation method, one used build-up inhalation and three used bolus administration of C(15)O(2) (or H(2)(15)O) and (15)O(2). All used C(15)O for measurement of CBV. Subjects comprised 70 healthy volunteers (43 men and 27 women; mean age 51.8+/-15.1 years). Overall mean+/-SD values for cerebral cortical regions were: CBF=44.4+/-6.5 ml 100 ml(-1) min(-1); CBV=3.8+/-0.7 ml 100 ml(-1); OEF=0.44+/-0.06; CMRO(2)=3.3+/-0.5 ml 100 ml(-1) min(-1). Significant between-centre variation was observed in CBV, OEF and CMRO(2) by one-way analysis of variance. However, the overall inter-individual variation in CBF, CBV, OEF and CMRO(2) was acceptably small. Building a database of normal cerebral haemodynamics obtained by the(15)O-PET methods may be practicable.", 
+    "lpage": "643", 
+    "grants": [], 
+    "journal-title": "European journal of nuclear medicine and molecular imaging", 
+    "fpage": "635", 
+    "keywords": [], 
+    "pubyear": "2004", 
+    "auths": [
+      [
+        "Ito", 
+        "Hiroshi"
+      ], 
+      [
+        "Kanno", 
+        "Iwao"
+      ], 
+      [
+        "Kato", 
+        "Chietsugu"
+      ], 
+      [
+        "Sasaki", 
+        "Toshiaki"
+      ], 
+      [
+        "Ishii", 
+        "Kenji"
+      ], 
+      [
+        "Ouchi", 
+        "Yasuomi"
+      ], 
+      [
+        "Iida", 
+        "Akihiko"
+      ], 
+      [
+        "Okazawa", 
+        "Hidehiko"
+      ], 
+      [
+        "Hayashida", 
+        "Kohei"
+      ], 
+      [
+        "Tsuyuguchi", 
+        "Naohiro"
+      ], 
+      [
+        "Ishii", 
+        "Kazunari"
+      ], 
+      [
+        "Kuwabara", 
+        "Yasuo"
+      ], 
+      [
+        "Senda", 
+        "Michio"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Database of normal human cerebral blood flow, cerebral blood volume, cerebral oxygen extraction fraction and cerebral metabolic rate of oxygen measured by positron emission tomography with 15O-labelled carbon dioxide or water, carbon monoxide and oxygen: a multicentre study in Japan.", 
+    "pmid": "14730405", 
+    "pmonth": [
+      "May"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1997"
+    ], 
+    "pubday": "5", 
+    "text": "Jagust, W. J., Eberling, J. L., Reed, B. R., Mathis, C. A., and Budinger, T. F. (1997). Clinical studies of cerebral blood flow in Alzheimer&#x02019;s disease. Ann. N. Y. Acad. Sci. 826, 254&#x02013;262.", 
+    "sponsors": [], 
+    "abstxt": "Studies of Alzheimer's disease using single-photon emission computed tomography (SPECT) and positron emission tomography (PET) have found reductions in blood flow and glucose metabolism in temporal and parietal cortex. In 50 AD patients who underwent neuropsychological testing and SPECT perfusion imaging, we found significant correlations between perfusion and performance on the Mini-Mental Status Examination in the frontal and parietal lobes. In addition, specific correlations between perfusion in the frontal lobes and performance on tests of frontal lobe ability were noted. These findings, while suggesting the importance of perfusion measures in determining clinical features of the disease, do not clearly define perfusion changes as primary, since similar findings have been seen when metabolism is studied. In a separate group of 5 AD patients and 16 controls, we used PET with the perfusion tracer HIPDM and examined cerebrovascular reactivity to carbon dioxide inhalation. We found that in multiple brain regions, including the temporal lobes, AD patients showed robust and significant increases in perfusion in response to carbon dioxide that did not differ from the response seen in the controls. Taken together, these results show that while perfusion changes are important in AD, they are not clearly either primary or limiting.", 
+    "lpage": "262", 
+    "grants": [], 
+    "journal-title": "Annals of the New York Academy of Sciences", 
+    "fpage": "254", 
+    "keywords": [], 
+    "pubyear": "1997", 
+    "auths": [
+      [
+        "Jagust", 
+        "W J"
+      ], 
+      [
+        "Eberling", 
+        "J L"
+      ], 
+      [
+        "Reed", 
+        "B R"
+      ], 
+      [
+        "Mathis", 
+        "C A"
+      ], 
+      [
+        "Budinger", 
+        "T F"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "Clinical studies of cerebral blood flow in Alzheimer's disease.", 
+    "pmid": "9329697", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1989"
+    ], 
+    "pubday": "1", 
+    "text": "Kalaria, R. N., and Harik, S. I. (1989). Reduced glucose transporter at the blood-brain barrier and in cerebral cortex in Alzheimer disease. J. Neurochem. 53, 1083&#x02013;1088.", 
+    "sponsors": [
+      "NIA", 
+      "NHLBI"
+    ], 
+    "abstxt": "We studied the hexose transporter protein of the frontal and temporal neocortex, hippocampus, putamen, cerebellum, and cerebral microvessels (which constitute the blood-brain barrier) in Alzheimer disease and control subjects by reversible and covalent binding with [3H]cytochalasin B and by immunological reactivity. In Alzheimer disease subjects, we found a marked decrease in the hexose transporter in brain microvessels and in the cerebral neocortex and hippocampus, regions that are most affected in Alzheimer disease, but there were no abnormalities in the putamen or cerebellum. Hexose transporter reduction in cerebral microvessels of Alzheimer subjects is relatively specific because other enzyme markers of brain endothelium were not significantly altered. The low density of the hexose transporter at the blood-brain barrier and in the cerebral cortex in Alzheimer disease may be related to decreased in vivo measurements of cerebral oxidative metabolism.", 
+    "lpage": "1088", 
+    "grants": [
+      "AG-08012", 
+      "HL-35617"
+    ], 
+    "journal-title": "Journal of neurochemistry", 
+    "fpage": "1083", 
+    "keywords": [], 
+    "pubyear": "1989", 
+    "auths": [
+      [
+        "Kalaria", 
+        "R N"
+      ], 
+      [
+        "Harik", 
+        "S I"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Reduced glucose transporter at the blood-brain barrier and in cerebral cortex in Alzheimer disease.", 
+    "pmid": "2769254", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "text": "Kety, S. S., and Schmidt, C. F. (1946). The effects of active and passive hyperventilation on cerebral blood flow, cerebral oxygen consumption, cardiac output, and blood pressure of normal young men. J. Clin. Invest. 25, 107&#x02013;119."
+  }, 
+  {
+    "text": "Kety, S. S., and Schmidt, C. F. (1948). The effects of altered arterial tensions of carbon dioxide and oxygen on cerebral blood flow and cerebral oxygen consumption of normal young men. J. Clin. Invest. 27, 484&#x02013;492."
+  }, 
+  {
+    "pyear": [
+      "1981"
+    ], 
+    "pubday": "1", 
+    "text": "Kontos, H. A. (1981). Regulation of the cerebral circulation. Annu. Rev. Physiol. 43, 397&#x02013;407.", 
+    "sponsors": [
+      "NHLBI", 
+      "NINDS"
+    ], 
+    "abstxt": null, 
+    "lpage": "407", 
+    "grants": [
+      "HL-21851", 
+      "NS-12587"
+    ], 
+    "journal-title": "Annual review of physiology", 
+    "fpage": "397", 
+    "keywords": [], 
+    "pubyear": "1981", 
+    "auths": [
+      [
+        "Kontos", 
+        "H A"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Regulation of the cerebral circulation.", 
+    "pmid": "6782941", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "1984"
+    ], 
+    "pubday": "1", 
+    "text": "Lauritzen, M. (1984). Long-lasting reduction of cortical blood flow of the brain after spreading depression with preserved autoregulation and impaired CO2 response. J. Cereb. Blood Flow Metab. 4, 546&#x02013;554.", 
+    "sponsors": [], 
+    "abstxt": "The purpose of the present study was to examine the cerebral perfusion after spreading depression with special emphasis on its relation to the perfusion changes in migraine. The cerebrovascular reactivity to changes of arterial PCO2 tension in the range of 24-70 mm Hg and to changes of MABP in the range of 55-150 mm Hg was studied in the rat brain after one episode of cortical spreading depression. Regional CBF (rCBF) was measured in the frontal, parietal, and occipital cortex, the basal ganglia, and the cerebellum of both hemispheres after the intravenous bolus injection of [14C]iodoantipyrine. rCBF decreased in the cortical regions to 69-73% of control values for 1 h after spreading depression in every single rat, but remained unchanged in the basal ganglia and cerebellum. CBF changed with alterations of arterial carbon dioxide tension in all brain regions. In control regions, CBF changed by 2.8-3.9% per mm Hg PaCO2 change, whereas in the spreading depression cortex, CBF changed by only 1.3-1.5%. The difference between control and spreading depression cortex was significant at p less than 0.001, indicating a reduced CO2 sensitivity of the cortical regions invaded by spreading depression. rCBF remained unchanged in all brain regions in the MABP range of 80-150 mm Hg, reflecting the intact autoregulatory function of the two sides, and at a MABP of less than 80 mm Hg, rCBF decreased in parallel in symmetrical regions. It is concluded that the hypoperfusion after spreading depression is due to a vasoconstrictor stimulus overriding the vasodilatory effect of acid pH.(ABSTRACT TRUNCATED AT 250 WORDS)", 
+    "lpage": "554", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "546", 
+    "keywords": [], 
+    "pubyear": "1984", 
+    "auths": [
+      [
+        "Lauritzen", 
+        "M"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Long-lasting reduction of cortical blood flow of the brain after spreading depression with preserved autoregulation and impaired CO2 response.", 
+    "pmid": "6438124", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "text": "Lawson, G., and Hanson, R. J. (1974). Solving Least Squares Problems. Englewood Cliffs: Prentice Hall Inc."
+  }, 
+  {
+    "pyear": [
+      "2000"
+    ], 
+    "pubday": "1", 
+    "text": "Lolk, A., Nielsen, H., Andersen, K., Andersen, J., and Kragh-S&#x000F8;rensen, P. (2000). CAMCOG as a screening instrument for dementia: the Odense study. Cambridge cognitive examination. Acta Psychiatr. Scand. 102, 331&#x02013;335.", 
+    "sponsors": [], 
+    "abstxt": "The Cambridge Cognitive Examination (CAMCOG) score is correlated with age and sociodemographic variables. The aim of the study was to determine an individualized CAMCOG cut-off score for dementia, taking such correlates into account.", 
+    "lpage": "335", 
+    "grants": [], 
+    "journal-title": "Acta psychiatrica Scandinavica", 
+    "fpage": "331", 
+    "keywords": [], 
+    "pubyear": "2000", 
+    "auths": [
+      [
+        "Lolk", 
+        "A"
+      ], 
+      [
+        "Nielsen", 
+        "H"
+      ], 
+      [
+        "Andersen", 
+        "K"
+      ], 
+      [
+        "Andersen", 
+        "J"
+      ], 
+      [
+        "Kragh-S\u0102\u00b8rensen", 
+        "P"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "CAMCOG as a screening instrument for dementia: the Odense study. Cambridge Cognitive Examination.", 
+    "pmid": "11098803", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "text": "Lunau, L., Mouridsen, K., Rodell, A., &#x000D8;stergaard, L., Nielsen, J., Isaacs, A., and Johannsen, P. (2012). Presymptomatic cerebral blood flow changes in CHMP2B mutation carriers of familial frontotemporal dementia (FTD-3), measured with MRI. BMJ Open. doi:10.1136/bmjopen-2011-000368"
+  }, 
+  {
+    "pyear": [
+      "1985"
+    ], 
+    "pubday": "1", 
+    "text": "Mancardi, G. L., Tabaton, M., and Liwnicz, B. H. (1985). Endothelial mitochondrial content of cerebral cortical capillaries in Alzheimer&#x02019;s disease. An ultrastructural quantitative study. Eur. Neurol. 24, 49&#x02013;52.", 
+    "sponsors": [], 
+    "abstxt": "The mitochondrial content of endothelial cells of cerebral cortical capillaries in patients with Alzheimer's disease and age-matched controls was calculated using stereologic methods. No morphologic abnormalities or quantitative changes in endothelial mitochondria are reported. Our findings do not support the hypothesis of a blood-brain barrier defect in Alzheimer's disease.", 
+    "lpage": "52", 
+    "grants": [], 
+    "journal-title": "European neurology", 
+    "fpage": "49", 
+    "keywords": [], 
+    "pubyear": "1985", 
+    "auths": [
+      [
+        "Mancardi", 
+        "G L"
+      ], 
+      [
+        "Tabaton", 
+        "M"
+      ], 
+      [
+        "Liwnicz", 
+        "B H"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Endothelial mitochondrial content of cerebral cortical capillaries in Alzheimer's disease. An ultrastructural quantitative study.", 
+    "pmid": "3967675", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [], 
+    "pubday": "27", 
+    "text": "Nagata, K., Kondoh, Y., Atchison, R., Sato, M., Satoh, Y., Watahiki, Y., Hirata, Y., and Yokoyama, E. (2000). Vascular and metabolic reserve in Alzheimer&#x02019;s disease. Neurobiol. Aging 21, 301&#x02013;307.", 
+    "sponsors": [], 
+    "abstxt": "Vascular and metabolic reserve were analyzed in probable Alzheimer's disease (AD) and vascular dementia (VaD). Cerebral blood flow (CBF), cerebral blood volume (CBV), cerebral metabolic rate of oxygen (CMRO(2)), and oxygen extraction fraction (OEF) were measured quantitatively with positron emission tomography (PET). Vascular reactivity (VR) was also calculated by comparing the CBF during 5% CO(2) inhalation with the CBF during normal breathing. Vascular transit time (VTT) that was calculated as a ratio of CBV/CBF and VR reflect vasodilating capacity of the small resistance vessels, whereas OEF designates metabolic (oxygen-extraction) reserve in threatening brain ischemia. Significant increase in OEF was seen in the parieto-temporal cortex and both VTT and VR were preserved in AD patients. By constrast, there was no significant increase in OEF whereas VTT was prolonged and VR was markedly depressed in VaD patients. The increase of OEF and preserved VTT and VR seen in AD patients indicate the possible participation of vascular factors in the pathogenesis of AD perhaps at the capillary level.", 
+    "lpage": "307", 
+    "grants": [], 
+    "journal-title": "Neurobiology of aging", 
+    "fpage": "301", 
+    "keywords": [], 
+    "pubyear": "2000", 
+    "auths": [
+      [
+        "Nagata", 
+        "K"
+      ], 
+      [
+        "Kondoh", 
+        "Y"
+      ], 
+      [
+        "Atchison", 
+        "R"
+      ], 
+      [
+        "Sato", 
+        "M"
+      ], 
+      [
+        "Satoh", 
+        "Y"
+      ], 
+      [
+        "Watahiki", 
+        "Y"
+      ], 
+      [
+        "Hirata", 
+        "Y"
+      ], 
+      [
+        "Yokoyama", 
+        "E"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Vascular and metabolic reserve in Alzheimer's disease.", 
+    "pmid": "10867215", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "7", 
+    "text": "Nicolakakis, N., and Hamel, E. (2011). Neurovascular function in Alzheimer&#x02019;s disease patients and experimental models. J. Cereb. Blood Flow Metab. 31, 1354&#x02013;1370.", 
+    "sponsors": [
+      "Canadian Institutes of Health Research"
+    ], 
+    "abstxt": "The ability of the brain to locally augment glucose delivery and blood flow during neuronal activation, termed neurometabolic and neurovascular coupling, respectively, is compromised in Alzheimer's disease (AD). Since perfusion deficits may hasten clinical deterioration and have been correlated with negative treatment outcome, strategies to improve the cerebral circulation should form an integral element of AD therapeutic efforts. These efforts have yielded several experimental models, some of which constitute AD models proper, others which specifically recapture the AD cerebrovascular pathology, characterized by anatomical alterations in brain vessel structure, as well as molecular changes within vascular smooth muscle cells and endothelial cells forming the blood-brain barrier. The following paper will present the elements of AD neurovascular dysfunction and review the in vitro and in vivo model systems that have served to deepen our understanding of it. It will also critically evaluate selected groups of compounds, the FDA-approved cholinesterase inhibitors and thiazolidinediones, for their ability to correct neurovascular dysfunction in AD patients and models. These and several others are emerging as compounds with pleiotropic actions that may positively impact dysfunctional cerebrovascular, glial, and neuronal networks in AD.", 
+    "lpage": "1370", 
+    "grants": [
+      "MOP-84275"
+    ], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "1354", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Nicolakakis", 
+        "Nektaria"
+      ], 
+      [
+        "Hamel", 
+        "Edith"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "Neurovascular function in Alzheimer's disease patients and experimental models.", 
+    "pmid": "21468088", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2002"
+    ], 
+    "pubday": "14", 
+    "text": "Niwa, K., Kazama, K., Younkin, L., Younkin, S. G., Carlson, G. A., and Iadecola, C. (2002). Cerebrovascular autoregulation is profoundly impaired in mice overexpressing amyloid precursor protein. Am. J. Physiol. Heart Circ. Physiol. 283, H315&#x02013;H323.", 
+    "sponsors": [
+      "NINDS", 
+      "NINDS"
+    ], 
+    "abstxt": "The amyloid-beta (A beta) peptide, which is derived from the amyloid precursor protein (APP), is involved in the pathogenesis of Alzheimer's dementia and impairs endothelium-dependent vasodilation in cerebral vessels. We investigated whether cerebrovascular autoregulation, i.e., the ability of the cerebral circulation to maintain flow in the face of changes in mean arterial pressure (MAP), is impaired in transgenic mice that overexpress APP and A beta. Neocortical cerebral blood flow (CBF) was monitored by laser-Doppler flowmetry in anesthetized APP(+) and APP(-) mice. MAP was elevated by intravenous infusion of phenylephrine and reduced by controlled exsanguination. In APP(-) mice, autoregulation was preserved. However, in APP(+) mice, autoregulation was markedly disrupted. The magnitude of the disruption was linearly related to brain A beta concentration. The failure of autoregulation was paralleled by impairment of the CBF response to endothelium-dependent vasodilators. Thus A beta disrupts a critical homeostatic mechanism of the cerebral circulation and renders CBF highly dependent on MAP. The resulting alterations in cerebral perfusion may play a role in the brain dysfunction and periventricular white-matter changes associated with Alzheimer's dementia.", 
+    "lpage": "H323", 
+    "grants": [
+      "NS-37853", 
+      "NS-38252"
+    ], 
+    "journal-title": "American journal of physiology. Heart and circulatory physiology", 
+    "fpage": "H315", 
+    "keywords": [], 
+    "pubyear": "2002", 
+    "auths": [
+      [
+        "Niwa", 
+        "Kiyoshi"
+      ], 
+      [
+        "Kazama", 
+        "Ken"
+      ], 
+      [
+        "Younkin", 
+        "Linda"
+      ], 
+      [
+        "Younkin", 
+        "Steven G"
+      ], 
+      [
+        "Carlson", 
+        "George A"
+      ], 
+      [
+        "Iadecola", 
+        "Costantino"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Cerebrovascular autoregulation is profoundly impaired in mice overexpressing amyloid precursor protein.", 
+    "pmid": "12063304", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1996"
+    ], 
+    "pubday": "1", 
+    "text": "Ohta, S., Meyer, E., Fujita, H., Reutens, D. C., Evans, A., and Gjedde, A. (1996). Cerebral [15O]water clearance in humans determined by PET: I. Theory and normal values. J. Cereb. Blood Flow Metab. 16, 765&#x02013;780.", 
+    "sponsors": [], 
+    "abstxt": "When used to measure blood flow in the brain, water leaves a residue in the vascular bed that influences the estimation of blood flow by current methods. To assess the magnitude of this influence, we developed a two-compartment model of blood flow with separate parameters for transport and vascular distribution of brain water. Maps of the water clearance, K1 into brain tissue, separated from the circulation by a measurably resistant blood-brain barrier (BBB), were generated by time-weighted integration. Depending on the validity of the assumptions underlying the two-compartment model presented here, the maps revealed a significant overestimation of the clearance of water when the vascular residue was ignored. Maps of Vo, the estimate of the apparent vascular distribution volume of tracer H2(15)O, clearly revealed major cerebral arteries. Thus, we claim that the accumulation of radioactive water in brain tissue also reflects the volume of the arterial vascular bed of the brain.", 
+    "lpage": "780", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "765", 
+    "keywords": [], 
+    "pubyear": "1996", 
+    "auths": [
+      [
+        "Ohta", 
+        "S"
+      ], 
+      [
+        "Meyer", 
+        "E"
+      ], 
+      [
+        "Fujita", 
+        "H"
+      ], 
+      [
+        "Reutens", 
+        "D C"
+      ], 
+      [
+        "Evans", 
+        "A"
+      ], 
+      [
+        "Gjedde", 
+        "A"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Cerebral [15O]water clearance in humans determined by PET: I. Theory and normal values.", 
+    "pmid": "8784222", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1992"
+    ], 
+    "pubday": "1", 
+    "text": "Ohta, S., Meyer, E., Thompson, C. J., and Gjedde, A. (1992). Oxygen consumption of the living human brain measured after a single inhalation of positron emitting oxygen. J. Cereb. Blood Flow Metab. 12, 179&#x02013;192.", 
+    "sponsors": [], 
+    "abstxt": "We measured the rate of washout of 15O-labeled water generated from labeled oxygen accumulated in brain after bolus [15O]O2 inhalation, and compared the washout with that of labeled water measured with H215O. Contrary to the original expectation, the radioactive water generated from labeled oxygen failed to leave the brain tissue at the rate predicted by exogenous water. Therefore, the use of a separately measured value for exogenous water clearance led to an error in the calculation of oxygen consumption. A new method presented in this paper eliminated the error by yielding oxygen consumption in a single oxygen study. We used time-weighted integration to estimate three parameters, including the unidirectional clearance from blood to brain (KO2(1)), the fractional clearance of the distribution volume in brain (kO2(2)), and the vascular volume correction (VO). We showed that the clearance of oxygen from blood to brain can be estimated with acceptable precision by this new approach, and that the new method yields a reliable measure of oxygen consumption.", 
+    "lpage": "192", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "179", 
+    "keywords": [], 
+    "pubyear": "1992", 
+    "auths": [
+      [
+        "Ohta", 
+        "S"
+      ], 
+      [
+        "Meyer", 
+        "E"
+      ], 
+      [
+        "Thompson", 
+        "C J"
+      ], 
+      [
+        "Gjedde", 
+        "A"
+      ]
+    ], 
+    "pubmonth": "3", 
+    "article-title": "Oxygen consumption of the living human brain measured after a single inhalation of positron emitting oxygen.", 
+    "pmid": "1548291", 
+    "pmonth": [
+      "Mar"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1999"
+    ], 
+    "pubday": "14", 
+    "text": "Panerai, R. B., Dawson, S. L., and Potter, J. F. (1999). Linear and nonlinear analysis of human dynamic cerebral autoregulation. Am. J. Physiol. 277(3 Pt 2), H1089&#x02013;H1099.", 
+    "sponsors": [], 
+    "abstxt": "The linear dynamic relationship between systemic arterial blood pressure (ABP) and cerebral blood flow velocity (CBFV) was studied by time- and frequency-domain analysis methods. A nonlinear moving-average approach was also implemented using Volterra-Wiener kernels. In 47 normal subjects, ABP was measured with Finapres and CBFV was recorded with Doppler ultrasound in both middle cerebral arteries at rest in the supine position and also during ABP drops induced by the sudden deflation of thigh cuffs. Impulse response functions estimated by Fourier transfer function analysis, a second-order mathematical model proposed by Tiecks, and the linear kernel of the Volterra-Wiener moving-average representation provided reconstructed velocity model responses, for the same segment of data, with significant correlations to CBFV recordings corresponding to r = 0.52 +/- 0.19, 0.53 +/- 0.16, and 0.67 +/- 0.12 (mean +/- SD), respectively. The correlation coefficient for the linear plus quadratic kernels was 0.82 +/- 0.08, significantly superior to that for the linear models (P &lt; 10(-6)). The supine linear impulse responses were also used to predict the velocity transient of a different baseline segment of data and of the thigh cuff velocity response with significant correlations. In both cases, the three linear methods provided equivalent model performances, but the correlation coefficient for the nonlinear model dropped to 0.26 +/- 0.25 for the baseline test set of data and to 0.21 +/- 0.42 for the thigh cuff data. Whereas it is possible to model dynamic cerebral autoregulation in humans with different linear methods, in the supine position a second-order nonlinear component contributes significantly to improve model accuracy for the same segment of data used to estimate model parameters, but it cannot be automatically extended to represent the nonlinear component of velocity responses of different segments of data or transient changes induced by the thigh cuff test.", 
+    "lpage": "H1099", 
+    "grants": [], 
+    "journal-title": "The American journal of physiology", 
+    "fpage": "H1089", 
+    "keywords": [], 
+    "pubyear": "1999", 
+    "auths": [
+      [
+        "Panerai", 
+        "R B"
+      ], 
+      [
+        "Dawson", 
+        "S L"
+      ], 
+      [
+        "Potter", 
+        "J F"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Linear and nonlinear analysis of human dynamic cerebral autoregulation.", 
+    "pmid": "10484432", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "text": "Peterson, E. C., Wang, Z., and Britz, G. (2011). Regulation of cerebral blood flow. Int. J. Vasc. Med. 2011, 8."
+  }, 
+  {
+    "pyear": [
+      "1993"
+    ], 
+    "pubday": "1", 
+    "text": "Ramsay, S. C., Murphy, K., Shea, S. A., Friston, K. J., Lammertsma, A. A., Clark, J. C., Adams, L., Guz, A., and Frackowiak, R. S. (1993). Changes in global cerebral blood flow in humans: effect on regional cerebral blood flow during a neural activation task. J. Physiol. (Lond.) 471, 521&#x02013;534.", 
+    "sponsors": [
+      "Wellcome Trust"
+    ], 
+    "abstxt": "1. The primary objective of this study was to examine in man, how induced changes in global cerebral blood flow (gCBF) affected a regional cerebral blood flow (rCBF) increase resulting from a neural activation task (opening of eyes). A secondary objective was to quantify how such induced changes in gCBF were distributed between representative regions of either predominantly grey matter or white matter. 2. Positron emission tomography with intravenous infusion of H2(15)O, was used to measure gCBF in six normal males. Concomitant measures of rCBF were obtained in three different regions of interest (ROI): a representative area of predominantly grey matter, a representative area of predominantly white matter and an area of visual cortex. 3. Cerebral blood flow was altered by establishing steady-state changes in PCO2 at a near constant ventilation of approximately 30 l min-1. The mean PET,CO2 (+/- S.D.) levels (mmHg) that resulted were: low, 21.8 +/- 1.8; normal, 39.8 +/- 1.0, and high, 54.8 +/- 1.2. The normal and high levels were obtained by adding appropriate amounts of CO2 to the inspirate. The corresponding mean gCBF levels across all six subjects with eyes closed were: low, 24.2 +/- 4.6; normal, 37.2 +/- 3.9 and high, 66.8 +/- 7.6 ml min-1 dl-1. 4. Blood flow in grey matter (insular cortex) and white matter (centrum semiovale) at normal levels of PCO2 averaged 56.8 +/- 10.1 and 20.3 +/- 3.4 ml min dl-1 respectively. As PCO2 rose, the increase in rCBF to grey matter was approximately three times greater than that to white matter. 5. An activation state of eyes open in a brightly lit room was compared to a baseline state of eyes closed in a darkened room at the three levels of PCO2 (and hence at three levels of gCBF). Over the whole gCBF range a significant (P = 0.028) effect of increasing rCBF in the visual cortex ROI was found in response to opening the eyes; the effect of this activation on rCBF was not significantly dependent (P = 0.34) on the PCO2 (and hence gCBF) level. The effect of the activation on the rCBF was apparently 'additive' to the rise of rCBF associated with PCO2-related gCBF increase. 6. The results confirm the need to normalize for changes in gCBF during studies of rCBF in response to an activation protocol. They also provide support for the use of an 'additive' model to achieve such normalization provided that other cortical areas behave in a similar manner to that of the visual cortex.", 
+    "lpage": "534", 
+    "grants": [], 
+    "journal-title": "The Journal of physiology", 
+    "fpage": "521", 
+    "keywords": [], 
+    "pubyear": "1993", 
+    "auths": [
+      [
+        "Ramsay", 
+        "S C"
+      ], 
+      [
+        "Murphy", 
+        "K"
+      ], 
+      [
+        "Shea", 
+        "S A"
+      ], 
+      [
+        "Friston", 
+        "K J"
+      ], 
+      [
+        "Lammertsma", 
+        "A A"
+      ], 
+      [
+        "Clark", 
+        "J C"
+      ], 
+      [
+        "Adams", 
+        "L"
+      ], 
+      [
+        "Guz", 
+        "A"
+      ], 
+      [
+        "Frackowiak", 
+        "R S"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "Changes in global cerebral blood flow in humans: effect on regional cerebral blood flow during a neural activation task.", 
+    "pmid": "8120819", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "2", 
+    "text": "Rasmussen, P., Dawson, E. A., Nybo, L., van Lieshout, J. J., Secher, N. H., and Gjedde, A. (2007). Capillary-oxygenation-level-dependent near-infrared spectrometry in frontal lobe of humans. J. Cereb. Blood Flow Metab. 27, 1082&#x02013;1093.", 
+    "sponsors": [], 
+    "abstxt": "Brain function requires oxygen and maintenance of brain capillary oxygenation is important. We evaluated how faithfully frontal lobe near-infrared spectroscopy (NIRS) follows haemoglobin saturation (SCap) and how calculated mitochondrial oxygen tension (PMitoO2) influences motor performance. Twelve healthy subjects (20 to 29 years), supine and seated, inhaled O2 air-mixtures (10% to 100%) with and without added 5% carbon dioxide and during hyperventilation. Two measures of frontal lobe oxygenation by NIRS (NIRO-200 and INVOS) were compared with capillary oxygen saturation (SCap) as calculated from the O2 content of brachial arterial and right internal jugular venous blood. At control SCap (78%+/-4%; mean+/-s.d.) was halfway between the arterial (98%+/-1%) and jugular venous oxygenation (SvO2; 61%+/-6%). Both NIRS devices monitored SCap (P&lt;0.001) within approximately 5% as SvO2 increased from 39%+/-5% to 79%+/-7% with an increase in the transcranial ultrasound Doppler determined middle cerebral artery flow velocity from 29+/-8 to 65+/-15 cm/sec. When SCap fell below approximately 70% with reduced flow and inspired oxygen tension, PMitoO2 decreased (P&lt;0.001) and brain lactate release increased concomitantly (P&lt;0.001). Handgrip strength correlated with the measured (NIRS) and calculated capillary oxygenation values as well as with PMitoO2 (r&gt;0.74; P&lt;0.05). These results show that NIRS is an adequate cerebral capillary-oxygenation-level-dependent (COLD) measure during manipulation of cerebral blood flow or inspired oxygen tension, or both, and suggest that motor performance correlates with the frontal lobe COLD signal.", 
+    "lpage": "1093", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "1082", 
+    "keywords": [], 
+    "pubyear": "2006", 
+    "auths": [
+      [
+        "Rasmussen", 
+        "Peter"
+      ], 
+      [
+        "Dawson", 
+        "Ellen A"
+      ], 
+      [
+        "Nybo", 
+        "Lars"
+      ], 
+      [
+        "van Lieshout", 
+        "Johannes J"
+      ], 
+      [
+        "Secher", 
+        "Niels H"
+      ], 
+      [
+        "Gjedde", 
+        "Albert"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "Capillary-oxygenation-level-dependent near-infrared spectrometry in frontal lobe of humans.", 
+    "pmid": "17077816", 
+    "pmonth": [
+      "May"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1964"
+    ], 
+    "pubday": "1", 
+    "text": "Reivich, M. (1964). Arterial PCO2 and cerebral hemodynamics, Am. J. Physiol. 206, 25&#x02013;35.", 
+    "sponsors": [], 
+    "abstxt": null, 
+    "lpage": "35", 
+    "grants": [], 
+    "journal-title": "The American journal of physiology", 
+    "fpage": "25", 
+    "keywords": [], 
+    "pubyear": "1964", 
+    "auths": [
+      [
+        "REIVICH", 
+        "M"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "ARTERIAL PCO2 AND CEREBRAL HEMODYNAMICS.", 
+    "pmid": "14117646", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "23", 
+    "text": "Richard, E., van Gool, W. A., Hoozemans, J. J., van Haastert, E. S., Eikelenboom, P., Rozemuller, A. J., and van de Berg, W. D. (2010). Morphometric changes in the cortical microvascular network in Alzheimer&#x02019;s disease. J. Alzheimers Dis. 22, 811&#x02013;818.", 
+    "sponsors": [], 
+    "abstxt": "Alzheimer's disease (AD) pathology is accompanied by abnormalities of the microvasculature. Despite the potential importance of morphometric changes in the cortical capillary network on neuronal dysfunction and cognitive impairment, few autopsy studies have addressed this issue. In the present study, we investigated morphological microvascular changes and capillary length density (CLD) in ten well-characterized AD patients compared to ten age-matched controls using virtual isotropic hemispheres. The CLD in the temporal cortex was increased by 33% in AD patients compared to controls (p=0.04), whereas CLD in the occipital cortex was unchanged. An increase of CLD was correlated to a decrease of cortical diameter in the temporal cortex (Pearson's r -0.62, p=0.003), suggesting that the increase in temporal CLD results from, or contributes to cortical atrophy. In the occipital cortex, more string vessels, probably remnants of degenerated capillaries, were observed in AD patients than in controls (p=0.004). An exploratory analysis suggests co-localization of A\u00ce\u02db and string vessels. Our data indicate that morphometric changes in the cortical capillary network occur in AD in a region-specific manner and may be related to cortical atrophy in the affected regions.", 
+    "lpage": "818", 
+    "grants": [], 
+    "journal-title": "Journal of Alzheimer's disease : JAD", 
+    "fpage": "811", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Richard", 
+        "Edo"
+      ], 
+      [
+        "van Gool", 
+        "Willem A"
+      ], 
+      [
+        "Hoozemans", 
+        "Jeroen J M"
+      ], 
+      [
+        "van Haastert", 
+        "Elise S"
+      ], 
+      [
+        "Eikelenboom", 
+        "Piet"
+      ], 
+      [
+        "Rozemuller", 
+        "Annemieke J M"
+      ], 
+      [
+        "van de Berg", 
+        "Wilma D J"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Morphometric changes in the cortical microvascular network in Alzheimer's disease.", 
+    "pmid": "20858968", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "15", 
+    "text": "Schliebs, R., and Arendt, T. (2011). The cholinergic system in aging and neuronal degeneration. Behav. Brain Res. 221, 555&#x02013;563.", 
+    "sponsors": [], 
+    "abstxt": "The basal forebrain cholinergic complex comprising medial septum, horizontal and vertical diagonal band of Broca, and nucleus basalis of Meynert provides the mayor cholinergic projections to the cerebral cortex and hippocampus. The cholinergic neurons of this complex have been assumed to undergo moderate degenerative changes during aging, resulting in cholinergic hypofunction that has been related to the progressing memory deficits with aging. However, the previous view of significant cholinergic cell loss during aging has been challenged. Neuronal cell loss was found predominantly in pathological aging, such as Alzheimer's disease, while normal aging is accompanied by a gradual loss of cholinergic function caused by dendritic, synaptic, and axonal degeneration as well as a decrease in trophic support. As a consequence, decrements in gene expression, impairments in intracellular signaling, and cytoskeletal transport may mediate cholinergic cell atrophy finally leading to the known age-related functional decline in the brain including aging-associated cognitive impairments. However, in pathological situations associated with cognitive deficits, such as Parkinsons's disease, Down-syndrome, progressive supranuclear palsy, Jakob-Creutzfeld disease, Korsakoff's syndrome, traumatic brain injury, significant degenerations of basal forebrain cholinergic cells have been observed. In presenile (early onset), and in the advanced stages of late-onset Alzheimer's disease (AD), a severe loss of cortical cholinergic innervation has extensively been documented. In contrast, in patients with mild cognitive impairment (MCI, a prodromal stage of AD), and early forms of AD, apparently no cholinergic neurodegeneration but a loss of cholinergic function occurs. In particular imbalances in the expression of NGF, its precursor proNGF, the high and low NGF receptors, trkA and p75NTR, respectively, changes in acetylcholine release, high-affinity choline uptake, as well as alterations in muscarinic and nicotinic acetylcholine receptor expression may contribute to the cholinergic dysfunction. These observations support the suggestion of a key role of the cholinergic system in the functional processes that lead to AD. Malfunction of the cholinergic system may be tackled pharmacologically by intervening in cholinergic as well as neurotrophic signaling cascades that have been shown to ameliorate the cholinergic deficit at early stages of the disease, and slow-down the progression. However, in contrast to many other, dementing disorders, in AD the cholinergic dysfunctions are accompanied by the occurrence of two major histopathological hallmarks such as \u03b2-amyloid plaques and neurofibrillary tangles, provoking the question whether they play a particular role in inducing or mediating cholinergic dysfunction in AD. Indeed, there is abundant evidence that \u03b2-amyloid may trigger cholinergic dysfunction through action on \u03b17 nicotinic acetylcholine receptors, affecting NGF signaling, mediating tau phosphorylation, interacting with acetylcholinesterase, and specifically affecting the proteome in cholinergic neurons. Therefore, an early onset of an anti \u03b2-amyloid strategy may additionally be potential in preventing aging-associated cholinergic deficits and cognitive impairments.", 
+    "lpage": "563", 
+    "grants": [], 
+    "journal-title": "Behavioural brain research", 
+    "fpage": "555", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Schliebs", 
+        "Reinhard"
+      ], 
+      [
+        "Arendt", 
+        "Thomas"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "The cholinergic system in aging and neuronal degeneration.", 
+    "pmid": "21145918", 
+    "pmonth": [
+      "Aug"
+    ]
+  }, 
+  {
+    "text": "Schmidt, C. F. (1928). The influence of cerebral blood flow on respiration. I. The respiratory responses to change in cerebral blood flow. II. The gaseous metabolism of the brain. III. The interplay of factors concerned in the regulation of respiration. Am. J. Physiol. 84, 202, 223, 242."
+  }, 
+  {
+    "pyear": [
+      "1992"
+    ], 
+    "pubday": "1", 
+    "text": "Stewart, P. A., Hayakawa, K., Akers, M. A., and Vinters, H. V. (1992). A morphometric study of the blood-brain barrier in Alzheimer&#x02019;s disease. Lab. Invest. 67, 734&#x02013;742.", 
+    "sponsors": [
+      "NIA", 
+      "NINDS"
+    ], 
+    "abstxt": "Abnormalities in the human blood-brain barrier may contribute to the pathogenesis of Alzheimer disease (AD).", 
+    "lpage": "742", 
+    "grants": [
+      "AG 10123", 
+      "NS 26312"
+    ], 
+    "journal-title": "Laboratory investigation; a journal of technical methods and pathology", 
+    "fpage": "734", 
+    "keywords": [], 
+    "pubyear": "1992", 
+    "auths": [
+      [
+        "Stewart", 
+        "P A"
+      ], 
+      [
+        "Hayakawa", 
+        "K"
+      ], 
+      [
+        "Akers", 
+        "M A"
+      ], 
+      [
+        "Vinters", 
+        "H V"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "A morphometric study of the blood-brain barrier in Alzheimer's disease.", 
+    "pmid": "1460864", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1999"
+    ], 
+    "pubday": "17", 
+    "text": "Vafaee, M., Meyer, E., Marrett, S., Paus, T., Evans, A. C., and Gjedde, A. (1999). Frequency-dependent changes in cerebral metabolic rate of oxygen during activation of human visual cortex. J. Cereb. Blood Flow Metab. 19, 272&#x02013;277.", 
+    "sponsors": [], 
+    "abstxt": "To test the hypothesis that brain oxidative metabolism is significantly increased upon adequate stimulation, we varied the presentation of a visual stimulus to determine the frequency at which the metabolic response would be at maximum. The authors measured regional CMR(O2) in 12 healthy normal volunteers with the ECAT EXACT HR+ (CTI/Siemens, Knoxville, TN, U.S.A.) three-dimensional whole-body positron emission tomograph (PET). In seven successive activating conditions, subjects viewed a yellow-blue annular checkerboard reversing its contrast at frequencies of 0, 1, 4, 8, 16, 32, and 50 Hz. Stimulation began 4 minutes before and continued throughout the 3-minute dynamic scan. In the baseline condition, the subjects began fixating a cross hair 30 seconds before the scan and continued to do so for the duration of the 3-minute scan. At the start of each scan, the subjects inhaled 20 mCi of (15)O-O2 in a single breath. The CMR(O2) value was calculated using a two-compartment, weighted integration method. Normalized PET images were averaged across subjects and coregistered with the subjects' magnetic resonance imaging in stereotaxic space. Mean subtracted image volumes (activation minus baseline) of CMR(O2) then were obtained and converted to z statistic volumes. The authors found a statistically significant focal change of CMR(O2) in the striate cortex (x = 9; y = -89; z = -1) that reached a maximum at 4 Hz and dropped off sharply at higher stimulus frequencies.", 
+    "lpage": "277", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "272", 
+    "keywords": [], 
+    "pubyear": "1999", 
+    "auths": [
+      [
+        "Vafaee", 
+        "M S"
+      ], 
+      [
+        "Meyer", 
+        "E"
+      ], 
+      [
+        "Marrett", 
+        "S"
+      ], 
+      [
+        "Paus", 
+        "T"
+      ], 
+      [
+        "Evans", 
+        "A C"
+      ], 
+      [
+        "Gjedde", 
+        "A"
+      ]
+    ], 
+    "pubmonth": "3", 
+    "article-title": "Frequency-dependent changes in cerebral metabolic rate of oxygen during activation of human visual cortex.", 
+    "pmid": "10078879", 
+    "pmonth": [
+      "Mar"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2000"
+    ], 
+    "pubday": "25", 
+    "text": "Vafaee, M. S., and Gjedde, A. (2000). Model of blood-brain transfer of oxygen explains nonlinear flow-metabolism coupling during stimulation of visual cortex. J. Cereb. Blood Flow Metab. 20, 747&#x02013;754.", 
+    "sponsors": [], 
+    "abstxt": "The coupling between cerebral metabolic rate of oxygen (CMRO2) and blood flow (CBF) in response to visual stimulation was evaluated by means of a model of oxygen delivery. The model predicted a nonlinear relationship between stimulus-evoked changes of oxygen consumption and blood flow. The magnitude of the CMRO2/CBF ratio index (IO2) was used to indicate the degree of flow-metabolism coupling prevailing in specific areas of the brain during physiological stimulation. Therefore, the index provided a measure of the blood oxygenation level dependent (BOLD) magnetic resonance contrast. To evaluate the changes of IO2 in response to visual stimulation, the model was applied to the effect of a changing flicker rate of a visual stimulus on the magnitudes of CBF, CMRO2, and oxygen diffusion capacity, in the human brain. Positron emission tomography (PET) was used to measure the CBF and the CMRO2 in 12 healthy volunteers who viewed a cross-hair (baseline) or a yellow-blue annular checkerboard reversing at frequencies of 1, 4, or 8 Hz. The magnitude of CBF in the primary visual cortex increased as a function of the checkerboard reversal rate and reached a maximum at the frequency of 8 Hz (z=16.0), while the magnitude of CMRO2 reached a maximum at 4 Hz (z=4.0). Therefore, the calculated IO2 was lower at 8 Hz than at 1 and 4 Hz, in contrast to the oxidative metabolic rate that reached its maximum at 4 Hz. The model explained the increase of oxygen consumption as the combined effect of increased blood flow and increased oxygen diffusion capacity in the region of visual activation.", 
+    "lpage": "754", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "747", 
+    "keywords": [], 
+    "pubyear": "2000", 
+    "auths": [
+      [
+        "Vafaee", 
+        "M S"
+      ], 
+      [
+        "Gjedde", 
+        "A"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "Model of blood-brain transfer of oxygen explains nonlinear flow-metabolism coupling during stimulation of visual cortex.", 
+    "pmid": "10779019", 
+    "pmonth": [
+      "Apr"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2004"
+    ], 
+    "pubday": "26", 
+    "text": "Vafaee, M. S., and Gjedde, A. (2004). Spatially dissociated flow-metabolism coupling in brain activation. Neuroimage 21, 507&#x02013;515.", 
+    "sponsors": [], 
+    "abstxt": "The relationships among cerebral blood flow (CBF), oxygen consumption (CMRO(2)) and glucose use (CMR(glc)) constitute the basis of functional brain-imaging. Here we report spatially dissociated changes of CMRO(2) and CBF during motor activity that lead us to propose a revision of conventional CBF-CMRO(2) coupling models. In the left primary and supplementary motor cortices, CBF and CMRO(2) rose significantly during finger-thumb tapping. However, in the right putamen CBF did not rise, despite a significant increase in CMRO(2). We explain these observations by invoking a central command mechanism that regulates CBF in the putamen in anticipation of movement. By this mechanism, CBF rose in the putamen before the measurements of CBF and CMRO(2) while CMRO(2) rose when actual motion commenced.", 
+    "lpage": "515", 
+    "grants": [], 
+    "journal-title": "NeuroImage", 
+    "fpage": "507", 
+    "keywords": [], 
+    "pubyear": "2004", 
+    "auths": [
+      [
+        "Vafaee", 
+        "Manouchehr S"
+      ], 
+      [
+        "Gjedde", 
+        "Albert"
+      ]
+    ], 
+    "pubmonth": "2", 
+    "article-title": "Spatially dissociated flow-metabolism coupling in brain activation.", 
+    "pmid": "14980553", 
+    "pmonth": [
+      "Feb"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "15", 
+    "text": "Vaishnavi, S. N., Vlassenko, A. G., Rundle, M. M., Snyder, A. Z., Mintun, M. A., and Raichle, M. E. (2010). Regional aerobic glycolysis in the human brain. Proc. Natl. Acad. Sci. U.S.A. 107, 17757&#x02013;17762.", 
+    "sponsors": [
+      "NIMH", 
+      "NINDS", 
+      "NINDS"
+    ], 
+    "abstxt": "Aerobic glycolysis is defined as glucose utilization in excess of that used for oxidative phosphorylation despite sufficient oxygen to completely metabolize glucose to carbon dioxide and water. Aerobic glycolysis is present in the normal human brain at rest and increases locally during increased neuronal activity; yet its many biological functions have received scant attention because of a prevailing energy-centric focus on the role of glucose as substrate for oxidative phosphorylation. As an initial step in redressing this neglect, we measured the regional distribution of aerobic glycolysis with positron emission tomography in 33 neurologically normal young adults at rest. We show that the distribution of aerobic glycolysis in the brain is differentially present in previously well-described functional areas. In particular, aerobic glycolysis is significantly elevated in medial and lateral parietal and prefrontal cortices. In contrast, the cerebellum and medial temporal lobes have levels of aerobic glycolysis significantly below the brain mean. The levels of aerobic glycolysis are not strictly related to the levels of brain energy metabolism. For example, sensory cortices exhibit high metabolic rates for glucose and oxygen consumption but low rates of aerobic glycolysis. These striking regional variations in aerobic glycolysis in the normal human brain provide an opportunity to explore how brain systems differentially use the diverse cell biology of glucose in support of their functional specializations in health and disease.", 
+    "lpage": "17762", 
+    "grants": [
+      "MH077967", 
+      "NS048056", 
+      "NS057901"
+    ], 
+    "journal-title": "Proceedings of the National Academy of Sciences of the United States of America", 
+    "fpage": "17757", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Vaishnavi", 
+        "S Neil"
+      ], 
+      [
+        "Vlassenko", 
+        "Andrei G"
+      ], 
+      [
+        "Rundle", 
+        "Melissa M"
+      ], 
+      [
+        "Snyder", 
+        "Abraham Z"
+      ], 
+      [
+        "Mintun", 
+        "Mark A"
+      ], 
+      [
+        "Raichle", 
+        "Marcus E"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Regional aerobic glycolysis in the human brain.", 
+    "pmid": "20837536", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2012"
+    ], 
+    "pubday": "7", 
+    "text": "van Beek, A. H., Lagro, J., Olde-Rikkert, M. G., Zhang, R., and Claassen, J. A. R. (2012). Oscillations in cerebral blood flow and cortical oxygenation in Alzheimer&#x02019;s disease Neurobiol. Aging 33, 428.e21&#x02013;428.e31.", 
+    "sponsors": [], 
+    "abstxt": "In Alzheimer's disease (AD) cerebrovascular function is at risk. Transcranial Doppler, near-infrared spectroscopy, and photoplethysmography are noninvasive methods to continuously measure changes in cerebral blood flow velocity (CBFV), cerebral cortical oxygenated hemoglobin (O(2)Hb), and blood pressure (BP). In 21 patients with mild to moderate AD and 20 age-matched controls, we investigated how oscillations in cerebral blood flow velocity (CBFV) and O(2)Hb are associated with spontaneous and induced oscillations in blood pressure (BP) at the very low (VLF = 0.05 Hz) and low frequencies (LF = 0.1 Hz). We applied spectral and transfer function analysis to quantify dynamic cerebral autoregulation and brain tissue oxygenation. In AD, cerebrovascular resistance was substantially higher (34%, AD vs. control: \u0394 = 0.69 (0.25) mm Hg/cm/second, p = 0.012) and the transmission of very low frequency (VLF) cerebral blood flow (CBF) oscillations into O(2)Hb differed, with increased phase lag and gain (\u0394 phase 0.32 [0.15] rad; \u0394 gain 0.049 [0.014] \u03bcmol/cm/second, p both &lt; 0.05). The altered transfer of CBF to cortical oxygenation in AD indicates that properties of the cerebral microvasculature are changed in this disease.", 
+    "lpage": "428.e31", 
+    "grants": [], 
+    "journal-title": "Neurobiology of aging", 
+    "fpage": "428.e21", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "van Beek", 
+        "Arenda H E A"
+      ], 
+      [
+        "Lagro", 
+        "Joep"
+      ], 
+      [
+        "Olde-Rikkert", 
+        "Marcel G M"
+      ], 
+      [
+        "Zhang", 
+        "Rong"
+      ], 
+      [
+        "Claassen", 
+        "Jurgen A H R"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Oscillations in cerebral blood flow and cortical oxygenation in Alzheimer's disease.", 
+    "pmid": "21208686", 
+    "pmonth": [
+      "Feb"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2009"
+    ], 
+    "pubday": "14", 
+    "text": "Varrone, A., Sj&#x000F6;holm, N., Eriksson, L., Guly&#x000E1;s, B., Halldin, C., and Farde, L. (2009). Advancement in PET quantification using 3D-OP-OSEM point spread function reconstruction with the HRRT. Eur. J. Nucl. Med. Mol. Imaging 36, 1639&#x02013;1650.", 
+    "sponsors": [], 
+    "abstxt": "Image reconstruction including the modelling of the point spread function (PSF) is an approach improving the resolution of the PET images. This study assessed the quantitative improvements provided by the implementation of the PSF modelling in the reconstruction of the PET data using the High Resolution Research Tomograph (HRRT).", 
+    "lpage": "1650", 
+    "grants": [], 
+    "journal-title": "European journal of nuclear medicine and molecular imaging", 
+    "fpage": "1639", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Varrone", 
+        "Andrea"
+      ], 
+      [
+        "Sj\u0e23\u0e16holm", 
+        "Nils"
+      ], 
+      [
+        "Eriksson", 
+        "Lars"
+      ], 
+      [
+        "Guly\u0e23\u0e01s", 
+        "Balazs"
+      ], 
+      [
+        "Halldin", 
+        "Christer"
+      ], 
+      [
+        "Farde", 
+        "Lars"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Advancement in PET quantification using 3D-OP-OSEM point spread function reconstruction with the HRRT.", 
+    "pmid": "19437012", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "15", 
+    "text": "Vlassenko, A. G., Vaishnavi, S. N., Couture, L., Sacco, D., Shannon, B. J., Mach, R. H., Morris, J. C., Raichle, M. E., and Mintun, M. A. (2010). Spatial correlation between brain aerobic glycolysis and amyloid-b (Ab) deposition. Proc. Natl. Acad. Sci. U.S.A. 107, 17763&#x02013;17767.", 
+    "sponsors": [
+      "NINDS", 
+      "NIA", 
+      "NIMH", 
+      "NINDS", 
+      "NIA", 
+      "NINDS"
+    ], 
+    "abstxt": "Amyloid-\u03b2 (A\u03b2) plaque deposition can precede the clinical manifestations of dementia of the Alzheimer type (DAT) by many years and can be associated with changes in brain metabolism. Both the A\u03b2 plaque deposition and the changes in metabolism appear to be concentrated in the brain's default-mode network. In contrast to prior studies of brain metabolism which viewed brain metabolism from a unitary perspective that equated glucose utilization with oxygen consumption, we here report on regional glucose use apart from that entering oxidative phosphorylation (so-called &quot;aerobic glycolysis&quot;). Using PET, we found that the spatial distribution of aerobic glycolysis in normal young adults correlates spatially with A\u03b2 deposition in individuals with DAT and cognitively normal participants with elevated A\u03b2, suggesting a possible link between regional aerobic glycolysis in young adulthood and later development of Alzheimer pathology.", 
+    "lpage": "17767", 
+    "grants": [
+      "F30 NS057901", 
+      "P01 AG003991", 
+      "P20 MH077967", 
+      "P30 NS048056", 
+      "P50 AG05681", 
+      "P50 NS006833"
+    ], 
+    "journal-title": "Proceedings of the National Academy of Sciences of the United States of America", 
+    "fpage": "17763", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Vlassenko", 
+        "Andrei G"
+      ], 
+      [
+        "Vaishnavi", 
+        "S Neil"
+      ], 
+      [
+        "Couture", 
+        "Lars"
+      ], 
+      [
+        "Sacco", 
+        "Dana"
+      ], 
+      [
+        "Shannon", 
+        "Benjamin J"
+      ], 
+      [
+        "Mach", 
+        "Robert H"
+      ], 
+      [
+        "Morris", 
+        "John C"
+      ], 
+      [
+        "Raichle", 
+        "Marcus E"
+      ], 
+      [
+        "Mintun", 
+        "Mark A"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Spatial correlation between brain aerobic glycolysis and amyloid-\u03b2 (A\u03b2 ) deposition.", 
+    "pmid": "20837517", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "16", 
+    "text": "Xu, F., Uh, J., Brier, M. R., Hart, J. Jr., Yezhuvath, U. S., Gu, H., Yang, Y., and Lu, H. (2011). The influence of carbon dioxide on brain activity and metabolism in conscious humans. J. Cereb. Blood Flow Metab. 31, 58&#x02013;67.", 
+    "sponsors": [
+      "NIA", 
+      "NIMH", 
+      "NINDS", 
+      "NIBIB"
+    ], 
+    "abstxt": "A better understanding of carbon dioxide (CO(2)) effect on brain activity may have a profound impact on clinical studies using CO(2) manipulation to assess cerebrovascular reserve and on the use of hypercapnia as a means to calibrate functional magnetic resonance imaging (fMRI) signal. This study investigates how an increase in blood CO(2), via inhalation of 5% CO(2), may alter brain activity in humans. Dynamic measurement of brain metabolism revealed that mild hypercapnia resulted in a suppression of cerebral metabolic rate of oxygen (CMRO(2)) by 13.4% \u00c2\u0105 2.3% (N=14) and, furthermore, the CMRO(2) change was proportional to the subject's end-tidal CO(2) (Et-CO(2)) change. When using functional connectivity MRI (fcMRI) to assess the changes in resting-state neural activity, it was found that hypercapnia resulted in a reduction in all fcMRI indices assessed including cluster volume, cross-correlation coefficient, and amplitude of the fcMRI signal in the default-mode network (DMN). The extent of the reduction was more pronounced than similar indices obtained in visual-evoked fMRI, suggesting a selective suppression effect on resting-state neural activity. Scalp electroencephalogram (EEG) studies comparing hypercapnia with normocapnia conditions showed a relative increase in low frequency power in the EEG spectra, suggesting that the brain is entering a low arousal state on CO(2) inhalation.", 
+    "lpage": "67", 
+    "grants": [
+      "R01 AG033106", 
+      "R01 MH084021", 
+      "R01 NS067015", 
+      "R21 EB007821"
+    ], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "58", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Xu", 
+        "Feng"
+      ], 
+      [
+        "Uh", 
+        "Jinsoo"
+      ], 
+      [
+        "Brier", 
+        "Matthew R"
+      ], 
+      [
+        "Hart", 
+        "John"
+      ], 
+      [
+        "Yezhuvath", 
+        "Uma S"
+      ], 
+      [
+        "Gu", 
+        "Hong"
+      ], 
+      [
+        "Yang", 
+        "Yihong"
+      ], 
+      [
+        "Lu", 
+        "Hanzhang"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "The influence of carbon dioxide on brain activity and metabolism in conscious humans.", 
+    "pmid": "20842164", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "26", 
+    "text": "Zazulia, A. R., Videen, T. O., Moris, J. C., and Powers, W. J. (2010). Autoregulation in cerebral blood flow to changes in arterial pressure in mild Alzheimer&#x02019;s disease. J. Cereb. Blood Flow Metab. 30, 1883&#x02013;1889.", 
+    "sponsors": [
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NIA", 
+      "NIA", 
+      "NIA", 
+      "NIA", 
+      "NINDS"
+    ], 
+    "abstxt": "Studies in transgenic mice overexpressing amyloid precursor protein (APP) demonstrate impaired autoregulation of cerebral blood flow (CBF) to changes in arterial pressure and suggest that cerebrovascular dysfunction may be critically important in the development of pathological Alzheimer's disease (AD). Given the relevance of such a finding for guiding hypertension treatment in the elderly, we assessed autoregulation in individuals with AD. Twenty persons aged 75\u00b16 years with very mild or mild symptomatic AD (Clinical Dementia Rating 0.5 or 1.0) underwent (15)O-positron emission tomography (PET) CBF measurements before and after mean arterial pressure (MAP) was lowered from 107\u00b113 to 92\u00b19 mm Hg with intravenous nicardipine; (11)C-PIB-PET imaging and magnetic resonance imaging (MRI) were also obtained. There were no significant differences in mean CBF before and after MAP reduction in the bilateral hemispheres (-0.9\u00b15.2 mL per 100 g per minute, P=0.4, 95% confidence interval (CI)=-3.4 to 1.5), cortical borderzones (-1.9\u00b15.0 mL per 100 g per minute, P=0.10, 95% CI=-4.3 to 0.4), regions of T2W-MRI-defined leukoaraiosis (-0.3\u00b14.4 mL per 100 g per minute, P=0.85, 95% CI=-3.3 to 3.9), or regions of peak (11)C-PIB uptake (-2.5\u00b17.7 mL per 100 g per minute, P=0.30, 95% CI=-7.7 to 2.7). The absence of significant change in CBF with a 10 to 15 mm Hg reduction in MAP within the normal autoregulatory range demonstrates that there is neither a generalized nor local defect of autoregulation in AD.", 
+    "lpage": "1889", 
+    "grants": [
+      "K23 NS044885-05", 
+      "NS006833", 
+      "NS044885", 
+      "P01 AG003991", 
+      "P01 AG003991-28", 
+      "P50 AG005681", 
+      "P50 AG005681-25", 
+      "P50 NS006833-43"
+    ], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "1883", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Zazulia", 
+        "Allyson R"
+      ], 
+      [
+        "Videen", 
+        "Tom O"
+      ], 
+      [
+        "Morris", 
+        "John C"
+      ], 
+      [
+        "Powers", 
+        "William J"
+      ]
+    ], 
+    "pubmonth": "8", 
+    "article-title": "Autoregulation of cerebral blood flow to changes in arterial pressure in mild Alzheimer's disease.", 
+    "pmid": "20736966", 
+    "pmonth": [
+      "Nov"
+    ]
+  }
+]

@@ -1,0 +1,3364 @@
+[
+  {
+    "pyear": [
+      "1990"
+    ], 
+    "pubday": "7", 
+    "text": "Abate, C., Patel, L., Rauscher, F. J., and Curran, T. (1990). Redox regulation of fos and jun DNA-binding activity in vitro. Science 249, 1157&#x02013;1161.", 
+    "sponsors": [], 
+    "abstxt": "The proto-oncogenes c-fos and c-jun function cooperatively as inducible transcription factors in signal transduction processes. Their protein products, Fos and Jun, form a heterodimeric complex that interacts with the DNA regulatory element known as the activator protein-1 (AP-1) binding site. Dimerization occurs via interaction between leucine zipper domains and serves to bring into proper juxtaposition a region in each protein that is rich in basic amino acids and that forms a DNA-binding domain. DNA binding of the Fos-Jun heterodimer was modulated by reduction-oxidation (redox) of a single conserved cysteine residue in the DNA-binding domains of the two proteins. Furthermore, a nuclear protein was identified that reduced Fos and Jun and stimulated DNA-binding activity in vitro. These results suggest that transcriptional activity mediated by AP-1 binding factors may be regulated by a redox mechanism.", 
+    "lpage": "1161", 
+    "grants": [], 
+    "journal-title": "Science (New York, N.Y.)", 
+    "fpage": "1157", 
+    "keywords": [], 
+    "pubyear": "1990", 
+    "auths": [
+      [
+        "Abate", 
+        "C"
+      ], 
+      [
+        "Patel", 
+        "L"
+      ], 
+      [
+        "Rauscher", 
+        "F J"
+      ], 
+      [
+        "Curran", 
+        "T"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Redox regulation of fos and jun DNA-binding activity in vitro.", 
+    "pmid": "2118682", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2002"
+    ], 
+    "pubday": "14", 
+    "text": "Abi-Saab, W. M., Maggs, D. G., Jones, T., Jacob, R., Srihari, V., Thompson, J., Kerr, D., Leone, P., Krystal, J. H., Spencer, D. D., During, M. J., and Sherwin, R. S. (2002). Striking differences in glucose and lactate levels between brain extracellular fluid and plasma in conscious human subjects: effects of hyperglycemia and hypoglycemia. J. Cereb. Blood Flow Metab. 22, 271&#x02013;279.", 
+    "sponsors": [
+      "NIAAA", 
+      "NIDDK", 
+      "NIDDK", 
+      "NINDS", 
+      "NCRR"
+    ], 
+    "abstxt": "Brain levels of glucose and lactate in the extracellular fluid (ECF), which reflects the environment to which neurons are exposed, have never been studied in humans under conditions of varying glycemia. The authors used intracerebral microdialysis in conscious human subjects undergoing electrophysiologic evaluation for medically intractable epilepsy and measured ECF levels of glucose and lactate under basal conditions and during a hyperglycemia-hypoglycemia clamp study. Only measurements from nonepileptogenic areas were included. Under basal conditions, the authors found the metabolic milieu in the brain to be strikingly different from that in the circulation. In contrast to plasma, lactate levels in brain ECF were threefold higher than glucose. Results from complementary studies in rats were consistent with the human data. During the hyperglycemia-hypoglycemia clamp study the relationship between plasma and brain ECF levels of glucose remained similar, but changes in brain ECF glucose lagged approximately 30 minutes behind changes in plasma. The data demonstrate that the brain is exposed to substantially lower levels of glucose and higher levels of lactate than those in plasma; moreover, the brain appears to be a site of significant anaerobic glycolysis, raising the possibility that glucose-derived lactate is an important fuel for the brain.", 
+    "lpage": "279", 
+    "grants": [
+      "AA 00261", 
+      "DK 20495", 
+      "DK 45735", 
+      "NS 39093", 
+      "RR 00125"
+    ], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "271", 
+    "keywords": [], 
+    "pubyear": "2002", 
+    "auths": [
+      [
+        "Abi-Saab", 
+        "Walid M"
+      ], 
+      [
+        "Maggs", 
+        "David G"
+      ], 
+      [
+        "Jones", 
+        "Tim"
+      ], 
+      [
+        "Jacob", 
+        "Ralph"
+      ], 
+      [
+        "Srihari", 
+        "Vinod"
+      ], 
+      [
+        "Thompson", 
+        "James"
+      ], 
+      [
+        "Kerr", 
+        "David"
+      ], 
+      [
+        "Leone", 
+        "Paola"
+      ], 
+      [
+        "Krystal", 
+        "John H"
+      ], 
+      [
+        "Spencer", 
+        "Dennis D"
+      ], 
+      [
+        "During", 
+        "Matthew J"
+      ], 
+      [
+        "Sherwin", 
+        "Robert S"
+      ]
+    ], 
+    "pubmonth": "3", 
+    "article-title": "Striking differences in glucose and lactate levels between brain extracellular fluid and plasma in conscious human subjects: effects of hyperglycemia and hypoglycemia.", 
+    "pmid": "11891432", 
+    "pmonth": [
+      "Mar"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2009"
+    ], 
+    "pubday": "20", 
+    "text": "Ahmed, K., Tunaru, S., and Offermanns, S. (2009). GPR109A, GPR109B and GPR81, a family of hydroxy-carboxylic acid receptors. Trends Pharmacol. Sci. 30, 557&#x02013;562.", 
+    "sponsors": [], 
+    "abstxt": "G-protein-coupled receptors (GPCRs) are the most versatile receptor family as they have the ability to respond to chemically diverse ligands. Despite intensive efforts during the past two decades, there are still more than 100 orphan GPCRs for which endogenous ligands are unknown. Recently, GPR109A, GPR109B and GPR81, which form a GPCR subfamily, have been deorphanized. The physiological ligands of these receptors are the ketone body 3-hydroxy-butyrate, the metabolite 2-hydroxy-propanoate (lactate) as well as the beta-oxidation intermediate 3-hydroxy-octanoate. Thus, this receptor subfamily is activated by hydroxy-carboxylic acid ligands which are intermediates of energy metabolism. All three receptors are predominantly expressed in adipocytes and mediate antilipolytic effects. In this article, we propose that the hydroxy-carboxylic acid structure of their endogenous ligands is the defining property of this receptor subfamily and that hydroxy-carboxylic acid receptors function as metabolic sensors which fine-tune the regulation of metabolic pathways.", 
+    "lpage": "562", 
+    "grants": [], 
+    "journal-title": "Trends in pharmacological sciences", 
+    "fpage": "557", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Ahmed", 
+        "Kashan"
+      ], 
+      [
+        "Tunaru", 
+        "Sorin"
+      ], 
+      [
+        "Offermanns", 
+        "Stefan"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "GPR109A, GPR109B and GPR81, a family of hydroxy-carboxylic acid receptors.", 
+    "pmid": "19837462", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1893"
+    ], 
+    "pubday": "29", 
+    "text": "Andriezen, W. L. (1893). The neuroglia elements in the human brain. Br. Med. J. 29, 227&#x02013;230.", 
+    "sponsors": [], 
+    "abstxt": null, 
+    "lpage": "230", 
+    "grants": [], 
+    "journal-title": "British medical journal", 
+    "fpage": "227", 
+    "keywords": [], 
+    "pubyear": "1893", 
+    "auths": [
+      [
+        "Andriezen", 
+        "W L"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "The Neuroglia Elements in the Human Brain.", 
+    "pmid": "20754383", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "16", 
+    "text": "Bergersen, L. H. (2007). Is lactate food for neurons? Comparison of monocarboxylate transporter subtypes in brain and muscle. Neuroscience 145, 11&#x02013;19.", 
+    "sponsors": [], 
+    "abstxt": "Intercellular monocarboxylate transport is important, particularly in tissues with high energy demands, such as brain and muscle. In skeletal muscle, it is well established that glycolytic fast twitch muscle fibers produce lactate, which is transported out of the cell through the monocarboxylate transporter (MCT) 4. Lactate is then taken up and oxidized by the oxidative slow twitch muscle fibers, which express MCT1. In the brain it is still questioned whether lactate produced in astrocytes is taken up and oxidized by neurons upon activation. Several studies have reported that astrocytes express MCT4, whereas neurons express MCT2. By comparing the localizations of MCTs in oxidative and glycolytic compartments I here give support to the idea that there is a lactate shuttle in the brain similar to that in muscle. This conclusion is based on studies in rodents using high resolution immunocytochemical methods at the light and electron microscopical levels.", 
+    "lpage": "19", 
+    "grants": [], 
+    "journal-title": "Neuroscience", 
+    "fpage": "11", 
+    "keywords": [], 
+    "pubyear": "2007", 
+    "auths": [
+      [
+        "Bergersen", 
+        "L H"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Is lactate food for neurons? Comparison of monocarboxylate transporter subtypes in brain and muscle.", 
+    "pmid": "17218064", 
+    "pmonth": [
+      "Mar"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "9", 
+    "text": "Bergersen, L., Waerhaug, O., Helm, J., Thomas, M., Laake, p., Davies, A. J., Wilson, M. C., Halestrap, A. P., and Ottersen, O. P. (2001). A novel postsynaptic density protein: the monocarboxylate transporter MCT2 is co-localized with delta-glutamate receptors in postsynaptic densities of parallel fiber-Purkinje cell synapses. Exp. Brain Res. 136, 523&#x02013;534.", 
+    "sponsors": [], 
+    "abstxt": "Confocal immunofluorescence microscopy showed strong monocarboxylate transporter 2 (MCT2) labeling of Purkinje cell bodies and punctate labeling in the molecular layer. By immunogold cytochemistry, it could be demonstrated that the MCT2 immunosignal was concentrated at postsynaptic densities of parallel fiber-Purkinje cell synapses. The distribution of MCT2 transporters within the individual postsynaptic densities mimicked that of the delta2 glutamate receptor, as shown by use of two different gold-particle sizes. The MCT2 distribution was also compared with the distributions of other monocarboxylate transporters (MCT1 and MCT4). The MCT1 immunolabeling was localized in the endothelial cells, while MCT4 immunogold particles were associated with glial profiles, including those abutting the synaptic cleft of the parallel fiber-spine synapses. The postsynaptic density (PSD) molecules identified so far can be divided into five classes: receptors, their anchoring molecules, molecules involved in signal transduction, ion channels, and attachment proteins. Here, we provide evidence that this list of molecules must now be extended to comprise an organic molecule transporter: the monocarboxylate transporter MCT2. The present data suggest that MCT2 has specific transport functions related to the synaptic cleft and that this transporter may allow an influx of lactate derived from perisynaptic glial processes. The expression of MCT2 in synaptic membranes may allow energy supply to be tuned to the excitatory drive.", 
+    "lpage": "534", 
+    "grants": [], 
+    "journal-title": "Experimental brain research. Experimentelle Hirnforschung. Exp\u00e9rimentation c\u00e9r\u00e9brale", 
+    "fpage": "523", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Bergersen", 
+        "L"
+      ], 
+      [
+        "Waerhaug", 
+        "O"
+      ], 
+      [
+        "Helm", 
+        "J"
+      ], 
+      [
+        "Thomas", 
+        "M"
+      ], 
+      [
+        "Laake", 
+        "P"
+      ], 
+      [
+        "Davies", 
+        "A J"
+      ], 
+      [
+        "Wilson", 
+        "M C"
+      ], 
+      [
+        "Halestrap", 
+        "A P"
+      ], 
+      [
+        "Ottersen", 
+        "O P"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "A novel postsynaptic density protein: the monocarboxylate transporter MCT2 is co-localized with delta-glutamate receptors in postsynaptic densities of parallel fiber-Purkinje cell synapses.", 
+    "pmid": "11291733", 
+    "pmonth": [
+      "Feb"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2005"
+    ], 
+    "pubday": "8", 
+    "text": "Bergersen, L. H., Magistretti, P. J., and Pellerin, L. (2005). Selective postsynaptic co-localization of MCT2 with AMPA receptor GluR2/3 subunits at excitatory synapses exhibiting AMPA receptor trafficking. Cereb. Cortex 15, 361&#x02013;370.", 
+    "sponsors": [], 
+    "abstxt": "MCT2 is the main neuronal monocarboxylate transporter needed by neurons if they are to use lactate as an additional energy substrate. Previous evidence suggested that some MCT2 could be located in postsynaptic elements of glutamatergic synapses. Using post-embedding electron microscopic immunocytochemistry, it is demonstrated that MCT2 is present at postsynaptic density of asymmetric synapses, in the stratum radiatum of both rat hippocampal CA1 and CA3 regions, as well as at parallel fibre-Purkinje cell synapses in mouse cerebellum. MCT2 levels were significantly lower at mossy fibre synapses on CA3 neurons, and MCT2 was almost absent from symmetric synapses on CA1 pyramidal cells. It could also be demonstrated using quantitative double-labeling immunogold cytochemistry that MCT2 and AMPA receptor GluR2/3 subunits have a similar postsynaptic distribution at asymmetric synapses with high levels expressed within the postsynaptic density. In addition, as for AMPA receptors, a significant proportion of MCT2 is located on vesicular membranes within the postsynaptic spine, forming an intracellular pool available for a putative postsynaptic endo/exocytotic trafficking at these excitatory synapses. Altogether, the data presented provide evidence for MCT2 expression in the postsynaptic density area at specific subsets of glutamatergic synapses, and also suggest that MCT2, like AMPA receptors, could undergo membrane trafficking.", 
+    "lpage": "370", 
+    "grants": [], 
+    "journal-title": "Cerebral cortex (New York, N.Y. : 1991)", 
+    "fpage": "361", 
+    "keywords": [], 
+    "pubyear": "2005", 
+    "auths": [
+      [
+        "Bergersen", 
+        "Linda Hildegard"
+      ], 
+      [
+        "Magistretti", 
+        "Pierre J"
+      ], 
+      [
+        "Pellerin", 
+        "Luc"
+      ]
+    ], 
+    "pubmonth": "3", 
+    "article-title": "Selective postsynaptic co-localization of MCT2 with AMPA receptor GluR2/3 subunits at excitatory synapses exhibiting AMPA receptor trafficking.", 
+    "pmid": "15749979", 
+    "pmonth": [
+      "Apr"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "3", 
+    "text": "Bero, A. W., Yan, P., Roh, J. H., Cirrito, J. R., Stewart, F. R., Raichle, M. E., Lee, J. M., and Holtzman, D. M. (2011). Neuronal activity regulates the regional vulnerability to amyloid-&#x003B2; deposition. Nat. Neurosci. 14, 750&#x02013;756.", 
+    "sponsors": [
+      "NIA", 
+      "NIA", 
+      "NIA", 
+      "NIA", 
+      "NIA", 
+      "NIA", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NIA"
+    ], 
+    "abstxt": "Amyloid-\u03b2 (A\u03b2) plaque deposition in specific brain regions is a pathological hallmark of Alzheimer's disease. However, the mechanism underlying the regional vulnerability to A\u03b2 deposition in Alzheimer's disease is unknown. Herein, we provide evidence that endogenous neuronal activity regulates the regional concentration of interstitial fluid (ISF) A\u03b2, which drives local A\u03b2 aggregation. Using in vivo microdialysis, we show that ISF A\u03b2 concentrations in several brain regions of APP transgenic mice before plaque deposition were commensurate with the degree of subsequent plaque deposition and with the concentration of lactate, a marker of neuronal activity. Furthermore, unilateral vibrissal stimulation increased ISF A\u03b2, and unilateral vibrissal deprivation decreased ISF A\u03b2 and lactate, in contralateral barrel cortex. Long-term unilateral vibrissal deprivation decreased amyloid plaque formation and growth. Our results suggest a mechanism to account for the vulnerability of specific brain regions to A\u03b2 deposition in Alzheimer's disease.", 
+    "lpage": "756", 
+    "grants": [
+      "AG029524", 
+      "AG033452", 
+      "AG13956", 
+      "AG568127", 
+      "F31 AG033452-03", 
+      "K01 AG029524-05", 
+      "NS06833", 
+      "NS32636", 
+      "NS67905", 
+      "P30 NS057105-05", 
+      "P30NS057105", 
+      "R37 AG013956-16"
+    ], 
+    "journal-title": "Nature neuroscience", 
+    "fpage": "750", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Bero", 
+        "Adam W"
+      ], 
+      [
+        "Yan", 
+        "Ping"
+      ], 
+      [
+        "Roh", 
+        "Jee Hoon"
+      ], 
+      [
+        "Cirrito", 
+        "John R"
+      ], 
+      [
+        "Stewart", 
+        "Floy R"
+      ], 
+      [
+        "Raichle", 
+        "Marcus E"
+      ], 
+      [
+        "Lee", 
+        "Jin-Moo"
+      ], 
+      [
+        "Holtzman", 
+        "David M"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Neuronal activity regulates the regional vulnerability to amyloid-\u03b2 deposition.", 
+    "pmid": "21532579", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2008"
+    ], 
+    "pubday": "18", 
+    "text": "Berridge, C. W. (2008). Noradrenergic modulation of arousal. Brain Res. Rev. 58, 1&#x02013;17.", 
+    "sponsors": [
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIMH", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA"
+    ], 
+    "abstxt": "Through a highly divergent efferent projection system, the locus coeruleus-noradrenergic system supplies norepinephrine throughout the central nervous system. State-dependent neuronal discharge activity of locus coeruleus neurons has long-suggested a role of this system in the induction of an alert waking state. More recent work supports this hypothesis, demonstrating robust wake-promoting actions of the locus coeruleus-noradrenergic system. Norepinephrine enhances arousal, in part, via actions of beta- and alpha1-receptors located within multiple subcortical structures, including the general regions of the medial septal area and the medial preoptic areas. Recent anatomical studies suggest that arousal-enhancing actions of norepinephrine are not limited to the locus coeruleus system and likely include the A1 and A2 noradrenergic cell groups. Thus, noradrenergic modulation of arousal state involves multiple noradrenergic systems acting within multiple subcortical regions. Pharmacological studies indicate that the combined actions of these systems are necessary for the sustained maintenance of arousal levels associated with spontaneous waking. Enhanced arousal state is a prominent aspect of both stress and psychostimulant drug action and evidence indicates that noradrenergic systems likely play an important role in both stress-related and psychostimulant-induced arousal. These and other observations suggest that the dysregulation of noradrenergic neurotransmission could well contribute to the dysregulation of arousal associated with a variety of behavioral disorders including insomnia and stress-related disorders.", 
+    "lpage": "17", 
+    "grants": [
+      "DA00389", 
+      "DA10681", 
+      "K02 DA000389", 
+      "K02 DA000389-01A1", 
+      "K02 DA000389-02", 
+      "K02 DA000389-03", 
+      "K02 DA000389-04", 
+      "K02 DA000389-05", 
+      "K02 DA000389-06", 
+      "K02 DA000389-07", 
+      "K02 DA000389-08", 
+      "K02 DA000389-09", 
+      "MH62359", 
+      "R01 DA010681", 
+      "R01 DA010681-03", 
+      "R01 DA010681-04", 
+      "R01 DA010681-05", 
+      "R01 DA010681-06", 
+      "R01 DA010681-07", 
+      "R01 DA010681-08", 
+      "R01 DA010681-09"
+    ], 
+    "journal-title": "Brain research reviews", 
+    "fpage": "1", 
+    "keywords": [], 
+    "pubyear": "2008", 
+    "auths": [
+      [
+        "Berridge", 
+        "Craig W"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Noradrenergic modulation of arousal.", 
+    "pmid": "18199483", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2009"
+    ], 
+    "pubday": "14", 
+    "text": "Berthet, C., Lei, H., Thevenet, J., Gruetter, R., Magistretti, P. J., and Hirt, L. (2009). Neuroprotective role of lactate after cerebral ischemia. J. Cereb. Blood Flow Metab. 29, 1780&#x02013;1789.", 
+    "sponsors": [], 
+    "abstxt": "It is well established that lactate can be used as an energy substrate by the brain by conversion to pyruvate and a subsequent oxidation in the mitochondria. Knowing the need for readily metabolizable substrates directly after ischemia and the protective effect of lactate after excitotoxicity, the aim of this study was to investigate whether lactate administration directly after ischemia could be neuroprotective. In vitro, the addition of 4 mmol/L L-lactate to the medium of rat organotypic hippocampal slices, directly after oxygen and glucose deprivation (OGD), protected against neuronal death, whereas a higher dose of 20 mmol/L was toxic. In vivo, after middle cerebral artery occlusion in the mouse, an intracerebroventricular injection of 2 microL of 100 mmol/L L-lactate, immediately after reperfusion, led to a significant decrease in lesion size, which was more pronounced in the striatum, and an improvement in neurologic outcome. A later injection 1 h after reperfusion did not reduce lesion size, but significantly improved neurologic outcome, which is an important point in the context of a potential clinical application. Therefore, a moderate increase in lactate after ischemia may be a therapeutic tool.", 
+    "lpage": "1789", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "1780", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Berthet", 
+        "Carole"
+      ], 
+      [
+        "Lei", 
+        "Hongxia"
+      ], 
+      [
+        "Thevenet", 
+        "Jonathan"
+      ], 
+      [
+        "Gruetter", 
+        "Rolf"
+      ], 
+      [
+        "Magistretti", 
+        "Pierre J"
+      ], 
+      [
+        "Hirt", 
+        "Lorenz"
+      ]
+    ], 
+    "pubmonth": "8", 
+    "article-title": "Neuroprotective role of lactate after cerebral ischemia.", 
+    "pmid": "19675565", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2008"
+    ], 
+    "pubday": "18", 
+    "text": "Blad, C. C., Ahmed, K., Ijzerman, A. P., and Offermanns, S. (2011). Biological and pharmacological roles of HCA receptors. Adv. Pharmacol 62, 219&#x02013;250.", 
+    "sponsors": [
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIMH", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA"
+    ], 
+    "abstxt": "Through a highly divergent efferent projection system, the locus coeruleus-noradrenergic system supplies norepinephrine throughout the central nervous system. State-dependent neuronal discharge activity of locus coeruleus neurons has long-suggested a role of this system in the induction of an alert waking state. More recent work supports this hypothesis, demonstrating robust wake-promoting actions of the locus coeruleus-noradrenergic system. Norepinephrine enhances arousal, in part, via actions of beta- and alpha1-receptors located within multiple subcortical structures, including the general regions of the medial septal area and the medial preoptic areas. Recent anatomical studies suggest that arousal-enhancing actions of norepinephrine are not limited to the locus coeruleus system and likely include the A1 and A2 noradrenergic cell groups. Thus, noradrenergic modulation of arousal state involves multiple noradrenergic systems acting within multiple subcortical regions. Pharmacological studies indicate that the combined actions of these systems are necessary for the sustained maintenance of arousal levels associated with spontaneous waking. Enhanced arousal state is a prominent aspect of both stress and psychostimulant drug action and evidence indicates that noradrenergic systems likely play an important role in both stress-related and psychostimulant-induced arousal. These and other observations suggest that the dysregulation of noradrenergic neurotransmission could well contribute to the dysregulation of arousal associated with a variety of behavioral disorders including insomnia and stress-related disorders.", 
+    "lpage": "17", 
+    "grants": [
+      "DA00389", 
+      "DA10681", 
+      "K02 DA000389", 
+      "K02 DA000389-01A1", 
+      "K02 DA000389-02", 
+      "K02 DA000389-03", 
+      "K02 DA000389-04", 
+      "K02 DA000389-05", 
+      "K02 DA000389-06", 
+      "K02 DA000389-07", 
+      "K02 DA000389-08", 
+      "K02 DA000389-09", 
+      "MH62359", 
+      "R01 DA010681", 
+      "R01 DA010681-03", 
+      "R01 DA010681-04", 
+      "R01 DA010681-05", 
+      "R01 DA010681-06", 
+      "R01 DA010681-07", 
+      "R01 DA010681-08", 
+      "R01 DA010681-09"
+    ], 
+    "journal-title": "Brain research reviews", 
+    "fpage": "1", 
+    "keywords": [], 
+    "pubyear": "2008", 
+    "auths": [
+      [
+        "Berridge", 
+        "Craig W"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Noradrenergic modulation of arousal.", 
+    "pmid": "18199483", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2008"
+    ], 
+    "pubday": "18", 
+    "text": "Boumezbeur, F., Mason, G. F., de Graaf, R. A., Behar, K. L., Cline, G. W., Shulman, G. I., Rothman, D. L., and Petersen, K. F. (2010). Altered brain mitochondrial metabolism in healthy aging as assessed by in vivo magnetic resonance spectroscopy. J. Cereb. Blood Flow Metab. 30, 211&#x02013;221.", 
+    "sponsors": [
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIMH", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA", 
+      "NIDA"
+    ], 
+    "abstxt": "Through a highly divergent efferent projection system, the locus coeruleus-noradrenergic system supplies norepinephrine throughout the central nervous system. State-dependent neuronal discharge activity of locus coeruleus neurons has long-suggested a role of this system in the induction of an alert waking state. More recent work supports this hypothesis, demonstrating robust wake-promoting actions of the locus coeruleus-noradrenergic system. Norepinephrine enhances arousal, in part, via actions of beta- and alpha1-receptors located within multiple subcortical structures, including the general regions of the medial septal area and the medial preoptic areas. Recent anatomical studies suggest that arousal-enhancing actions of norepinephrine are not limited to the locus coeruleus system and likely include the A1 and A2 noradrenergic cell groups. Thus, noradrenergic modulation of arousal state involves multiple noradrenergic systems acting within multiple subcortical regions. Pharmacological studies indicate that the combined actions of these systems are necessary for the sustained maintenance of arousal levels associated with spontaneous waking. Enhanced arousal state is a prominent aspect of both stress and psychostimulant drug action and evidence indicates that noradrenergic systems likely play an important role in both stress-related and psychostimulant-induced arousal. These and other observations suggest that the dysregulation of noradrenergic neurotransmission could well contribute to the dysregulation of arousal associated with a variety of behavioral disorders including insomnia and stress-related disorders.", 
+    "lpage": "17", 
+    "grants": [
+      "DA00389", 
+      "DA10681", 
+      "K02 DA000389", 
+      "K02 DA000389-01A1", 
+      "K02 DA000389-02", 
+      "K02 DA000389-03", 
+      "K02 DA000389-04", 
+      "K02 DA000389-05", 
+      "K02 DA000389-06", 
+      "K02 DA000389-07", 
+      "K02 DA000389-08", 
+      "K02 DA000389-09", 
+      "MH62359", 
+      "R01 DA010681", 
+      "R01 DA010681-03", 
+      "R01 DA010681-04", 
+      "R01 DA010681-05", 
+      "R01 DA010681-06", 
+      "R01 DA010681-07", 
+      "R01 DA010681-08", 
+      "R01 DA010681-09"
+    ], 
+    "journal-title": "Brain research reviews", 
+    "fpage": "1", 
+    "keywords": [], 
+    "pubyear": "2008", 
+    "auths": [
+      [
+        "Berridge", 
+        "Craig W"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Noradrenergic modulation of arousal.", 
+    "pmid": "18199483", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2000"
+    ], 
+    "pubday": "19", 
+    "text": "Bouzier, A. K., Thiaudiere, E., Biran, M., Rouland, R., Canioni, P., and Merle, M. (2000). The metabolism of [3-(13)C]lactate in the rat brain is specific of a pyruvate carboxylase-deprived compartment. J. Neurochem. 75, 480&#x02013;486.", 
+    "sponsors": [], 
+    "abstxt": "Lactate metabolism in the adult rat brain was investigated in relation with the concept of lactate trafficking between astrocytes and neurons. Wistar rats were infused intravenously with a solution containing either [3-(13)C]lactate (534 mM) or both glucose (750 mM) and [3-(13)C]lactate (534 mM). The time courses of both the concentration and (13)C enrichment of blood glucose and lactate were determined. The data indicated the occurrence of [3-(13)C]lactate recycling through liver gluconeogenesis. The yield of glucose labeling was, however, reduced when using the glucose-containing infusate. After a 20-min or 1-h infusion, perchloric acid extracts of the brain tissue were prepared and subsequently analyzed by (13)C- and (1)H-observed/(13)C-edited NMR spectroscopy. The (13)C labeling of amino acids indicated that [3-(13)C]lactate was metabolized in the brain. Based on the alanine C3 enrichment, lactate contribution to brain metabolism amounted to 35% under the most favorable conditions used. By contrast with what happens with [1-(13)C]glucose metabolism, no difference in glutamine C2 and C3 labeling was evidenced, indicating that lactate was metabolized in a compartment deprived of pyruvate carboxylase activity. This result confirms, for the first time from an in vivo study, that lactate is more specifically a neuronal substrate.", 
+    "lpage": "486", 
+    "grants": [], 
+    "journal-title": "Journal of neurochemistry", 
+    "fpage": "480", 
+    "keywords": [], 
+    "pubyear": "2000", 
+    "auths": [
+      [
+        "Bouzier", 
+        "A K"
+      ], 
+      [
+        "Thiaudiere", 
+        "E"
+      ], 
+      [
+        "Biran", 
+        "M"
+      ], 
+      [
+        "Rouland", 
+        "R"
+      ], 
+      [
+        "Canioni", 
+        "P"
+      ], 
+      [
+        "Merle", 
+        "M"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "The metabolism of [3-(13)C]lactate in the rat brain is specific of a pyruvate carboxylase-deprived compartment.", 
+    "pmid": "10899922", 
+    "pmonth": [
+      "Aug"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "4", 
+    "text": "Bouzier-Sore, A. K., Serres, S., Canioni, P., and Merle, M. (2003). Lactate involvement in neuron-glia metabolic interaction: (13)C-NMR spectroscopy contribution. Biochimie 85, 841&#x02013;848.", 
+    "sponsors": [], 
+    "abstxt": "Glucose is commonly admitted to be the main substrate for brain energy requirement. However, it has been recently proposed that lactate, generated from glucose via glycolysis, would be the oxidative substrate for neurons, particularly during neuronal activation, according to a mechanism called the astrocyte-neuron lactate shuttle hypothesis (ANLSH). In that mechanism, glutamate released in the synaptic cleft during brain activation is taken up by astrocytes. This uptake, via the glutamate/Na(+) transporter, induces the entry of sodium, which is then excluded from the astrocytes via the Na(+)/K(+) ATPase. This exclusion consumes ATP, which stimulates glycolysis and thus lactate formation in astrocytes. This lactate is then transferred to neurons where it is utilized as oxidative substrate. This review tries to gather the recent evidences that support this hypothesis and presents the contribution of NMR to this matter.", 
+    "lpage": "848", 
+    "grants": [], 
+    "journal-title": "Biochimie", 
+    "fpage": "841", 
+    "keywords": [], 
+    "pubyear": "2003", 
+    "auths": [
+      [
+        "Bouzier-Sore", 
+        "A-K"
+      ], 
+      [
+        "Serres", 
+        "S"
+      ], 
+      [
+        "Canioni", 
+        "P"
+      ], 
+      [
+        "Merle", 
+        "M"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Lactate involvement in neuron-glia metabolic interaction: (13)C-NMR spectroscopy contribution.", 
+    "pmid": "14652173", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2009"
+    ], 
+    "pubday": "7", 
+    "text": "Brooks, G. A. (2009). Cell&#x02013;cell and intracellular lactate shuttles. J. Physiol. 587, 5591&#x02013;5600.", 
+    "sponsors": [], 
+    "abstxt": "Once thought to be the consequence of oxygen lack in contracting skeletal muscle, the glycolytic product lactate is formed and utilized continuously in diverse cells under fully aerobic conditions. 'Cell-cell' and 'intracellular lactate shuttle' concepts describe the roles of lactate in delivery of oxidative and gluconeogenic substrates as well as in cell signalling. Examples of the cell-cell shuttles include lactate exchanges between between white-glycolytic and red-oxidative fibres within a working muscle bed, and between working skeletal muscle and heart, brain, liver and kidneys. Examples of intracellular lactate shuttles include lactate uptake by mitochondria and pyruvate for lactate exchange in peroxisomes. Lactate for pyruvate exchanges affect cell redox state, and by itself lactate is a ROS generator. In vivo, lactate is a preferred substrate and high blood lactate levels down-regulate the use of glucose and free fatty acids (FFA). As well, lactate binding may affect metabolic regulation, for instance binding to G-protein receptors in adipocytes inhibiting lipolysis, and thus decreasing plasma FFA availability. In vitro lactate accumulation upregulates expression of MCT1 and genes coding for other components of the mitochondrial reticulum in skeletal muscle. The mitochondrial reticulum in muscle and mitochondrial networks in other aerobic tissues function to establish concentration and proton gradients necessary for cells with high mitochondrial densities to oxidize lactate. The presence of lactate shuttles gives rise to the realization that glycolytic and oxidative pathways should be viewed as linked, as opposed to alternative, processes, because lactate, the product of one pathway, is the substrate for the other.", 
+    "lpage": "5600", 
+    "grants": [], 
+    "journal-title": "The Journal of physiology", 
+    "fpage": "5591", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Brooks", 
+        "George A"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Cell-cell and intracellular lactate shuttles.", 
+    "pmid": "19805739", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2008"
+    ], 
+    "pubday": "28", 
+    "text": "Cai, T. Q., Ren, N., Jin, L., Cheng, K., Kash, S., Chen, R., Wright, S. D., Taggart, A. K., and Waters, M. G. (2008). Role of GPR81 in lactate-mediated reduction of adipose lipolysis. Biochem. Biophys. Res. Commun. 377, 987&#x02013;991.", 
+    "sponsors": [], 
+    "abstxt": "Heavy exercise or oxygen deficit often links with higher levels of arterial lactate and lower levels of plasma free fatty acids (FFA). Treatment with lactate reduces circulating levels of FFA in vivo and lipolysis in adipose tissues in vitro. However, the underlying mechanism has remained unclear. Here we employ pharmacological and genetic approaches to show that GPR81, an orphan G-protein-coupled receptor with relatively restricted expression in the adipose tissues, functions as a receptor for lactate and can mediate an anti-lipolytic effect of lactate. GPR81 may thus function as a sensor of lactate that can modulate the FFA pool under exercise or conditions of oxygen deficit.", 
+    "lpage": "991", 
+    "grants": [], 
+    "journal-title": "Biochemical and biophysical research communications", 
+    "fpage": "987", 
+    "keywords": [], 
+    "pubyear": "2008", 
+    "auths": [
+      [
+        "Cai", 
+        "Tian-Quan"
+      ], 
+      [
+        "Ren", 
+        "Ning"
+      ], 
+      [
+        "Jin", 
+        "Lan"
+      ], 
+      [
+        "Cheng", 
+        "Kang"
+      ], 
+      [
+        "Kash", 
+        "Shera"
+      ], 
+      [
+        "Chen", 
+        "Ruoping"
+      ], 
+      [
+        "Wright", 
+        "Samuel D"
+      ], 
+      [
+        "Taggart", 
+        "Andrew K P"
+      ], 
+      [
+        "Waters", 
+        "M Gerard"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Role of GPR81 in lactate-mediated reduction of adipose lipolysis.", 
+    "pmid": "18952058", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [], 
+    "pubday": "15", 
+    "text": "Cerd&#x000E1;n, S., Rodrigues, T. B., Sierra, A., Benito, M., Fonseca, L. L., Fonseca, C. P., and Garc&#x000ED;a-Mart&#x000ED;n, M. L. (2006). The redox switch/redox coupling hypothesis. Neurochem. Int. 48, 523&#x02013;530.", 
+    "sponsors": [], 
+    "abstxt": "We provide an integrative interpretation of neuroglial metabolic coupling including the presence of subcellular compartmentation of pyruvate and monocarboxylate recycling through the plasma membrane of both neurons and glial cells. The subcellular compartmentation of pyruvate allows neurons and astrocytes to select between glucose and lactate as alternative substrates, depending on their relative extracellular concentration and the operation of a redox switch. This mechanism is based on the inhibition of glycolysis at the level of glyceraldehyde 3-phosphate dehydrogenase by NAD(+) limitation, under sufficiently reduced cytosolic NAD(+)/NADH redox conditions. Lactate and pyruvate recycling through the plasma membrane allows the return to the extracellular medium of cytosolic monocarboxylates enabling their transcellular, reversible, exchange between neurons and astrocytes. Together, intracellular pyruvate compartmentation and monocarboxylate recycling result in an effective transcellular coupling between the cytosolic NAD(+)/NADH redox states of both neurons and glial cells. Following glutamatergic neurotransmission, increased glutamate uptake by the astrocytes is proposed to augment glycolysis and tricarboxylic acid cycle activity, balancing to a reduced cytosolic NAD(+)/NADH in the glia. Reducing equivalents are transferred then to the neuron resulting in a reduced neuronal NAD(+)/NADH redox state. This may eventually switch off neuronal glycolysis, favoring the oxidation of extracellular lactate in the lactate dehydrogenase (LDH) equilibrium and in the neuronal tricarboxylic acid cycles. Finally, pyruvate derived from neuronal lactate oxidation, may return to the extracellular space and to the astrocyte, restoring the basal redox state and beginning a new loop of the lactate/pyruvate transcellular coupling cycle. Transcellular redox coupling operates through the plasma membrane transporters of monocarboxylates, similarly to the intracellular redox shuttles coupling the cytosolic and mitochondrial redox states through the transporters of the inner mitochondrial membrane. Finally, transcellular redox coupling mechanisms may couple glycolytic and oxidative zones in other heterogeneous tissues including muscle and tumors.", 
+    "lpage": "530", 
+    "grants": [], 
+    "journal-title": "Neurochemistry international", 
+    "fpage": "523", 
+    "keywords": [], 
+    "pubyear": "2006", 
+    "auths": [
+      [
+        "Cerd\u00e1n", 
+        "Sebasti\u00e1n"
+      ], 
+      [
+        "Rodrigues", 
+        "Tiago B"
+      ], 
+      [
+        "Sierra", 
+        "Alejandra"
+      ], 
+      [
+        "Benito", 
+        "Marina"
+      ], 
+      [
+        "Fonseca", 
+        "Luis L"
+      ], 
+      [
+        "Fonseca", 
+        "Carla P"
+      ], 
+      [
+        "Garc\u00eda-Mart\u00edn", 
+        "Mar\u00eda L"
+      ]
+    ], 
+    "pubmonth": "3", 
+    "article-title": "The redox switch/redox coupling hypothesis.", 
+    "pmid": "16530294", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "4", 
+    "text": "Cureton, E. L., Kwan, R. O., Dozier, K. C., Sadjadi, J., Pal, J. D., and Victorino, G. P. (2010). A different view of lactate in trauma patients: protecting the injured brain. J. Surg. Res. 159, 468&#x02013;473.", 
+    "sponsors": [], 
+    "abstxt": "The relationship between lactate and head injury is controversial. We sought to determine the relationship between initial serum lactate, severity of head injury, and outcome. We hypothesized that lactate is elevated in head injured patients, and that initial serum lactate increases as the severity of head injury increases. Furthermore, lactate may be neuroprotective and improve neurologic outcomes.", 
+    "lpage": "473", 
+    "grants": [], 
+    "journal-title": "The Journal of surgical research", 
+    "fpage": "468", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Cureton", 
+        "Elizabeth L"
+      ], 
+      [
+        "Kwan", 
+        "Rita O"
+      ], 
+      [
+        "Dozier", 
+        "Kristopher C"
+      ], 
+      [
+        "Sadjadi", 
+        "Javid"
+      ], 
+      [
+        "Pal", 
+        "Jay D"
+      ], 
+      [
+        "Victorino", 
+        "Gregory P"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "A different view of lactate in trauma patients: protecting the injured brain.", 
+    "pmid": "19726055", 
+    "pmonth": [
+      "Mar"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2006"
+    ], 
+    "pubday": "6", 
+    "text": "Dalsgaard, M. K. (2006). Fuelling cerebral activity in exercising man. J. Cereb. Blood Flow Metab. 26, 731&#x02013;750.", 
+    "sponsors": [], 
+    "abstxt": "The metabolic response to brain activation in exercise might be expressed as the cerebral metabolic ratio (MR; uptake O2/glucose + 1/2 lactate). At rest, brain energy is provided by a balanced oxidation of glucose as MR is close to 6, but activation provokes a 'surplus' uptake of glucose relative to that of O2. Whereas MR remains stable during light exercise, it is reduced by 30% to 40% when exercise becomes demanding. The MR integrates metabolism in brain areas stimulated by sensory input from skeletal muscle, the mental effort to exercise and control of exercising limbs. The MR decreases during prolonged exhaustive exercise where blood lactate remains low, but when vigorous exercise raises blood lactate, the brain takes up lactate in an amount similar to that of glucose. This lactate taken up by the brain is oxidised as it does not accumulate within the brain and such pronounced brain uptake of substrate occurs independently of plasma hormones. The 'surplus' of glucose equivalents taken up by the activated brain may reach approximately 10 mmol, that is, an amount compatible with the global glycogen level. It is suggested that a low MR predicts shortage of energy that ultimately limits motor activation and reflects a biologic background for 'central fatigue'.", 
+    "lpage": "750", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "731", 
+    "keywords": [], 
+    "pubyear": "2006", 
+    "auths": [
+      [
+        "Dalsgaard", 
+        "Mads K"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Fuelling cerebral activity in exercising man.", 
+    "pmid": "16395281", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "31", 
+    "text": "Dalsgaard, M. K., and Secher, N. H. (2007). The brain at work: a cerebral metabolic manifestation of central fatigue? J. Neurosci. Res. 85, 3334&#x02013; 3339.", 
+    "sponsors": [], 
+    "abstxt": "Central fatigue refers to circumstances in which strength appears to be limited by the ability of the central nervous system to recruit motoneurons. Central fatigue manifests when the effort to contract skeletal muscles is intense and, thus, is aggravated when exercise is performed under stress, whereas it becomes attenuated following training. Central fatigue has not been explained, but the cerebral metabolic response to intense exercise, as to other modalities of cerebral activation, is a reduction in its &quot;metabolic ratio&quot; (MR), i.e., the brain's uptake of oxygen relative to that of carbohydrate. At rest the MR is close to 6 but during intense whole-body exercise it decreases to less than 3, with the uptake of lactate becoming as important as that of glucose. It remains debated what underlies this apparent inability of the brain to oxidize the carbohydrate taken up, but it may approach approximately 10 mmol glucose equivalents. In the case of exercise, a concomitant uptake of ammonium for formation of amino acids may account for only approximately 10% of this &quot;extra&quot; carbohydrate taken up. Also, accumulation of intermediates in metabolic pathways and compartmentalization of metabolism between astrocytes and neurons are avenues that have to be explored. Depletion of glycogen stores and subsequent supercompensation during periods of low neuronal activity may not only play a role but also link brain metabolism to its function.", 
+    "lpage": "3339", 
+    "grants": [], 
+    "journal-title": "Journal of neuroscience research", 
+    "fpage": "3334", 
+    "keywords": [], 
+    "pubyear": "2007", 
+    "auths": [
+      [
+        "Dalsgaard", 
+        "Mads K"
+      ], 
+      [
+        "Secher", 
+        "Niels H"
+      ]
+    ], 
+    "pubmonth": "3", 
+    "article-title": "The brain at work: a cerebral metabolic manifestation of central fatigue?", 
+    "pmid": "17394258", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2012"
+    ], 
+    "pubday": "22", 
+    "text": "Dienel, G. A. (2011). Brain lactate metabolism: the discoveries and the controversies. J. Cereb. Blood Flow Metab. doi: 10.1038/jcbfm.2011.175 [Epub ahead of print].", 
+    "sponsors": [
+      "NIDDK", 
+      "NINDS", 
+      "NIDDK", 
+      "NIDDK", 
+      "NIDDK", 
+      "NINDS"
+    ], 
+    "abstxt": "Potential roles for lactate in the energetics of brain activation have changed radically during the past three decades, shifting from waste product to supplemental fuel and signaling molecule. Current models for lactate transport and metabolism involving cellular responses to excitatory neurotransmission are highly debated, owing, in part, to discordant results obtained in different experimental systems and conditions. Major conclusions drawn from tabular data summarizing results obtained in many laboratories are as follows: Glutamate-stimulated glycolysis is not an inherent property of all astrocyte cultures. Synaptosomes from the adult brain and many preparations of cultured neurons have high capacities to increase glucose transport, glycolysis, and glucose-supported respiration, and pathway rates are stimulated by glutamate and compounds that enhance metabolic demand. Lactate accumulation in activated tissue is a minor fraction of glucose metabolized and does not reflect pathway fluxes. Brain activation in subjects with low plasma lactate causes outward, brain-to-blood lactate gradients, and lactate is quickly released in substantial amounts. Lactate utilization by the adult brain increases during lactate infusions and strenuous exercise that markedly increase blood lactate levels. Lactate can be an 'opportunistic', glucose-sparing substrate when present in high amounts, but most evidence supports glucose as the major fuel for normal, activated brain.", 
+    "lpage": "1138", 
+    "grants": [
+      "DK081936", 
+      "NS038230", 
+      "R01 DK081936", 
+      "R01 DK081936-03", 
+      "R01 DK081936-04", 
+      "R56 NS038230-05A2"
+    ], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "1107", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Dienel", 
+        "Gerald A"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Brain lactate metabolism: the discoveries and the controversies.", 
+    "pmid": "22186669", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "16", 
+    "text": "DiNuzzo, M., Gili, T., Maraviglia, B., and Giove, F. (2011). Modeling the contribution of neuron-astrocyte cross talk to slow blood oxygenation level-dependent signal oscillations. J. Neurophysiol. 106, 3010&#x02013;3018.", 
+    "sponsors": [], 
+    "abstxt": "A consistent and prominent feature of brain functional magnetic resonance imaging (fMRI) data is the presence of low-frequency (&lt;0.1 Hz) fluctuations of the blood oxygenation level-dependent (BOLD) signal that are thought to reflect spontaneous neuronal activity. In this report we provide modeling evidence that cyclic physiological activation of astroglial cells produces similar BOLD oscillations through a mechanism mediated by intracellular Ca(2+) signaling. Specifically, neurotransmission induces pulses of Ca(2+) concentration in astrocytes, resulting in increased cerebral perfusion and neuroactive transmitter release by these cells (i.e., gliotransmission), which in turn stimulates neuronal activity. Noticeably, the level of neuron-astrocyte cross talk regulates the periodic behavior of the Ca(2+) wave-induced BOLD fluctuations. Our results suggest that the spontaneous ongoing activity of neuroglial networks is a potential source of the observed slow fMRI signal oscillations.", 
+    "lpage": "3018", 
+    "grants": [], 
+    "journal-title": "Journal of neurophysiology", 
+    "fpage": "3010", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "DiNuzzo", 
+        "Mauro"
+      ], 
+      [
+        "Gili", 
+        "Tommaso"
+      ], 
+      [
+        "Maraviglia", 
+        "Bruno"
+      ], 
+      [
+        "Giove", 
+        "Federico"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Modeling the contribution of neuron-astrocyte cross talk to slow blood oxygenation level-dependent signal oscillations.", 
+    "pmid": "21917999", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "10", 
+    "text": "DiNuzzo, M., Mangia, S., Maraviglia, B., and Giove, F. (2010). Glycogenolysis in astrocytes supports blood-borne glucose channeling not glycogen-derived lactate shuttling to neurons: evidence from mathematical modeling. J. Cereb. Blood Flow Metab. 1895&#x02013;1904.", 
+    "sponsors": [], 
+    "abstxt": "In this article, we examined theoretically the role of human cerebral glycogen in buffering the metabolic requirement of a 360-second brain stimulation, expanding our previous modeling study of neurometabolic coupling. We found that glycogen synthesis and degradation affects the relative amount of glucose taken up by neurons versus astrocytes. Under conditions of 175:115\u2009mmol/L (\u223c1.5:1) neuronal versus astrocytic activation-induced Na(+) influx ratio, \u223c12% of astrocytic glycogen is mobilized. This results in the rapid increase of intracellular glucose-6-phosphate level on stimulation and nearly 40% mean decrease of glucose flow through hexokinase (HK) in astrocytes via product inhibition. The suppression of astrocytic glucose phosphorylation, in turn, favors the channeling of glucose from interstitium to nearby activated neurons, without a critical effect on the concurrent intercellular lactate trafficking. Under conditions of increased neuronal versus astrocytic activation-induced Na(+) influx ratio to 190:65\u2009mmol/L (\u223c3:1), glycogen is not significantly degraded and blood glucose is primarily taken up by neurons. These results support a role for astrocytic glycogen in preserving extracellular glucose for neuronal utilization, rather than providing lactate to neurons as is commonly accepted by the current 'thinking paradigm'. This might be critical in subcellular domains during functional conditions associated with fast energetic demands.", 
+    "lpage": "1904", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "1895", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "DiNuzzo", 
+        "Mauro"
+      ], 
+      [
+        "Mangia", 
+        "Silvia"
+      ], 
+      [
+        "Maraviglia", 
+        "Bruno"
+      ], 
+      [
+        "Giove", 
+        "Federico"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Glycogenolysis in astrocytes supports blood-borne glucose channeling not glycogen-derived lactate shuttling to neurons: evidence from mathematical modeling.", 
+    "pmid": "20827264", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2005"
+    ], 
+    "pubday": "26", 
+    "text": "Fattor, J. A., Miller, B. F., Jacobs, K. A., and Brooks, G. A. (2005). Catecholamine response is attenuated during moderate-intensity exercise in response to the &#x0201C;lactate clamp&#x0201D;. Am. J. Physiol. Endocrinol. Metab. 288, 143&#x02013;147.", 
+    "sponsors": [
+      "NIAMS"
+    ], 
+    "abstxt": "Catecholamine release is known to be regulated by feedforward and feedback mechanisms. Norepinephrine (NE) and epinephrine (Epi) concentrations rise in response to stresses, such as exercise, that challenge blood glucose homeostasis. The purpose of this study was to assess the hypothesis that the lactate anion is involved in feedback control of catecholamine concentration. Six healthy active men (26 +/- 2 yr, 82 +/- 2 kg, 50.7 +/- 2.1 ml.kg(-1).min(-1)) were studied on five occasions after an overnight fast. Plasma concentrations of NE and Epi were determined during 90 min of rest and 90 min of exercise at 55% of peak O2 consumption (VO2 peak) two times with exogenous lactate infusion (lactate clamp, LC) and two times without LC (CON). The blood lactate profile ( approximately 4 mM) of a preliminary trial at 65% VO2 peak (65%) was matched during the subsequent LC trials. In resting men, plasma NE concentration was not different between trials, but during exercise all conditions were different with 65% &gt; CON &gt; LC (65%: 2,115 +/- 166 pg/ml, CON: 1,573 +/- 153 pg/ml, LC: 930 +/- 174 pg/ml, P &lt; 0.05). Plasma Epi concentrations at rest were different between conditions, with LC less than 65% and CON (65%: 68 +/- 9 pg/ml, CON: 59 +/- 7 pg/ml, LC: 38 +/- 10 pg/ml, P &lt; 0.05). During exercise, Epi concentration showed the same trend (65%: 262 +/- 37 pg/ml, CON: 190 +/- 34 pg/ml, LC: 113.2 +/- 23 pg/ml, P &lt; 0.05). In conclusion, lactate attenuates the catecholamine response during moderate-intensity exercise, likely by feedback inhibition.", 
+    "lpage": "E147", 
+    "grants": [
+      "AR-42906"
+    ], 
+    "journal-title": "American journal of physiology. Endocrinology and metabolism", 
+    "fpage": "E143", 
+    "keywords": [], 
+    "pubyear": "2004", 
+    "auths": [
+      [
+        "Fattor", 
+        "Jill A"
+      ], 
+      [
+        "Miller", 
+        "Benjamin F"
+      ], 
+      [
+        "Jacobs", 
+        "Kevin A"
+      ], 
+      [
+        "Brooks", 
+        "George A"
+      ]
+    ], 
+    "pubmonth": "8", 
+    "article-title": "Catecholamine response is attenuated during moderate-intensity exercise in response to the &quot;lactate clamp&quot;.", 
+    "pmid": "15328074", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2009"
+    ], 
+    "pubday": "31", 
+    "text": "Finkel, T., Deng, C. X., and Mostoslavsky, R. (2009). Recent progress in the biology and physiology of sirtuins. Nature 460, 587&#x02013;591.", 
+    "sponsors": [
+      "NIDDK"
+    ], 
+    "abstxt": "The sirtuins are a highly conserved family of NAD(+)-dependent enzymes that regulate lifespan in lower organisms. Recently, the mammalian sirtuins have been connected to an ever widening circle of activities that encompass cellular stress resistance, genomic stability, tumorigenesis and energy metabolism. Here we review the recent progress in sirtuin biology, the role these proteins have in various age-related diseases and the tantalizing notion that the activity of this family of enzymes somehow regulates how long we live.", 
+    "lpage": "591", 
+    "grants": [
+      "R01 DK088190"
+    ], 
+    "journal-title": "Nature", 
+    "fpage": "587", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Finkel", 
+        "Toren"
+      ], 
+      [
+        "Deng", 
+        "Chu-Xia"
+      ], 
+      [
+        "Mostoslavsky", 
+        "Raul"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Recent progress in the biology and physiology of sirtuins.", 
+    "pmid": "19641587", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "7", 
+    "text": "Formby, B., and Stern, R. (2003). Lactate-sensitive response elements in genes involved in hyaluronan catabolism. Biochem. Biophys. Res. Commun. 305, 203&#x02013;208.", 
+    "sponsors": [], 
+    "abstxt": "Tissue anoxia occurs early in wound healing. This is accompanied by production of lactate followed by increased hyaluronan and CD44 expression, suggesting a cause and effect relationship. Fibroblasts increased hyaluronan and CD44 when lactate was added to cultures. Increased deposition of hyaluronan correlates with greater turnover. In current models of hyaluronan catabolism, it is tethered to cell surfaces by CD44 in caveolin-enriched invaginations. It is cleaved to 20-kDa fragments by Hyal-2 on the plasma membrane, endocytosed, and delivered ultimately to lysosomes, and further digested by Hyal-1. Sequence analyses of promoter regions of genes for CD44, caveolin-1, Hyal-1, and -2 revealed multiple AP-1 and ets-1 response elements. To test their relevance, RNA from lactate-treated fibroblasts was analyzed by reverse transcriptase-polymerase chain reaction. Increased transcripts of c-fos, c-jun, c-ets, Hyal-1, -2, CD44, and caveolin-1 mRNAs were observed. We have thus identified lactate-activated genes important in the wound healing responses. Similar responses facilitating tumor progression, the Warburg effect, may share such mechanisms.", 
+    "lpage": "208", 
+    "grants": [], 
+    "journal-title": "Biochemical and biophysical research communications", 
+    "fpage": "203", 
+    "keywords": [], 
+    "pubyear": "2003", 
+    "auths": [
+      [
+        "Formby", 
+        "Bent"
+      ], 
+      [
+        "Stern", 
+        "Robert"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Lactate-sensitive response elements in genes involved in hyaluronan catabolism.", 
+    "pmid": "12732217", 
+    "pmonth": [
+      "May"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "27", 
+    "text": "Fuxe, K., Dahlstr&#x000F6;m, A. B., Jonsson, G., Marcellino, D., Guescini, M., Dam, M., Manger, P., and Agnati, L. (2010). The discovery of central monoamine neurons gave volume transmission to the wired brain. Prog. Neurobiol. 90, 82&#x02013;100.", 
+    "sponsors": [], 
+    "abstxt": "The dawn of chemical neuroanatomy in the CNS came with the discovery and mapping of the central dopamine, noradrenaline and 5-hydroxytryptamine neurons by means of transmitter histochemistry using the Falck-Hillarp formaldehyde fluorescence technique in the early 1960s. Our mapping of the central monoamine neurons was continued and further established with tyrosine hydroxylase, dopa decarboxylase and dopamine-beta-hydroxylase immunohistochemistry in collaboration with Menek Goldstein and Tomas H\u0e23\u0e16kfelt. During recent years an evolutionary constraint in the nuclear parcellation of the DA, NA and 5-HT neurons was demonstrated in the order Rodentia and other mammals. The abundant existence of global monoamine varicose nerve terminal networks synthesizing, storing and releasing monoamines in various parts of the CNS, including the release of DA by tubero-infundibular DA neurons as a prolactin inhibitory factor from the external layer of the median eminence into the portal vessels and the appearance of extraneuronal DA fluorescence after, e.g., treatment with amphetamine in nialamide pretreated rats (Falck-Hillarp technique) were also remarkable observations. These observations and others like the discovery of transmitter-receptor mismatches opened up the possibility that monoamines were modulating the wired brain, built up mainly by glutamate and GABA neurons, through diffusion and flow in the extracellular fluid of the extracellular space and in the CSF. This transmission also involved long-distance channels along myelinated fibers and blood vessels and was called volume transmission (VT). The extracellular space (ECS), filled with a 3D matrix, plays a fundamental role in this communication. Energy gradients for signal migration in the ECS are produced via concentration, temperature and pressure gradients, the latter two allowing a flow of the ECF and CSF carrying the VT signals. The differential properties of the wiring transmission (WT) and VT circuits and communication channels will be discussed as well as the role of neurosteroids and oxytocin receptors in volume transmission leading to a new understanding of the integrative actions of neuronal-glial networks. The role of tunneling nanotubes with mitochondrial transfer in CNS inter alia as part of neuron-glia interactions will also be introduced representing a novel type of wiring transmission. The impact of the technicolour approach to the connectome for the future characterization of the wired networks of the brain is emphasized.", 
+    "lpage": "8100", 
+    "grants": [], 
+    "journal-title": "Progress in neurobiology", 
+    "fpage": "82", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Fuxe", 
+        "Kjell"
+      ], 
+      [
+        "Dahlstr\u0e23\u0e16m", 
+        "Annica B"
+      ], 
+      [
+        "Jonsson", 
+        "G\u0e23\u0e16sta"
+      ], 
+      [
+        "Marcellino", 
+        "Daniel"
+      ], 
+      [
+        "Guescini", 
+        "Michele"
+      ], 
+      [
+        "Dam", 
+        "Mauro"
+      ], 
+      [
+        "Manger", 
+        "Paul"
+      ], 
+      [
+        "Agnati", 
+        "Luigi"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "The discovery of central monoamine neurons gave volume transmission to the wired brain.", 
+    "pmid": "19853007", 
+    "pmonth": [
+      "Feb"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "15", 
+    "text": "Gam, C. M. B., Nielsen, H. B., Secher, N. H., Larsen, F. S., Ott, P., and Quistorff, B. (2011). In cirrhotic patients reduced muscle strength is unrelated to muscle capacity for ATP turnover suggesting a central limitation. Clin. Physiol. Funct. Imaging 31, 169&#x02013;174.", 
+    "sponsors": [], 
+    "abstxt": "\u2002 We investigated whether in patients with liver cirrhosis reduced muscle strength is related to dysfunction of muscle mitochondria.", 
+    "lpage": "174", 
+    "grants": [], 
+    "journal-title": "Clinical physiology and functional imaging", 
+    "fpage": "169", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Gam", 
+        "C M B"
+      ], 
+      [
+        "Nielsen", 
+        "H B"
+      ], 
+      [
+        "Secher", 
+        "N H"
+      ], 
+      [
+        "Larsen", 
+        "F S"
+      ], 
+      [
+        "Ott", 
+        "P"
+      ], 
+      [
+        "Quistorff", 
+        "B"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "In cirrhotic patients reduced muscle strength is unrelated to muscle capacity for ATP turnover suggesting a central limitation.", 
+    "pmid": "21143366", 
+    "pmonth": [
+      "May"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "18", 
+    "text": "Gambini, J., Gomez-Cabrera, M. C., Borras, C., Valles, S. L., Lopez-Grueso, R., Martinez-Bello, V. E., Herranz, D., Pallardo, F. V., Tresguerres, J. A., Serrano, M., and Vi&#x000F1;a, J. (2011). Free [NADH]/[NAD(+)] regulates sirtuin expression. Arch. Biochem. Biophys. 512, 24&#x02013;29.", 
+    "sponsors": [], 
+    "abstxt": "Sirtuins are deacetylases involved in metabolic regulation and longevity. Our aim was to test the hypothesis that they are subjected to redox regulation by the [NADH]/[NAD(+)] ratio. We used NIH3T3 fibroblasts in culture, Drosophila fed with or without ethanol and exercising rats. In all three models an increase in [NADH]/[NAD(+)] came up with an increased expression of sirtuin mRNA and protein. PGC-1\u03b1 (a substrate of sirtuins) protein level was significantly increased in fibroblasts incubated with lactate and pyruvate but this effect was lost in fibroblasts obtained from sirtuin-deficient mice. We conclude that the expression of sirtuins is subject to tight redox regulation by the [NADH]/[NAD(+)] ratio, which is a major sensor for metabolite availability conserved from invertebrates to vertebrates.", 
+    "lpage": "29", 
+    "grants": [], 
+    "journal-title": "Archives of biochemistry and biophysics", 
+    "fpage": "24", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Gambini", 
+        "Juan"
+      ], 
+      [
+        "Gomez-Cabrera", 
+        "Mari Carmen"
+      ], 
+      [
+        "Borras", 
+        "Consuelo"
+      ], 
+      [
+        "Valles", 
+        "Soraya L"
+      ], 
+      [
+        "Lopez-Grueso", 
+        "Raul"
+      ], 
+      [
+        "Martinez-Bello", 
+        "Vladimir E"
+      ], 
+      [
+        "Herranz", 
+        "Daniel"
+      ], 
+      [
+        "Pallardo", 
+        "Federico V"
+      ], 
+      [
+        "Tresguerres", 
+        "Jesus A F"
+      ], 
+      [
+        "Serrano", 
+        "Manuel"
+      ], 
+      [
+        "Vi\u00f1a", 
+        "Jose"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Free [NADH]/[NAD(+)] regulates sirtuin expression.", 
+    "pmid": "21575591", 
+    "pmonth": [
+      "Aug"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1997"
+    ], 
+    "pubday": "15", 
+    "text": "Gantz, I., Muraoka, A., Yang, Y. K., Samuelson, L. C., Zimmerman, E. M., Cook, H., and Yamada, T. (1997). Cloning and chromosomal localization of a gene (GPR18) encoding a novel seven transmembrane receptor highly expressed in spleen and testis. Genomics 42, 462&#x02013;466.", 
+    "sponsors": [
+      "NIDDK", 
+      "", 
+      "NIDDK"
+    ], 
+    "abstxt": "Using the techniques of relaxed stringency polymerase chain reaction and genomic library screening, we have isolated homologous canine and human genes that encode a novel putative seven transmembrane G-protein-linked receptor. The gene encodes an open reading frame (ORF) of 993 bp. The sequences of the canine and human ORFs are highly conserved, sharing 89% nucleotide identity and 92% amino acid similarity between the two species. Northern blot analysis demonstrates that mRNA transcripts of the gene are abundantly expressed in testis and spleen with a lesser degree of expression observed in several other tissues associated with endocrine and immunologic/hematologic function. The gene, designated GPR18, was localized to human chromosome 13q32 using fluorescence in situ hybridization.", 
+    "lpage": "466", 
+    "grants": [
+      "DK 34933", 
+      "NH50582", 
+      "R29 DK49628"
+    ], 
+    "journal-title": "Genomics", 
+    "fpage": "462", 
+    "keywords": [], 
+    "pubyear": "1997", 
+    "auths": [
+      [
+        "Gantz", 
+        "I"
+      ], 
+      [
+        "Muraoka", 
+        "A"
+      ], 
+      [
+        "Yang", 
+        "Y K"
+      ], 
+      [
+        "Samuelson", 
+        "L C"
+      ], 
+      [
+        "Zimmerman", 
+        "E M"
+      ], 
+      [
+        "Cook", 
+        "H"
+      ], 
+      [
+        "Yamada", 
+        "T"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Cloning and chromosomal localization of a gene (GPR18) encoding a novel seven transmembrane receptor highly expressed in spleen and testis.", 
+    "pmid": "9205118", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2008"
+    ], 
+    "pubday": "5", 
+    "text": "Ge, H., Weiszmann, J., Reagan, J. D., Gupte, J., Baribault, H., Gyuris, T., Chen, J., Tian, H., and Li, Y. (2008). Elucidation of signaling and functional activities of an orphan GPCR, GPR81. J. Lipid Res. 49, 797&#x02013;803.", 
+    "sponsors": [], 
+    "abstxt": "GPR81 is an orphan G protein-coupled receptor (GPCR) that has a high degree of homology to the nicotinic acid receptor GPR109A. GPR81 expression is highly enriched and specific in adipocytes. However, the function and signaling properties of GPR81 are unknown because of the lack of natural or synthetic ligands. Using chimeric G proteins that convert Gi-coupled receptors to Gq-mediated inositol phosphate (IP) accumulation, we show that GPR81 can constitutively increase IP accumulation in HEK293 cells and suggest that GPR81 couples to the Gi signaling pathway. We also constructed a chimeric receptor that expresses the extracellular domains of cysteinyl leukotriene 2 receptor (CysLT2R) and the intracellular domains of GPR81. We show that the CysLT2R ligand, leukotriene D(4) (LTD4), is able to activate this chimeric receptor through activation of the Gi pathway. In addition, LTD4 is able to inhibit lipolysis in adipocytes expressing this chimeric receptor. These results suggest that GPR81 couples to the Gi signaling pathway and that activation of the receptor may regulate adipocyte function and metabolism. Hence, targeting GPR81 may lead to the development of a novel and effective therapy for dyslipidemia and a better side effect profile than nicotinic acid.", 
+    "lpage": "803", 
+    "grants": [], 
+    "journal-title": "Journal of lipid research", 
+    "fpage": "797", 
+    "keywords": [], 
+    "pubyear": "2008", 
+    "auths": [
+      [
+        "Ge", 
+        "Hongfei"
+      ], 
+      [
+        "Weiszmann", 
+        "Jennifer"
+      ], 
+      [
+        "Reagan", 
+        "Jeff D"
+      ], 
+      [
+        "Gupte", 
+        "Jamila"
+      ], 
+      [
+        "Baribault", 
+        "Helene"
+      ], 
+      [
+        "Gyuris", 
+        "Tibor"
+      ], 
+      [
+        "Chen", 
+        "Jin-Long"
+      ], 
+      [
+        "Tian", 
+        "Hui"
+      ], 
+      [
+        "Li", 
+        "Yang"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Elucidation of signaling and functional activities of an orphan GPCR, GPR81.", 
+    "pmid": "18174606", 
+    "pmonth": [
+      "Apr"
+    ]
+  }, 
+  {
+    "text": "Gjedde, A. (2007). &#x0201C;Coupling of brain function to metabolism: evaluation of energy requirements (Chapter 4.4),&#x0201D; in Handbook of Neurochemistry: Brain Energetics from Genes to Metabolites to Cells: Integration of Molecular and Cellular Processes, 3rd Edn, eds A. Lajtha, G. Gibson, and G.Dienel (Heidelberg/NewYork: Springer Verlag), 400p, 40 illus."
+  }, 
+  {
+    "pyear": [
+      "2005"
+    ], 
+    "pubday": "9", 
+    "text": "Gjedde, A., Johannsen, P., Cold, J. E., and &#x000D8;stergaard, L. (2005). Cerebral metabolic response to low blood flow: possible role of cytochrome oxidase inhibition. J. Cereb. Blood Flow Metab. 25, 1083&#x02013;1096.", 
+    "sponsors": [], 
+    "abstxt": "The reactions of cerebral metabolism to imposed changes of cerebral blood flow (CBF) are poorly understood. A common explanation of the mismatched CBF and oxygen consumption (CMR(O(2))) during neuronal excitation holds that blood flow rises more than oxygen consumption to compensate for an absent oxygen reserve in brain mitochondria. The claim conversely implies that oxygen consumption must decline when blood flow declines. As the prevailing rate of reaction of oxygen with cytochrome c oxidase is linked to the tension of oxygen, the claim fails to explain how oxygen consumption is maintained during moderate reductions of CBF imposed by hyperventilation (hypocapnia) or cyclooxygenase (COX) inhibition. To resolve this contradiction, we extended the previously published oxygen delivery model with a term allowing for the adjustment of the affinity of cytochrome c oxidase to a prevailing oxygen tension. The extended model predicted constant oxygen consumption at moderately reduced blood flow. We determined the change of affinity of cytochrome c oxidase in the extended model by measuring CBF in seven, and CMR(O(2)) in five, young healthy volunteers before and during COX inhibition with indomethacin. The average CBF declined 35%, while neither regional nor average CMR(O(2)) changed significantly. The adjustment of cytochrome c oxidase affinity to the declining oxygen delivery could be ascribed to a hypothetical factor with several properties in common with nitric oxide.", 
+    "lpage": "1196", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "1183", 
+    "keywords": [], 
+    "pubyear": "2005", 
+    "auths": [
+      [
+        "Gjedde", 
+        "Albert"
+      ], 
+      [
+        "Johannsen", 
+        "Peter"
+      ], 
+      [
+        "Cold", 
+        "Georg E"
+      ], 
+      [
+        "Ostergaard", 
+        "Leif"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "Cerebral metabolic response to low blood flow: possible role of cytochrome oxidase inhibition.", 
+    "pmid": "15815583", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1993"
+    ], 
+    "pubday": "1", 
+    "text": "Gjedde, A., L&#x000E9;ger, G. C., Cumming, P., Yasuhara, Y., Evans, A. C., Guttman, M., and Kuwabara, H. (1993). Striatal L-DOPA decarboxylase activity in Parkinson&#x02019;s disease in vivo: implications for the regulation of dopamine synthesis. J. Neurochem. 61, 1538&#x02013;1541.", 
+    "sponsors": [], 
+    "abstxt": "L-DOPA is a large neutral amino acid subject to transport out of, as well as into, brain tissue. Competition between dopamine synthesis and L-DOPA egress from striatum must favor L-DOPA egress if decarboxylation declines relatively more than transport in Parkinson's disease. To test this hypothesis, we injected patients with Parkinson's disease with a radiolabeled analogue of L-DOPA and recorded regional brain radioactivity as a function of time by means of positron emission tomography. We simultaneously estimated the activity of the decarboxylating enzyme and the amino acid transport. In the striatum of patients, we found the L-DOPA decarboxylase activity to be reduced in the head of the caudate nucleus and the putamen. However, the rate of egress of the DOPA analogue was unaffected by the disease and thus inhibited dopamine synthesis more than predicted in the absence of L-DOPA egress.", 
+    "lpage": "1541", 
+    "grants": [], 
+    "journal-title": "Journal of neurochemistry", 
+    "fpage": "1538", 
+    "keywords": [], 
+    "pubyear": "1993", 
+    "auths": [
+      [
+        "Gjedde", 
+        "A"
+      ], 
+      [
+        "L\u0102\u0160ger", 
+        "G C"
+      ], 
+      [
+        "Cumming", 
+        "P"
+      ], 
+      [
+        "Yasuhara", 
+        "Y"
+      ], 
+      [
+        "Evans", 
+        "A C"
+      ], 
+      [
+        "Guttman", 
+        "M"
+      ], 
+      [
+        "Kuwabara", 
+        "H"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Striatal L-dopa decarboxylase activity in Parkinson's disease in vivo: implications for the regulation of dopamine synthesis.", 
+    "pmid": "8377003", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "12", 
+    "text": "Gjedde, A., and Marrett, S. (2001). Glycolysis in neurons, not astrocytes, delays oxidative metabolism of human visual cortex during sustained checkerboard stimulation in vivo. J. Cereb. Blood Flow Metab. 21, 1384&#x02013;1392.", 
+    "sponsors": [], 
+    "abstxt": "The regulation of brain energy metabolism during neuronal activation is poorly understood. Specifically, the extent to which oxidative metabolism rather than glycolysis supplies the additional ATP necessary to sustain neuronal activation is in doubt. A recent hypothesis claims that astrocytes generate lactate with the muscle-type lactate dehydrogenase (LDH) isozyme LD 5. Lactate from astrocytes then undergoes oxidation in neurons after reconversion to pyruvate by the LDH subtype LD 1. On the basis of this hypothesis, the authors predicted that the time course of an excitatory increase of the oxidative metabolism of brain tissue must depend on the degree to which astrocytes provide neurons with pyruvate in the form of lactate. From the known properties of the LDH subtypes, the authors predicted two time courses for the changes of oxygen consumption in response to neuronal stimulation: one reflecting the properties of the neuronal LDH subtype LD 1, and the other reflecting the astrocytic LDH subtype LD 5. Measuring oxygen consumption (CMR O2 ) with positron emission tomography, the authors demonstrated increased CMR O2 during sustained stimulation of visual cortex with a complex stimulus. The CMR O2 increased 20.5% after 3 minutes and 27.5% after 8 minutes of stimulation, consistent with a steady-state oxygen-glucose metabolism ratio of 5.3, which is closest to the index predicted for the LD 1 subtype. The index is equal to the oxygen-glucose metabolism ratio of 5.5 calculated at baseline, indicating that pyruvate is converted to lactate in a cellular compartment with an LDH reaction closest to that of LD 1, whether at rest or during stimulation of the visual cortex with the current stimulus. The findings are consistent with a claim that neurons increase their oxidative metabolism in parallel with an increase of pyruvate, the latter generated by neuronal rather than astrocytic glycolysis.", 
+    "lpage": "1392", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "1384", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Gjedde", 
+        "A"
+      ], 
+      [
+        "Marrett", 
+        "S"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Glycolysis in neurons, not astrocytes, delays oxidative metabolism of human visual cortex during sustained checkerboard stimulation in vivo.", 
+    "pmid": "11740199", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2002"
+    ], 
+    "pubday": "25", 
+    "text": "Gjedde, A., Marrett, S., and Vafaee, M. (2002). Oxidative and nonoxida-tive metabolism of excited neurons and astrocytes. J. Cereb. Blood Flow Metab. 22, 1&#x02013;14.", 
+    "sponsors": [], 
+    "abstxt": "There is evidence that the metabolic responses to afferent and efferent nervous activity are dissociated at sites of neuronal excitation in brain. Whether efferent activity follows afferent activity depends on the responsiveness of postsynaptic neurons, which in turn depends on the summation of excitatory and inhibitory postsynaptic potentials. The afferent activity excites the presynaptic terminals and astrocytes, whereas the efferent activity arises from excitation of the dendrites of projection neurons. Measurements in vivo indicate that primary stimulation, elicited by simple stimuli, gives rise to limited increases of energy metabolism associated with afferent activity. Reports show that a major consequence of afferent activity, in addition to the release of excitatory neurotransmitters from presynaptic terminals and the import of glutamate by astrocytes, is the establishment of rates of blood flow commensurate with increased rates of oxidative energy metabolism associated with efferent activity projecting from the site of activation. Increased flow rates overcome the inherent diffusion limitation of oxygen delivery, while increased rates of glycolysis elevate tissue pyruvate contents, to which oxygen consumption rates are matched. In vivo, neurons in the baseline condition sustain no net import of pyruvate or lactate, and the reported changes of metabolism subserving afferent and efferent activity are additive rather than linked by significant additional transfer of pyruvate or lactate from astrocytes. The dissociation of blood flow changes from efferent activity weakens the identification of functional states by changes of blood flow alone. It raises the possibility that uncoupling of flow from oxidative metabolism occurs at sites of low efferent activity, such that dissociations of flow and glycolysis from oxygen consumption signify imbalances of afferent and efferent activity.", 
+    "lpage": "14", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "1", 
+    "keywords": [], 
+    "pubyear": "2002", 
+    "auths": [
+      [
+        "Gjedde", 
+        "Albert"
+      ], 
+      [
+        "Marrett", 
+        "Sean"
+      ], 
+      [
+        "Vafaee", 
+        "Manouchehr"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Oxidative and nonoxidative metabolism of excited neurons and astrocytes.", 
+    "pmid": "11807388", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2008"
+    ], 
+    "pubday": "31", 
+    "text": "Gordon, G. R., Choi, H. B., Rungta, R. L., Ellis-Davies, G. C., and MacVicar, B. A. (2008). Brain metabolism dictates the polarity of astrocyte control over arterioles. Nature 456, 745&#x02013;749.", 
+    "sponsors": [
+      "NIGMS"
+    ], 
+    "abstxt": "Calcium signalling in astrocytes couples changes in neural activity to alterations in cerebral blood flow by eliciting vasoconstriction or vasodilation of arterioles. However, the mechanism for how these opposite astrocyte influences provide appropriate changes in vessel tone within an environment that has dynamic metabolic requirements remains unclear. Here we show that the ability of astrocytes to induce vasodilations over vasoconstrictions relies on the metabolic state of the rat brain tissue. When oxygen availability is lowered and astrocyte calcium concentration is elevated, astrocyte glycolysis and lactate release are maximized. External lactate attenuates transporter-mediated uptake from the extracellular space of prostaglandin E(2), leading to accumulation and subsequent vasodilation. In conditions of low oxygen concentration extracellular adenosine also increases, which blocks astrocyte-mediated constriction, facilitating dilation. These data reveal the role of metabolic substrates in regulating brain blood flow and provide a mechanism for differential astrocyte control over cerebrovascular diameter during different states of brain activation.", 
+    "lpage": "749", 
+    "grants": [
+      "R01 GM053395-13"
+    ], 
+    "journal-title": "Nature", 
+    "fpage": "745", 
+    "keywords": [], 
+    "pubyear": "2008", 
+    "auths": [
+      [
+        "Gordon", 
+        "Grant R J"
+      ], 
+      [
+        "Choi", 
+        "Hyun B"
+      ], 
+      [
+        "Rungta", 
+        "Ravi L"
+      ], 
+      [
+        "Ellis-Davies", 
+        "Graham C R"
+      ], 
+      [
+        "MacVicar", 
+        "Brian A"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Brain metabolism dictates the polarity of astrocyte control over arterioles.", 
+    "pmid": "18971930", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "15", 
+    "text": "Goyagi, T., Nishikawa, T., and Tobe, Y. (2011). Neuroprotective effects and suppression of ischemia-induced glutamate elevation by &#x003B2;1-adrenoreceptor antagonists administered before transient focal ischemia in rats. J. Neurosurg. Anesthesiol. 23, 131&#x02013;137.", 
+    "sponsors": [], 
+    "abstxt": "\u03b2-Adrenoreceptor antagonists provide neuroprotective effects after focal cerebral ischemia in experimental settings. This study was conducted to compare the neuroprotective effects of low-dose and high-dose of selective \u03b21-adrenoreceptor antagonists in rats after focal cerebral ischemia. We also investigated whether glutamate and norepinephrine contribute to neuroprotection of the \u03b2-adrenoreceptor antagonists.", 
+    "lpage": "137", 
+    "grants": [], 
+    "journal-title": "Journal of neurosurgical anesthesiology", 
+    "fpage": "131", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Goyagi", 
+        "Toru"
+      ], 
+      [
+        "Nishikawa", 
+        "Toshiaki"
+      ], 
+      [
+        "Tobe", 
+        "Yoshitsugu"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Neuroprotective effects and suppression of ischemia-induced glutamate elevation by \u03b21-adrenoreceptor antagonists administered before transient focal ischemia in rats.", 
+    "pmid": "21150456", 
+    "pmonth": [
+      "Apr"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2000"
+    ], 
+    "pubday": "4", 
+    "text": "Hassel, B., and Br&#x000E5;the, A. (2000). Cerebral metabolism of lactate in vivo: evidence for neuronal pyruvate carboxylation. J. Cereb. Blood Flow Metab. 20, 327&#x02013;336.", 
+    "sponsors": [], 
+    "abstxt": "The cerebral metabolism of lactate was investigated. Awake mice received [3-13C]lactate or [1-13C]glucose intravenously, and brain and blood extracts were analyzed by 13C nuclear magnetic resonance spectroscopy. The cerebral uptake and metabolism of [3-13C]lactate was 50% that of [1-13C]glucose. [3-13C]Lactate was almost exclusively metabolized by neurons and hardly at all by glia, as revealed by the 13C labeling of glutamate, gamma-aminobutyric acid and glutamine. Injection of [3-13C]lactate led to extensive formation of [2-13C]lactate, which was not seen with [1-13C]glucose, nor has it been seen in previous studies with [2-13C]acetate. This formation probably reflected reversible carboxylation of [3-13C]pyruvate to malate and equilibration with fumarate, because inhibition of succinate dehydrogenase with nitropropionic acid did not block it. Of the [3-13C]lactate that reached the brain, 20% underwent this reaction, which probably involved neuronal mitochondrial malic enzyme. The activities of mitochondrial malic enzyme, fumarase, and lactate dehydrogenase were high enough to account for the formation of [2-13C]lactate in neurons. Neuronal pyruvate carboxylation was confirmed by the higher specific activity of glutamate than of glutamine after intrastriatal injection of [1-14C]pyruvate into anesthetized mice. This procedure also demonstrated equilibration of malate, formed through pyruvate carboxylation, with fumarate. The demonstration of neuronal pyruvate carboxylation demands reconsideration of the metabolic interrelationship between neurons and glia.", 
+    "lpage": "336", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "327", 
+    "keywords": [], 
+    "pubyear": "2000", 
+    "auths": [
+      [
+        "Hassel", 
+        "B"
+      ], 
+      [
+        "Br\ucc45the", 
+        "A"
+      ]
+    ], 
+    "pubmonth": "3", 
+    "article-title": "Cerebral metabolism of lactate in vivo: evidence for neuronal pyruvate carboxylation.", 
+    "pmid": "10698070", 
+    "pmonth": [
+      "Feb"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2004"
+    ], 
+    "pubday": "6", 
+    "text": "Ido, Y., Chang, K., and Williamson, J. R. (2004). NADH augments blood flow in physiologically activated retina and visual cortex. Proc. Natl. Acad. Sci. U.S.A. 101, 653&#x02013;658.", 
+    "sponsors": [
+      "NEI", 
+      "NHLBI"
+    ], 
+    "abstxt": "The mechanism(s) that increase retinal and visual cortex blood flows in response to visual stimulation are poorly understood. We tested the hypothesis that increased transfer of electrons and protons from glucose to cytosolic free NAD(+), reducing it to NADH, evoked by increased energy metabolism, fuels redox-signaling pathways that augment flow. The near-equilibrium between free cytosolic NADH/NAD(+) and lactate/pyruvate ratios established by lactate dehydrogenase predicts that transfer of additional electrons and protons from injected lactate to NAD(+) will augment the elevated blood flows in stimulated retina and cortex, whereas transfer of electrons and protons from NADH to injected pyruvate will attenuate the elevated flows. These predictions were tested and confirmed in rats. Increased flows evoked by stimulation also were prevented by inhibition of nitric oxide synthase. These findings support an important role for cytosolic free NADH in fueling a signaling cascade that increases *NO production, which augments blood flow in photostimulated retina and visual cortex.", 
+    "lpage": "658", 
+    "grants": [
+      "EY-06600", 
+      "HL-39934"
+    ], 
+    "journal-title": "Proceedings of the National Academy of Sciences of the United States of America", 
+    "fpage": "653", 
+    "keywords": [], 
+    "pubyear": "2004", 
+    "auths": [
+      [
+        "Ido", 
+        "Yasuo"
+      ], 
+      [
+        "Chang", 
+        "Katherine"
+      ], 
+      [
+        "Williamson", 
+        "Joseph R"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "NADH augments blood flow in physiologically activated retina and visual cortex.", 
+    "pmid": "14704275", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "2", 
+    "text": "Ido, Y., Chang, K., Woolsey, T. A., and Williamson, J. R. (2001). NADH: sensor of blood flow need in brain, muscle, and other tissues. FASEB J. 15, 1419&#x02013;1421.", 
+    "sponsors": [], 
+    "abstxt": null, 
+    "lpage": "1421", 
+    "grants": [], 
+    "journal-title": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology", 
+    "fpage": "1419", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Ido", 
+        "Y"
+      ], 
+      [
+        "Chang", 
+        "K"
+      ], 
+      [
+        "Woolsey", 
+        "T A"
+      ], 
+      [
+        "Williamson", 
+        "J R"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "NADH: sensor of blood flow need in brain, muscle, and other tissues.", 
+    "pmid": "11387243", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "22", 
+    "text": "Koppenol, W. H., Bounds, P. L., and Dang, C. V. (2011). Otto Warburg&#x02019;s contributions to current concepts of cancer metabolism. Nat. Rev. Cancer 11, 325&#x02013;337.", 
+    "sponsors": [], 
+    "abstxt": "Otto Warburg pioneered quantitative investigations of cancer cell metabolism, as well as photosynthesis and respiration. Warburg and co-workers showed in the 1920s that, under aerobic conditions, tumour tissues metabolize approximately tenfold more glucose to lactate in a given time than normal tissues, a phenomenon known as the Warburg effect. However, this increase in aerobic glycolysis in cancer cells is often erroneously thought to occur instead of mitochondrial respiration and has been misinterpreted as evidence for damage to respiration instead of damage to the regulation of glycolysis. In fact, many cancers exhibit the Warburg effect while retaining mitochondrial respiration. We re-examine Warburg's observations in relation to the current concepts of cancer metabolism as being intimately linked to alterations of mitochondrial DNA, oncogenes and tumour suppressors, and thus readily exploitable for cancer therapy.", 
+    "lpage": "337", 
+    "grants": [], 
+    "journal-title": "Nature reviews. Cancer", 
+    "fpage": "325", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Koppenol", 
+        "Willem H"
+      ], 
+      [
+        "Bounds", 
+        "Patricia L"
+      ], 
+      [
+        "Dang", 
+        "Chi V"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "Otto Warburg's contributions to current concepts of cancer metabolism.", 
+    "pmid": "21508971", 
+    "pmonth": [
+      "May"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "22", 
+    "text": "Larach, D. B., Kofke, W. A., and Le Roux, P. (2011). Potential non-hypoxic/ischemic causes of increased cerebral interstitial fluid lactate/pyruvate ratio: a review of available literature. Neurocrit. Care 15, 609&#x02013;622.", 
+    "sponsors": [], 
+    "abstxt": "Microdialysis, an in vivo technique that permits collection and analysis of small molecular weight substances from the interstitial space, was developed more than 30 years ago and introduced into the clinical neurosciences in the 1990s. Today cerebral microdialysis is an established, commercially available clinical tool that is focused primarily on markers of cerebral energy metabolism (glucose, lactate, and pyruvate) and cell damage (glycerol), and neurotransmitters (glutamate). Although the brain comprises only 2% of body weight, it consumes 20% of total body energy. Consequently, the ability to monitor cerebral metabolism can provide significant insights during clinical care. Measurements of lactate, pyruvate, and glucose give information about the comparative contributions of aerobic and anaerobic metabolisms to brain energy. The lactate/pyruvate ratio reflects cytoplasmic redox state and thus provides information about tissue oxygenation. An elevated lactate pyruvate ratio (&gt;40) frequently is interpreted as a sign of cerebral hypoxia or ischemia. However, several other factors may contribute to an elevated LPR. This article reviews potential non-hypoxic/ischemic causes of an increased LPR.", 
+    "lpage": "622", 
+    "grants": [], 
+    "journal-title": "Neurocritical care", 
+    "fpage": "609", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Larach", 
+        "Daniel B"
+      ], 
+      [
+        "Kofke", 
+        "W Andrew"
+      ], 
+      [
+        "Le Roux", 
+        "Peter"
+      ]
+    ], 
+    "pubmonth": "2", 
+    "article-title": "Potential non-hypoxic/ischemic causes of increased cerebral interstitial fluid lactate/pyruvate ratio: a review of available literature.", 
+    "pmid": "21336786", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1993"
+    ], 
+    "pubday": "1", 
+    "text": "Lehmann, M., Foster, C., and Keul, J. (1993). Overtraining in endurance athletes: a brief review. Med. Sci. Sports Exerc. 25, 854&#x02013;862.", 
+    "sponsors": [], 
+    "abstxt": "Overtraining is an imbalance between training and recovery, exercise and exercise capacity, stress and stress tolerance. Stress is the sum of training and nontraining stress factors. Peripheral (short-term overtraining, STO) or peripheral and central fatigue may result (long-term overtraining, LTO). STO lasting a few days up to 2 wk is termed overreaching. STO is associated with fatigue, reduction, or stagnation of the 4 LT performance capacity (performance at 4 mmol lactate or comparable criterion), reduction of maximum performance capacity, and brief competitive incompetence. Recovery is achieved within days, so the prognosis is favorable. LTO lasting weeks or months causes overtraining syndrome or staleness. The symptomatology associated with overtraining syndrome has changed over the last 50 yr from excitation and restlessness (so-called sympathetic form) to phlegmatic behavior and inhibition (so-called parasympathetic form). Increased volume of training at a high-intensity level is likely the culprit. The parasympathetic form of overtraining syndrome dominates in endurance sports. Accumulation of exercise and nonexercise fatigue, stagnation, or reduction of the 4 LT performance capacity, reduction in maximum performance capacity, mood state disturbances, muscle soreness/stiffness, and long-term competitive incompetence can be expected. Complete recovery requires weeks and months, so the prognosis is unfavorable. Other optional or further confirmation requiring findings include changes in blood chemistry variables, hormone levels, and nocturnal urinary catecholamine excretion. Based on the findings reported, recommendations for training monitoring can be made, but their relevance in the practice must still be clarified.", 
+    "lpage": "862", 
+    "grants": [], 
+    "journal-title": "Medicine and science in sports and exercise", 
+    "fpage": "854", 
+    "keywords": [], 
+    "pubyear": "1993", 
+    "auths": [
+      [
+        "Lehmann", 
+        "M"
+      ], 
+      [
+        "Foster", 
+        "C"
+      ], 
+      [
+        "Keul", 
+        "J"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Overtraining in endurance athletes: a brief review.", 
+    "pmid": "8350709", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2009"
+    ], 
+    "pubday": "3", 
+    "text": "Liu, C., Wu, J., Zhu, J., Kuei, C., Yu, J., Shelton, J., Sutton, S. W., Li, X., Yun, S. J., Mirzadegan, T., Mazur, C., Kamme, F., and Lovenberg, T. W. (2009). Lactate inhibits lipolysis in fat cells through activation of an orphan G-protein-coupled receptor, GPR81. J. Biol. Chem. 284, 2811&#x02013;2822.", 
+    "sponsors": [], 
+    "abstxt": "Lactic acid is a well known metabolic by-product of intense exercise, particularly under anaerobic conditions. Lactate is also a key source of energy and an important metabolic substrate, and it has also been hypothesized to be a signaling molecule directing metabolic activity. Here we show that GPR81, an orphan G-protein-coupled receptor highly expressed in fat, is in fact a sensor for lactate. Lactate activates GPR81 in its physiological concentration range of 1-20 mM and suppresses lipolysis in mouse, rat, and human adipocytes as well as in differentiated 3T3-L1 cells. Adipocytes from GPR81-deficient mice lack an antilipolytic response to lactate but are responsive to other antilipolytic agents. Lactate specifically induces internalization of GPR81 after receptor activation. Site-directed mutagenesis of GPR81 coupled with homology modeling demonstrates that classically conserved key residues in the transmembrane binding domains are responsible for interacting with lactate. Our results indicate that lactate suppresses lipolysis in adipose tissue through a direct activation of GPR81. GPR81 may thus be an attractive target for the treatment of dyslipidemia and other metabolic disorders.", 
+    "lpage": "2822", 
+    "grants": [], 
+    "journal-title": "The Journal of biological chemistry", 
+    "fpage": "2811", 
+    "keywords": [], 
+    "pubyear": "2008", 
+    "auths": [
+      [
+        "Liu", 
+        "Changlu"
+      ], 
+      [
+        "Wu", 
+        "Jiejun"
+      ], 
+      [
+        "Zhu", 
+        "Jessica"
+      ], 
+      [
+        "Kuei", 
+        "Chester"
+      ], 
+      [
+        "Yu", 
+        "Jingxue"
+      ], 
+      [
+        "Shelton", 
+        "Jonathan"
+      ], 
+      [
+        "Sutton", 
+        "Steven W"
+      ], 
+      [
+        "Li", 
+        "Xiaorong"
+      ], 
+      [
+        "Yun", 
+        "Su Jin"
+      ], 
+      [
+        "Mirzadegan", 
+        "Taraneh"
+      ], 
+      [
+        "Mazur", 
+        "Curt"
+      ], 
+      [
+        "Kamme", 
+        "Fredrik"
+      ], 
+      [
+        "Lovenberg", 
+        "Timothy W"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Lactate inhibits lipolysis in fat cells through activation of an orphan G-protein-coupled receptor, GPR81.", 
+    "pmid": "19047060", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2006"
+    ], 
+    "pubday": "6", 
+    "text": "Maddock, R. J., Buonocore, M. H., Lavoie, S. P., Copeland, L. E., Kile, S. J., Richards, A. L., and Ryan, J. M. (2006). Brain lactate responses during visual stimulation in fasting and hyperglycemic subjects: a proton magnetic resonance spectroscopy study at 1.5 Tesla. Psychiatry Res. 148, 47&#x02013;54.", 
+    "sponsors": [
+      "NIMH", 
+      "NIMH"
+    ], 
+    "abstxt": "Proton magnetic resonance spectroscopy ((1)H-MRS) studies showing increased lactate during neural activation support a broader role for lactate in brain energy metabolism than was traditionally recognized. Proton MRS measures of brain lactate responses have been used to study regional brain metabolism in clinical populations. This study examined whether variations in blood glucose influence the lactate response to visual stimulation in the visual cortex. Six subjects were scanned twice, receiving either saline or 21% glucose intravenously. Using (1)H-MRS at 1.5 Tesla with a long echo time (TE=288 ms), the lactate doublet was visible at 1.32 ppm in the visual cortex of all subjects. Lactate increased significantly from resting to visual stimulation. Hyperglycemia had no effect on this increase. The order of the slice-selective gradients for defining the spectroscopy voxel had a pronounced effect on the extent of contamination by signal originating outside the voxel. The results of this preliminary study demonstrate a method for observing a consistent activity-stimulated increase in brain lactate at 1.5 T and show that variations in blood glucose across the normal range have little effect on this response.", 
+    "lpage": "54", 
+    "grants": [
+      "MH-69699", 
+      "R21 MH069699-01"
+    ], 
+    "journal-title": "Psychiatry research", 
+    "fpage": "47", 
+    "keywords": [], 
+    "pubyear": "2006", 
+    "auths": [
+      [
+        "Maddock", 
+        "Richard J"
+      ], 
+      [
+        "Buonocore", 
+        "Michael H"
+      ], 
+      [
+        "Lavoie", 
+        "Shawn P"
+      ], 
+      [
+        "Copeland", 
+        "Linda E"
+      ], 
+      [
+        "Kile", 
+        "Shawn J"
+      ], 
+      [
+        "Richards", 
+        "Anne L"
+      ], 
+      [
+        "Ryan", 
+        "John M"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Brain lactate responses during visual stimulation in fasting and hyperglycemic subjects: a proton magnetic resonance spectroscopy study at 1.5 Tesla.", 
+    "pmid": "17020804", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1999"
+    ], 
+    "pubday": "10", 
+    "text": "Madsen, P. L., Cruz, N. F., Sokoloff, L., and Dienel, G. A. (1999). Cerebral oxygen/glucose ratio is low during sensory stimulation and rises above normal during recovery: excess glucose consumption during stimulation is not accounted for by lactate efflux from or accumulation in brain tissue. J. Cereb. Blood Flow Metab. 19, 393&#x02013;400.", 
+    "sponsors": [], 
+    "abstxt": "Functional activation stimulates CMRglc more than CMRO2 and raises lactate levels in brain. This has been interpreted as evidence that brain work is supported mainly by energy derived from anaerobic glycolysis. To determine if lactate production accounts for the &quot;excess&quot; glucose consumption, cerebral arteriovenous differences were measured in conscious rats before, during, and 15 minutes after sensory stimulation; the brains were rapidly frozen in situ immediately after completion of blood sampling and assayed for metabolite levels. The molar O2/glucose uptake ratio fell from 6.1+/-1.1 (mean+/-SD) before stimulation to 5.0+/-1.1 during activation (P&lt;0.01); lactate efflux from brain to blood was detectable at rest but not during stimulation. By 15 minutes after activation, O2 and lactate arteriovenous differences normalized, whereas that for glucose fell, causing the O2/glucose ratio to rise above preactivation levels to 7.7+/-2.6 (P&lt;0.01). Brain glucose levels remained stable through all stages of activity. Brain lactate levels nearly doubled during stimulation but normalized within 15 minutes of recovery. Brain glycogen content fell during activation and declined further during recovery. These results indicate that brain glucose metabolism is not in a steady state during and shortly after activation. Furthermore, efflux from and increased content of lactate in the brain tissue accounted for less than 54% of the &quot;excess&quot; glucose used during stimulation, indicating that a shift to anaerobic glycolysis does not fully explain the disproportionately greater increases in CMRglc above that of CMRO2 in functionally activated brain. These results also suggest that the apparent dissociation between glucose utilization and O2 consumption during functional activation reflects only a temporal displacement; during activation, glycolysis increases more than oxidative metabolism, leading to accumulation of products in intermediary metabolic pools that are subsequently consumed and oxidized during recovery.", 
+    "lpage": "400", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "393", 
+    "keywords": [], 
+    "pubyear": "1999", 
+    "auths": [
+      [
+        "Madsen", 
+        "P L"
+      ], 
+      [
+        "Cruz", 
+        "N F"
+      ], 
+      [
+        "Sokoloff", 
+        "L"
+      ], 
+      [
+        "Dienel", 
+        "G A"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "Cerebral oxygen/glucose ratio is low during sensory stimulation and rises above normal during recovery: excess glucose consumption during stimulation is not accounted for by lactate efflux from or accumulation in brain tissue.", 
+    "pmid": "10197509", 
+    "pmonth": [
+      "Apr"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "19", 
+    "text": "Mailloux, R. J., and Harper, M. E. (2011). Uncoupling proteins and the control of mitochondrial reactive oxygen species production. Free Radic. Biol. Med. 51, 1106&#x02013;1115.", 
+    "sponsors": [], 
+    "abstxt": "Reactive oxygen species (ROS), natural by-products of aerobic respiration, are important cell signaling molecules, which left unchecked can severely impair cellular functions and induce cell death. Hence, cells have developed a series of systems to keep ROS in the nontoxic range. Uncoupling proteins (UCPs) 1-3 are mitochondrial anion carrier proteins that are purported to play important roles in minimizing ROS emission from the electron transport chain. The function of UCP1 in this regard is highly contentious. However, UCPs 2 and 3 are generally thought to be activated by ROS or ROS by-products to induce proton leak, thus providing a negative feedback loop for mitochondrial ROS production. In our laboratory, we have not only confirmed that ROS activate UCP2 and UCP3, but also demonstrated that UCP2 and UCP3 are controlled by covalent modification by glutathione. Furthermore, the reversible glutathionylation is required to activate/inhibit UCP2 and UCP3, but not UCP1. Hence, our findings are consistent with the notion that UCPs 2 and 3 are acutely activated by ROS, which then directly modulate the glutathionylation status of the UCP to decrease ROS emission and participate in cell signaling mechanisms.", 
+    "lpage": "1115", 
+    "grants": [], 
+    "journal-title": "Free radical biology &amp; medicine", 
+    "fpage": "1106", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Mailloux", 
+        "Ryan J"
+      ], 
+      [
+        "Harper", 
+        "Mary-Ellen"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Uncoupling proteins and the control of mitochondrial reactive oxygen species production.", 
+    "pmid": "21762777", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "5", 
+    "text": "Mangia, S., Garreffa, G., Bianciardi, M., Giove, F., Di Salle, F., and Maraviglia, B. (2003). The aerobic brain: lactate decrease at the onset of neural activity. Neuroscience 118, 7&#x02013;10.", 
+    "sponsors": [], 
+    "abstxt": "The metabolic events of neuronal energetics during functional activity are still partially unexplained. In particular, lactate (and not glucose) was recently proposed as the main substrate for neurons during activity. By means of proton magnetic resonance spectroscopy, lactate was reported to increase during the first minutes of prolonged stimulation, but the studies reported thus far suffered from low temporal resolution. In the present study we used a time-resolved proton magnetic resonance spectroscopy strategy in order to analyse the evolution of lactate during the early seconds following a brief visual stimulation (event-related design). A significant decrease in lactate concentration was observed 5 s after the stimulation, while a recovering of the baseline was observed at 12 s.", 
+    "lpage": "10", 
+    "grants": [], 
+    "journal-title": "Neuroscience", 
+    "fpage": "7", 
+    "keywords": [], 
+    "pubyear": "2003", 
+    "auths": [
+      [
+        "Mangia", 
+        "S"
+      ], 
+      [
+        "Garreffa", 
+        "G"
+      ], 
+      [
+        "Bianciardi", 
+        "M"
+      ], 
+      [
+        "Giove", 
+        "F"
+      ], 
+      [
+        "Di Salle", 
+        "F"
+      ], 
+      [
+        "Maraviglia", 
+        "B"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "The aerobic brain: lactate decrease at the onset of neural activity.", 
+    "pmid": "12676131", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "16", 
+    "text": "Mathiesen, C., Caesar, K., Thomsen, K., Hoogland, T. M., Witgen, B. M., Brazhe, A., and Lauritzen, M. (2011). Activity-dependent increases in local oxygen consumption correlate with postsynaptic currents in the mouse cerebellum in vivo. J. Neurosci. 31, 18327&#x02013;18337.", 
+    "sponsors": [], 
+    "abstxt": "Evoked neural activity correlates strongly with rises in cerebral metabolic rate of oxygen (CMRO(2)) and cerebral blood flow (CBF). Activity-dependent rises in CMRO(2) fluctuate with ATP turnover due to ion pumping. In vitro studies suggest that increases in cytosolic Ca(2+) stimulate oxidative metabolism via mitochondrial signaling, but whether this also occurs in the intact brain is unknown. Here we applied a pharmacological approach to dissect the effects of ionic currents and cytosolic Ca(2+) rises of neuronal origin on activity-dependent rises in CMRO(2). We used two-photon microscopy and current source density analysis to study real-time Ca(2+) dynamics and transmembrane ionic currents in relation to CMRO(2) in the mouse cerebellar cortex in vivo. We report a direct correlation between CMRO(2) and summed (i.e., the sum of excitatory, negative currents during the whole stimulation period) field EPSCs (\u2211fEPSCs) in Purkinje cells (PCs) in response to stimulation of the climbing fiber (CF) pathway. Blocking stimulus-evoked rises in cytosolic Ca(2+) in PCs with the P/Q-type channel blocker \u03c9-agatoxin-IVA (\u03c9-AGA), or the GABA(A) receptor agonist muscimol, did not lead to a time-locked reduction in CMRO(2), and excitatory synaptic or action potential currents. During stimulation, neither \u03c9-AGA or (\u03bc-oxo)-bis-(trans-formatotetramine-ruthenium) (Ru360), a mitochondrial Ca(2+) uniporter inhibitor, affected the ratio of CMRO(2) to fEPSCs or evoked local field potentials. However, baseline CBF and CMRO(2) decreased gradually with Ru360. Our data suggest that in vivo activity-dependent rises in CMRO(2) are correlated with synaptic currents and postsynaptic spiking in PCs. Our study did not reveal a unique role of neuronal cytosolic Ca(2+) signals in controlling CMRO(2) increases during CF stimulation.", 
+    "lpage": "18337", 
+    "grants": [], 
+    "journal-title": "The Journal of neuroscience : the official journal of the Society for Neuroscience", 
+    "fpage": "18327", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Mathiesen", 
+        "Claus"
+      ], 
+      [
+        "Caesar", 
+        "Kirsten"
+      ], 
+      [
+        "Thomsen", 
+        "Kirsten"
+      ], 
+      [
+        "Hoogland", 
+        "Tycho M"
+      ], 
+      [
+        "Witgen", 
+        "Brent M"
+      ], 
+      [
+        "Brazhe", 
+        "Alexey"
+      ], 
+      [
+        "Lauritzen", 
+        "Martin"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Activity-dependent increases in local oxygen consumption correlate with postsynaptic currents in the mouse cerebellum in vivo.", 
+    "pmid": "22171036", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [], 
+    "pubday": "29", 
+    "text": "O&#x02019;Brien, J., Kla, K. M., Hopkins, I. B., Malecki, E. A., and McKenna, M. C. (2007). Kinetic parameters and lactate dehydrogenase isozyme activities support possible lactate utilization by neurons. Neurochem. Res. 32, 597&#x02013;607.", 
+    "sponsors": [
+      "NICHD"
+    ], 
+    "abstxt": "Lactate is potentially a major energy source in brain, particularly following hypoxia/ischemia; however, the regulation of brain lactate metabolism is not well understood. Lactate dehydrogenase (LDH) isozymes in cytosol from primary cultures of neurons and astrocytes, and freshly isolated synaptic terminals (synaptosomes) from adult rat brain were separated by electrophoresis, visualized with an activity-based stain, and quantified. The activity and kinetics of LDH were determined in the same preparations. In synaptosomes, the forward reaction (pyruvate + NADH + H(+ )--&gt; lactate + NAD(+)), which had a V (max) of 1,163 micromol/min/mg protein was 62% of the rate in astrocyte cytoplasm. In contrast, the reverse reaction (lactate + NAD(+ )--&gt; pyruvate + NADH + H(+)), which had a V (max) of 268 micromol/min/mg protein was 237% of the rate in astrocytes. Although the relative distribution was different, all five isozymes of LDH were present in synaptosomes and primary cultures of cortical neurons and astrocytes from rat brain. LDH1 was 14.1% of the isozyme in synaptic terminals, but only 2.6% and 2.4% in neurons and astrocytes, respectively. LDH5 was considerably lower in synaptic terminals than in neurons and astrocytes, representing 20.4%, 37.3% and 34.8% of the isozyme in these preparations, respectively. The distribution of LDH isozymes in primary cultures of cortical neurons does not directly reflect the kinetics of LDH and the capacity for lactate oxidation. However, the kinetics of LDH in brain are consistent with the possible release of lactate by astrocytes and oxidative use of lactate for energy in synaptic terminals.", 
+    "lpage": "607", 
+    "grants": [
+      "HD 16596"
+    ], 
+    "journal-title": "Neurochemical research", 
+    "fpage": "597", 
+    "keywords": [], 
+    "pubyear": "2006", 
+    "auths": [
+      [
+        "O'Brien", 
+        "Janet"
+      ], 
+      [
+        "Kla", 
+        "Koffi M"
+      ], 
+      [
+        "Hopkins", 
+        "Irene B"
+      ], 
+      [
+        "Malecki", 
+        "Elise A"
+      ], 
+      [
+        "McKenna", 
+        "Mary C"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Kinetic parameters and lactate dehydrogenase isozyme activities support possible lactate utilization by neurons.", 
+    "pmid": "17006762", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "1", 
+    "text": "Okubo, Y., and Iino, M. (2011). Visualization of glutamate as a volume transmitter. J. Physiol. 589, 481&#x02013;488.", 
+    "sponsors": [], 
+    "abstxt": "Glutamate is the major excitatory neurotransmitter in the central nervous system. Although glutamate mediates synaptically confined point-to-point transmission, it has been suggested that under certain conditions glutamate may escape from the synaptic cleft (glutamate spillover), accumulate in the extrasynaptic space, and mediate volume transmission to regulate important brain functions. However, the inability to directly measure glutamate dynamics around active synapses has limited our understanding of glutamatergic volume transmission. The recent development of a family of fluorescent glutamate indicators has enabled the visualization of extrasynaptic glutamate dynamics in brain tissues. In this topical review, we examine glutamate as a volume transmitter based on novel results of glutamate imaging in the brain.", 
+    "lpage": "488", 
+    "grants": [], 
+    "journal-title": "The Journal of physiology", 
+    "fpage": "481", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Okubo", 
+        "Yohei"
+      ], 
+      [
+        "Iino", 
+        "Masamitsu"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Visualization of glutamate as a volume transmitter.", 
+    "pmid": "21115644", 
+    "pmonth": [
+      "Feb"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "10", 
+    "text": "Paulson, O. B., Hasselbalch, S. G., Rostrup, E., Knudsen, G. M., and Pelligrino, D. (2010). Cerebral blood flow response to functional activation J. Cereb. Blood Flow Metab. 30, 2&#x02013;14.", 
+    "sponsors": [
+      "NHLBI", 
+      "NINDS"
+    ], 
+    "abstxt": "Cerebral blood flow (CBF) and cerebral metabolic rate are normally coupled, that is an increase in metabolic demand will lead to an increase in flow. However, during functional activation, CBF and glucose metabolism remain coupled as they increase in proportion, whereas oxygen metabolism only increases to a minor degree-the so-called uncoupling of CBF and oxidative metabolism. Several studies have dealt with these issues, and theories have been forwarded regarding the underlying mechanisms. Some reports have speculated about the existence of a potentially deficient oxygen supply to the tissue most distant from the capillaries, whereas other studies point to a shift toward a higher degree of non-oxidative glucose consumption during activation. In this review, we argue that the key mechanism responsible for the regional CBF (rCBF) increase during functional activation is a tight coupling between rCBF and glucose metabolism. We assert that uncoupling of rCBF and oxidative metabolism is a consequence of a less pronounced increase in oxygen consumption. On the basis of earlier studies, we take into consideration the functional recruitment of capillaries and attempt to accommodate the cerebral tissue's increased demand for glucose supply during neural activation with recent evidence supporting a key function for astrocytes in rCBF regulation.", 
+    "lpage": "14", 
+    "grants": [
+      "R01 HL088259-01A1", 
+      "R01 NS063279-03"
+    ], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "2", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Paulson", 
+        "Olaf B"
+      ], 
+      [
+        "Hasselbalch", 
+        "Steen G"
+      ], 
+      [
+        "Rostrup", 
+        "Egill"
+      ], 
+      [
+        "Knudsen", 
+        "Gitte Moos"
+      ], 
+      [
+        "Pelligrino", 
+        "Dale"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Cerebral blood flow response to functional activation.", 
+    "pmid": "19738630", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1991"
+    ], 
+    "pubday": "1", 
+    "text": "Prichard, J., Rothman, D., Novotny, E., Petroff, O., Kuwabara, T., Avison, M., Howseman, A., Hanstock, C., and Shulman, R. (1991). Lactate rise detected by 1H NMR in human visual cortex during physiologic stimulation. Proc. Natl. Acad. Sci. U.S.A. 88, 5829&#x02013;5831.", 
+    "sponsors": [
+      "NINDS", 
+      "NINDS", 
+      "NINDS"
+    ], 
+    "abstxt": "Brain lactate concentration is usually assumed to be stable except when pathologic conditions cause a mismatch between glycolysis and respiration. Using newly developed 1H NMR spectroscopic techniques that allow measurement of lactate in vivo, we detected lactate elevations of 0.3-0.9 mM in human visual cortex during physiologic photic stimulation. The maximum rise appeared in the first few minutes; thereafter lactate concentration declined while stimulation continued. The results are consistent with a transient excess of glycolysis over respiration in the visual cortex, occurring as a normal response to stimulation in the physiologic range.", 
+    "lpage": "5831", 
+    "grants": [
+      "NS-08252", 
+      "NS-21708", 
+      "NS-27883"
+    ], 
+    "journal-title": "Proceedings of the National Academy of Sciences of the United States of America", 
+    "fpage": "5829", 
+    "keywords": [], 
+    "pubyear": "1991", 
+    "auths": [
+      [
+        "Prichard", 
+        "J"
+      ], 
+      [
+        "Rothman", 
+        "D"
+      ], 
+      [
+        "Novotny", 
+        "E"
+      ], 
+      [
+        "Petroff", 
+        "O"
+      ], 
+      [
+        "Kuwabara", 
+        "T"
+      ], 
+      [
+        "Avison", 
+        "M"
+      ], 
+      [
+        "Howseman", 
+        "A"
+      ], 
+      [
+        "Hanstock", 
+        "C"
+      ], 
+      [
+        "Shulman", 
+        "R"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Lactate rise detected by 1H NMR in human visual cortex during physiologic stimulation.", 
+    "pmid": "2062861", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "14", 
+    "text": "Quistorff, B., and Grunnet, N. (2011). The isoenzyme pattern of LDH does not play a physiological role; except perhaps during fast transitions in energy metabolism. Aging 3, 457&#x02013;460.", 
+    "sponsors": [], 
+    "abstxt": null, 
+    "lpage": "460", 
+    "grants": [], 
+    "journal-title": "Aging", 
+    "fpage": "457", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Quistorff", 
+        "Bj\u0102\u00b8rn"
+      ], 
+      [
+        "Grunnet", 
+        "Niels"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "The isoenzyme pattern of LDH does not play a physiological role; except perhaps during fast transitions in energy metabolism.", 
+    "pmid": "21566263", 
+    "pmonth": [
+      "May"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "24", 
+    "text": "Rajendran, P., Williams, D. E., Ho, E., and Dashwood, R. H. (2011). Metabolism as a key to histone deacetylase inhibition. Crit. Rev. Biochem. Mol. Biol. 46, 181&#x02013;199.", 
+    "sponsors": [
+      "NCI", 
+      "NCI", 
+      "NCI", 
+      "NCI", 
+      "NCI", 
+      "NCI", 
+      "NIEHS", 
+      "NCI", 
+      "NCI"
+    ], 
+    "abstxt": "There is growing interest in the epigenetic mechanisms that are dysregulated in cancer and other human pathologies. Under this broad umbrella, modulators of histone deacetylase (HDAC) activity have gained interest as both cancer chemopreventive and therapeutic agents. Of the first generation, FDA-approved HDAC inhibitors to have progressed to clinical trials, vorinostat represents a &quot;direct acting&quot; compound with structural features suitable for docking into the HDAC pocket, whereas romidepsin can be considered a prodrug that undergoes reductive metabolism to generate the active intermediate (a zinc-binding thiol). It is now evident that other agents, including those in the human diet, can be converted by metabolism to intermediates that affect HDAC activity. Examples are cited of short-chain fatty acids, seleno-\u00ce\u0105-keto acids, small molecule thiols, mercapturic acid metabolites, indoles, and polyphenols. The findings are discussed in the context of putative endogenous HDAC inhibitors generated by intermediary metabolism (e.g. pyruvate), the yin-yang of HDAC inhibition versus HDAC activation, and the screening assays that might be most appropriate for discovery of novel HDAC inhibitors in the future.", 
+    "lpage": "199", 
+    "grants": [
+      "CA122906", 
+      "CA122959", 
+      "CA65525", 
+      "CA80176", 
+      "CA90890", 
+      "P01 CA090890-08", 
+      "P30ES00210", 
+      "R01 CA065525-10", 
+      "R01 CA122959-05"
+    ], 
+    "journal-title": "Critical reviews in biochemistry and molecular biology", 
+    "fpage": "181", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Rajendran", 
+        "Praveen"
+      ], 
+      [
+        "Williams", 
+        "David E"
+      ], 
+      [
+        "Ho", 
+        "Emily"
+      ], 
+      [
+        "Dashwood", 
+        "Roderick H"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Metabolism as a key to histone deacetylase inhibition.", 
+    "pmid": "21599534", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "30", 
+    "text": "Ram&#x000ED;rez, B. G., Rodrigues, T. B., Violante, I. R., Cruz, F., Fonseca, L. L., Ballesteros, P., Castro, M. M., Garc&#x000ED;a-Mart&#x000ED;n, M. L., and Cerd&#x000E1;n, S. (2007). Kinetic properties of the redox switch/redox coupling mechanism as determined in primary cultures of cortical neurons and astrocytes from rat brain. J. Neurosci. Res. 85, 3244&#x02013;3253.", 
+    "sponsors": [], 
+    "abstxt": "We investigate the mechanisms underlying the redox switch/redox coupling hypothesis by characterizing the competitive consumption of glucose or lactate and the kinetics of pyruvate production in primary cultures of cortical neurons and astrocytes from rat brain. Glucose consumption was determined in neuronal cultures incubated in Krebs ringer bicarbonate buffer (KRB) containing 0.25-5 mM glucose, in the presence and absence of 5 mM lactate as an alternative substrate. Lactate consumption was measured in neuronal cultures incubated with 1-15 mM lactate, in the presence and absence of 1 mM glucose. In both cases, the alternative substrate increased the K(m) (mM) values for glucose consumption (from 2.2 +/- 0.2 to 3.6 +/- 0.1) or lactate consumption (from 7.8 +/- 0.1 to 8.5 +/- 0.1) without significant changes on the corresponding V(max). This is consistent with a competitive inhibition between the simultaneous consumption of glucose and lactate. When cultures of neurons or astrocytes were incubated with increasing lactate concentrations 1-20 mM, pyruvate production was observed with K(m) (mM) and V(max) (nmol/mg/h) values of 1.0 +/- 0.1 and 109 +/- 4 in neurons, or 0.28 +/- 0.1 and 342 +/- 54 in astrocytes. Thus, astrocytes or neurons are able to return to the incubation medium as pyruvate, a significant part of the lactate consumed. Present results support the reversible exchange of reducing equivalents between neurons and astrocytes in the form of lactate or pyruvate. Monocarboxylate exchange is envisioned to operate under near equilibrium, with the transcellular flux directed thermodynamically toward the more oxidized intracellular redox environment.", 
+    "lpage": "3253", 
+    "grants": [], 
+    "journal-title": "Journal of neuroscience research", 
+    "fpage": "3244", 
+    "keywords": [], 
+    "pubyear": "2007", 
+    "auths": [
+      [
+        "Ram\u00edrez", 
+        "Bel\u00e9n G"
+      ], 
+      [
+        "Rodrigues", 
+        "Tiago B"
+      ], 
+      [
+        "Violante", 
+        "In\u00eas R"
+      ], 
+      [
+        "Cruz", 
+        "F\u00e1tima"
+      ], 
+      [
+        "Fonseca", 
+        "Lu\u00eds L"
+      ], 
+      [
+        "Ballesteros", 
+        "Paloma"
+      ], 
+      [
+        "Castro", 
+        "M Margarida C A"
+      ], 
+      [
+        "Garc\u00eda-Mart\u00edn", 
+        "Mar\u00eda L"
+      ], 
+      [
+        "Cerd\u00e1n", 
+        "Sebasti\u00e1n"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Kinetic properties of the redox switch/redox coupling mechanism as determined in primary cultures of cortical neurons and astrocytes from rat brain.", 
+    "pmid": "17600826", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "21", 
+    "text": "Rasmussen, P., Nielsen, J., Overgaard, M., Krogh-Madsen, R., Gjedde, A., Secher, N. H., and Petersen, N. C. (2010). Reduced muscle activation during exercise related to brain oxygenation and metabolism in humans. J. Physiol. 58, 1985&#x02013;1995.", 
+    "sponsors": [], 
+    "abstxt": "Maximal exercise may be limited by central fatigue defined as an inability of the central nervous system to fully recruit the involved muscles. This study evaluated whether a reduction in the cerebral oxygen-to-carbohydrate index (OCI) and in the cerebral mitochondrial oxygen tension relate to the ability to generate a maximal voluntary contraction and to the transcranial magnetic stimulated force generation. To determine the role of a reduced OCI and in central fatigue, 16 males performed low intensity, maximal intensity and hypoxic cycling exercise. Exercise fatigue was evaluated by ratings of perceived exertion (RPE), arm maximal voluntary force (MVC), and voluntary activation of elbow flexor muscles assessed with transcranial magnetic stimulation. Low intensity exercise did not produce any indication of central fatigue or marked cerebral metabolic deviations. Exercise in hypoxia (0.10) reduced cerebral oxygen delivery 25% and decreased 11+/-4 mmHg (P&lt;0.001) together with OCI (6.2+/-0.7 to 4.8+/-0.5, P&lt;0.001). RPE increased while MVC and voluntary activation were reduced (P&lt;0.05). During maximal exercise declined 8+/-4 mmHg (P&lt;0.05) and OCI to 3.8+/-0.5 (P&lt;0.001). RPE was 18.5, and MVC and voluntary activation were reduced (P&lt;0.05). We observed no signs of muscular fatigue in the elbow flexors and all control MVCs were similar to resting values. Exhaustive exercise provoked cerebral deoxygenation, metabolic changes and indices of fatigue similar to those observed during exercise in hypoxia indicating that reduced cerebral oxygenation may play a role in the development of central fatigue and may be an exercise capacity limiting factor.", 
+    "lpage": "1995", 
+    "grants": [], 
+    "journal-title": "The Journal of physiology", 
+    "fpage": "1985", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Rasmussen", 
+        "P"
+      ], 
+      [
+        "Nielsen", 
+        "J"
+      ], 
+      [
+        "Overgaard", 
+        "M"
+      ], 
+      [
+        "Krogh-Madsen", 
+        "R"
+      ], 
+      [
+        "Gjedde", 
+        "A"
+      ], 
+      [
+        "Secher", 
+        "N H"
+      ], 
+      [
+        "Petersen", 
+        "N C"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "Reduced muscle activation during exercise related to brain oxygenation and metabolism in humans.", 
+    "pmid": "20403976", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2009"
+    ], 
+    "pubday": "7", 
+    "text": "Rodrigues, T. B., L&#x000F3;pez-Larrubia, P., and Cerd&#x000E1;n, S. (2009). Redox dependence and compartmentation of [13C]pyruvate in the brain of deuterated rats bearing implanted C6 gliomas. J. Neurochem. 109, 237&#x02013;245.", 
+    "sponsors": [], 
+    "abstxt": "We investigated the redox dependence and compartmentation of the pyruvate pool in the brain of partially deuterated rats bearing C6 gliomas. Adult male Wistar rats implanted with C6 cells drunk 2H2O (50% v/v) or tap water for 9 days before they were infused with solutions containing [1-13C]glucose and [2-13C]pyruvate or [U-13C3]lactate. Their brains were fixed with high-power focused microwaves and biopsies prepared from the contralateral, ipsilateral, and tumor regions. 13C NMR analysis of the extracts allowed the determination of the relative amounts of [13C]lactate isotopomers derived from infused glucose or monocarboxylates. The relative amounts of [3-13C]lactate derived from glucose to the [2-13C] or [U-13C3]lactate isotopomers derived from monocarboxylates decreased in the order contralateral &gt; ipsilateral &gt; tumor regions, revealing a progressive reduction in glycolysis for regions containing increasing endogenous lactate concentrations. Cortical astrocytes depicted similar reductions in glycolysis when incubated with [1,2-13C2]glucose and increasing concentrations of [3-13C]lactate. Deuterated animals bearing C6 tumors, infused with [1-13C]glucose and [2-13C]pyruvate, showed different deuterium enrichments in the methyl groups of cerebral [3-13C] and [2-13C]lactate, revealing a slow mixing of the [3-13C] and [2-13C]pyruvate precursors in the 2H exchange timescale of their methyl groups. Together, these evidences reveal the role of the redox state of the pyruvate pool derived from monocarboxylates in the modulation of cerebral glycolytic flux in vivo and in vitro.", 
+    "lpage": "245", 
+    "grants": [], 
+    "journal-title": "Journal of neurochemistry", 
+    "fpage": "237", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Rodrigues", 
+        "Tiago B"
+      ], 
+      [
+        "L\u00f3pez-Larrubia", 
+        "Pilar"
+      ], 
+      [
+        "Cerd\u00e1n", 
+        "Sebasti\u00e1n"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Redox dependence and compartmentation of [13C]pyruvate in the brain of deuterated rats bearing implanted C6 gliomas.", 
+    "pmid": "19393033", 
+    "pmonth": [
+      "May"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "10", 
+    "text": "Rooney, K., and Trayhurn, P. (2011). Lactate and the GPR81 receptor in metabolic regulation: implications for adipose tissue function and fatty acid utilisation by muscle during exercise. Br. J. Nutr. 106, 1310&#x02013;1316.", 
+    "sponsors": [
+      "Biotechnology and Biological Sciences Research Council", 
+      "Medical Research Council"
+    ], 
+    "abstxt": "Lactate is increasingly recognised to be more than a simple end product of anaerobic glycolysis. Skeletal muscle and white adipose tissue are considered to be the main sites of lactate production and release. Recent studies have demonstrated that there is a specific G-protein coupled receptor for lactate, GPR81, which is expressed primarily in adipose tissue, and also in muscle. Lactate inhibits lipolysis in adipose tissue by mediating, through GPR81, the anti-lipolytic action of insulin. A high proportion (50\u00c2\u00a0% or more) of the glucose utilised by white adipose tissue is converted to lactate and lactate production by the tissue increases markedly in obesity; this is likely to reflect a switch towards anaerobic metabolism with the development of hypoxia in the tissue. During exercise, there is a shift in fuel utilisation by muscle from lipid to carbohydrate, but this does not appear to be a result of the inhibition of lipolysis in the main adipose tissue depots by muscle-derived lactate. It is suggested instead that a putative autocrine lactate loop in myocytes may regulate fuel utilisation by muscle during exercise, operating via a muscle GPR81 receptor. In addition to being an important substrate, lactate is a key signal in metabolic regulation.", 
+    "lpage": "1316", 
+    "grants": [], 
+    "journal-title": "The British journal of nutrition", 
+    "fpage": "1310", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Rooney", 
+        "Kieron"
+      ], 
+      [
+        "Trayhurn", 
+        "Paul"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Lactate and the GPR81 receptor in metabolic regulation: implications for adipose tissue function and fatty acid utilisation by muscle during exercise.", 
+    "pmid": "21902860", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "18", 
+    "text": "Ros, J., Pecinska, N., Alessandri, B., Landolt, H., and Fillenz, M. (2001). Lactate reduces glutamate-induced neurotoxicity in rat cortex. J. Neurosci. Res. 66, 790&#x02013;794.", 
+    "sponsors": [], 
+    "abstxt": "Experiments were carried out to test the hypothesis that lactate reduces the neurotoxicity of glutamate in vivo. MAP2 immunohistochemistry was used to measure lesion size, and microdialysis to measure the changes in glucose and lactate in the extracellular compartment. After implantation of a microdialysis probe 100 mM glutamate with or without 6 mM lactate was added to the perfusion medium and infused into the cortex of unanesthetized rats. Infusion of 100 mM glutamate for a period of 30 min produced a lesion of 6.05 +/- 0.64 mm(3), an increase in lactate of 124 +/- 19% above basal and a 21 +/- 9% reduction of glucose below basal level. When 6mM L-lactate was perfused together with 100 mM glutamate there was a significant reduction in the size of the lesion and there was no reduction in dialysate glucose. When L-lactate was replaced with D-lactate the lesion size and the increase in dialysate lactate were greater than after glutamate alone. The neuroprotective role of L-lactate is attributed to its ability to meet the increased energy demands of neurones exposed to high concentrations of glutamate.", 
+    "lpage": "794", 
+    "grants": [], 
+    "journal-title": "Journal of neuroscience research", 
+    "fpage": "790", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Ros", 
+        "J"
+      ], 
+      [
+        "Pecinska", 
+        "N"
+      ], 
+      [
+        "Alessandri", 
+        "B"
+      ], 
+      [
+        "Landolt", 
+        "H"
+      ], 
+      [
+        "Fillenz", 
+        "M"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Lactate reduces glutamate-induced neurotoxicity in rat cortex.", 
+    "pmid": "11746403", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "7", 
+    "text": "Ross, J. M. (2011). Visualization of mitochondrial respiratory function using cytochrome C oxidase/ succinate dehydrogenase (COX/ SDH) double-labeling histochemistry. J. Vis. Exp. 23, 57.", 
+    "sponsors": [
+      "NIA"
+    ], 
+    "abstxt": "Mitochondrial DNA (mtDNA) defects are an important cause of disease and may underlie aging and aging-related alterations (1,2). The mitochondrial theory of aging suggests a role for mtDNA mutations, which can alter bioenergetics homeostasis and cellular function, in the aging process (3). A wealth of evidence has been compiled in support of this theory (1,4), an example being the mtDNA mutator mouse (5); however, the precise role of mtDNA damage in aging is not entirely understood (6,7). Observing the activity of respiratory enzymes is a straightforward approach for investigating mitochondrial dysfunction. Complex IV, or cytochrome c oxidase (COX), is essential for mitochondrial function. The catalytic subunits of COX are encoded by mtDNA and are essential for assembly of the complex (Figure 1). Thus, proper synthesis and function are largely based on mtDNA integrity (2). Although other respiratory complexes could be investigated, Complexes IV and II are the most amenable to histochemical examination (8,9). Complex II, or succinate dehydrogenase (SDH), is entirely encoded by nuclear DNA (Figure 1), and its activity is typically not affected by impaired mtDNA, although an increase might indicate mitochondrial biogenesis (10-12). The impaired mtDNA observed in mitochondrial diseases, aging, and age-related diseases often leads to the presence of cells with low or absent COX activity (2,12-14). Although COX and SDH activities can be investigated individually, the sequential double-labeling method (15,16) has proved to be advantageous in locating cells with mitochondrial dysfunction (12,17-21). Many of the optimal constitutions of the assay have been determined, such as substrate concentration, electron acceptors/donors, intermediate electron carriers, influence of pH, and reaction time (9,22,23). 3,3'-diaminobenzidine (DAB) is an effective and reliable electron donor (22). In cells with functioning COX, the brown indamine polymer product will localize in mitochondrial cristae and saturate cells (22). Those cells with dysfunctional COX will therefore not be saturated by the DAB product, allowing for the visualization of SDH activity by reduction of nitroblue tetrazolium (NBT), an electron acceptor, to a blue formazan end product (9,24). Cytochrome c and sodium succinate substrates are added to normalize endogenous levels between control and diseased/mutant tissues (9). Catalase is added as a precaution to avoid possible contaminating reactions from peroxidase activity (9,22). Phenazine methosulfate (PMS), an intermediate electron carrier, is used in conjunction with sodium azide, a respiratory chain inhibitor, to increase the formation of the final reaction products (9,25). Despite this information, some critical details affecting the result of this seemly straightforward assay, in addition to specificity controls and advances in the technique, have not yet been presented.", 
+    "lpage": null, 
+    "grants": [
+      "AG04418"
+    ], 
+    "journal-title": "Journal of visualized experiments : JoVE", 
+    "fpage": "e3266", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Ross", 
+        "Jaime M"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Visualization of mitochondrial respiratory function using cytochrome c oxidase/succinate dehydrogenase (COX/SDH) double-labeling histochemistry.", 
+    "pmid": "22143245", 
+    "pmonth": []
+  }, 
+  {
+    "text": "Ross, J. M., &#x000D6;berg, J., Bren&#x000E9;, S., Coppotelli, G., Terzioglu, M., Pernold, K., Goiny, M., Sitnikov, R., Kehr, J., Trifunovic, A., Larsson, N. G., Hoffer, B. J., and Olson, L. (2010). High brain lactate is a hallmark of aging and caused by a shift in the lactate dehydrogenase A/B ratio. Proc. Natl. Acad. Sci. U.S.A. 107, 20087&#x02013;20092."
+  }, 
+  {
+    "pyear": [
+      "1992"
+    ], 
+    "pubday": "1", 
+    "text": "Sappey-Marinier, D., Calabrese, G., Fein, G., Hugg, J. W., Biggins, C., and Weiner, M. W. (1992). Effect of photic stimulation on human visual cortex lactate and phosphates using 1H and 31P magnetic resonance spectroscopy. J. Cereb. Blood Flow Metab. 12, 584&#x02013;592.", 
+    "sponsors": [
+      "NINDS", 
+      "NHLBI", 
+      "NIDDK"
+    ], 
+    "abstxt": "Previous animal and human studies showed that photic stimulation (PS) increased cerebral blood flow and glucose uptake much more than oxygen consumption, suggesting selective activation of anaerobic glycolysis. In the present studies, image-guided 1H and 31P magnetic resonance spectroscopy (MRS) was used to monitor the changes in lactate and high-energy phosphate concentrations produced by PS of visual cortex in six normal volunteers. PS initially produced a significant rise (to 250% of control, p less than 0.01) in visual cortex lactate during the first 6.4 min of PS, followed by a significant decline (p = 0.01) as PS continued. The PCr/Pi ratios decreased significantly from control values during the first 12.8 min of PS (p less than 0.05), and the pH was slightly increased. The positive P100 deflection of the visual evoked potential recorded between 100 and 172 ms after the strobe was significantly decreased from control at 12.8 min of PS (p less than 0.05). The finding that PS caused decreased PCr/Pi is consistent with the view that increased brain activity stimulated ATPase, causing a rise in ADP that shifted the creatine kinase reaction in the direction of ATP synthesis. The rise in lactate together with an increase in pH suggest that intracellular alkalosis, caused by the shift of creatine kinase, selectively stimulated glycolysis.", 
+    "lpage": "592", 
+    "grants": [
+      "5RO1NS22029-05", 
+      "HLO7192", 
+      "R01DK33293"
+    ], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "584", 
+    "keywords": [], 
+    "pubyear": "1992", 
+    "auths": [
+      [
+        "Sappey-Marinier", 
+        "D"
+      ], 
+      [
+        "Calabrese", 
+        "G"
+      ], 
+      [
+        "Fein", 
+        "G"
+      ], 
+      [
+        "Hugg", 
+        "J W"
+      ], 
+      [
+        "Biggins", 
+        "C"
+      ], 
+      [
+        "Weiner", 
+        "M W"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Effect of photic stimulation on human visual cortex lactate and phosphates using 1H and 31P magnetic resonance spectroscopy.", 
+    "pmid": "1618937", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2002"
+    ], 
+    "pubday": "10", 
+    "text": "Schmalbruch, I. K., Linde, R., Paulson, O. B., and Madsen, P. L. (2002). Activation-induced resetting of cerebral metabolism and flow is abolished by beta-adrenergic blockade with propranolol. Stroke 33, 251&#x02013;255.", 
+    "sponsors": [], 
+    "abstxt": "It has previously been shown that activation will increase cerebral blood flow (CBF) and cerebral glucose uptake (CMR(glc)) in excess of cerebral oxygen uptake (CMRO(2)). Our purpose was to investigate the influence of beta-adrenergic blockade with propranolol on the activation-induced uncoupling of cerebral glucose and oxygen metabolism.", 
+    "lpage": "255", 
+    "grants": [], 
+    "journal-title": "Stroke; a journal of cerebral circulation", 
+    "fpage": "251", 
+    "keywords": [], 
+    "pubyear": "2002", 
+    "auths": [
+      [
+        "Schmalbruch", 
+        "Ina K"
+      ], 
+      [
+        "Linde", 
+        "Rasmus"
+      ], 
+      [
+        "Paulson", 
+        "Olaf B"
+      ], 
+      [
+        "Madsen", 
+        "Peter L"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Activation-induced resetting of cerebral metabolism and flow is abolished by beta-adrenergic blockade with propranolol.", 
+    "pmid": "11779918", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1999"
+    ], 
+    "pubday": "31", 
+    "text": "Schurr, A., Miller, J. J., Payne, R. S., and Rigor, B. M. (1999). An increase in lactate output bybrain tissue serves to meet the energy needs of glutamate-activated neurons. J. Neurosci. 19, 34&#x02013;39.", 
+    "sponsors": [], 
+    "abstxt": "Aerobic energy metabolism uses glucose and oxygen to produce all the energy needs of the brain. Several studies published over the last 13 years challenged the assumption that the activated brain increases its oxidative glucose metabolism to meet the increased energy demands. Neuronal function in rat hippocampal slices supplied with 4 mM glucose could tolerate a 15 min activation by a 5 mM concentration of the excitatory neurotransmitter glutamate (Glu), whereas slices supplied with 10 mM glucose could tolerate a 15 min activation by 20 mM Glu. However, in slices in which neuronal lactate use was inhibited by the lactate transporter inhibitor a-cyano-4-hydroxycinnamate (4-CIN), activation by Glu elicited a permanent loss of neuronal function, with a twofold to threefold increase in tissue lactate content. Inhibition of glycolysis with the glucose analog 2-deoxy-D-glucose (2DG) during the period of exposure to Glu diminished normal neuronal function in the majority of slices and significantly reduced the number of slices that exhibited neuronal function after activation. However, when lactate was added with 2DG, the majority of the slices were neuronally functional after activation by Glu. NMDA, a nontransportable Glu analog by the glial glutamate transporter, could not induce a significant increase in slice lactate level when administered in the presence of 4-CIN. It is suggested that the heightened energy demands of activated neurons are met through increased glial glycolytic flux. The lactate thus formed is a crucial aerobic energy substrate that enables neurons to endure activation.", 
+    "lpage": "39", 
+    "grants": [], 
+    "journal-title": "The Journal of neuroscience : the official journal of the Society for Neuroscience", 
+    "fpage": "34", 
+    "keywords": [], 
+    "pubyear": "1998", 
+    "auths": [
+      [
+        "Schurr", 
+        "A"
+      ], 
+      [
+        "Miller", 
+        "J J"
+      ], 
+      [
+        "Payne", 
+        "R S"
+      ], 
+      [
+        "Rigor", 
+        "B M"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "An increase in lactate output by brain tissue serves to meet the energy needs of glutamate-activated neurons.", 
+    "pmid": "9870935", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1997"
+    ], 
+    "pubday": "1", 
+    "text": "Schurr, A., Payne, R. S., Miller, J. J., and Rigor, B. M. (1997). Brain lactate is an obligatory aerobic energy substrate for functional recovery after hypoxia: further in vitro validation. J. Neurochem. 69, 423&#x02013;426.", 
+    "sponsors": [], 
+    "abstxt": "This study used the rat hippocampal slice preparation and the monocarboxylate transporter inhibitor, alpha-cyano-4-hydroxycinnamate (4-CIN), to assess the obligatory role that lactate plays in fueling the recovery of synaptic function after hypoxia upon reoxygenation. At a concentration of 500 microM, 4-CIN blocked lactate-supported synaptic function in hippocampal slices under normoxic conditions in 15 min. The inhibitor had no effect on glucose-supported synaptic function. Of control hippocampal slices exposed to 10-min hypoxia, 77.8 +/- 6.8% recovered synaptic function after 30-min reoxygenation. Of slices supplemented with 500 microM 4-CIN, only 15 +/- 10.9% recovered synaptic function despite the large amount of lactate formed during the hypoxic period and the abundance of glucose present before, during, and after hypoxia. These results indicate that 4-CIN, when present during hypoxia and reoxygenation, blocks lactate transport from astrocytes, where the bulk of anaerobic lactate is formed, to neurons, where lactate is being utilized aerobically to support recovery of function after hypoxia. These results unequivocally validate that brain lactate is an obligatory aerobic energy substrate for posthypoxia recovery of function.", 
+    "lpage": "426", 
+    "grants": [], 
+    "journal-title": "Journal of neurochemistry", 
+    "fpage": "423", 
+    "keywords": [], 
+    "pubyear": "1997", 
+    "auths": [
+      [
+        "Schurr", 
+        "A"
+      ], 
+      [
+        "Payne", 
+        "R S"
+      ], 
+      [
+        "Miller", 
+        "J J"
+      ], 
+      [
+        "Rigor", 
+        "B M"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Brain lactate is an obligatory aerobic energy substrate for functional recovery after hypoxia: further in vitro validation.", 
+    "pmid": "9202338", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "22", 
+    "text": "Schurr, A., Payne, R. S., Miller, J. J., Tseng, M. T., and Rigor, B. M. (2001). Blockade of lactate transport exacerbates delayed neuronal damage in a rat model of cerebral ischemia. Brain Res. 895, 268&#x02013;272.", 
+    "sponsors": [], 
+    "abstxt": "Studies over the past decade have demonstrated that lactate is produced aerobically during brain activation and it has been suggested to be an obligatory aerobic energy substrate postischemia. It has been also hypothesized, based on in vitro studies, that lactate, produced by glia in large amounts during activation and/or ischemia/hypoxia, is transported via specific glial and neuronal monocarboxylate transporters into neurons for aerobic utilization. To test the role of lactate as an aerobic energy substrate postischemia in vivo, we employed the cardiac-arrest-induced transient global cerebral ischemia (TGI) rat model and the monocarboxylate transporter inhibitor alpha-cyano-4-hydroxycinnamate (4-CIN). Once 4-CIN was establish to cross the blood--brain barrier, rats were treated with the inhibitor 60 min prior to a 5-min TGI. These rats exhibited a significantly greater degree of delayed neuronal damage in the hippocampus than control, untreated rats, as measured 7 days post-TGI. We concluded that intra-ischemically-accumulated lactate is utilized aerobically as the main energy substrate immediately postischemia. Blockade of lactate transport into neurons prevents its utilization and, consequently, exacerbates delayed ischemic neuronal damage.", 
+    "lpage": "272", 
+    "grants": [], 
+    "journal-title": "Brain research", 
+    "fpage": "268", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Schurr", 
+        "A"
+      ], 
+      [
+        "Payne", 
+        "R S"
+      ], 
+      [
+        "Miller", 
+        "J J"
+      ], 
+      [
+        "Tseng", 
+        "M T"
+      ], 
+      [
+        "Rigor", 
+        "B M"
+      ]
+    ], 
+    "pubmonth": "3", 
+    "article-title": "Blockade of lactate transport exacerbates delayed neuronal damage in a rat model of cerebral ischemia.", 
+    "pmid": "11259789", 
+    "pmonth": [
+      "Mar"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "11", 
+    "text": "Smith, D., Pernet, A., Hallett, W. A., Bingham, E., Marsden, P. K., and Amiel, S. A. (2003). Lactate: a preferred fuel for human brain metabolism in vivo. J. Cereb. Blood Flow Metab. 23, 658&#x02013;664.", 
+    "sponsors": [], 
+    "abstxt": "Recent in vitro studies suggest that lactate, rather than glucose, may be the preferred fuel for neuronal metabolism. The authors examined the effect of lactate on global brain glucose uptake in euglycemic human subjects using 18 fluoro-deoxyglucose (FDG) positron emission tomography (PET). Eight healthy men, aged 40 to 54 years, underwent a 60-minute FDG-PET scan on two occasions in random order. On one occasion, 6.72% sodium lactate was infused at a rate of 50 micro mol. kg-1. min-1 for 20 minutes and then reduced to 30 micro mol. kg-1. min-1; 1.4% sodium bicarbonate was infused as a control on the other occasion. Plasma glucose levels were not different between the two groups (5.3 +/- 0.23 and 5.3 +/- 0.24 mmol/L, P = 0.55). Plasma lactate was significantly elevated by lactate infusion (4.08 +/- 0.35 vs. 0.63 +/- 0.22 mmol/L, P &lt; 0.0005. The whole-brain rate of glucose uptake was significantly reduced by approximately 17% during lactate infusion (0.195 +/- 0.022 vs. 0.234 +/- 0.020 micro mol. g-1. min-1, P = 0.001). The authors conclude that, in vivo in humans, circulating lactate is used by the brain at euglycemia, with sparing of glucose.", 
+    "lpage": "664", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "658", 
+    "keywords": [], 
+    "pubyear": "2003", 
+    "auths": [
+      [
+        "Smith", 
+        "Diarmuid"
+      ], 
+      [
+        "Pernet", 
+        "Andrew"
+      ], 
+      [
+        "Hallett", 
+        "William A"
+      ], 
+      [
+        "Bingham", 
+        "Emma"
+      ], 
+      [
+        "Marsden", 
+        "Paul K"
+      ], 
+      [
+        "Amiel", 
+        "Stephanie A"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Lactate: a preferred fuel for human brain metabolism in vivo.", 
+    "pmid": "12796713", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2009"
+    ], 
+    "pubday": "16", 
+    "text": "Thangaraju, M., Carswell, K. N., Prasad, P. D., and Ganapathy, V. (2009). Colon cancer cells maintain low levels of pyruvate to avoid cell death caused by inhibition of HDAC1/HDAC3. Biochem. J. 417, 379&#x02013;389.", 
+    "sponsors": [], 
+    "abstxt": "Human colon cancer cells and primary colon cancer silence the gene coding for LDH (lactate dehydrogenase)-B and up-regulate the gene coding for LDH-A, resulting in effective conversion of pyruvate into lactate. This is associated with markedly reduced levels of pyruvate in cancer cells compared with non-malignant cells. The silencing of LDH-B in cancer cells occurs via DNA methylation, with involvement of the DNMTs (DNA methyltransferases) DNMT1 and DNMT3b. Colon cancer is also associated with the expression of pyruvate kinase M2, a splice variant with low catalytic activity. We have shown recently that pyruvate is an inhibitor of HDACs (histone deacetylases). Here we show that pyruvate is a specific inhibitor of HDAC1 and HDAC3. Lactate has no effect on any of the HDACs examined. Colon cancer cells exhibit increased HDAC activity compared with non-malignant cells. HDAC1 and HDAC3 are up-regulated in colon cancer cells and in primary colon cancer, and siRNA (small interfering RNA)-mediated silencing of HDAC1 and HDAC3 in colon cancer cells induces apoptosis. Colon cancer cells silence SLC5A8, the gene coding for a Na(+)-coupled pyruvate transporter. Heterologous expression of SLC5A8 in the human colon cancer cell line SW480 leads to inhibition of HDAC activity when cultured in the presence of pyruvate. This process is associated with an increase in intracellular levels of pyruvate, increase in the acetylation status of histone H4, and enhanced cell death. These studies show that cancer cells effectively maintain low levels of pyruvate to prevent inhibition of HDAC1/HDAC3 and thereby to evade cell death.", 
+    "lpage": "389", 
+    "grants": [], 
+    "journal-title": "The Biochemical journal", 
+    "fpage": "379", 
+    "keywords": [], 
+    "pubyear": "2008", 
+    "auths": [
+      [
+        "Thangaraju", 
+        "Muthusamy"
+      ], 
+      [
+        "Carswell", 
+        "Kristina N"
+      ], 
+      [
+        "Prasad", 
+        "Puttur D"
+      ], 
+      [
+        "Ganapathy", 
+        "Vadivel"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Colon cancer cells maintain low levels of pyruvate to avoid cell death caused by inhibition of HDAC1/HDAC3.", 
+    "pmid": "18789002", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2008"
+    ], 
+    "pubday": "27", 
+    "text": "Uehara, T., Sumiyoshi, T., Itoh, H., and Kurata, K. (2008). Lactate production and neurotransmitters; evidence from microdialysis studies. Pharmacol. Biochem. Behav. 90, 273&#x02013;281.", 
+    "sponsors": [], 
+    "abstxt": "Recent studies have found that lactate metabolism plays a significant role in energy supply during acute neural activation in the brain. We will review evidence from microdialysis studies for a relationship between neurotransmitters and lactate production, as revealed in studies of the effects of psychotropic drugs on stress-induced enhancement of extracellular lactate concentrations. Glutamate enhances stress-induced lactate production via activation of N-methyl-D-asparate receptors, and is affected by uptake of glutamate through glutamate transporters. Findings from microdialysis studies suggest that major neurotransmitters, including norepinephrine, dopamine, serotonin, and GABA (via benzodiazepine-receptors) affect lactate production, depending on brain areas, especially during stress. Among these neurotransmitters, glutamate may principally contribute to the regulation of lactate production, with other neurotransmitter systems affecting the extracellular lactate levels in a glutamate-mediated manner. The role for anaerobic metabolism in the supply of energy, as represented by lactate dynamics, deserves further clarification. Monitoring with intracerebral microdialysis is a reliable method for this purpose. Research into this area is likely to provide a novel insight into the mode of action of psychotropic drugs, and the pathophysiology of some of the stress-related mental disorders as well.", 
+    "lpage": "281", 
+    "grants": [], 
+    "journal-title": "Pharmacology, biochemistry, and behavior", 
+    "fpage": "273", 
+    "keywords": [], 
+    "pubyear": "2008", 
+    "auths": [
+      [
+        "Uehara", 
+        "Takashi"
+      ], 
+      [
+        "Sumiyoshi", 
+        "Tomiki"
+      ], 
+      [
+        "Itoh", 
+        "Hiroko"
+      ], 
+      [
+        "Kurata", 
+        "Koichi"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Lactate production and neurotransmitters; evidence from microdialysis studies.", 
+    "pmid": "18502489", 
+    "pmonth": [
+      "Aug"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2009"
+    ], 
+    "pubday": "25", 
+    "text": "Ugrumov, M. V. (2009). Non-dopaminergic neurons partly expressing dopaminergic phenotype: distribution in the brain, development and functional significance. J. Chem. Neuroanat. 38, 241&#x02013;256.", 
+    "sponsors": [], 
+    "abstxt": "Besides the dopaminergic (DA-ergic) neurons possessing the whole set of enzymes of DA synthesis from l-tyrosine and the DA membrane transporter (DAT), the neurons partly expressing the DA-ergic phenotype have been first discovered two decades ago. Most of the neurons express individual enzymes of DA synthesis, tyrosine hydroxylase (TH) or aromatic l-amino acid decarboxylase (AADC) and lack the DAT. A list of the neurons partly expressing the DA-ergic phenotype is not restricted to so-called monoenzymatic neurons, e.g. it includes some neurons co-expressing both enzymes of DA synthesis but lacking the DAT. In contrast to true DA-ergic neurons, monoenzymatic neurons and bienzymatic non-dopaminergic neurons lack the vesicular monoamine transporter 2 (VMAT2) that raises a question about the mechanisms of storing and release of their final synthetic products. Monoenzymatic neurons are widely distributed all through the brain in adulthood being in some brain regions even more numerous than DA-ergic neurons. Individual enzymes of DA synthesis are expressed in these neurons continuously or transiently in norm or under certain physiological conditions. Monoenzymatic neurons, particularly those expressing TH, appear to be even more numerous and more widely distributed in the brain during ontogenesis than in adulthood. Most populations of monoenzymatic TH neurons decrease in number or even disappear by puberty. Functional significance of monoenzymatic neurons remained uncertain for a long time after their discovery. Nevertheless, it has been shown that most monoenzymatic TH neurons and AADC neurons are capable to produce l-3,4-dihydroxyphenylalanine (L-DOPA) from l-tyrosine and DA from L-DOPA, respectively. L-DOPA produced in monoenzymatic TH neurons is assumed to play a role of a neurotransmitter or neuromodulator acting on target neurons via catecholamine receptors. Moreover, according to our hypothesis L-DOPA released from monoenzymatic TH neurons is captured by monoenzymatic AADC neurons for DA synthesis. Such cooperative synthesis of DA is considered as a compensatory reaction under a failure of DA-ergic neurons, e.g. in neurodegenerative diseases like hyperprolactinemia and Parkinson's disease.Thus, a substantial number of the brain neurons express partly the DA-ergic phenotype, mostly individual complementary enzymes of DA synthesis, serving to produce DA in cooperation that is supposed to be a compensatory reaction under the failure of DA-ergic neurons.", 
+    "lpage": "256", 
+    "grants": [], 
+    "journal-title": "Journal of chemical neuroanatomy", 
+    "fpage": "241", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Ugrumov", 
+        "M V"
+      ]
+    ], 
+    "pubmonth": "8", 
+    "article-title": "Non-dopaminergic neurons partly expressing dopaminergic phenotype: distribution in the brain, development and functional significance.", 
+    "pmid": "19698780", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "15", 
+    "text": "Vaishnavi, S. N., Vlassenko, A. G., Rundle, M. M., Snyder, A. Z., Mintun, M. A., and Raichle, M. E. (2010). Regional aerobic glycolysis in the human brain. Proc. Natl. Acad. Sci. U.S.A. 107, 17757&#x02013;17762.", 
+    "sponsors": [
+      "NIMH", 
+      "NINDS", 
+      "NINDS"
+    ], 
+    "abstxt": "Aerobic glycolysis is defined as glucose utilization in excess of that used for oxidative phosphorylation despite sufficient oxygen to completely metabolize glucose to carbon dioxide and water. Aerobic glycolysis is present in the normal human brain at rest and increases locally during increased neuronal activity; yet its many biological functions have received scant attention because of a prevailing energy-centric focus on the role of glucose as substrate for oxidative phosphorylation. As an initial step in redressing this neglect, we measured the regional distribution of aerobic glycolysis with positron emission tomography in 33 neurologically normal young adults at rest. We show that the distribution of aerobic glycolysis in the brain is differentially present in previously well-described functional areas. In particular, aerobic glycolysis is significantly elevated in medial and lateral parietal and prefrontal cortices. In contrast, the cerebellum and medial temporal lobes have levels of aerobic glycolysis significantly below the brain mean. The levels of aerobic glycolysis are not strictly related to the levels of brain energy metabolism. For example, sensory cortices exhibit high metabolic rates for glucose and oxygen consumption but low rates of aerobic glycolysis. These striking regional variations in aerobic glycolysis in the normal human brain provide an opportunity to explore how brain systems differentially use the diverse cell biology of glucose in support of their functional specializations in health and disease.", 
+    "lpage": "17762", 
+    "grants": [
+      "MH077967", 
+      "NS048056", 
+      "NS057901"
+    ], 
+    "journal-title": "Proceedings of the National Academy of Sciences of the United States of America", 
+    "fpage": "17757", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Vaishnavi", 
+        "S Neil"
+      ], 
+      [
+        "Vlassenko", 
+        "Andrei G"
+      ], 
+      [
+        "Rundle", 
+        "Melissa M"
+      ], 
+      [
+        "Snyder", 
+        "Abraham Z"
+      ], 
+      [
+        "Mintun", 
+        "Mark A"
+      ], 
+      [
+        "Raichle", 
+        "Marcus E"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Regional aerobic glycolysis in the human brain.", 
+    "pmid": "20837536", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "30", 
+    "text": "van Hall, G. (2010). Lactate kinetics in human tissues at rest and during exercise Acta. Physiol. 199, 499&#x02013;508.", 
+    "sponsors": [], 
+    "abstxt": "Lactate production in skeletal muscle has now been studied for nearly two centuries and still its production and functional role at rest and during exercise is much debated. In the early days skeletal muscle was mainly seen as the site of lactate production during contraction and lactate production associated with a lack of muscle oxygenation and fatigue. Later it was recognized that skeletal muscle not only played an important role in lactate production but also in lactate clearance and this led to a renewed interest, not the least from the Copenhagen School in the 1930s, in the metabolic role of lactate in skeletal muscle. With the introduction of lactate isotopes muscle lactate kinetics and oxidation could be studied and a simultaneous lactate uptake and release was observed, not only in muscle but also in other tissues. Therefore, this review will discuss in vivo human: (1) skeletal muscle lactate metabolism at rest and during exercise and suggestions are put forward to explain the simultaneous lactate uptake and release; and (2) lactate metabolism in the heart, liver, kidneys, brain, adipose tissue and lungs will be discussed and its potential importance in these tissues.", 
+    "lpage": "508", 
+    "grants": [], 
+    "journal-title": "Acta physiologica (Oxford, England)", 
+    "fpage": "499", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "van Hall", 
+        "Gerrit"
+      ]
+    ], 
+    "pubmonth": "3", 
+    "article-title": "Lactate kinetics in human tissues at rest and during exercise.", 
+    "pmid": "20345411", 
+    "pmonth": [
+      "Aug"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "21", 
+    "text": "Wilson, J. E. (2003). Isozymes of mammalian hexokinase: structure, subcellular localization and metabolic function. J. Exp. Biol. 206(Pt. 12), 2049&#x02013;2057.", 
+    "sponsors": [
+      "NINDS"
+    ], 
+    "abstxt": "The first step in metabolism of glucose (Glc) is usually phosphorylation, catalyzed by hexokinase. However, the Glc-6-P produced can then enter one or more of several alternative pathways. Selective expression of isozymic forms of hexokinase, differing in catalytic and regulatory properties as well as subcellular localization, is likely to be an important factor in determining the pattern of Glc metabolism in mammalian tissues/cells. Despite their overall structural similarity, the Type I, Type II and Type III isozymes differ in important respects. All three isozymes are inhibited by the product, Glc-6-P, but with the Type I isozyme, this inhibition is antagonized by P(I), whereas with the Type II and Type III isozymes, P(i) actually causes additional inhibition. Reciprocal changes in intracellular levels of Glc-6-P and P(i) are closely associated with cellular energy status, and it is proposed that the response of the Type I isozyme to these effectors adapts it for catabolic function, introducing Glc into glycolytic metabolism for energy production. In contrast, the Type II, and probably the Type III, isozymes are suggested to serve primarily anabolic functions, e.g. to provide Glc-6-P for glycogen synthesis or metabolism via the pentose phosphate pathway for lipid synthesis. Type I hexokinase binds to mitochondria through interaction with porin, the protein that forms channels through which metabolites traverse the outer mitochondrial membrane. Several experimental approaches have led to the conclusion that the Type I isozyme, bound to actively phosphorylating mitochondria, selectively uses intramitochondrial ATP as substrate. Such interactions are thought to facilitate coordination of the introduction of Glc into glycolysis, via the hexokinase reaction, with the terminal oxidative stages of Glc metabolism occurring in the mitochondria, thus ensuring an overall rate of Glc metabolism commensurate with cellular energy demands and avoiding excessive production of lactate. The Type II isozyme also binds to mitochondria. Whether such coupling occurs with mitochondrially bound Type II hexokinase in normal tissues, and how it might be related to the proposed anabolic role of this isozyme, remain to be determined. The Type III isozyme lacks the hydrophobic N-terminal sequence known to be critical for binding of the Type I and Type II isozymes to mitochondria. Immunolocalization studies have indicated that, in many cell types, the Type III has a perinuclear localization, the possible metabolic consequences of which remain unclear.", 
+    "lpage": "2057", 
+    "grants": [
+      "NS 09910"
+    ], 
+    "journal-title": "The Journal of experimental biology", 
+    "fpage": "2049", 
+    "keywords": [], 
+    "pubyear": "2003", 
+    "auths": [
+      [
+        "Wilson", 
+        "John E"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Isozymes of mammalian hexokinase: structure, subcellular localization and metabolic function.", 
+    "pmid": "12756287", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "20", 
+    "text": "Wyss, M. T., Jolivet, R., Buck, A., Magistretti, P. J., and Weber, B. (2011). In vivo evidence for lactate as a neuronal energy source. J. Neurosci. 31, 7477&#x02013;7485.", 
+    "sponsors": [], 
+    "abstxt": "Cerebral energy metabolism is a highly compartmentalized and complex process in which transcellular trafficking of metabolites plays a pivotal role. Over the past decade, a role for lactate in fueling the energetic requirements of neurons has emerged. Furthermore, a neuroprotective effect of lactate during hypoglycemia or cerebral ischemia has been reported. The majority of the current evidence concerning lactate metabolism at the cellular level is based on in vitro data; only a few recent in vivo results have demonstrated that the brain preferentially utilizes lactate over glucose. Using voltage-sensitive dye (VSD) imaging, beta-probe measurements of radiotracer kinetics, and brain activation by sensory stimulation in the anesthetized rat, we investigated several aspects of cerebral lactate metabolism. The present study is the first in vivo demonstration of the maintenance of neuronal activity in the presence of lactate as the primary energy source. The loss of the voltage-sensitive dye signal found during severe insulin-induced hypoglycemia is completely prevented by lactate infusion. Thus, lactate has a direct neuroprotective effect. Furthermore, we demonstrate that the brain readily oxidizes lactate in an activity-dependent manner. The washout of 1-[(11)C]L-lactate, reflecting cerebral lactate oxidation, was observed to increase during brain activation from 0.077 \u00b1 0.009 to 0.105 \u00b1 0.007 min(-1). Finally, our data confirm that the brain prefers lactate over glucose as an energy substrate when both substrates are available. Using [(18)F]fluorodeoxyglucose (FDG) to measure the local cerebral metabolic rate of glucose, we demonstrated a lactate concentration-dependent reduction of cerebral glucose utilization during experimentally increased plasma lactate levels.", 
+    "lpage": "7485", 
+    "grants": [], 
+    "journal-title": "The Journal of neuroscience : the official journal of the Society for Neuroscience", 
+    "fpage": "7477", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Wyss", 
+        "Matthias T"
+      ], 
+      [
+        "Jolivet", 
+        "Renaud"
+      ], 
+      [
+        "Buck", 
+        "Alfred"
+      ], 
+      [
+        "Magistretti", 
+        "Pierre J"
+      ], 
+      [
+        "Weber", 
+        "Bruno"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "In vivo evidence for lactate as a neuronal energy source.", 
+    "pmid": "21593331", 
+    "pmonth": [
+      "May"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "31", 
+    "text": "Xu, Y., Ola, M. S., Berkich, D. A., Gardner, T. W., Barber, A. J., Palmieri, F., Hutson, S. M., and LaNoue, K. F. (2007). Energy sources for glutamate neurotransmission in the retina: absence of the aspartate/glutamate carrier produces reliance on glycolysis in glia. J. Neurochem. 101, 120&#x02013;131.", 
+    "sponsors": [
+      "NEI", 
+      "NINDS"
+    ], 
+    "abstxt": "The mitochondrial transporter, the aspartate/glutamate carrier (AGC), is a necessary component of the malate/aspartate cycle, which promotes the transfer into mitochondria of reducing equivalents generated in the cytosol during glycolysis. Without transfer of cytosolic reducing equivalents into mitochondria, neither glucose nor lactate can be completely oxidized. In the present study, immunohistochemistry was used to demonstrate the absence of AGC from retinal glia (M\u7aefller cells), but its presence in neurons and photoreceptor cells. To determine the influence of the absence of AGC on sources of ATP for glutamate neurotransmission, neurotransmission was estimated in both light- and dark-adapted retinas by measuring flux through the glutamate/glutamine cycle and the effect of light on ATP-generating reactions. Neurotransmission was 80% faster in the dark as expected, because photoreceptors become depolarized in the dark and this depolarization induces release of excitatory glutamate neurotransmitter. Oxidation of [U-14C]glucose, [1-14C]lactate, and [1-14C]pyruvate in light- and dark-adapted excised retinas was estimated by collecting 14CO2. Neither glucose nor lactate oxidation that require participation of the malate/aspartate shuttle increased in the dark, but pyruvate oxidation that does not require the malate/aspartate shuttle increased to 36% in the dark. Aerobic glycolysis was estimated by measuring the rate of lactate appearance. Glycolysis was 37% faster in the dark. It appears that in the retina, ATP consumed during glutamatergic neurotransmission is replenished by ATP generated glycolytically within the retinal M\u7aefller cells and that oxidation of glucose within the M\u7aefller cells does not occur or occurs only slowly.", 
+    "lpage": "131", 
+    "grants": [
+      "EY122021", 
+      "NS13924"
+    ], 
+    "journal-title": "Journal of neurochemistry", 
+    "fpage": "120", 
+    "keywords": [], 
+    "pubyear": "2007", 
+    "auths": [
+      [
+        "Xu", 
+        "Y"
+      ], 
+      [
+        "Ola", 
+        "M S"
+      ], 
+      [
+        "Berkich", 
+        "D A"
+      ], 
+      [
+        "Gardner", 
+        "T W"
+      ], 
+      [
+        "Barber", 
+        "A J"
+      ], 
+      [
+        "Palmieri", 
+        "F"
+      ], 
+      [
+        "Hutson", 
+        "S M"
+      ], 
+      [
+        "LaNoue", 
+        "K F"
+      ]
+    ], 
+    "pubmonth": "3", 
+    "article-title": "Energy sources for glutamate neurotransmission in the retina: absence of the aspartate/glutamate carrier produces reliance on glycolysis in glia.", 
+    "pmid": "17394462", 
+    "pmonth": [
+      "Apr"
+    ]
+  }
+]
