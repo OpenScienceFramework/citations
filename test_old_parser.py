@@ -18,7 +18,7 @@ def create_tests():
             citations = json.load(f)
         for cit in citations:
             test_name = 'test in {} - {}'.format(name, cit['raw'])
-            a = citation.parse(cit['raw'])
+            a = citation.Citation.parse(cit['raw'])
             b = cit
             for k in unneeded_tags:
                 if k in a:

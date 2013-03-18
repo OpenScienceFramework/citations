@@ -33,7 +33,7 @@ class WhenParsingSingleEntry:
     def should_have_doi(self):
         assert self.result.doi == '10.1016/j.tics.2005.04.010'
 
-class WhenParsingManyEnties:
+class _WhenParsingManyEntries:
     def setup_method(self, method):
         text = u"""
         1. Marois R, Ivanoff J (2005) Capacity limits of information processing
