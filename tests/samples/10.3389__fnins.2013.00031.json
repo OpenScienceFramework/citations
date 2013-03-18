@@ -1,0 +1,792 @@
+[
+  {
+    "text": " Abe, O., Takao, H., Gonoi, W., Sasaki, H., Murakami, M., Kabasawa, H., et al. (2010). Voxel-based analysis of the diffusion tensor. Neuroradiology 52, 699&#x02013;710.", 
+    "pmid": "20467866"
+  }, 
+  {
+    "text": " Akers, D., Sherbondy, A., MacKenzie, R., Dougherty, R., and Wandell, B. (2004). &#x0201C;Exploration of the brain&#x00027;s white matter pathways with dynamic queries,&#x0201D; in Proceedings of the Conference on Visualization &#x02018;04 (Austin, TX: IEEE Computer Society)."
+  }, 
+  {
+    "text": " Alexander, A. L., Hasan, K. M., Lazar, M., Tsuruda, J. S., and Parker, D. L. (2001). Analysis of partial volume effects in diffusion-tensor MRI. Magn. Reson. Med. 45, 770&#x02013;780.", 
+    "pmid": "11323803"
+  }, 
+  {
+    "text": " Alexander, A. L., Wu, Y. C., and Venkat, P. C. (2006). Hybrid diffusion imaging (HYDI). Conf. Proc. IEEE Eng. Med. Biol. Soc. 1, 2245&#x02013;2248.", 
+    "pmid": "17946944"
+  }, 
+  {
+    "text": " Assaf, Y., and Pasternak, O. (2008). Diffusion tensor imaging (DTI)-based white matter mapping in brain research: a review. J. Mol. Neurosci. 34, 51&#x02013;61.", 
+    "pmid": "18157658"
+  }, 
+  {
+    "text": " Assemlal, H. E., Tschumperle, D., Brun, L., and Siddiqi, K. (2011). Recent advances in diffusion MRI modeling: angular and radial reconstruction. Med. Image Anal. 15, 369&#x02013;396.", 
+    "pmid": "21397549"
+  }, 
+  {
+    "text": " Astrakas, L. G., and Argyropoulou, M. I. (2010). Shifting from region of interest (ROI) to voxel-based analysis in human brain mapping. Pediatr. Radiol. 40, 1857&#x02013;1867.", 
+    "pmid": "20464386"
+  }, 
+  {
+    "text": " Bammer, R., Auer, M., Keeling, S. L., Augustin, M., Stables, L. A., Prokesch, R. W., et al. (2002). Diffusion tensor imaging using single-shot SENSE-EPI. Magn. Reson. Med. 48, 128&#x02013;136.", 
+    "pmid": "12111940"
+  }, 
+  {
+    "text": " Bammer, R., Holdsworth, S. J., Veldhuis, W. B., and Skare, S. T. (2009). New methods in diffusion-weighted and diffusion tensor imaging. Magn. Reson. Imaging Clin. N. Am. 17, 175&#x02013;204.", 
+    "pmid": "19406353"
+  }, 
+  {
+    "text": " Bangera, N. B., Schomer, D. L., Dehghani, N., Ulbert, I., Cash, S., Papavasiliou, S., et al. (2010). Experimental validation of the influence of white matter anisotropy on the intracranial EEG forward solution. J. Comput. Neurosci. 29, 371&#x02013;387.", 
+    "pmid": "20063051"
+  }, 
+  {
+    "text": " Barrick, T. R., and Clark, C. A. (2004). Singularities in diffusion tensor fields and their relevance in white matter fiber tractography. Neuroimage 22, 481&#x02013;491.", 
+    "pmid": "15193577"
+  }, 
+  {
+    "text": " Basser, P. J., and Jones, D. K. (2002). Diffusion-tensor MRI: theory, experimental design and data analysis&#x02013; a technical review. NMR Biomed. 15, 456&#x02013;467.", 
+    "pmid": "12489095"
+  }, 
+  {
+    "text": " Basser, P. J., Mattiello, J., and Lebihan, D. (1994a). Estimation of the effective self-diffusion tensor from the NMR spin echo. J. Magn. Reson. B 103, 247&#x02013;254.", 
+    "pmid": "8019776"
+  }, 
+  {
+    "text": " Basser, P. J., Mattiello, J., and Lebihan, D. (1994b). MR diffusion tensor spectroscopy and imaging. Biophys. J. 66, 259&#x02013;267.", 
+    "pmid": "8130344"
+  }, 
+  {
+    "text": " Basser, P. J., Pajevic, S., Pierpaoli, C., Duda, J., and Aldroubi, A. (2000). In vivo fiber tractography using DT-MRI data. Magn. Reson. Med. 44, 625&#x02013;632.", 
+    "pmid": "11025519"
+  }, 
+  {
+    "text": " Basser, P. J., and Pierpaoli, C. (1996). Microstructural and physiological features of tissues elucidated by quantitative-diffusion-tensor MRI. J. Magn. Reson. B 111, 209&#x02013;219.", 
+    "pmid": "8661285"
+  }, 
+  {
+    "text": " Basu, S., Fletcher, T., and Whitaker, R. (2006). Rician noise removal in diffusion tensor MRI. Med. Image Comput. Comput. Assist. Interv. 9, 117&#x02013;125.", 
+    "pmid": "17354881"
+  }, 
+  {
+    "text": " Bazin, P. L., Ye, C., Bogovic, J. A., Shiee, N., Reich, D. S., Prince, J. L., et al. (2011). Direct segmentation of the major white matter tracts in diffusion tensor images. Neuroimage 58, 458&#x02013;468.", 
+    "pmid": "21718790"
+  }, 
+  {
+    "text": " Beaulieu, C. (2002). The basis of anisotropic water diffusion in the nervous system&#x02013; a technical review. NMR Biomed. 15, 435&#x02013;455.", 
+    "pmid": "12489094"
+  }, 
+  {
+    "text": " Behrens, T. E., Berg, H. J., Jbabdi, S., Rushworth, M. F., and Woolrich, M. W. (2007). Probabilistic diffusion tractography with multiple fibre orientations: what can we gain? Neuroimage 34, 144&#x02013;155.", 
+    "pmid": "17070705"
+  }, 
+  {
+    "text": " Brau, A. C., Beatty, P. J., Skare, S., and Bammer, R. (2008). Comparison of reconstruction accuracy and efficiency among autocalibrating data-driven parallel imaging methods. Magn. Reson. Med. 59, 382&#x02013;395.", 
+    "pmid": "18228603"
+  }, 
+  {
+    "text": " Budde, M. D., Xie, M., Cross, A. H., and Song, S. K. (2009). Axial diffusivity is the primary correlate of axonal injury in the experimental autoimmune encephalomyelitis spinal cord: a quantitative pixelwise analysis. J. Neurosci. 29, 2805&#x02013;2813.", 
+    "pmid": "19261876"
+  }, 
+  {
+    "text": " Burgel, U., Madler, B., Honey, C. R., Thron, A., Gilsbach, J., and Coenen, V. A. (2009). Fiber tracking with distinct software tools results in a clear diversity in anatomical fiber tract portrayal. Cent. Eur. Neurosurg. 70, 27&#x02013;35.", 
+    "pmid": "19191204"
+  }, 
+  {
+    "text": " Cardenes, R., Munoz-Moreno, E., Tristan-Vega, A., and Martin-Fernandez, M. (2010). Saturn: a software application of tensor utilities for research in neuroimaging. Comput. Methods Programs Biomed. 97, 264&#x02013;279.", 
+    "pmid": "19850371"
+  }, 
+  {
+    "text": " Carvalho Rangel, C., Hygino Cruz, L. C. Jr., Takayassu, T. C., Gasparetto, E. L., and Domingues, R. C. (2011). Diffusion MR imaging in central nervous system. Magn. Reson. Imaging Clin. N. Am. 19, 23&#x02013;53.", 
+    "pmid": "21129634"
+  }, 
+  {
+    "text": " Catani, M., and Thiebaut De Schotten, M. (2008). A diffusion tensor imaging tractography atlas for virtual in vivo dissections. Cortex 44, 1105&#x02013;1132.", 
+    "pmid": "18619589"
+  }, 
+  {
+    "text": " Chang, L. C., Jones, D. K., and Pierpaoli, C. (2005). RESTORE: robust estimation of tensors by outlier rejection. Magn. Reson. Med. 53, 1088&#x02013;1095.", 
+    "pmid": "15844157"
+  }, 
+  {
+    "text": " Chanraud, S., Zahr, N., Sullivan, E. V., and Pfefferbaum, A. (2010). MR diffusion tensor imaging: a window into white matter integrity of the working brain. Neuropsychol. Rev. 20, 209&#x02013;225.", 
+    "pmid": "20422451"
+  }, 
+  {
+    "text": " Chavez, S., Storey, P., and Graham, S. J. (2009). Robust correction of spike noise: application to diffusion tensor imaging. Magn. Reson. Med. 62, 510&#x02013;519.", 
+    "pmid": "19526513"
+  }, 
+  {
+    "text": " Chen, B., Guo, H., and Song, A. W. (2006). Correction for direction-dependent distortions in diffusion tensor imaging using matched magnetic field maps. Neuroimage 30, 121&#x02013;129.", 
+    "pmid": "16242966"
+  }, 
+  {
+    "text": " Chenevert, T. L., Brunberg, J. A., and Pipe, J. G. (1990). Anisotropic diffusion in human white matter: demonstration with MR techniques in vivo. Radiology 177, 401&#x02013;405.", 
+    "pmid": "2217776"
+  }, 
+  {
+    "text": " Choi, S., Cunningham, D. T., Aguila, F., Corrigan, J. D., Bogner, J., Mysiw, W. J., et al. (2011). DTI at 7 and 3 T: systematic comparison of SNR and its influence on quantitative metrics. Magn. Reson. Imaging 29, 739&#x02013;751.", 
+    "pmid": "21571473"
+  }, 
+  {
+    "text": " Chung, H. W., Chou, M. C., and Chen, C. Y. (2011). Principles and limitations of computational algorithms in clinical diffusion tensor MR tractography. AJNR. Am. J. Neuroradiol. 32, 3&#x02013;13.", 
+    "pmid": "20299436"
+  }, 
+  {
+    "text": " Ciccarelli, O., Catani, M., Johansen-Berg, H., Clark, C., and Thompson, A. (2008). Diffusion-based tractography in neurological disorders: concepts, applications, and future developments. Lancet Neurol. 7, 715&#x02013;727.", 
+    "pmid": "18635020"
+  }, 
+  {
+    "text": " Conner, C. R., Ellmore, T. M., Disano, M. A., Pieters, T. A., Potter, A. W., and Tandon, N. (2011). Anatomic and electro-physiologic connectivity of the language system: a combined DTI-CCEP study. Comput. Biol. Med. 41, 1100&#x02013;1109.", 
+    "pmid": "21851933"
+  }, 
+  {
+    "text": " Cook, P. A., Bai, Y., Gilani, N., Seunarine, K. K., Hall, M. G., Parker, G. J., et al. (2006). &#x0201C;Camino: open-source diffusion-MRI reconstruction and processing,&#x0201D; in 14th Scientific Meeting of the International Society for Magnetic Resonance in Medicine (Seattle, WA), 2759."
+  }, 
+  {
+    "text": " Cox, R. W. (2012). AFNI: what a long strange trip it&#x00027;s been. Neuroimage 62, 743&#x02013;747.", 
+    "pmid": "21889996"
+  }, 
+  {
+    "text": " Della Nave, R., Foresti, S., Pratesi, A., Ginestroni, A., Inzitari, M., Salvadori, E., et al. (2007). Whole-brain histogram and voxel-based analyses of diffusion tensor imaging in patients with leukoaraiosis: correlation with motor and cognitive impairment. AJNR. Am. J. Neuroradiol. 28, 1313&#x02013;1319.", 
+    "pmid": "17698534"
+  }, 
+  {
+    "text": " Descoteaux, M., Deriche, R., Knosche, T. R., and Anwander, A. (2009). Deterministic and probabilistic tractography based on complex fibre orientation distributions. IEEE Trans. Med. Imaging 28, 269&#x02013;286.", 
+    "pmid": "19188114"
+  }, 
+  {
+    "text": " Douek, P., Turner, R., Pekar, J., Patronas, N., and Le Bihan, D. (1991). MR color mapping of myelin fiber orientation. J. Comput. Assist. Tomogr. 15, 923&#x02013;929.", 
+    "pmid": "1939769"
+  }, 
+  {
+    "text": " Ethofer, T., Gschwind, M., and Vuilleumier, P. (2011). Processing social aspects of human gaze: a combined fMRI-DTI study. Neuroimage 55, 411&#x02013;419.", 
+    "pmid": "21095230"
+  }, 
+  {
+    "text": " Evans, A. C., Janke, A. L., Collins, D. L., and Baillet, S. (2012). Brain templates and atlases. Neuroimage 62, 911&#x02013;922.", 
+    "pmid": "22248580"
+  }, 
+  {
+    "text": " Farrell, J. A., Landman, B. A., Jones, C. K., Smith, S. A., Prince, J. L., van Zijl, P. C., et al. (2007). Effects of signal-to-noise ratio on the accuracy and reproducibility of diffusion tensor imaging-derived fractional anisotropy, mean diffusivity, and principal eigenvector measurements at 1.5 T. J. Magn. Reson. Imaging 26, 756&#x02013;767.", 
+    "pmid": "17729339"
+  }, 
+  {
+    "text": " Farzaneh, F., Riederer, S. J., and Pelc, N. J. (1990). Analysis of T2 limitations and off-resonance effects on spatial resolution and artifacts in echo-planar imaging. Magn. Reson. Med. 14, 123&#x02013;139.", 
+    "pmid": "2352469"
+  }, 
+  {
+    "text": " Fernandez, A., Rios-Lago, M., Abasolo, D., Hornero, R., Alvarez-Linera, J., Paul, N., et al. (2011). The correlation between white-matter microstructure and the complexity of spontaneous brain activity: a difussion tensor imaging-MEG study. Neuroimage 57, 1300&#x02013;1307.", 
+    "pmid": "21683794"
+  }, 
+  {
+    "text": " Figueiredo, E. H., Borgonovi, A. F., and Doring, T. M. (2011). Basic concepts of MR imaging, diffusion MR imaging, and diffusion tensor imaging. Magn. Reson. Imaging Clin. N. Am. 19, 1&#x02013;22.", 
+    "pmid": "21129633"
+  }, 
+  {
+    "text": " Fillard, P., Descoteaux, M., Goh, A., Gouttard, S., Jeurissen, B., Malcolm, J., et al. (2011). Quantitative evaluation of 10 tractography algorithms on a realistic diffusion MR phantom. Neuroimage 56, 220&#x02013;234.", 
+    "pmid": "21256221"
+  }, 
+  {
+    "text": " Fischl, B. (2012). FreeSurfer. Neuroimage 62, 774&#x02013;781.", 
+    "pmid": "22248573"
+  }, 
+  {
+    "text": " Fjell, A. M., Westlye, L. T., Greve, D. N., Fischl, B., Benner, T., van der Kouwe, A. J., et al. (2008). The relationship between diffusion tensor imaging and volumetry as measures of white matter properties. Neuroimage 42, 1654&#x02013;1668.", 
+    "pmid": "18620064"
+  }, 
+  {
+    "text": " Friman, O., Farneback, G., and Westin, C. F. (2006). A Bayesian approach for stochastic white matter tractography. IEEE Trans. Med. Imaging 25, 965&#x02013;978.", 
+    "pmid": "16894991"
+  }, 
+  {
+    "text": " Friston, K. J., Ashburner, J. T., Kiebel, S. J., Nichols, T. E., and Penny, W. D. (2007). Statistical Parametric Mapping: The Analysis of Functional Brain Images. London: Academic Press."
+  }, 
+  {
+    "text": " Fung, S. H., Roccatagliata, L., Gonzalez, R. G., and Schaefer, P. W. (2011). MR diffusion imaging in ischemic stroke. Neuroimaging Clin. N. Am. 21, 345&#x02013;377.", 
+    "pmid": "21640304"
+  }, 
+  {
+    "text": " Gallichan, D., Scholz, J., Bartsch, A., Behrens, T. E., Robson, M. D., and Miller, K. L. (2010). Addressing a systematic vibration artifact in diffusion-weighted MRI. Hum. Brain Mapp. 31, 193&#x02013;202.", 
+    "pmid": "19603408"
+  }, 
+  {
+    "text": " Garyfallidis, E., Brett, M., Amirbekian, B., Nguyen, C., Yeh, F.-C., Olivetti, E., et al. (2011). &#x0201C;Dipy &#x02013; a novel software library for diffusion MR and tractography,&#x0201D; in 17th Annual Meeting of the Organization for Human Brain Mapping (Qu&#x000E9;bec, QC)."
+  }, 
+  {
+    "text": " Goebel, R. (2012). BrainVoyager&#x02013; past, present, future. Neuroimage 62, 748&#x02013;756.", 
+    "pmid": "22289803"
+  }, 
+  {
+    "text": " Greicius, M. D., Supekar, K., Menon, V., and Dougherty, R. F. (2009). Resting-state functional connectivity reflects structural connectivity in the default mode network. Cereb. Cortex 19, 72&#x02013;78.", 
+    "pmid": "18403396"
+  }, 
+  {
+    "text": " Griswold, M. A., Jakob, P. M., Heidemann, R. M., Nittka, M., Jellus, V., Wang, J., et al. (2002). Generalized autocalibrating partially parallel acquisitions (GRAPPA). Magn. Reson. Med. 47, 1202&#x02013;1210.", 
+    "pmid": "12111967"
+  }, 
+  {
+    "text": " Gudbjartsson, H., Maier, S. E., Mulkern, R. V., Morocz, I. A., Patz, S., and Jolesz, F. A. (1996). Line scan diffusion imaging. Magn. Reson. Med. 36, 509&#x02013;519.", 
+    "pmid": "8892201"
+  }, 
+  {
+    "text": " Gullmar, D., Haueisen, J., and Reichenbach, J. R. (2010). Influence of anisotropic electrical conductivity in white matter tissue on the EEG/MEG forward and inverse solution. A high-resolution whole head simulation study. Neuroimage 51, 145&#x02013;163.", 
+    "pmid": "20156576"
+  }, 
+  {
+    "text": " Gupta, R. K., Trivedi, R., Awasthi, R., Paliwal, V. K., Prasad, K. N., and Rathore, R. K. (2012). Understanding changes in DTI metrics in patients with different stages of neurocysticercosis. Magn. Reson. Imaging 30, 104&#x02013;111.", 
+    "pmid": "21937182"
+  }, 
+  {
+    "text": " Hagmann, P., Jonasson, L., Maeder, P., Thiran, J. P., Wedeen, V. J., and Meuli, R. (2006). Understanding diffusion MR imaging techniques: from scalar diffusion-weighted imaging to diffusion tensor imaging and beyond. Radiographics 26(Suppl. 1), S205&#x02013;S223.", 
+    "pmid": "17050517"
+  }, 
+  {
+    "text": " Hasan, K. M., Walimuni, I. S., Abid, H., and Hahn, K. R. (2011). A review of diffusion tensor magnetic resonance imaging computational methods and software tools. Comput. Biol. Med. 41, 1062&#x02013;1072.", 
+    "pmid": "21087766"
+  }, 
+  {
+    "text": " Hattingen, E., Rathert, J., Jurcoane, A., Weidauer, S., Szelenyi, A., Ogrezeanu, G., et al. (2009). A standardised evaluation of pre-surgical imaging of the corticospinal tract: where to place the seed ROI. Neurosurg. Rev. 32, 445&#x02013;456.", 
+    "pmid": "19437053"
+  }, 
+  {
+    "text": " Hoeft, F., Barnea-Goraly, N., Haas, B. W., Golarai, G., Ng, D., Mills, D., et al. (2007). More is not always better: increased fractional anisotropy of superior longitudinal fasciculus associated with poor visuospatial abilities in Williams syndrome. J. Neurosci. 27, 11960&#x02013;11965.", 
+    "pmid": "17978036"
+  }, 
+  {
+    "text": " Holdsworth, S. J., Skare, S., Newbould, R. D., and Bammer, R. (2009). Robust GRAPPA-accelerated diffusion-weighted readout-segmented (RS)-EPI. Magn. Reson. Med. 62, 1629&#x02013;1640.", 
+    "pmid": "19859974"
+  }, 
+  {
+    "text": " Huang, H., Ceritoglu, C., Li, X., Qiu, A., Miller, M. I., Van Zijl, P. C., et al. (2008). Correction of B0 susceptibility induced distortion in diffusion-weighted images using large-deformation diffeomorphic metric mapping. Magn. Reson. Imaging 26, 1294&#x02013;1302.", 
+    "pmid": "18499384"
+  }, 
+  {
+    "text": " Hubers, A., Klein, J. C., Kang, J. S., Hilker, R., and Ziemann, U. (2012). The relationship between TMS measures of functional properties and DTI measures of microstructure of the corticospinal tract. Brain Stimul. 5, 297&#x02013;304.", 
+    "pmid": "22037122"
+  }, 
+  {
+    "text": " Hygino Da Cruz, L. C. Jr., Vieira, I. G., and Domingues, R. C. (2011). Diffusion MR imaging: an important tool in the assessment of brain tumors. Neuroimaging Clin. N. Am. 21, 27&#x02013;49.", 
+    "pmid": "21477750"
+  }, 
+  {
+    "text": " Imfeld, A., Oechslin, M. S., Meyer, M., Loenneker, T., and Jancke, L. (2009). White matter plasticity in the corticospinal tract of musicians: a diffusion tensor imaging study. Neuroimage 46, 600&#x02013;607.", 
+    "pmid": "19264144"
+  }, 
+  {
+    "text": " Jaermann, T., Pruessmann, K. P., Valavanis, A., Kollias, S., and Boesiger, P. (2006). Influence of SENSE on image properties in high-resolution single-shot echo-planar DTI. Magn. Reson. Med. 55, 335&#x02013;342.", 
+    "pmid": "16416432"
+  }, 
+  {
+    "text": " Jansons, K. M., and Alexander, D. C. (2003). Persistent Angular Structure: new insights from diffusion MRI data. Dummy version. Inf. Process. Med. Imaging 18, 672&#x02013;683.", 
+    "pmid": "15344497"
+  }, 
+  {
+    "text": " Jellison, B. J., Field, A. S., Medow, J., Lazar, M., Salamat, M. S., and Alexander, A. L. (2004). Diffusion tensor imaging of cerebral white matter: a pictorial review of physics, fiber tract anatomy, and tumor imaging patterns. AJNR. Am. J. Neuroradiol. 25, 356&#x02013;369.", 
+    "pmid": "15037456"
+  }, 
+  {
+    "text": " Jiang, H., Chou, M.-C., Van Zijl, P., and Mori, S. (2009). &#x0201C;Outlier detection for diffusion tensor imaging by testing for ADC consistency,&#x0201D; in Proceedings of the International Society for Magnetic Resonance in Medicine (Honolulu, HI), 17."
+  }, 
+  {
+    "text": " Jiang, H., Van Zijl, P. C., Kim, J., Pearlson, G. D., and Mori, S. (2006). DtiStudio: resource program for diffusion tensor computation and fiber bundle tracking. Comput. Methods Programs Biomed. 81, 106&#x02013;116.", 
+    "pmid": "16413083"
+  }, 
+  {
+    "text": " Johansen-Berg, H., and Behrens, T. E. J. (2009). Diffusion MRI: From Quantitative Measurement to In-Vivo Neuroanatomy. London: Academic Press."
+  }, 
+  {
+    "text": " Jones, D. K. (2004). The effect of gradient sampling schemes on measures derived from diffusion tensor MRI: a Monte Carlo study. Magn. Reson. Med. 51, 807&#x02013;815.", 
+    "pmid": "15065255"
+  }, 
+  {
+    "text": " Jones, D. K. (2008). Studying connections in the living human brain with diffusion MRI. Cortex 44, 936&#x02013;952.", 
+    "pmid": "18635164"
+  }, 
+  {
+    "text": " Jones, D. K. (2010a). Challenges and limitations of quantifying brain connectivity in vivo with diffusion MRI. Imaging Med. 2, 341&#x02013;355."
+  }, 
+  {
+    "text": " Jones, D. K. (2010b). Diffusion MRI: Theory, Methods, and Applications. New York, NY: Oxford University Press."
+  }, 
+  {
+    "text": " Jones, D. K. (2010c). Precision and accuracy in diffusion tensor magnetic resonance imaging. Top. Magn. Reson. Imaging 21, 87&#x02013;99.", 
+    "pmid": "21613874"
+  }, 
+  {
+    "text": " Jones, D. K., and Cercignani, M. (2010). Twenty-five pitfalls in the analysis of diffusion MRI data. NMR Biomed. 23, 803&#x02013;820.", 
+    "pmid": "20886566"
+  }, 
+  {
+    "text": " Jones, D. K., Griffin, L. D., Alexander, D. C., Catani, M., Horsfield, M. A., Howard, R., et al. (2002). Spatial normalization and averaging of diffusion tensor MRI data sets. Neuroimage 17, 592&#x02013;617.", 
+    "pmid": "12377137"
+  }, 
+  {
+    "text": " Jones, D. K., Horsfield, M. A., and Simmons, A. (1999a). Optimal strategies for measuring diffusion in anisotropic systems by magnetic resonance imaging. Magn. Reson. Med. 42, 515&#x02013;525.", 
+    "pmid": "10467296"
+  }, 
+  {
+    "text": " Jones, D. K., Knosche, T. R., and Turner, R. (2012). White matter integrity, fiber count, and other fallacies: the do&#x00027;s and don&#x00027;ts of diffusion MRI. Neuroimage. doi: 10.1016/j.neuroimage.2012.06.081. [Epub ahead of print].", 
+    "pmid": "22846632"
+  }, 
+  {
+    "text": " Jones, D. K., Simmons, A., Williams, S. C., and Horsfield, M. A. (1999b). Non-invasive assessment of axonal fiber connectivity in the human brain via diffusion tensor MRI. Magn. Reson. Med. 42, 37&#x02013;41.", 
+    "pmid": "10398948"
+  }, 
+  {
+    "text": " Kaur, P., Senthil Kumaran, S., Tripathi, R. P., Khushu, S., and Kaushik, S. (2007). Protocol error artifacts in MRI: sources and remedies revisited. Radiography 13, 291&#x02013;306."
+  }, 
+  {
+    "text": " Kennedy, S. D., and Zhong, J. (2004). Diffusion measurements free of motion artifacts using intermolecular dipole-dipole interactions. Magn. Reson. Med. 52, 1&#x02013;6.", 
+    "pmid": "15236359"
+  }, 
+  {
+    "text": " Kindlmann, G. (2006). &#x0201C;Superquadric tensor glyphs,&#x0201D; in Proceeding of The Joint Eurographics &#x02013; IEEE TCVG Symposium on Visualization (Konstanz), 147&#x02013;154."
+  }, 
+  {
+    "text": " Kindlmann, G., and Westin, C. F. (2006). Diffusion tensor visualization with glyph packing. IEEE. Trans. Vis. Comput. Graph. 12, 1329&#x02013;1335.", 
+    "pmid": "17080869"
+  }, 
+  {
+    "text": " Koay, C. G., Carew, J. D., Alexander, A. L., Basser, P. J., and Meyerand, M. E. (2006). Investigation of anomalous estimates of tensor-derived quantities in diffusion tensor imaging. Magn. Reson. Med. 55, 930&#x02013;936.", 
+    "pmid": "16526013"
+  }, 
+  {
+    "text": " Kober, T., Gruetter, R., and Krueger, G. (2012). Prospective and retrospective motion correction in diffusion magnetic resonance imaging of the human brain. Neuroimage 59, 389&#x02013;398.", 
+    "pmid": "21763773"
+  }, 
+  {
+    "text": " Kochunov, P., Glahn, D. C., Lancaster, J., Thompson, P. M., Kochunov, V., Rogers, B., et al. (2011). Fractional anisotropy of cerebral white matter and thickness of cortical gray matter across the lifespan. Neuroimage 58, 41&#x02013;49.", 
+    "pmid": "21640837"
+  }, 
+  {
+    "text": " Lagana, M., Rovaris, M., Ceccarelli, A., Venturelli, C., Marini, S., and Baselli, G. (2010). DTI parameter optimisation for acquisition at 1.5T: SNR analysis and clinical application. Comput. Intell. Neurosci. 2010:254032. doi: 10.1155/2010/254032", 
+    "pmid": "20069121"
+  }, 
+  {
+    "text": " Landman, B. A., Bogovic, J. A., Wan, H., Elshahaby Fel, Z., Bazin, P. L., and Prince, J. L. (2012). Resolution of crossing fibers with constrained compressed sensing using diffusion tensor MRI. Neuroimage 59, 2175&#x02013;2186.", 
+    "pmid": "22019877"
+  }, 
+  {
+    "text": " Lauzon, C. B., Asman, A. J., Crainiceanu, C., Caffo, B. C., and Landman, B. A. (2011). Assessment of bias for MRI diffusion tensor imaging using SIMEX. Med. Image Comput. Comput. Assist. Interv. 14, 107&#x02013;115.", 
+    "pmid": "21995019"
+  }, 
+  {
+    "text": " Lawes, I. N., Barrick, T. R., Murugam, V., Spierings, N., Evans, D. R., Song, M., et al. (2008). Atlas-based segmentation of white matter tracts of the human brain using diffusion tensor tractography and comparison with classical dissection. Neuroimage 39, 62&#x02013;79.", 
+    "pmid": "17919935"
+  }, 
+  {
+    "text": " Lazar, M., Weinstein, D. M., Tsuruda, J. S., Hasan, K. M., Arfanakis, K., Meyerand, M. E., et al. (2003). White matter tractography using diffusion tensor deflection. Hum. Brain Mapp. 18, 306&#x02013;321.", 
+    "pmid": "12632468"
+  }, 
+  {
+    "text": " Le Bihan, B., and Breton, E. (1985). Imagerie de diffusion in vivo par r&#x000E9;sonance magn&#x000E9;tique nucl&#x000E9;aire. C. R. Acad. Sci. 301, 1109&#x02013;1112."
+  }, 
+  {
+    "text": " Le Bihan, D. (2012). Diffusion, confusion and functional MRI. Neuroimage 62, 1131&#x02013;1136.", 
+    "pmid": "21985905"
+  }, 
+  {
+    "text": " Le Bihan, D., Breton, E., Lallemand, D., Grenier, P., Cabanis, E., and Laval-Jeantet, M. (1986). MR imaging of intravoxel incoherent motions: application to diffusion and perfusion in neurologic disorders. Radiology 161, 401&#x02013;407.", 
+    "pmid": "3763909"
+  }, 
+  {
+    "text": " Le Bihan, D., Mangin, J. F., Poupon, C., Clark, C. A., Pappata, S., Molko, N., et al. (2001). Diffusion tensor imaging: concepts and applications. J. Magn. Reson. Imaging 13, 534&#x02013;546.", 
+    "pmid": "11276097"
+  }, 
+  {
+    "text": " Le Bihan, D., Poupon, C., Amadon, A., and Lethimonnier, F. (2006). Artifacts and pitfalls in diffusion MRI. J. Magn. Reson. Imaging 24, 478&#x02013;488.", 
+    "pmid": "16897692"
+  }, 
+  {
+    "text": " Lebel, C., Benner, T., and Beaulieu, C. (2012). Six is enough? Comparison of diffusion parameters measured using six or more diffusion-encoding gradient directions with deterministic tractography. Magn. Reson. Med. 68, 474&#x02013;483.", 
+    "pmid": "22162075"
+  }, 
+  {
+    "text": " Leemans, A., Jeurissen, B., Sijbers, J., and Jones, D. K. (2009). &#x0201C;ExploreDTI: a graphical toolbox for processing, analyzing, and visualizing diffusion MR data,&#x0201D; in 17th Annual Meeting of Intl. Soc. Mag. Reson. Med. (Hawaii), 3537."
+  }, 
+  {
+    "text": " Leemans, A., and Jones, D. K. (2009). The B-matrix must be rotated when correcting for subject motion in DTI data. Magn. Reson. Med. 61, 1336&#x02013;1349.", 
+    "pmid": "19319973"
+  }, 
+  {
+    "text": " Li, K., Guo, L., Zhu, D., Hu, X., Han, J., and Liu, T. (2012). Individual functional ROI optimization via maximization of group-wise consistency of structural and functional profiles. Neuroinformatics 10, 225&#x02013;242.", 
+    "pmid": "22281931"
+  }, 
+  {
+    "text": " Liao, W., Deserno, T., and Spitzer, K. (2008). Evaluation of free non-diagnostic DICOM software tools. Proc. SPIE 6919, 691903."
+  }, 
+  {
+    "text": " Ling, J., Merideth, F., Caprihan, A., Pena, A., Teshiba, T., and Mayer, A. R. (2012). Head injury or head motion? Assessment and quantification of motion artifacts in diffusion tensor imaging studies. Hum. Brain Mapp. 33, 50&#x02013;62.", 
+    "pmid": "21391258"
+  }, 
+  {
+    "text": " Liu, G., Yao, L., and Zhao, X. (2010a). &#x0201C;Optimization of image preprocessing for diffusion tensor magnetic resonance imaging,&#x0201D; in Sixth International Conference on Natural Computation (ICNC) (Yantai)."
+  }, 
+  {
+    "text": " Liu, Z., Wang, Y., Gerig, G., Gouttard, S., Tao, R., Fletcher, T., et al. (2010b). Quality control of diffusion weighted images. Proc. SPIE 7628:76280J. doi: 10.1117/12.844748"
+  }, 
+  {
+    "text": " Lucas, B. C., Bogovic, J. A., Carass, A., Bazin, P. L., Prince, J. L., Pham, D. L., et al. (2010). The Java Image Science Toolkit (JIST) for rapid prototyping and publishing of neuroimaging software. Neuroinformatics 8, 5&#x02013;17.", 
+    "pmid": "20077162"
+  }, 
+  {
+    "text": " Madden, D. J., Bennett, I. J., and Song, A. W. (2009). Cerebral white matter integrity and cognitive aging: contributions from diffusion tensor imaging. Neuropsychol. Rev. 19, 415&#x02013;435.", 
+    "pmid": "19705281"
+  }, 
+  {
+    "text": " Mansfield, P. (1977). Multi-planar image formation using NMR spin echoes. J. Phys. C 10, L55&#x02013;L58."
+  }, 
+  {
+    "text": " Merboldt, K.-D., Hanicke, W., and Frahm, J. (1985). Self-diffusion NMR imaging using stimulated echoes. J. Magn. Reson. 64, 479&#x02013;486."
+  }, 
+  {
+    "text": " Millman, K. J., and Brett, M. (2007). Analysis of functional magnetic resonance imaging in python. Comp. Sci. Eng. 9, 52&#x02013;55."
+  }, 
+  {
+    "text": " Mohammadi, S., Moller, H. E., Kugel, H., Muller, D. K., and Deppe, M. (2010). Correcting eddy current and motion effects by affine whole-brain registrations: evaluation of three-dimensional distortions and comparison with slicewise correction. Magn. Reson. Med. 64, 1047&#x02013;1056.", 
+    "pmid": "20574966"
+  }, 
+  {
+    "text": " Mohammadi, S., Nagy, Z., Hutton, C., Josephs, O., and Weiskopf, N. (2012). Correction of vibration artifacts in DTI using phase-encoding reversal (COVIPER). Magn. Reson. Med. 68, 882&#x02013;889.", 
+    "pmid": "22213396"
+  }, 
+  {
+    "text": " Mori, S. (2007). Introduction to Diffusion Tensor Imaging. Amsterdam: Elsevier Science."
+  }, 
+  {
+    "text": " Mori, S., and Barker, P. B. (1999). Diffusion magnetic resonance imaging: its principle and applications. Anat. Rec. 257, 102&#x02013;109.", 
+    "pmid": "10397783"
+  }, 
+  {
+    "text": " Mori, S., Crain, B. J., Chacko, V. P., and van Zijl, P. C. (1999). Three-dimensional tracking of axonal projections in the brain by magnetic resonance imaging. Ann. Neurol. 45, 265&#x02013;269.", 
+    "pmid": "9989633"
+  }, 
+  {
+    "text": " Mori, S., and van Zijl, P. C. (2002). Fiber tracking: principles and strategies&#x02013; a technical review. NMR Biomed. 15, 468&#x02013;480.", 
+    "pmid": "12489096"
+  }, 
+  {
+    "text": " Mori, S., and Zhang, J. (2006). Principles of diffusion tensor imaging and its applications to basic neuroscience research. Neuron 51, 527&#x02013;539.", 
+    "pmid": "16950152"
+  }, 
+  {
+    "text": " Moritani, T., Ekholm, S., and Westesson, P. (2005). Diffusion-Weighted MR Imaging of the Brain. Berlin, Heidelberg: Springer."
+  }, 
+  {
+    "text": " Moriya, J., Kakeda, S., Abe, O., Goto, N., Yoshimura, R., Hori, H., et al. (2010). Gray and white matter volumetric and diffusion tensor imaging (DTI) analyses in the early stage of first-episode schizophrenia. Schizophr. Res. 116, 196&#x02013;203.", 
+    "pmid": "19854618"
+  }, 
+  {
+    "text": " Moseley, M., Bammer, R., and Illes, J. (2002). Diffusion-tensor imaging of cognitive performance. Brain Cogn. 50, 396&#x02013;413.", 
+    "pmid": "12480486"
+  }, 
+  {
+    "text": " Moseley, M. E., Cohen, Y., Mintorovitch, J., Chileuitt, L., Shimizu, H., Kucharczyk, J., et al. (1990). Early detection of regional cerebral ischemia in cats: comparison of diffusion- and T2-weighted MRI and spectroscopy. Magn. Reson. Med. 14, 330&#x02013;346.", 
+    "pmid": "2345513"
+  }, 
+  {
+    "text": " Mukherjee, P., Berman, J. I., Chung, S. W., Hess, C. P., and Henry, R. G. (2008a). Diffusion tensor MR imaging and fiber tractography: theoretic underpinnings. AJNR. Am. J. Neuroradiol. 29, 632&#x02013;641.", 
+    "pmid": "18339720"
+  }, 
+  {
+    "text": " Mukherjee, P., Chung, S. W., Berman, J. I., Hess, C. P., and Henry, R. G. (2008b). Diffusion tensor MR imaging and fiber tractography: technical considerations. AJNR. Am. J. Neuroradiol. 29, 843&#x02013;852.", 
+    "pmid": "18339719"
+  }, 
+  {
+    "text": " Mukherjee, P., Hess, C. P., Xu, D., Han, E. T., Kelley, D. A., and Vigneron, D. B. (2008c). Development and initial evaluation of 7-T q-ball imaging of the human brain. Magn. Reson. Imaging 26, 171&#x02013;180.", 
+    "pmid": "17692489"
+  }, 
+  {
+    "text": " Nana, R., Zhao, T., and Hu, X. (2008). Single-shot multiecho parallel echo-planar imaging (EPI) for diffusion tensor imaging (DTI) with improved signal-to-noise ratio (SNR) and reduced distortion. Magn. Reson. Med. 60, 1512&#x02013;1517.", 
+    "pmid": "19025894"
+  }, 
+  {
+    "text": " Nolte, U. G., Finsterbusch, J., and Frahm, J. (2000). Rapid isotropic diffusion mapping without susceptibility artifacts: whole brain studies using diffusion-weighted single-shot STEAM MR imaging. Magn. Reson. Med. 44, 731&#x02013;736.", 
+    "pmid": "11064408"
+  }, 
+  {
+    "text": " Nowinski, W. L., Chua, B. C., Yang, G. L., and Qian, G. Y. (2012). Three-dimensional interactive and stereotactic human brain atlas of white matter tracts. Neuroinformatics 10, 33&#x02013;55.", 
+    "pmid": "21505883"
+  }, 
+  {
+    "text": " Nucifora, P. G., Verma, R., Lee, S. K., and Melhem, E. R. (2007). Diffusion-tensor MR imaging and tractography: exploring brain microstructure and connectivity. Radiology 245, 367&#x02013;384.", 
+    "pmid": "17940300"
+  }, 
+  {
+    "text": " Oishi, K., Faria, A. V., Zijl, P. C. M., and Mori, S. (2010). MRI Atlas of Human White Matter. London: Academic Press."
+  }, 
+  {
+    "text": " Oishi, K., Zilles, K., Amunts, K., Faria, A., Jiang, H., Li, X., et al. (2008). Human brain white matter atlas: identification and assignment of common anatomical structures in superficial white matter. Neuroimage 43, 447&#x02013;457.", 
+    "pmid": "18692144"
+  }, 
+  {
+    "text": " Ordidge, R. J., Helpern, J. A., Qing, Z. X., Knight, R. A., and Nagesh, V. (1994). Correction of motional artifacts in diffusion-weighted MR images using navigator echoes. Magn. Reson. Imaging 12, 455&#x02013;460.", 
+    "pmid": "8007775"
+  }, 
+  {
+    "text": " Papademetris, X., Jackowski, M., Rajeevan, N., Constable, R. T., and Staib, L. (2005). &#x0201C;Bioimage Suite: an integrated medical image analysis suite,&#x0201D; in The Insight Journal &#x02013; 2005 MICCAI Open-Source Workshop (Palm Springs, CA)."
+  }, 
+  {
+    "text": " Park, H. J., Kubicki, M., Shenton, M. E., Guimond, A., McCarley, R. W., Maier, S. E., et al. (2003). Spatial normalization of diffusion tensor MRI using multiple channels. Neuroimage 20, 1995&#x02013;2009.", 
+    "pmid": "14683705"
+  }, 
+  {
+    "text": " Park, H. J., Shenton, M. E., and Westin, C. F. (2004). &#x0201C;An analysis tool for quantification of diffusion tensor imaging,&#x0201D; in Seventh International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI&#x00027;04) (Saint-Malo), 1040&#x02013;1041."
+  }, 
+  {
+    "text": " Parker, G. J., Haroon, H. A., and Wheeler-Kingshott, C. A. (2003). A framework for a streamline-based probabilistic index of connectivity (PICo) using a structural interpretation of MRI diffusion measurements. J. Magn. Reson. Imaging 18, 242&#x02013;254.", 
+    "pmid": "12884338"
+  }, 
+  {
+    "text": " Patel, V., Dinov, I. D., Van Horn, J. D., Thompson, P. M., and Toga, A. W. (2010). LONI MiND: metadata in NIfTI for DWI. Neuroimage 51, 665&#x02013;676.", 
+    "pmid": "20206274"
+  }, 
+  {
+    "text": " Pfefferbaum, A., Adalsteinsson, E., and Sullivan, E. V. (2003). Replicability of diffusion tensor imaging measurements of fractional anisotropy and trace in brain. J. Magn. Reson. Imaging 18, 427&#x02013;433.", 
+    "pmid": "14508779"
+  }, 
+  {
+    "text": " Pieper, S., Lorensen, B., Schroeder, W., and Kikinis, R. (2006). &#x0201C;The NA-MIC kit: ITK, VTK, pipelines, grids and 3D slicer as an open platform for the medical image computing community,&#x0201D; in Proceedings of the IEEE International Symposium on Biomedical Imaging ISBI (Arlington, TX), 698&#x02013;701."
+  }, 
+  {
+    "text": " Pierpaoli, C., and Basser, P. J. (1996). Toward a quantitative assessment of diffusion anisotropy. Magn. Reson. Med. 36, 893&#x02013;906.", 
+    "pmid": "8946355"
+  }, 
+  {
+    "text": " Pierpaoli, C., Jezzard, P., Basser, P. J., Barnett, A., and Di Chiro, G. (1996). Diffusion tensor MR imaging of the human brain. Radiology 201, 637&#x02013;648.", 
+    "pmid": "8939209"
+  }, 
+  {
+    "text": " Pierpaoli, C., Walker, L., Irfanoglu, M. O., Barnett, A., Basser, P., Chang, L. C., et al. (2010). &#x0201C;TORTOISE: an integrated software package for processing of diffusion MRI data,&#x0201D; in ISMRM 18th Annual Meeting (Stockholm)."
+  }, 
+  {
+    "text": " Pipe, J. G. (1999). Motion correction with PROPELLER MRI: application to head motion and free-breathing cardiac imaging. Magn. Reson. Med. 42, 963&#x02013;969.", 
+    "pmid": "10542356"
+  }, 
+  {
+    "text": " Pipe, J. G., Farthing, V. G., and Forbes, K. P. (2002). Multishot diffusion-weighted FSE using PROPELLER MRI. Magn. Reson. Med. 47, 42&#x02013;52.", 
+    "pmid": "11754441"
+  }, 
+  {
+    "text": " Polders, D. L., Leemans, A., Hendrikse, J., Donahue, M. J., Luijten, P. R., and Hoogduin, J. M. (2011). Signal to noise ratio and uncertainty in diffusion tensor imaging at 1.5, 3.0, and 7.0 Tesla. J. Magn. Reson. Imaging 33, 1456&#x02013;1463.", 
+    "pmid": "21591016"
+  }, 
+  {
+    "text": " Propper, R. E., O&#x00027;Donnell, L. J., Whalen, S., Tie, Y., Norton, I. H., Suarez, R. O., et al. (2010). A combined fMRI and DTI examination of functional language lateralization and arcuate fasciculus structure: effects of degree versus direction of hand preference. Brain Cogn. 73, 85&#x02013;92.", 
+    "pmid": "20378231"
+  }, 
+  {
+    "text": " Pruessmann, K. P., Weiger, M., Scheidegger, M. B., and Boesiger, P. (1999). SENSE: sensitivity encoding for fast MRI. Magn. Reson. Med. 42, 952&#x02013;962.", 
+    "pmid": "10542355"
+  }, 
+  {
+    "text": " Reese, T. G., Heid, O., Weisskoff, R. M., and Wedeen, V. J. (2003). Reduction of eddy-current-induced distortion in diffusion MRI using a twice-refocused spin echo. Magn. Reson. Med. 49, 177&#x02013;182.", 
+    "pmid": "12509835"
+  }, 
+  {
+    "text": " Rohde, G. K., Barnett, A. S., Basser, P. J., Marenco, S., and Pierpaoli, C. (2004). Comprehensive approach for correction of motion and distortion in diffusion-weighted MRI. Magn. Reson. Med. 51, 103&#x02013;114.", 
+    "pmid": "14705050"
+  }, 
+  {
+    "text": " Rosset, A., Spadola, L., and Ratib, O. (2004). OsiriX: an open-source software for navigating in multidimensional DICOM images. J. Digit. Imaging 17, 205&#x02013;216.", 
+    "pmid": "15534753"
+  }, 
+  {
+    "text": " Seifert, M. H., Jakob, P. M., Jellus, V., Haase, A., and Hillenbrand, C. (2000). High-resolution diffusion imaging using a radial turbo-spin-echo sequence: implementation, eddy current compensation, and self-navigation. J. Magn. Reson. 144, 243&#x02013;254.", 
+    "pmid": "10828192"
+  }, 
+  {
+    "text": " Smith, S. M., Jenkinson, M., Johansen-Berg, H., Rueckert, D., Nichols, T. E., MacKay, C. E., et al. (2006). Tract-based spatial statistics: voxelwise analysis of multi-subject diffusion data. Neuroimage 31, 1487&#x02013;1505.", 
+    "pmid": "16624579"
+  }, 
+  {
+    "text": " Smith, S. M., Jenkinson, M., Woolrich, M. W., Beckmann, C. F., Behrens, T. E., Johansen-Berg, H., et al. (2004). Advances in functional and structural MR image analysis and implementation as FSL. Neuroimage 23(Suppl. 1), S208&#x02013;S219.", 
+    "pmid": "15501092"
+  }, 
+  {
+    "text": " Snook, L., Plewes, C., and Beaulieu, C. (2007). Voxel based versus region of interest analysis in diffusion tensor imaging of neurodevelopment. Neuroimage 34, 243&#x02013;252.", 
+    "pmid": "17070704"
+  }, 
+  {
+    "text": " Song, S. K., Sun, S. W., Ramsbottom, M. J., Chang, C., Russell, J., and Cross, A. H. (2002). Dysmyelination revealed through MRI as increased radial (but unchanged axial) diffusion of water. Neuroimage 17, 1429&#x02013;1436.", 
+    "pmid": "12414282"
+  }, 
+  {
+    "text": " Stehling, M. K., Turner, R., and Mansfield, P. (1991). Echo-planar imaging: magnetic resonance imaging in a fraction of a second. Science 254, 43&#x02013;50.", 
+    "pmid": "1925560"
+  }, 
+  {
+    "text": " Sundgren, P. C., Dong, Q., Gomez-Hassan, D., Mukherji, S. K., Maly, P., and Welsh, R. (2004). Diffusion tensor imaging of the brain: review of clinical applications. Neuroradiology 46, 339&#x02013;350.", 
+    "pmid": "15103435"
+  }, 
+  {
+    "text": " Tang, C. Y., Friedman, J., Shungu, D., Chang, L., Ernst, T., Stewart, D., et al. (2007). Correlations between Diffusion Tensor Imaging (DTI) and Magnetic Resonance Spectroscopy (1H MRS) in schizophrenic patients and normal controls. BMC Psychiatry 7:25. doi: 10.1186/1471-244X-7-25", 
+    "pmid": "17578565"
+  }, 
+  {
+    "text": " Taylor, D. G., and Bushell, M. C. (1985). The spatial mapping of translational diffusion coefficients by the NMR imaging technique. Phys. Med. Biol. 30, 345&#x02013;349.", 
+    "pmid": "4001161"
+  }, 
+  {
+    "text": " Tensaouti, F., Lahlou, I., Clarisse, P., Lotterie, J. A., and Berry, I. (2011). Quantitative and reproducibility study of four tractography algorithms used in clinical routine. J. Magn. Reson. Imaging 34, 165&#x02013;172.", 
+    "pmid": "21618329"
+  }, 
+  {
+    "text": " Thomason, M. E., Dougherty, R. F., Colich, N. L., Perry, L. M., Rykhlevskaia, E. I., Louro, H. M., et al. (2010). COMT genotype affects prefrontal white matter pathways in children and adolescents. Neuroimage 53, 926&#x02013;934.", 
+    "pmid": "20083203"
+  }, 
+  {
+    "text": " Thomason, M. E., and Thompson, P. M. (2011). Diffusion imaging, white matter, and psychopathology. Annu. Rev. Clin. Psychol. 7, 63&#x02013;85.", 
+    "pmid": "21219189"
+  }, 
+  {
+    "text": " Tournier, J. D., Calamante, F., and Connelly, A. (2012). MRtrix: diffusion tractography in crossing fiber regions. Int. J. Imaging Syst. Technol. 22, 53&#x02013;66.", 
+    "pmid": "21182970"
+  }, 
+  {
+    "text": " Tournier, J. D., Mori, S., and Leemans, A. (2011). Diffusion tensor imaging and beyond. Magn. Reson. Med. 65, 1532&#x02013;1556.", 
+    "pmid": "21469191"
+  }, 
+  {
+    "text": " Toussaint, N., Souplet, J. C., and Fillard, P. (2007). &#x0201C;MedINRIA: medical image navigation and research tool by INRIA,&#x0201D; in Workshop on Interaction in Medical Image Analysis and Visualization (Brisbane, QLD)."
+  }, 
+  {
+    "text": " Truong, T. K., Chen, B., and Song, A. W. (2008). Integrated SENSE DTI with correction of susceptibility- and eddy current-induced geometric distortions. Neuroimage 40, 53&#x02013;58.", 
+    "pmid": "18187344"
+  }, 
+  {
+    "text": " Truong, T.-K., Chen, N.-K., and Song, A. W. (2011). Dynamic correction of artifacts due to susceptibility effects and time-varying eddy currents in diffusion tensor imaging. Neuroimage 57, 1343&#x02013;1347.", 
+    "pmid": "21689763"
+  }, 
+  {
+    "text": " Tuch, D. S. (2004). Q-ball imaging. Magn. Reson. Med. 52, 1358&#x02013;1372.", 
+    "pmid": "15562495"
+  }, 
+  {
+    "text": " Tuch, D. S., Reese, T. G., Wiegell, M. R., Makris, N., Belliveau, J. W., and Wedeen, V. J. (2002). High angular resolution diffusion imaging reveals intravoxel white matter fiber heterogeneity. Magn. Reson. Med. 48, 577&#x02013;582.", 
+    "pmid": "12353272"
+  }, 
+  {
+    "text": " Turner, R., Le Bihan, D., and Chesnick, A. S. (1991). Echo-planar imaging of diffusion and perfusion. Magn. Reson. Med. 19, 247&#x02013;253.", 
+    "pmid": "1881311"
+  }, 
+  {
+    "text": " Van Den Heuvel, M., Mandl, R., Luigjes, J., and Hulshoff Pol, H. (2008). Microstructural organization of the cingulum tract and the level of default mode functional connectivity. J. Neurosci. 28, 10844&#x02013;10851.", 
+    "pmid": "18945892"
+  }, 
+  {
+    "text": " Van Den Heuvel, M. P., Mandl, R. C., Kahn, R. S., and Hulshoff Pol, H. E. (2009). Functionally linked resting-state networks reflect the underlying structural connectivity architecture of the human brain. Hum. Brain Mapp. 30, 3127&#x02013;3141.", 
+    "pmid": "19235882"
+  }, 
+  {
+    "text": " Van Hecke, W., Leemans, A., De Backer, S., Jeurissen, B., Parizel, P. M., and Sijbers, J. (2010). Comparing isotropic and anisotropic smoothing for voxel-based DTI analyses: a simulation study. Hum. Brain Mapp. 31, 98&#x02013;114.", 
+    "pmid": "19593775"
+  }, 
+  {
+    "text": " Vilanova, A., Zhang, S., Kindlmann, G., and Laidlaw, D. (2006). &#x0201C;An introduction to visualization of diffusion tensor imaging and its applications,&#x0201D; in Visualization and Processing of Tensor Fields, eds J. Weickert and H. Hagen (Berlin, Heidelberg: Springer), 121&#x02013;153."
+  }, 
+  {
+    "text": " Voineskos, A. N., Rajji, T. K., Lobaugh, N. J., Miranda, D., Shenton, M. E., Kennedy, J. L., et al. (2012). Age-related decline in white matter tract integrity and cognitive performance: a DTI tractography and structural equation modeling study. Neurobiol. Aging 33, 21&#x02013;34.", 
+    "pmid": "20363050"
+  }, 
+  {
+    "text": " Vos, S. B., Jones, D. K., Jeurissen, B., Viergever, M. A., and Leemans, A. (2012). The influence of complex white matter architecture on the mean diffusivity in diffusion tensor MRI of the human brain. Neuroimage 59, 2208&#x02013;2216.", 
+    "pmid": "22005591"
+  }, 
+  {
+    "text": " Wakana, S., Caprihan, A., Panzenboeck, M. M., Fallon, J. H., Perry, M., Gollub, R. L., et al. (2007). Reproducibility of quantitative tractography methods applied to cerebral white matter. Neuroimage 36, 630&#x02013;644.", 
+    "pmid": "17481925"
+  }, 
+  {
+    "text": " Wakana, S., Jiang, H., Nagae-Poetscher, L. M., van Zijl, P. C., and Mori, S. (2004). Fiber tract-based atlas of human white matter anatomy. Radiology 230, 77&#x02013;87.", 
+    "pmid": "14645885"
+  }, 
+  {
+    "text": " Wang, J. J., Durazzo, T. C., Gazdzinski, S., Yeh, P. H., Mon, A., and Meyerhoff, D. J. (2009). MRSI and DTI: a multimodal approach for improved detection of white matter abnormalities in alcohol and nicotine dependence. NMR Biomed. 22, 516&#x02013;522.", 
+    "pmid": "19156697"
+  }, 
+  {
+    "text": " Wang, J. Y., Abdi, H., Bakhadirov, K., Diaz-Arrastia, R., and Devous, M. D. Sr. (2011). A comprehensive reliability assessment of quantitative diffusion tensor tractography. Neuroimage 60, 1127&#x02013;1138.", 
+    "pmid": "22227883"
+  }, 
+  {
+    "text": " Wang, R., Benner, T., Sorensen, A. G., and Wedeen, V. J. (2007). &#x0201C;Diffusion toolkit: a software package for diffusion imaging data processing and tractography,&#x0201D; in Proceedings of the International Society for Magnetic Resonance in Medicine (Berlin), 3720."
+  }, 
+  {
+    "text": " Wedeen, V. J., Rosene, D. L., Wang, R., Dai, G., Mortazavi, F., Hagmann, P., et al. (2012). The geometric structure of the brain fiber pathways. Science 335, 1628&#x02013;1634.", 
+    "pmid": "22461612"
+  }, 
+  {
+    "text": " Wedeen, V. J., Wang, R. P., Schmahmann, J. D., Benner, T., Tseng, W. Y., Dai, G., et al. (2008). Diffusion spectrum magnetic resonance imaging (DSI) tractography of crossing fibers. Neuroimage 41, 1267&#x02013;1277.", 
+    "pmid": "18495497"
+  }, 
+  {
+    "text": " Weinstein, D. M., Kindlmann, G. L., and Lundberg, E. C. (1999). &#x0201C;Tensorlines: advection-diffusion based propagation through diffusion tensor fields,&#x0201D; in Proceedings of the 10th IEEE Visualization 1999 Conference (VIS&#x00027;99) (San Francisco, CA: IEEE Computer Society)."
+  }, 
+  {
+    "text": " Westin, C. F., Maier, S. E., Mamata, H., Nabavi, A., Jolesz, F. A., and Kikinis, R. (2002). Processing and visualization for diffusion tensor MRI. Med. Image Anal. 6, 93&#x02013;108.", 
+    "pmid": "12044998"
+  }, 
+  {
+    "text": " White, T., Nelson, M., and Lim, K. O. (2008). Diffusion tensor imaging in psychiatric disorders. Top. Magn. Reson. Imaging 19, 97&#x02013;109.", 
+    "pmid": "19363432"
+  }, 
+  {
+    "text": " Wiegell, M. R., Larsson, H. B., and Wedeen, V. J. (2000). Fiber crossing in human brain depicted with diffusion tensor MR imaging. Radiology 217, 897&#x02013;903.", 
+    "pmid": "11110960"
+  }, 
+  {
+    "text": " Xing, D., Papadakis, N. G., Huang, C. L., Lee, V. M., Carpenter, T. A., and Hall, L. D. (1997). Optimised diffusion-weighting for measurement of apparent diffusion coefficient (ADC) in human brain. Magn. Reson. Imaging 15, 771&#x02013;784.", 
+    "pmid": "9309608"
+  }, 
+  {
+    "text": " Xu, D., Henry, R. G., Mukherjee, P., Carvajal, L., Miller, S. P., Barkovich, A. J., et al. (2004). Single-shot fast spin-echo diffusion tensor imaging of the brain and spine with head and phased array coils at 1.5 T and 3.0 T. Magn. Reson. Imaging 22, 751&#x02013;759.", 
+    "pmid": "15234443"
+  }, 
+  {
+    "text": " Xu, D., Mori, S., Shen, D., Van Zijl, P. C., and Davatzikos, C. (2003). Spatial normalization of diffusion tensor fields. Magn. Reson. Med. 50, 175&#x02013;182.", 
+    "pmid": "12815692"
+  }, 
+  {
+    "text": " Yakushev, I., Schreckenberger, M., Muller, M. J., Schermuly, I., Cumming, P., Stoeter, P., et al. (2011). Functional implications of hippocampal degeneration in early Alzheimer&#x00027;s disease: a combined DTI and PET study. Eur. J. Nucl. Med. Mol. Imaging 38, 2219&#x02013;2227.", 
+    "pmid": "21792570"
+  }, 
+  {
+    "text": " Yamada, K., Sakai, K., Akazawa, K., Yuen, S., and Nishimura, T. (2009). MR tractography: a review of its clinical applications. Magn. Reson. Med. Sci. 8, 165&#x02013;174.", 
+    "pmid": "20035125"
+  }, 
+  {
+    "text": " Yang, E., Nucifora, P. G., and Melhem, E. R. (2011). Diffusion MR imaging: basic principles. Neuroimaging Clin. N. Am. 21, 1&#x02013;25.", 
+    "pmid": "21477749"
+  }, 
+  {
+    "text": " Zalesky, A. (2011). Moderating registration misalignment in voxelwise comparisons of DTI data: a performance evaluation of skeleton projection. Magn. Reson. Imaging 29, 111&#x02013;125.", 
+    "pmid": "20933352"
+  }, 
+  {
+    "text": " Zhang, H., Yushkevich, P. A., and Gee, J. C. (2009). &#x0201C;DTI toolkit: a spatial normalization and atlas construction toolkit optimized for examining white matter morphometry using DTI data,&#x0201D; in International Society for Magnetic Resonance in Medicine (Honolulu, HI)."
+  }, 
+  {
+    "text": " Zhang, Y., Zhang, J., Oishi, K., Faria, A. V., Jiang, H., Li, X., et al. (2010). Atlas-guided tract reconstruction for automated and comprehensive examination of the white matter anatomy. Neuroimage 52, 1289&#x02013;1301.", 
+    "pmid": "20570617"
+  }, 
+  {
+    "text": " Zhou, Y., Qun, X., Qin, L. D., Qian, L. J., Cao, W. W., and Xu, J. R. (2011a). A primary study of diffusion tensor imaging-based histogram analysis in vascular cognitive impairment with no dementia. Clin. Neurol. Neurosurg. 113, 92&#x02013;97.", 
+    "pmid": "20947245"
+  }, 
+  {
+    "text": " Zhou, Z., Liu, W., Cui, J., Wang, X., Arias, D., Wen, Y., et al. (2011b). Automated artifact detection and removal for improved tensor estimation in motion-corrupted DTI data sets using the combination of local binary patterns and 2D partial least squares. Magn. Reson. Imaging 29, 230&#x02013;242.", 
+    "pmid": "21129881"
+  }, 
+  {
+    "text": " Zhu, T., Hu, R., Qiu, X., Taylor, M., Tso, Y., Yiannoutsos, C., et al. (2011). Quantification of accuracy and precision of multi-center DTI measurements: a diffusion phantom and human brain study. Neuroimage 56, 1398&#x02013;1411.", 
+    "pmid": "21316471"
+  }, 
+  {
+    "text": " Zhuang, J., Hrabe, J., Kangarlu, A., Xu, D., Bansal, R., Branch, C. A., et al. (2006). Correction of eddy-current distortions in diffusion tensor images using the known directions and strengths of diffusion gradients. J. Magn. Reson. Imaging 24, 1188&#x02013;1193.", 
+    "pmid": "17024663"
+  }, 
+  {
+    "text": " Zwiers, M. P. (2010). Patching cardiac and head motion artefacts in diffusion-weighted images. Neuroimage 53, 565&#x02013;575.", 
+    "pmid": "20600997"
+  }
+]
