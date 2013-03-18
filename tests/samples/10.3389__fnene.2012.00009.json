@@ -1,0 +1,376 @@
+[
+  {
+    "pyear": [
+      "2012"
+    ], 
+    "pubday": "25", 
+    "text": "Bregestovski, P., and Bernard, C. (2012). Excitatory GABA: how a correct observation may turn out to be an experimental artifact. Front. Pharmacol. 3:65.", 
+    "sponsors": [], 
+    "abstxt": "The concept of the excitatory action of GABA during early development is based on data obtained mainly in brain slice recordings. However, in vivo measurements as well as observations made in intact hippocampal preparations indicate that GABA is in fact inhibitory in rodents at early neonatal stages. The apparent excitatory action of GABA seems to stem from cellular injury due to the slicing procedure, which leads to accumulation of intracellular Cl(-) in injured neurons. This procedural artifact was shown to be attenuated through various manipulations such as addition of energy substrates more relevant to the in vivo situation. These observations question the very concept of excitatory GABA in immature neuronal networks.", 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Frontiers in pharmacology", 
+    "fpage": "65", 
+    "keywords": [], 
+    "pubyear": "2012", 
+    "auths": [
+      [
+        "Bregestovski", 
+        "Piotr"
+      ], 
+      [
+        "Bernard", 
+        "Christophe"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "Excitatory GABA: How a Correct Observation May Turn Out to be an Experimental Artifact.", 
+    "pmid": "22529813", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2012"
+    ], 
+    "pubday": "13", 
+    "text": "Hertz, L. (2012). Metabolic studies in brain slices &#x02013; past, present, and future. Front. Pharmacol. 3:26.", 
+    "sponsors": [], 
+    "abstxt": null, 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Frontiers in pharmacology", 
+    "fpage": "26", 
+    "keywords": [], 
+    "pubyear": "2012", 
+    "auths": [
+      [
+        "Hertz", 
+        "Leif"
+      ]
+    ], 
+    "pubmonth": "3", 
+    "article-title": "Metabolic studies in brain slices - past, present, and future.", 
+    "pmid": "22408619", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "11", 
+    "text": "Ivanov, A., and Zilberter, Y. (2011). Critical state of energy metabolism in brain slices: the principal role of oxygen delivery and energy substrates in shaping neuronal activity. Front. Neuroenergetics 3:9.", 
+    "sponsors": [], 
+    "abstxt": "The interactive vasculo-neuro-glial system controlling energy supply in the brain is absent in vitro where energy provision is determined by experimental conditions. Despite the fact that neuronal activity is extremely energy demanding, little has been reported on the state of energy metabolism in submerged brain slices. Without this information, the arbitrarily chosen oxygenation and metabolic provisions make questionable the efficient oxidative metabolism in slices. We show that in mouse hippocampal slices (postnatal day 19-44), evoked neuronal discharges, spontaneous network activity (initiated by 4-aminopyridine), and synaptic stimulation-induced NAD(P)H autofluorescence depend strongly on the oxygen availability. Only the rate of perfusion as high as ~15\u2009ml/min (95% O(2)) provided appropriate oxygenation of a slice. Lower oxygenation resulted in the decrease of both local field potentials and spontaneous network activity as well as in significant modulation of short-term synaptic plasticity. The reduced oxygen supply considerably inhibited the oxidation phase of NAD(P)H signaling indicating that the changes in neuronal activity were paralleled by the decrease in aerobic energy metabolism. Interestingly, the dependence of neuronal activity on oxygen tension was clearly shifted toward considerably larger pO(2) values in slices when compared to in vivo conditions. With sufficient pO(2) provided by a high perfusion rate, partial substitution of glucose in ACSF for \u03b2-hydroxybutyrate, pyruvate, or lactate enhanced both oxidative metabolism and synaptic function. This suggests that the high pO(2) in brain slices is compulsory for maintaining oxidative metabolism, and glucose alone is not sufficient in fulfilling energy requirements during neuronal activity. Altogether, our results demonstrate that energy metabolism determines the functional state of neuronal network, highlighting the need for the adequate metabolic support to be insured in the in vitro experiments.", 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Frontiers in neuroenergetics", 
+    "fpage": "9", 
+    "keywords": [], 
+    "pubyear": "2012", 
+    "auths": [
+      [
+        "Ivanov", 
+        "Anton"
+      ], 
+      [
+        "Zilberter", 
+        "Yuri"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Critical state of energy metabolism in brain slices: the principal role of oxygen delivery and energy substrates in shaping neuronal activity.", 
+    "pmid": "22232599", 
+    "pmonth": []
+  }, 
+  {
+    "text": "Kann, O. (2012). The energy demand of fast neuronal network oscillations: insights from brain slice preparations. Front. Pharmacol. 2:90."
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "20", 
+    "text": "Molnar, T., Heja, L., Emri, Z., Simon, A., Nyitrai, G., Pal, I., and Kardos, J. (2011). Activation of astroglial calcium signaling by endogenous metabolites succinate and gamma-hydroxybutyrate in the nucleus accumbens. Front. Neuroenergetics 3:7. doi: 10.3389/fnene.2011.00007", 
+    "sponsors": [], 
+    "abstxt": "Accumulating evidence suggests that different energy metabolites play a role not only in neuronal but also in glial signaling. Recently, astroglial Ca(2+) transients evoked by the major citric acid cycle metabolite succinate (SUC) and gamma-hydroxybutyrate (GHB) that enters the citric acid cycle via SUC have been described in the brain reward area, the nucleus accumbens (NAc). Cells responding to SUC by Ca(2+) transient constitute a subset of ATP-responsive astrocytes that are activated in a neuron-independent way. In this study we show that GHB-evoked Ca(2+) transients were also found to constitute a subset of ATP-responsive astrocytes in the NAc. Repetitive Ca(2+) dynamics evoked by GHB suggested that Ca(2+) was released from internal stores. Similarly to SUC, the GHB response was also characterized by an effective concentration of 50\u2009\u03bcM. We observed that the number of ATP-responsive cells decreased with increasing concentration of either SUC or GHB. Moreover, the concentration dependence of the number of ATP-responsive cells were highly identical as a function of both [SUC] and [GHB], suggesting a mutual receptor for SUC and GHB, therefore implying the existence of a distinct GHB-recognizing astroglial SUC receptor in the brain. The SUC-evoked Ca(2+) signal remained in mice lacking GABA(B) receptor type 1 subunit in the presence and absence of the N-Methyl-d-Aspartate (NMDA) receptor antagonist (2R)-amino-5-phosphonovaleric acid (APV), indicating action mechanisms independent of the GABA(B) or NMDA receptor subtypes. By molecular docking calculations we found that residues R99, H103, R252, and R281 of the binding crevice of the kidney SUC-responsive membrane receptor SUCNR1 (GPCR91) also predict interaction with GHB, further implying similar GHB and SUC action mechanisms. We conclude that the astroglial action of SUC and GHB may represent a link between brain energy states and Ca(2+) signaling in astrocytic networks.", 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Frontiers in neuroenergetics", 
+    "fpage": "7", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Moln\u00e1r", 
+        "T\u00fcnde"
+      ], 
+      [
+        "H\u00e9ja", 
+        "L\u00e1szl\u00f3"
+      ], 
+      [
+        "Emri", 
+        "Zsuzsa"
+      ], 
+      [
+        "Simon", 
+        "Agnes"
+      ], 
+      [
+        "Nyitrai", 
+        "Gabriella"
+      ], 
+      [
+        "P\u00e1l", 
+        "Ildik\u00f3"
+      ], 
+      [
+        "Kardos", 
+        "Julianna"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Activation of astroglial calcium signaling by endogenous metabolites succinate and gamma-hydroxybutyrate in the nucleus accumbens.", 
+    "pmid": "22180742", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2012"
+    ], 
+    "pubday": "18", 
+    "text": "Rho, J. M., and Stafstrom, C. E. (2012). The ketogenic diet as a treatment paradigm for diverse neurological disorders. Front. Pharmacol. 3:59. doi: 10.3389/fphar.2012.00059", 
+    "sponsors": [], 
+    "abstxt": "Dietary and metabolic therapies have been attempted in a wide variety of neurological diseases, including epilepsy, headache, neurotrauma, Alzheimer disease, Parkinson disease, sleep disorders, brain cancer, autism, pain, and multiple sclerosis. The impetus for using various diets to treat - or at least ameliorate symptoms of - these disorders stems from both a lack of effectiveness of pharmacological therapies, and also the intrinsic appeal of implementing a more &quot;natural&quot; treatment. The enormous spectrum of pathophysiological mechanisms underlying the aforementioned diseases would suggest a degree of complexity that cannot be impacted universally by any single dietary treatment. Yet, it is conceivable that alterations in certain dietary constituents could affect the course and impact the outcome of these brain disorders. Further, it is possible that a final common neurometabolic pathway might be influenced by a variety of dietary interventions. The most notable example of a dietary treatment with proven efficacy against a neurological condition is the high-fat, low-carbohydrate ketogenic diet (KD) used in patients with medically intractable epilepsy. While the mechanisms through which the KD works remain unclear, there is now compelling evidence that its efficacy is likely related to the normalization of aberrant energy metabolism. The concept that many neurological conditions are linked pathophysiologically to energy dysregulation could well provide a common research and experimental therapeutics platform, from which the course of several neurological diseases could be favorably influenced by dietary means. Here we provide an overview of studies using the KD in a wide panoply of neurologic disorders in which neuroprotection is an essential component.", 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Frontiers in pharmacology", 
+    "fpage": "59", 
+    "keywords": [], 
+    "pubyear": "2012", 
+    "auths": [
+      [
+        "Stafstrom", 
+        "Carl E"
+      ], 
+      [
+        "Rho", 
+        "Jong M"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "The ketogenic diet as a treatment paradigm for diverse neurological disorders.", 
+    "pmid": "22509165", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2012"
+    ], 
+    "pubday": "4", 
+    "text": "Ruskin, D. N., and Masino, S. A. (2012). The nervous system and metabolic dysregulation: emerging evidence converges on ketogenic diet therapy. Front. Neurosci. 6:33. doi: 10.3389/fnins.2012.00033", 
+    "sponsors": [], 
+    "abstxt": "A link between metabolism and brain function is clear. Since ancient times, epileptic seizures were noted as treatable with fasting, and historical observations of the therapeutic benefits of fasting on epilepsy were confirmed nearly 100\u00e2&euro;&permil;years ago. Shortly thereafter a high fat, low-carbohydrate ketogenic diet (KD) debuted as a therapy to reduce seizures. This strict regimen could mimic the metabolic effects of fasting while allowing adequate caloric intake for ongoing energy demands. Today, KD therapy, which forces predominantly ketone-based rather than glucose-based metabolism, is now well-established as highly successful in reducing seizures. Cellular metabolic dysfunction in the nervous system has been recognized as existing side-by-side with nervous system disorders - although often with much less obvious cause-and-effect as the relationship between fasting and seizures. Rekindled interest in metabolic and dietary therapies for brain disorders complements new insight into their mechanisms and broader implications. Here we describe the emerging relationship between a KD and adenosine as a way to reset brain metabolism and neuronal activity and disrupt a cycle of dysfunction. We also provide an overview of the effects of a KD on cognition and recent data on the effects of a KD on pain, and explore the relative time course quantified among hallmark metabolic changes, altered neuron function and altered animal behavior assessed after diet administration. We predict continued applications of metabolic therapies in treating dysfunction including and beyond the nervous system.", 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Frontiers in neuroscience", 
+    "fpage": "33", 
+    "keywords": [], 
+    "pubyear": "2012", 
+    "auths": [
+      [
+        "Ruskin", 
+        "David N"
+      ], 
+      [
+        "Masino", 
+        "Susan A"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "The nervous system and metabolic dysregulation: emerging evidence converges on ketogenic diet therapy.", 
+    "pmid": "22470316", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "26", 
+    "text": "Schurr, A., and Gozal, E. (2011). Aerobic production and utilization of lactate satisfy increased energy demands upon neuronal activation in hippocampal slices and provide neuroprotection against oxidative stress. Front. Pharmacol. 2:96. doi: 10.3389/fphar.2011.00096", 
+    "sponsors": [], 
+    "abstxt": "Ever since it was shown for the first time that lactate can support neuronal function in vitro as a sole oxidative energy substrate, investigators in the field of neuroenergetics have been debating the role, if any, of this glycolytic product in cerebral energy metabolism. Our experiments employed the rat hippocampal slice preparation with electrophysiological and biochemical methodologies. The data generated by these experiments (a) support the hypothesis that lactate, not pyruvate, is the end-product of cerebral aerobic glycolysis; (b) indicate that lactate plays a major and crucial role in affording neural tissue to respond adequately to glutamate excitation and to recover unscathed post-excitation; (c) suggest that neural tissue activation is accompanied by aerobic lactate and NADH production, the latter being produced when the former is converted to pyruvate by mitochondrial lactate dehydrogenase (mLDH); (d) imply that NADH can be utilized as an endogenous scavenger of reactive oxygen species (ROS) to provide neuroprotection against ROS-induced neuronal damage.", 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Frontiers in pharmacology", 
+    "fpage": "96", 
+    "keywords": [], 
+    "pubyear": "2012", 
+    "auths": [
+      [
+        "Schurr", 
+        "Avital"
+      ], 
+      [
+        "Gozal", 
+        "Evelyne"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Aerobic production and utilization of lactate satisfy increased energy demands upon neuronal activation in hippocampal slices and provide neuroprotection against oxidative stress.", 
+    "pmid": "22275901", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2012"
+    ], 
+    "pubday": "4", 
+    "text": "Shetty, P. K., Galeffi, F., and Turner, D. A. (2012). Cellular links between neuronal activity and energy homeostasis. Front. Pharmacol. 3:43. doi: 10.3389/fphar.2012.00043", 
+    "sponsors": [], 
+    "abstxt": "Neuronal activity, astrocytic responses to this activity, and energy homeostasis are linked together during baseline, conscious conditions, and short-term rapid activation (as occurs with sensory or motor function). Nervous system energy homeostasis also varies during long-term physiological conditions (i.e., development and aging) and with adaptation to pathological conditions, such as ischemia or low glucose. Neuronal activation requires increased metabolism (i.e., ATP generation) which leads initially to substrate depletion, induction of a variety of signals for enhanced astrocytic function, and increased local blood flow and substrate delivery. Energy generation (particularly in mitochondria) and use during ATP hydrolysis also lead to considerable heat generation. The local increases in blood flow noted following neuronal activation can both enhance local substrate delivery but also provides a heat sink to help cool the brain and removal of waste by-products. In this review we highlight the interactions between short-term neuronal activity and energy metabolism with an emphasis on signals and factors regulating astrocyte function and substrate supply.", 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Frontiers in pharmacology", 
+    "fpage": "43", 
+    "keywords": [], 
+    "pubyear": "2012", 
+    "auths": [
+      [
+        "Shetty", 
+        "Pavan K"
+      ], 
+      [
+        "Galeffi", 
+        "Francesca"
+      ], 
+      [
+        "Turner", 
+        "Dennis A"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "Cellular Links between Neuronal Activity and Energy Homeostasis.", 
+    "pmid": "22470340", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2012"
+    ], 
+    "pubday": "21", 
+    "text": "Urban, A., Rancillac, A., Martinez, L., and Rossier, J. (2012). Deciphering the neuronal circuitry controlling local blood flow in the cerebral cortex with optogenetics in PV: Cre transgenic mice. Front. Pharmacol. 3:105. doi: 10.3389/fphar.2012.00105", 
+    "sponsors": [], 
+    "abstxt": "Although it is know since more than a century that neuronal activity is coupled to blood supply regulation, the underlying pathways remains to be identified. In the brain, neuronal activation triggers a local increase of cerebral blood flow (CBF) that is controlled by the neurogliovascular unit composed of terminals of neurons, astrocytes, and blood vessel muscles. It is generally accepted that the regulation of the neurogliovascular unit is adjusted to local metabolic demand by local circuits. Today experimental data led us to realize that the regulatory mechanisms are more complex and that a neuronal system within the brain is devoted to the control of local brain-blood flow. Recent optogenetic experiments combined with functional magnetic resonance imaging have revealed that light stimulation of neurons expressing the calcium binding protein parvalbumin (PV) is associated with positive blood oxygen level-dependent (BOLD) signal in the corresponding barrel field but also with negative BOLD in the surrounding deeper area. Here, we demonstrate that in acute brain slices, channelrhodopsin-2 (ChR2) based photostimulation of PV containing neurons gives rise to an effective contraction of penetrating arterioles. These results support the neurogenic hypothesis of a complex distributed nervous system controlling the CBF.", 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Frontiers in pharmacology", 
+    "fpage": "105", 
+    "keywords": [], 
+    "pubyear": "2012", 
+    "auths": [
+      [
+        "Urban", 
+        "Alan"
+      ], 
+      [
+        "Rancillac", 
+        "Armelle"
+      ], 
+      [
+        "Martinez", 
+        "Lucie"
+      ], 
+      [
+        "Rossier", 
+        "Jean"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Deciphering the Neuronal Circuitry Controlling Local Blood Flow in the Cerebral Cortex with Optogenetics in PV::Cre Transgenic Mice.", 
+    "pmid": "22715327", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2012"
+    ], 
+    "pubday": "22", 
+    "text": "Venkateswaran, N., Sekhar, S., ThirupatchurSanjayasarathy, T., Krishnan, S. N., Kabaleeswaran, D. K., Ramanathan, S., Narayanasamy, N., Jagathrakshakan, S. S., and Vignesh, S. R. (2012). Energetics based spike generation of a single neuron: simulation results and analysis. Front. Neuroenergetics 4:2. doi: 10.3389/fnene.2012.00002", 
+    "sponsors": [], 
+    "abstxt": "Existing current based models that capture spike activity, though useful in studying information processing capabilities of neurons, fail to throw light on their internal functioning. It is imperative to develop a model that captures the spike train of a neuron as a function of its intracellular parameters for non-invasive diagnosis of diseased neurons. This is the first ever article to present such an integrated model that quantifies the inter-dependency between spike activity and intracellular energetics. The generated spike trains from our integrated model will throw greater light on the intracellular energetics than existing current models. Now, an abnormality in the spike of a diseased neuron can be linked and hence effectively analyzed at the energetics level. The spectral analysis of the generated spike trains in a time-frequency domain will help identify abnormalities in the internals of a neuron. As a case study, the parameters of our model are tuned for Alzheimer's disease and its resultant spike trains are studied and presented. This massive initiative ultimately aims to encompass the entire molecular signaling pathways of the neuronal bioenergetics linking it to the voltage spike initiation and propagation; due to the lack of experimental data quantifying the inter dependencies among the parameters, the model at this stage adopts a particular level of functionality and is shown as an approach to study and perform disease modeling at the spike train and the mitochondrial bioenergetics level.", 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Frontiers in neuroenergetics", 
+    "fpage": "2", 
+    "keywords": [], 
+    "pubyear": "2012", 
+    "auths": [
+      [
+        "Venkateswaran", 
+        "Nagarajan"
+      ], 
+      [
+        "Sekhar", 
+        "Sudarshan"
+      ], 
+      [
+        "Thirupatchur Sanjayasarathy", 
+        "Thiagarajan"
+      ], 
+      [
+        "Krishnan", 
+        "Sharath Navalpakkam"
+      ], 
+      [
+        "Kabaleeswaran", 
+        "Dinesh Kannan"
+      ], 
+      [
+        "Ramanathan", 
+        "Subbu"
+      ], 
+      [
+        "Narayanasamy", 
+        "Narendran"
+      ], 
+      [
+        "Jagathrakshakan", 
+        "Sharan Srinivas"
+      ], 
+      [
+        "Vignesh", 
+        "S R"
+      ]
+    ], 
+    "pubmonth": "2", 
+    "article-title": "Energetics based spike generation of a single neuron: simulation results and analysis.", 
+    "pmid": "22347180", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "24", 
+    "text": "Zilberter, T. (2011). Carbohydrate-biased control of energy metabolism: the darker side of the selfish brain. Front. Neuroenergetics 3:8. doi: 10.3389/fnene.2011.00008", 
+    "sponsors": [], 
+    "abstxt": null, 
+    "lpage": null, 
+    "grants": [], 
+    "journal-title": "Frontiers in neuroenergetics", 
+    "fpage": "8", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Zilberter", 
+        "Tanya"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Carbohydrate-biased control of energy metabolism: the darker side of the selfish brain.", 
+    "pmid": "22194720", 
+    "pmonth": []
+  }
+]

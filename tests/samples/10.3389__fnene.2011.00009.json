@@ -1,0 +1,2509 @@
+[
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "12", 
+    "text": "Abbott, N. J., Patabendige, A. A., Dolman, D. E., Yusof, S. R., and Begley, D. J. (2010). Structure and function of the blood-brain barrier. Neurobiol. Dis. 37, 13&#x02013;25.", 
+    "sponsors": [], 
+    "abstxt": "Neural signalling within the central nervous system (CNS) requires a highly controlled microenvironment. Cells at three key interfaces form barriers between the blood and the CNS: the blood-brain barrier (BBB), blood-CSF barrier and the arachnoid barrier. The BBB at the level of brain microvessel endothelium is the major site of blood-CNS exchange. The structure and function of the BBB is summarised, the physical barrier formed by the endothelial tight junctions, and the transport barrier resulting from membrane transporters and vesicular mechanisms. The roles of associated cells are outlined, especially the endfeet of astrocytic glial cells, and pericytes and microglia. The embryonic development of the BBB, and changes in pathology are described. The BBB is subject to short and long-term regulation, which may be disturbed in pathology. Any programme for drug discovery or delivery, to target or avoid the CNS, needs to consider the special features of the BBB.", 
+    "lpage": "25", 
+    "grants": [], 
+    "journal-title": "Neurobiology of disease", 
+    "fpage": "13", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Abbott", 
+        "N Joan"
+      ], 
+      [
+        "Patabendige", 
+        "Adjanie A K"
+      ], 
+      [
+        "Dolman", 
+        "Diana E M"
+      ], 
+      [
+        "Yusof", 
+        "Siti R"
+      ], 
+      [
+        "Begley", 
+        "David J"
+      ]
+    ], 
+    "pubmonth": "8", 
+    "article-title": "Structure and function of the blood-brain barrier.", 
+    "pmid": "19664713", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2005"
+    ], 
+    "pubday": "15", 
+    "text": "Andrews, Z. B., Diano, S., and Horvath, T. L. (2005). Mitochondrial uncoupling proteins in the CNS: in support of function and survival. Nat. Rev. Neurosci. 6, 829&#x02013;840.", 
+    "sponsors": [], 
+    "abstxt": "Mitochondrial uncoupling mediated by uncoupling protein 1 (UCP1) is classically associated with non-shivering thermogenesis by brown fat. Recent evidence indicates that UCP family proteins are also present in selected neurons. Unlike UCP1, these proteins (UCP2, UCP4 and BMCP1/UCP5) are not constitutive uncouplers and are not crucial for non-shivering thermogenesis. However, they can be activated by free radicals and free fatty acids, and their activity has a profound influence on neuronal function. By regulating mitochondrial biogenesis, calcium flux, free radical production and local temperature, neuronal UCPs can directly influence neurotransmission, synaptic plasticity and neurodegenerative processes. Insights into the regulation and function of these proteins offer unsuspected avenues for a better understanding of synaptic transmission and neurodegeneration.", 
+    "lpage": "840", 
+    "grants": [], 
+    "journal-title": "Nature reviews. Neuroscience", 
+    "fpage": "829", 
+    "keywords": [], 
+    "pubyear": "2005", 
+    "auths": [
+      [
+        "Andrews", 
+        "Zane B"
+      ], 
+      [
+        "Diano", 
+        "Sabrina"
+      ], 
+      [
+        "Horvath", 
+        "Tamas L"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Mitochondrial uncoupling proteins in the CNS: in support of function and survival.", 
+    "pmid": "16224498", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "31", 
+    "text": "Barros, L. F., Bittner, C. X., Loaiza, A., and Porras, O. H. (2007). A quantitative overview of glucose dynamics in the gliovascular unit. Glia 55, 1222&#x02013;1237.", 
+    "sponsors": [
+      "FIC"
+    ], 
+    "abstxt": "While glucose is constantly being &quot;pulled&quot; into the brain by hexokinase, its flux across the blood brain barrier (BBB) is allowed by facilitative carriers of the GLUT family. Starting from the microscopic properties of GLUT carriers, and within the constraints imposed by the available experimental data, chiefly NMR spectroscopy, we have generated a numerical model that reveals several hidden features of glucose transport and metabolism in the brain. The half-saturation constant of glucose uptake into the brain (K(t)) is close to 8 mM. GLUT carriers at the BBB are symmetric, show accelerated-exchange, and a K(m) of zero-trans flux (K(zt)) close to 5 mM, determining a ratio of 3.6 between maximum transport rate and net glucose flux (T(max)/CMR(glc)). In spite of the low transporter occupancy, the model shows that for a stimulated hexokinase to pull more glucose into the brain, the number or activity of GLUT carriers must also increase, particularly at the BBB. The endothelium is therefore predicted to be a key modulated element for the fast control of energy metabolism. In addition, the simulations help to explain why mild hypoglycemia may be asymptomatic and reveal that [glucose](brain) (as measured by NMR) should be much more sensitive than glucose flux (as measured by PET) as an indicator of GLUT1 deficiency. In summary, available data from various sources has been integrated in a predictive model based on the microscopic properties of GLUT carriers.", 
+    "lpage": "1237", 
+    "grants": [
+      "R03 TW007024-01A1"
+    ], 
+    "journal-title": "Glia", 
+    "fpage": "1222", 
+    "keywords": [], 
+    "pubyear": "2007", 
+    "auths": [
+      [
+        "Barros", 
+        "L F"
+      ], 
+      [
+        "Bittner", 
+        "Carla X"
+      ], 
+      [
+        "Loaiza", 
+        "Anitsi"
+      ], 
+      [
+        "Porras", 
+        "Omar H"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "A quantitative overview of glucose dynamics in the gliovascular unit.", 
+    "pmid": "17659523", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1980"
+    ], 
+    "pubday": "1", 
+    "text": "Benjamin, A. M., and Verjee, Z. H. (1980). Control of aerobic glycolysis in the brain in vitro. Neurochem. Res. 5, 921&#x02013;934.", 
+    "sponsors": [], 
+    "abstxt": "Protoveratrine-(5 microM) stimulated aerobic glycolysis of incubated rat brain cortex slices that accompanies the enhanced neuronal influx of Na+ is blocked by tetrodotoxin (3 microM) and the local anesthetics, cocaine (0.1 mM) and lidocaine (0.5 mM). On the other hand, high [K+]-stimulated aerobic glycolysis that accompanies the acetylcholine-sensitive enhanced glial uptakes of Na+ and water is unaffected by acetylcholine (2 mM). Experiments done under a variety of metabolic conditions show that there exists a better correlation between diminished ATP content of the tissue and enhanced aerobic glycolysis than between tissue ATP and the ATP-dependent synthesis of glutamine. Whereas malonate (2 mM) and amino oxyacetate (5 mM) suppress ATP content and O2 uptake, stimulate lactate formation, but have little effect on glutamine levels, fluoroacetate (3 mM) suppresses glutamine synthesis in glia, presumably by suppressing the operation of the citric acid cycle, with little effect on ATP content, O2 uptake, and lactate formation. Exogenous citrate (5 mM), which may be transported and metabolized in glia but not in neurons, inhibits lactate formation by cell free acetone-dried powder extracts of brain cortex but not by brain cortex slices. These results suggest that the neuron is the major site of stimulated aerobic glycolysis in the brain, and that under our experimental conditions glycolysis in glia is under lesser stringent metabolic control than that in the neuron. Stimulation of aerobic glycolysis by protoveratrine occurs due to diminution of the energy charge of the neuron as a result of stimulation of the sodium pump following tetrodotoxin-sensitive influx of Na+; stimulation by high [K+], NH4+, or Ca2+ deprivation occurs partly by direct stimulation of key enzymes of glycolysis and partly by a fall in the tissue ATP concentration.", 
+    "lpage": "934", 
+    "grants": [], 
+    "journal-title": "Neurochemical research", 
+    "fpage": "921", 
+    "keywords": [], 
+    "pubyear": "1980", 
+    "auths": [
+      [
+        "Benjamin", 
+        "A M"
+      ], 
+      [
+        "Verjee", 
+        "Z H"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Control of aerobic glycolysis in the brain in vitro.", 
+    "pmid": "7207696", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "17", 
+    "text": "Bolanos, J. P., Almeida, A., and Moncada, S. (2010). Glycolysis: a bioenergetic or a survival pathway? Trends Biochem. Sci. 35, 145&#x02013;149.", 
+    "sponsors": [], 
+    "abstxt": "Following inhibition of mitochondrial respiration neurons die rapidly, whereas astrocytes utilize glycolytically-generated ATP to increase their mitochondrial membrane potential, thus becoming more resistant to pro-apoptotic stimuli. Neurons are unable to increase glycolysis due to the lack of activity of the glycolysis-promoting enzyme 6-phosphofructo-2-kinase/fructose 2,6-bisphosphatase, isoform 3 (PFKFB3). In neurons, PFKFB3 is degraded constantly via the E3 ubiquitin ligase anaphase-promoting complex/cyclosome (APC/C)- CDH1. Glucose metabolism in neurons is directed mainly to the pentose phosphate pathway, leading to regeneration of reduced glutathione. In addition to their relevance to brain physiology and pathophysiology, these observations suggest that APC/C-CDH1 might link activation of glycolysis and cell proliferation as it is also involved in the regulation of cell cycle proteins.", 
+    "lpage": "149", 
+    "grants": [], 
+    "journal-title": "Trends in biochemical sciences", 
+    "fpage": "145", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Bola\u5358os", 
+        "Juan P"
+      ], 
+      [
+        "Almeida", 
+        "Angeles"
+      ], 
+      [
+        "Moncada", 
+        "Salvador"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Glycolysis: a bioenergetic or a survival pathway?", 
+    "pmid": "20006513", 
+    "pmonth": [
+      "Mar"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2009"
+    ], 
+    "pubday": "22", 
+    "text": "Castro, M. A., Beltran, F. A., Brauchi, S., and Concha, I. I. (2009). A metabolic switch in brain: glucose and lactate metabolism modulation by ascorbic acid. J. Neurochem. 110, 423&#x02013;440.", 
+    "sponsors": [], 
+    "abstxt": "In this review, we discuss a novel function of ascorbic acid in brain energetics. It has been proposed that during glutamatergic synaptic activity neurons preferably consume lactate released from glia. The key to this energetic coupling is the metabolic activation that occurs in astrocytes by glutamate and an increase in extracellular [K(+)]. Neurons are cells well equipped to consume glucose because they express glucose transporters and glycolytic and tricarboxylic acid cycle enzymes. Moreover, neuronal cells express monocarboxylate transporters and lactate dehydrogenase isoenzyme 1, which is inhibited by pyruvate. As glycolysis produces an increase in pyruvate concentration and a decrease in NAD(+)/NADH, lactate and glucose consumption are not viable at the same time. In this context, we discuss ascorbic acid participation as a metabolic switch modulating neuronal metabolism between rest and activation periods. Ascorbic acid is highly concentrated in CNS. Glutamate stimulates ascorbic acid release from astrocytes. Ascorbic acid entry into neurons and within the cell can inhibit glucose consumption and stimulate lactate transport. For this switch to occur, an ascorbic acid flow is necessary between astrocytes and neurons, which is driven by neural activity and is part of vitamin C recycling. Here, we review the role of glucose and lactate as metabolic substrates and the modulation of neuronal metabolism by ascorbic acid.", 
+    "lpage": "440", 
+    "grants": [], 
+    "journal-title": "Journal of neurochemistry", 
+    "fpage": "423", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Castro", 
+        "Maite A"
+      ], 
+      [
+        "Beltr\u00e1n", 
+        "Felipe A"
+      ], 
+      [
+        "Brauchi", 
+        "Sebasti\u00e1n"
+      ], 
+      [
+        "Concha", 
+        "Ilona I"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "A metabolic switch in brain: glucose and lactate metabolism modulation by ascorbic acid.", 
+    "pmid": "19457103", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2000"
+    ], 
+    "pubday": "24", 
+    "text": "Coelho, J. E., De Mendonca, A., and Ribeiro, J. A. (2000). Presynaptic inhibitory receptors mediate the depression of synaptic transmission upon hypoxia in rat hippocampal slices. Brain Res. 869, 158&#x02013;165.", 
+    "sponsors": [], 
+    "abstxt": "Hypoxia markedly depresses synaptic transmission in hippocampal slices of the rat. This depression is attributed to presynaptic inhibition of glutamate release and is largely mediated by adenosine released during hypoxia acting through presynaptic adenosine A(1) receptors. Paired pulse facilitation studies allowed us to confirm the presynaptic nature of the depression of synaptic transmission during hypoxia. We tested the hypothesis that activation of heterosynaptic inhibitory receptors localized in glutamatergic presynaptic terminals in the hippocampus, namely gamma-aminobutyric acid subtype B (GABA(B)) receptors, alpha(2)-adrenergic receptors, and muscarinic receptors might contribute to the hypoxia-induced depression of synaptic transmission. Field excitatory postsynaptic potentials were recorded in the CA1 area of hippocampal slices from young adult (5-6 weeks) Wistar rats. Neither the selective antagonist for alpha(2)-adrenergic receptors, rauwolscine (10 microM), nor the antagonist for the GABA(B) receptors, CGP 55845 (10 microM), modified the response to hypoxia. The selective adenosine A(1) receptor antagonist, DPCPX (50 nM), reduced the hypoxia-induced depression of synaptic transmission to 59.2+/-9.6%, and the muscarinic receptor antagonist, atropine (10 microM), in the presence of DPCPX (50 nM), further attenuated the depression of synaptic transmission to 49.4+/-8.0%. In the same experimental conditions, in the presence of DPCPX (50 nM), the muscarinic M(2) receptor antagonist AF-DX 116 (10 microM), but not the M(1) receptor antagonist pirenzepine (1 microM), also attenuated the hypoxia-induced depression to 41.6+/-6.6%. Activation of muscarinic M(2) receptors contributes to the depression of synaptic transmission upon hypoxia. This effect should assume particular relevance during prolonged periods of hypoxia when other mechanisms may become less efficient.", 
+    "lpage": "165", 
+    "grants": [], 
+    "journal-title": "Brain research", 
+    "fpage": "158", 
+    "keywords": [], 
+    "pubyear": "2000", 
+    "auths": [
+      [
+        "Coelho", 
+        "J E"
+      ], 
+      [
+        "de Mendon\u0e23\u0e07a", 
+        "A"
+      ], 
+      [
+        "Ribeiro", 
+        "J A"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Presynaptic inhibitory receptors mediate the depression of synaptic transmission upon hypoxia in rat hippocampal slices.", 
+    "pmid": "10865070", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2005"
+    ], 
+    "pubday": "25", 
+    "text": "Demchenko, I. T., Luchakov, Y. I., Moskvin, A. N., Gutsaeva, D. R., Allen, B. W., Thalmann, E. D., and Piantadosi, C. A. (2005). Cerebral blood flow and brain oxygenation in rats breathing oxygen under pressure. J. Cereb. Blood Flow Metab. 25, 1288&#x02013;1300.", 
+    "sponsors": [
+      "NHLBI"
+    ], 
+    "abstxt": "Hyperbaric oxygen (HBO(2)) increases oxygen tension (PO(2)) in blood but reduces blood flow by means of O(2)-induced vasoconstriction. Here we report the first quantitative evaluation of these opposing effects on tissue PO(2) in brain, using anesthetized rats exposed to HBO(2) at 2 to 6 atmospheres absolute (ATA). We assessed the contribution of regional cerebral blood flow (rCBF) to brain PO(2) as inspired PO(2) (PiO(2)) exceeds 1 ATA. We measured rCBF and local PO(2) simultaneously in striatum using collocated platinum electrodes. Cerebral blood flow was computed from H(2) clearance curves in vivo and PO(2) from electrodes calibrated in vitro, before and after insertion. Arterial PCO(2) was controlled, and body temperature, blood pressure, and EEG were monitored. Scatter plots of rCBF versus PO(2) were nonlinear (R(2)=0.75) for rats breathing room air but nearly linear (R(2)=0.88-0.91) for O(2) at 2 to 6 ATA. The contribution of rCBF to brain PO(2) was estimated at constant inspired PO(2), by increasing rCBF with acetazolamide (AZA) or decreasing it with N-nitro-L-arginine methyl ester (L-NAME). At basal rCBF (78 mL/100 g min), local PO(2) increased 7- to 33-fold at 2 to 6 ATA, compared with room air. A doubling of rCBF increased striatal PO(2) not quite two-fold in rats breathing room air but 13- to 64-fold in those breathing HBO(2) at 2 to 6 ATA. These findings support our hypothesis that HBO(2) increases PO(2) in brain in direct proportion to rCBF.", 
+    "lpage": "1300", 
+    "grants": [
+      "HL 42444-10"
+    ], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "1288", 
+    "keywords": [], 
+    "pubyear": "2005", 
+    "auths": [
+      [
+        "Demchenko", 
+        "Ivan T"
+      ], 
+      [
+        "Luchakov", 
+        "Yuriy I"
+      ], 
+      [
+        "Moskvin", 
+        "Alexander N"
+      ], 
+      [
+        "Gutsaeva", 
+        "Diana R"
+      ], 
+      [
+        "Allen", 
+        "Barry W"
+      ], 
+      [
+        "Thalmann", 
+        "Edward D"
+      ], 
+      [
+        "Piantadosi", 
+        "Claude A"
+      ]
+    ], 
+    "pubmonth": "3", 
+    "article-title": "Cerebral blood flow and brain oxygenation in rats breathing oxygen under pressure.", 
+    "pmid": "15789033", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1996"
+    ], 
+    "pubday": "12", 
+    "text": "Erecinska, M., Nelson, D., and Silver, I. A. (1996). Metabolic and energetic properties of isolated nerve ending particles (synaptosomes). Biochim. Biophys. Acta 1277, 13&#x02013;34.", 
+    "sponsors": [
+      "NINDS"
+    ], 
+    "abstxt": null, 
+    "lpage": "34", 
+    "grants": [
+      "NS 28329"
+    ], 
+    "journal-title": "Biochimica et biophysica acta", 
+    "fpage": "13", 
+    "keywords": [], 
+    "pubyear": "1996", 
+    "auths": [
+      [
+        "Ereci\u0139&bdquo;ska", 
+        "M"
+      ], 
+      [
+        "Nelson", 
+        "D"
+      ], 
+      [
+        "Silver", 
+        "I A"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "Metabolic and energetic properties of isolated nerve ending particles (synaptosomes).", 
+    "pmid": "8950370", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "24", 
+    "text": "Erecinska, M., and Silver, I. A. (2001). Tissue oxygen tension and brain sensitivity to hypoxia. Respir. Physiol. 128, 263&#x02013;276.", 
+    "sponsors": [], 
+    "abstxt": "Mammalian brain is a highly oxidative organ and although it constitutes only a small fraction of total body weight it accounts for a disproportionately large percentage of bodily oxygen consumption (in humans about 2 and 20%, respectively). Yet, the partial pressure and concentration of oxygen in the brain are low and non-uniform. There is a large number of enzymes that use O(2) as a substrate, the most important of which is cytochrome c oxidase, the key to mitochondrial ATP production. The affinity of cytochrome c oxidase for oxygen is very high, which under normal conditions ensures undiminished activity of oxidative phosphorylation down to very low P(O(2)). By contrast, many other relevant enzymes have K(m) values for oxygen within, or above, the ambient cerebral gas tension, thus making their operations very dependent on oxygen level in the physiological range. Among its multiple, versatile functions, oxygen partial pressure and concentration control production of reactive oxygen species, expression of genes and functions of ion channels. Limitation of oxygen supply to the brain below a 'critical' level reduces, and eventually blocks oxidative phosphorylation, drastically decreases cellular (ATP) and leads to a collapse of ion gradients. Neuronal activity ceases and if oxygen is not re-introduced quickly, cells die. The object of this review is to discuss briefly the central oxygen-dependent processes in mammalian brain and the short-term consequences of O(2) deprivation, but not the mechanisms of long-term adaptation to chronic hypoxia. Particular emphasis is placed on issues which have been the focus of recent attention and/or controversy.", 
+    "lpage": "276", 
+    "grants": [], 
+    "journal-title": "Respiration physiology", 
+    "fpage": "263", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Ereci\u0139&bdquo;ska", 
+        "M"
+      ], 
+      [
+        "Silver", 
+        "I A"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "Tissue oxygen tension and brain sensitivity to hypoxia.", 
+    "pmid": "11718758", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1990"
+    ], 
+    "pubday": "1", 
+    "text": "Feig, S., and Lipton, P. (1990). N-methyl-D-aspartate receptor activation and Ca2&#43; account for poor pyramidal cell structure in hippocampal slices. J. Neurochem. 55, 473&#x02013;483.", 
+    "sponsors": [], 
+    "abstxt": "The CA1 pyramidal cells appear damaged in micrographs of guinea pig hippocampal slices incubated in normal physiological buffer at 36-37 degrees C. This is remedied if slices are incubated in modified buffers for the first 45 min. Cell morphology is improved if this buffer is devoid of added Ca2+ and much improved if it contains N-methyl-D-aspartate (NMDA) receptor antagonists or 0 mM Ca2+ and 10 mM Mg2+. The cells then appear similar to CA1 pyramidal cells in situ. These findings support the notion that NMDA receptor activation and Ca2+, acting in the period immediately after slice preparation, permanently damage CA1 pyramidal cells in vitro.", 
+    "lpage": "483", 
+    "grants": [], 
+    "journal-title": "Journal of neurochemistry", 
+    "fpage": "473", 
+    "keywords": [], 
+    "pubyear": "1990", 
+    "auths": [
+      [
+        "Feig", 
+        "S"
+      ], 
+      [
+        "Lipton", 
+        "P"
+      ]
+    ], 
+    "pubmonth": "8", 
+    "article-title": "N-methyl-D-aspartate receptor activation and Ca2+ account for poor pyramidal cell structure in hippocampal slices.", 
+    "pmid": "2164568", 
+    "pmonth": [
+      "Aug"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1998"
+    ], 
+    "pubday": "22", 
+    "text": "Fisahn, A., Pike, F. G., Buhl, E. H., and Paulsen, O. (1998). Cholinergic induction of network oscillations at 40 Hz in the hippocampus in vitro. Nature 394, 186&#x02013;189.", 
+    "sponsors": [
+      "Wellcome Trust"
+    ], 
+    "abstxt": "Acetylcholine is vital for cognitive functions of the brain. Although its actions in the individual cell are known in some detail, its effects at the network level are poorly understood. The hippocampus, which receives a major cholinergic input from the medial septum/diagonal band, is important in memory and exhibits network activity at 40 Hz during relevant behaviours. Here we show that cholinergic activation is sufficient to induce 40-Hz network oscillations in the hippocampus in vitro. Oscillatory activity is generated spontaneously in the CA3 subfield and can persist for hours. During the oscillatory state, principal neurons fire action potentials that are phase-related to the extracellular oscillation, but each neuron fires in only a small proportion of the cycles. Both excitatory and inhibitory synaptic events participate during the network oscillation in a precise temporal pattern. These results indicate that subcortical cholinergic input can control hippocampal memory processing by inducing fast network oscillations.", 
+    "lpage": "189", 
+    "grants": [], 
+    "journal-title": "Nature", 
+    "fpage": "186", 
+    "keywords": [], 
+    "pubyear": "1998", 
+    "auths": [
+      [
+        "Fisahn", 
+        "A"
+      ], 
+      [
+        "Pike", 
+        "F G"
+      ], 
+      [
+        "Buhl", 
+        "E H"
+      ], 
+      [
+        "Paulsen", 
+        "O"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Cholinergic induction of network oscillations at 40 Hz in the hippocampus in vitro.", 
+    "pmid": "9671302", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2001"
+    ], 
+    "pubday": "27", 
+    "text": "Fleidervish, I. A., Gebhardt, C., Astman, N., Gutnick, M. J., and Heinemann, U. (2001). Enhanced spontaneous transmitter release is the earliest consequence of neocortical hypoxia that can explain the disruption of normal circuit function. J. Neurosci. 21, 4600&#x02013;4608.", 
+    "sponsors": [], 
+    "abstxt": "After the onset of an acute episode of arrested circulation to the brain and consequent cerebral hypoxia, EEG changes and modifications of consciousness ensue within seconds. This in part reflects the rapid effect of hypoxia on the neocortex, where oxygen deprivation leads to impaired neuronal excitability and abnormal synaptic transmission. To identify the cellular mechanisms responsible for the earliest changes in neocortical function and to determine their time course, we have used patch-in-slice recording techniques to investigate the effects of acute hypoxia on the synaptic and intrinsic properties of layer 5 neurons. Coronal slices of mouse somatosensory cortex were maintained at 37 degrees C and challenged with episodes of hypoxia (3-4 min of exposure to 95% N(2), 5% CO(2)). In recordings with cell-attached patch electrodes, activation of ATP-sensitive potassium channels first became detectable 211 +/- 11 sec (range, 185-240 sec; n = 6 patches) after the onset of hypoxia. Similar recording techniques revealed no alterations in the properties of Na(+) currents in the first 4 min after the onset of hypoxia. The earliest hypoxia-induced disturbance was a marked increase in the frequency of spontaneous EPSCs and IPSCs, which began within 15-30 sec of the removal of oxygen. This rapid synaptic effect was not sensitive to TTX and was present in Ca(2+)-free perfusate, indicating that the hypoxia had a direct influence on the vesicular release mechanisms. The incoherent, massive increase in miniature PSCs would be expected to deplete the readily releasable pool of vesicles in cortical terminals, and to thereby markedly distort the neuronal interactions that underlie normal circuit function.", 
+    "lpage": "4608", 
+    "grants": [], 
+    "journal-title": "The Journal of neuroscience : the official journal of the Society for Neuroscience", 
+    "fpage": "4600", 
+    "keywords": [], 
+    "pubyear": "2001", 
+    "auths": [
+      [
+        "Fleidervish", 
+        "I A"
+      ], 
+      [
+        "Gebhardt", 
+        "C"
+      ], 
+      [
+        "Astman", 
+        "N"
+      ], 
+      [
+        "Gutnick", 
+        "M J"
+      ], 
+      [
+        "Heinemann", 
+        "U"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Enhanced spontaneous transmitter release is the earliest consequence of neocortical hypoxia that can explain the disruption of normal circuit function.", 
+    "pmid": "11425888", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2005"
+    ], 
+    "pubday": "20", 
+    "text": "Foster, K. A., Beaver, C. J., and Turner, D. A. (2005). Interaction between tissue oxygen tension and NADH imaging during synaptic stimulation and hypoxia in rat hippocampal slices. Neuroscience 132, 645&#x02013;657.", 
+    "sponsors": [
+      "NINDS"
+    ], 
+    "abstxt": "Oxygen and NADH are essential components in the production of ATP in the CNS. This study examined the dynamic interaction between tissue oxygen tension (pO(2)) and NADH imaging changes within hippocampal tissue slices, during metabolic stresses including hypoxia and synaptic activation. The initiation of abrupt hypoxia (from 95% O(2) to 95% N(2)) caused a rapid decrease in pO(2), onset of hypoxic spreading depression (hsd; at 6.7+/-1.3 mm Hg; n=15), and a monophasic increase in NADH. Provided that reoxygenation was prompt, synaptic responses, pO(2) and NADH levels returned to baseline following hsd. Longer hypoxia caused irreversible neuronal dysfunction, an increase in pO(2) beyond baseline (due to decreased tissue demand), and hyperoxidation of NADH (10+/-2% decrease below baseline; n=7). Synaptic activation in ambient 95% O(2) caused a decrease or 'initial dip' in pO(2) and a biphasic NADH response (oxidation followed by reduction). The oxidizing phase of the NADH response was mitochondrial as it was synchronous with the 'initial' dip in pO(2). Following slow graded reductions in ambient oxygen levels to 8%, four of seven slices developed hsd following synaptic stimulation. The hypoxic threshold for graded oxygen reductions occurred at 7.9+/-5.8 mm Hg O(2) (n=7). Our hypoxic threshold range (6.7-7.9 mm Hg O(2) from abrupt and graded oxygen reduction, respectively) correlates well with reported in vivo values of &lt;12 mm Hg O(2). The major findings of this study include: 1) determination of the critical physiological threshold of pO(2) (based upon hsd), which is a marker of imminent neuronal death if oxygen is not rapidly restored; 2) NADH hyperoxidation and an increase in pO(2) beyond baseline levels following longer periods of hypoxia; and 3) the occurrence of a pO(2) 'dip' during synaptic stimulation, which correlates with the early oxidizing phase of the biphasic NADH response.", 
+    "lpage": "657", 
+    "grants": [
+      "NS45304"
+    ], 
+    "journal-title": "Neuroscience", 
+    "fpage": "645", 
+    "keywords": [], 
+    "pubyear": "2005", 
+    "auths": [
+      [
+        "Foster", 
+        "K A"
+      ], 
+      [
+        "Beaver", 
+        "C J"
+      ], 
+      [
+        "Turner", 
+        "D A"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "Interaction between tissue oxygen tension and NADH imaging during synaptic stimulation and hypoxia in rat hippocampal slices.", 
+    "pmid": "15837126", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "2006"
+    ], 
+    "pubday": "22", 
+    "text": "Foster, K. A., Galeffi, F., Gerich, F. J., Turner, D. A., and Muller, M. (2006). Optical and pharmacological tools to investigate the role of mitochondria during oxidative stress and neurodegeneration. Prog. Neurobiol. 79, 136&#x02013;171.", 
+    "sponsors": [
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS"
+    ], 
+    "abstxt": "Mitochondria are critical for cellular adenosine triphosphate (ATP) production; however, recent studies suggest that these organelles fulfill a much broader range of tasks. For example, they are involved in the regulation of cytosolic Ca(2+) levels, intracellular pH and apoptosis, and are the major source of reactive oxygen species (ROS). Various reactive molecules that originate from mitochondria, such as ROS, are critical in pathological events, such as ischemia, as well as in physiological events such as long-term potentiation, neuronal-vascular coupling and neuronal-glial interactions. Due to their key roles in the regulation of several cellular functions, the dysfunction of mitochondria may be critical in various brain disorders. There has been increasing interest in the development of tools that modulate mitochondrial function, and the refinement of techniques that allow for real time monitoring of mitochondria, particularly within their intact cellular environment. Innovative imaging techniques are especially powerful since they allow for mitochondrial visualization at high resolution, tracking of mitochondrial structures and optical real time monitoring of parameters of mitochondrial function. The techniques discussed include classic imaging techniques, such as rhodamine-123, the highly advanced semi-conductor nanoparticles (quantum dots), and wide field microscopy as well as high-resolution multiphoton imaging. We have highlighted the use of these techniques to study mitochondrial function in brain tissue and have included studies from our laboratories in which these techniques have been successfully applied.", 
+    "lpage": "171", 
+    "grants": [
+      "R01 NS051856-01", 
+      "R01 NS051856-03", 
+      "R21 NS045304-02", 
+      "R21 NS45304"
+    ], 
+    "journal-title": "Progress in neurobiology", 
+    "fpage": "136", 
+    "keywords": [], 
+    "pubyear": "2006", 
+    "auths": [
+      [
+        "Foster", 
+        "Kelley A"
+      ], 
+      [
+        "Galeffi", 
+        "Francesca"
+      ], 
+      [
+        "Gerich", 
+        "Florian J"
+      ], 
+      [
+        "Turner", 
+        "Dennis A"
+      ], 
+      [
+        "M\u7aefller", 
+        "Michael"
+      ]
+    ], 
+    "pubmonth": "8", 
+    "article-title": "Optical and pharmacological tools to investigate the role of mitochondria during oxidative stress and neurodegeneration.", 
+    "pmid": "16920246", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "3", 
+    "text": "Frenguelli, B. G., Llaudet, E., and Dale, N. (2003). High-resolution real-time recording with microelectrode biosensors reveals novel aspects of adenosine release during hypoxia in rat hippocampal slices. J. Neurochem. 86, 1506&#x02013;1515.", 
+    "sponsors": [], 
+    "abstxt": "We have used improved miniaturized adenosine biosensors to measure adenosine release during hypoxia from within the CA1 region of rat hippocampal slices. These microelectrode biosensors record from the extracellular space in the vicinity of active synapses as they detect the synaptic field potentials evoked in area CA1 by stimulation of the afferent Schaffer collateral-commissural fibre pathway. Our new measurements demonstrate the rapid production of adenosine during hypoxia that precedes and accompanies depression of excitatory transmission within area CA1. Simultaneous measurement of adenosine release and synaptic transmission gives an estimated IC50 for adenosine on transmission in the low micromolar range. However, on reoxygenation, synaptic transmission recovers in the face of elevated extracellular adenosine and despite a post-hypoxic surge of adenosine release. This may indicate the occurrence of apparent adenosine A1 receptor desensitization during metabolic stress. In addition, adenosine release is unaffected by pharmacological blockade of glutamate receptors and shows depletion on repeated exposure to hypoxia. Our results thus suggest that adenosine release is not a consequence of excitotoxic glutamate release. The potential for adenosine A1 receptor desensitization during metabolic stress implies that its prevention may be beneficial in extending adenosine-mediated neuroprotection in a variety of clinically relevant conditions.", 
+    "lpage": "1515", 
+    "grants": [], 
+    "journal-title": "Journal of neurochemistry", 
+    "fpage": "1506", 
+    "keywords": [], 
+    "pubyear": "2003", 
+    "auths": [
+      [
+        "Frenguelli", 
+        "B G"
+      ], 
+      [
+        "Llaudet", 
+        "E"
+      ], 
+      [
+        "Dale", 
+        "N"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "High-resolution real-time recording with microelectrode biosensors reveals novel aspects of adenosine release during hypoxia in rat hippocampal slices.", 
+    "pmid": "12950459", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "19", 
+    "text": "Garcia, A. J. III, Putnam, R. W., and Dean, J. B. (2010). Hyperbaric hyperoxia and normobaric reoxygenation increase excitability and activate oxygen-induced potentiation in CA1 hippocampal neurons. J. Appl. Physiol. 109, 804&#x02013;819.", 
+    "sponsors": [
+      "NHLBI"
+    ], 
+    "abstxt": "Breathing hyperbaric oxygen (HBO) is common practice in hyperbaric and diving medicine. The benefits of breathing HBO, however, are limited by the risk of central nervous system O2 toxicity, which presents as seizures. We tested the hypothesis that excitability increases in CA1 neurons of the rat hippocampal slice (400 microm) over a continuum of hyperoxia that spans normobaric and hyperbaric pressures. Amplitude changes of the orthodromic population spike were used to assess neuronal O2 sensitivity before, during, and following exposure to 0, 0.6, 0.95 (control), 2.84, and 4.54 atmospheres absolute (ATA) O2. Polarographic O2 electrodes were used to measure tissue slice PO2 (PtO2). In 0.95 ATA O2, core PtO2 at 200 microm deep was 115\u00b116 Torr (mean\u00b1SE). Increasing O2 to 2.84 and 4.54 ATA increased core PtO2 to 1,222\u00b177 and 2,037\u00b1157 Torr, respectively. HBO increased the orthodromic population spike amplitude and usually induced hyperexcitability (i.e., secondary population spikes) and, in addition, a long-lasting potentiation of the orthodromic population spike that we have termed &quot;oxygen-induced potentiation&quot; (OxIP). Exposure to 0.60 ATA O2 and hypoxia (0.00 ATA) decreased core PtO2 to 84\u00b16 and 20\u00b14 Torr, respectively, and abolished the orthodromic response. Reoxygenation from 0.0 or 0.6 ATA O2, however, usually produced a response similar to that of HBO: hyperexcitability and activation of OxIP. We conclude that CA1 neurons exhibit increased excitability and neural plasticity over a broad range of PtO2, which can be activated by a single, hyperoxic stimulus. We postulate that transient acute hyperoxia stimulus, whether caused by breathing HBO or reoxygenation following hypoxia (e.g., disordered breathing), is a powerful stimulant for orthodromic activity and neural plasticity in the CA1 hippocampus.", 
+    "lpage": "819", 
+    "grants": [
+      "R01 HL 56683-09"
+    ], 
+    "journal-title": "Journal of applied physiology (Bethesda, Md. : 1985)", 
+    "fpage": "804", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Garcia", 
+        "Alfredo J"
+      ], 
+      [
+        "Putnam", 
+        "Robert W"
+      ], 
+      [
+        "Dean", 
+        "Jay B"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Hyperbaric hyperoxia and normobaric reoxygenation increase excitability and activate oxygen-induced potentiation in CA1 hippocampal neurons.", 
+    "pmid": "20558753", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2002"
+    ], 
+    "pubday": "25", 
+    "text": "Gjedde, A. (2002). Cerebral blood flow change in arterial hypoxemia is consistent with negligible oxygen tension in brain mitochondria. Neuroimage 17, 1876&#x02013;1881.", 
+    "sponsors": [], 
+    "abstxt": "The regulation of blood flow during neuronal activation is poorly understood. Current explanations of the mismatch between increased blood flow and oxygen consumption during neuronal excitation hold that blood flow must rise more than oxygen consumption to compensate for a low oxygen reserve in brain mitochondria. Contrary to the result of a previous study by Mintun et al. (2001), the present test of the hypothesis revealed no conflicts among the claims of unidirectional blood-brain transfer of oxygen, negligible oxygen in mitochondria, and measurements of cerebral blood flow and oxygen consumption. With a simple compartmental model of oxygen delivery to brain tissue, the test showed that neuronal excitation elicits identical increases of cerebral blood flow in normoxemia and hypoxemia, in complete agreement with the claim of a negligible reserve of oxygen in brain mitochondria in vivo.", 
+    "lpage": "1881", 
+    "grants": [], 
+    "journal-title": "NeuroImage", 
+    "fpage": "1876", 
+    "keywords": [], 
+    "pubyear": "2002", 
+    "auths": [
+      [
+        "Gjedde", 
+        "Albert"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Cerebral blood flow change in arterial hypoxemia is consistent with negligible oxygen tension in brain mitochondria.", 
+    "pmid": "12498762", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2009"
+    ], 
+    "pubday": "10", 
+    "text": "Hajos, N., Ellender, T. J., Zemankovics, R., Mann, E. O., Exley, R., Cragg, S. J., Freund, T. F., and Paulsen, O. (2009). Maintaining network activity in submerged hippocampal slices: importance of oxygen supply. Eur. J. Neurosci. 29, 319&#x02013;327.", 
+    "sponsors": [], 
+    "abstxt": "Studies in brain slices have provided a wealth of data on the basic features of neurons and synapses. In the intact brain, these properties may be strongly influenced by ongoing network activity. Although physiologically realistic patterns of network activity have been successfully induced in brain slices maintained in interface-type recording chambers, they have been harder to obtain in submerged-type chambers, which offer significant experimental advantages, including fast exchange of pharmacological agents, visually guided patch-clamp recordings, and imaging techniques. Here, we investigated conditions for the emergence of network oscillations in submerged slices prepared from the hippocampus of rats and mice. We found that the local oxygen level is critical for generation and propagation of both spontaneously occurring sharp wave-ripple oscillations and cholinergically induced fast oscillations. We suggest three ways to improve the oxygen supply to slices under submerged conditions: (i) optimizing chamber design for laminar flow of superfusion fluid; (ii) increasing the flow rate of superfusion fluid; and (iii) superfusing both surfaces of the slice. These improvements to the recording conditions enable detailed studies of neurons under more realistic conditions of network activity, which are essential for a better understanding of neuronal network operation.", 
+    "lpage": "327", 
+    "grants": [], 
+    "journal-title": "The European journal of neuroscience", 
+    "fpage": "319", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "H\u0e23\u0e01jos", 
+        "Norbert"
+      ], 
+      [
+        "Ellender", 
+        "Tommas J"
+      ], 
+      [
+        "Zemankovics", 
+        "Rita"
+      ], 
+      [
+        "Mann", 
+        "Edward O"
+      ], 
+      [
+        "Exley", 
+        "Richard"
+      ], 
+      [
+        "Cragg", 
+        "Stephanie J"
+      ], 
+      [
+        "Freund", 
+        "Tam\u0e23\u0e01s F"
+      ], 
+      [
+        "Paulsen", 
+        "Ole"
+      ]
+    ], 
+    "pubmonth": "2", 
+    "article-title": "Maintaining network activity in submerged hippocampal slices: importance of oxygen supply.", 
+    "pmid": "19200237", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2009"
+    ], 
+    "pubday": "16", 
+    "text": "Hajos, N., and Mody, I. (2009). Establishing a physiological environment for visualized in vitro brain slice recordings by increasing oxygen supply and modifying aCSF content. J. Neurosci. Methods 183, 107&#x02013;113.", 
+    "sponsors": [
+      "NINDS", 
+      "Wellcome Trust"
+    ], 
+    "abstxt": "Our insights into the basic characteristics of neuronal function were significantly advanced by combining the in vitro slice technique with the visualization of neurons and their processes. The visualization through water immersion objectives requires keeping slices submerged in recording chambers where delivering artificial cerebro-spinal fluid (aCSF) at flow rates of 2-3 ml/min results in a limited oxygen supply [H\u0e23\u0e01jos N, Ellender TJ, Zemankovics R, Mann EO, Exley R, Cragg SJ, et al. Maintaining network activity in submerged hippocampal slices: importance of oxygen supply. Eur J Neurosci 2009;29:319-27]. Here we review two methods aimed at providing sufficient oxygen levels to neurons in submerged slices to enable high energy consuming processes such as elevated firing rates or network oscillations. The use of these methods may also influence the outcome of other electrophysiological experiments in submerged slices including the study of intercellular signaling pathways. In addition, we also emphasize the importance of various aCSF constituents used in in vitro experiments.", 
+    "lpage": "113", 
+    "grants": [
+      "NS30549"
+    ], 
+    "journal-title": "Journal of neuroscience methods", 
+    "fpage": "107", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "H\u0e23\u0e01jos", 
+        "Norbert"
+      ], 
+      [
+        "Mody", 
+        "Istvan"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Establishing a physiological environment for visualized in vitro brain slice recordings by increasing oxygen supply and modifying aCSF content.", 
+    "pmid": "19524611", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "1", 
+    "text": "Holmgren, C. D., Mukhtarov, M., Malkov, A. E., Popova, I. Y., Bregestovski, P., and Zilberter, Y. (2010). Energy substrate availability as a determinant of neuronal resting potential, GABA signaling and spontaneous network activity in the neonatal cortex in vitro. J. Neurochem. 112, 900&#x02013;912.", 
+    "sponsors": [], 
+    "abstxt": "While the ultimate dependence of brain function on its energy supply is evident, how basic neuronal parameters and network activity respond to energy metabolism deviations is unresolved. The resting membrane potential (E(m)) and reversal potential of GABA-induced anionic currents (E(GABA)) are among the most fundamental parameters controlling neuronal excitability. However, alterations of E(m) and E(GABA) under conditions of metabolic stress are not sufficiently documented, although it is well known that metabolic crisis may lead to neuronal hyper-excitability and aberrant neuronal network activities. In this work, we show that in slices, availability of energy substrates determines whether GABA signaling displays an inhibitory or excitatory mode, both in neonatal neocortex and hippocampus. We demonstrate that in the neonatal brain, E(m) and E(GABA) strongly depend on composition of the energy substrate pool. Complementing glucose with ketone bodies, pyruvate or lactate resulted in a significant hyperpolarization of both E(m) and E(GABA), and induced a radical shift in the mode of GABAergic synaptic transmission towards network inhibition. Generation of giant depolarizing potentials, currently regarded as the hallmark of spontaneous neonatal network activity in vitro, was strongly inhibited both in neocortex and hippocampus in the energy substrate enriched solution. Based on these results we suggest the composition of the artificial cerebrospinal fluid, which bears a closer resemblance to the in vivo energy substrate pool. Our results suggest that energy deficits induce unfavorable changes in E(m) and E(GABA), leading to neuronal hyperactivity that may initiate a cascade of pathological events.", 
+    "lpage": "912", 
+    "grants": [], 
+    "journal-title": "Journal of neurochemistry", 
+    "fpage": "900", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Holmgren", 
+        "Carl D"
+      ], 
+      [
+        "Mukhtarov", 
+        "Marat"
+      ], 
+      [
+        "Malkov", 
+        "Anton E"
+      ], 
+      [
+        "Popova", 
+        "Irina Y"
+      ], 
+      [
+        "Bregestovski", 
+        "Piotr"
+      ], 
+      [
+        "Zilberter", 
+        "Yuri"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Energy substrate availability as a determinant of neuronal resting potential, GABA signaling and spontaneous network activity in the neonatal cortex in vitro.", 
+    "pmid": "19943846", 
+    "pmonth": [
+      "Feb"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2008"
+    ], 
+    "pubday": "1", 
+    "text": "Huchzermeyer, C., Albus, K., Gabriel, H. J., Otahal, J., Taubenberger, N., Heinemann, U., Kovacs, R., and Kann, O. (2008). Gamma oscillations and spontaneous network activity in the hippocampus are highly sensitive to decreases in pO2 and concomitant changes in mitochondrial redox state. J. Neurosci. 28, 1153&#x02013;1162.", 
+    "sponsors": [], 
+    "abstxt": "Gamma oscillations have been implicated in higher cognitive processes and might critically depend on proper mitochondrial function. Using electrophysiology, oxygen sensor microelectrode, and imaging techniques, we investigated the interactions of neuronal activity, interstitial pO2, and mitochondrial redox state [NAD(P)H and FAD (flavin adenine dinucleotide) fluorescence] in the CA3 subfield of organotypic hippocampal slice cultures. We find that gamma oscillations and spontaneous network activity decrease significantly at pO2 levels that do not affect neuronal population responses as elicited by moderate electrical stimuli. Moreover, pO2 and mitochondrial redox states are tightly coupled, and electrical stimuli reveal transient alterations of redox responses when pO2 decreases within the normoxic range. Finally, evoked redox responses are distinct in somatic and synaptic neuronal compartments and show different sensitivity to changes in pO2. We conclude that the threshold of interstitial pO2 for robust CA3 network activities and required mitochondrial function is clearly above the &quot;critical&quot; value, which causes spreading depression as a result of generalized energy failure. Our study highlights the importance of a functional understanding of mitochondria and their implications on activities of individual neurons and neuronal networks.", 
+    "lpage": "1162", 
+    "grants": [], 
+    "journal-title": "The Journal of neuroscience : the official journal of the Society for Neuroscience", 
+    "fpage": "1153", 
+    "keywords": [], 
+    "pubyear": "2008", 
+    "auths": [
+      [
+        "Huchzermeyer", 
+        "Christine"
+      ], 
+      [
+        "Albus", 
+        "Klaus"
+      ], 
+      [
+        "Gabriel", 
+        "Hans-J\u00fcrgen"
+      ], 
+      [
+        "Ot\u00e1hal", 
+        "Jakub"
+      ], 
+      [
+        "Taubenberger", 
+        "Nando"
+      ], 
+      [
+        "Heinemann", 
+        "Uwe"
+      ], 
+      [
+        "Kov\u00e1cs", 
+        "Richard"
+      ], 
+      [
+        "Kann", 
+        "Oliver"
+      ]
+    ], 
+    "pubmonth": "2", 
+    "article-title": "Gamma oscillations and spontaneous network activity in the hippocampus are highly sensitive to decreases in pO2 and concomitant changes in mitochondrial redox state.", 
+    "pmid": "18234893", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "text": "Ivanov, A., Mukhtarov, M., Bregestovski, P., and Zilberter, Y. (2011). Lactate effectively covers energy demands during neuronal network activity in neonatal hippocampal slices. Front. Neuroenergetics 3:2. doi:10.3389/fnene.2011.00002"
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "25", 
+    "text": "Kann, O., Huchzermeyer, C., Kovacs, R., Wirtz, S., and Schuelke, M. (2011). Gamma oscillations in the hippocampus require high complex I gene expression and strong functional performance of mitochondria. Brain 134, 345&#x02013;358.", 
+    "sponsors": [], 
+    "abstxt": "Fast neuronal network oscillations in the gamma range (~30-90 Hz) have been implicated in complex brain functions such as sensory processing, memory formation and, perhaps, consciousness, and appear to be exceptionally vulnerable to various pathologies. However, both energy demand and mitochondrial performance underlying gamma oscillations are unknown. We investigated the fundamental relationship between acetylcholine-induced gamma oscillations, mitochondrial gene expression and oxidative metabolism in hippocampal slice preparations of mouse and rat by applying electrophysiology, in situ hybridization, quantitative polymerase chain reaction, oxygen sensor microelectrode (interstitial partial oxygen pressure) and imaging of mitochondrial redox state [nicotinamide adenine dinucleotide (phosphate) and flavin adenine dinucleotide fluorescence]. We show that (i) gamma oscillation power, oxygen consumption and expression of complex I (nicotinamide adenine dinucleotide:ubiquinone oxidoreductase) subunits are higher in hippocampal subfield CA3 than in CA1 and dentate gyrus; (ii) the amount of oxygen consumption of gamma oscillations reaches that of seizure-like events; (iii) gamma oscillations are exquisitely sensitive to pharmacological complex I inhibition; and (iv) gamma oscillations utilize mitochondrial oxidative capacity near limit. These data suggest that gamma oscillations are especially energy demanding and require both high complex I expression and strong functional performance of mitochondria. Our study helps to explain the exceptional vulnerability of complex brain functions in ischaemia as well as in neurodegenerative and psychiatric disorders that are associated with mitochondrial dysfunction.", 
+    "lpage": "358", 
+    "grants": [], 
+    "journal-title": "Brain : a journal of neurology", 
+    "fpage": "345", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Kann", 
+        "Oliver"
+      ], 
+      [
+        "Huchzermeyer", 
+        "Christine"
+      ], 
+      [
+        "Kov\u00e1cs", 
+        "Richard"
+      ], 
+      [
+        "Wirtz", 
+        "Stefanie"
+      ], 
+      [
+        "Schuelke", 
+        "Markus"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Gamma oscillations in the hippocampus require high complex I gene expression and strong functional performance of mitochondria.", 
+    "pmid": "21183487", 
+    "pmonth": [
+      "Feb"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "23", 
+    "text": "Kasischke, K. A., Lambert, E. M., Panepento, B., Sun, A., Gelbard, H. A., Burgess, R. W., Foster, T. H., and Nedergaard, M. (2011). Two-photon NADH imaging exposes boundaries of oxygen diffusion in cortical vascular supply regions. J. Cereb. Blood Flow Metab. 31, 68&#x02013;81.", 
+    "sponsors": [
+      "NCI", 
+      "NINDS", 
+      "NINDS", 
+      "NINDS", 
+      "NCI", 
+      "NCI", 
+      "NINDS"
+    ], 
+    "abstxt": "Oxygen transport imposes a possible constraint on the brain's ability to sustain variable metabolic demands, but oxygen diffusion in the cerebral cortex has not yet been observed directly. We show that concurrent two-photon fluorescence imaging of endogenous nicotinamide adenine dinucleotide (NADH) and the cortical microcirculation exposes well-defined boundaries of tissue oxygen diffusion in the mouse cortex. The NADH fluorescence increases rapidly over a narrow, very low pO(2) range with a p(50) of 3.4 \u00b1 0.6 mm\u2009Hg, thereby establishing a nearly binary reporter of significant, metabolically limiting hypoxia. The transient cortical tissue boundaries of NADH fluorescence exhibit remarkably delineated geometrical patterns, which define the limits of tissue oxygen diffusion from the cortical microcirculation and bear a striking resemblance to the ideal Krogh tissue cylinder. The visualization of microvessels and their regional contribution to oxygen delivery establishes penetrating arterioles as major oxygen sources in addition to the capillary network and confirms the existence of cortical oxygen fields with steep microregional oxygen gradients. Thus, two-photon NADH imaging can be applied to expose vascular supply regions and to localize functionally relevant microregional cortical hypoxia with micrometer spatial resolution.", 
+    "lpage": "81", 
+    "grants": [
+      "CA68409", 
+      "NS38073", 
+      "NS50315", 
+      "P01 NS050315-04", 
+      "R01 CA068409-16", 
+      "R01 CA068409-17", 
+      "R01 NS038073-13"
+    ], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "68", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Kasischke", 
+        "Karl A"
+      ], 
+      [
+        "Lambert", 
+        "Elton M"
+      ], 
+      [
+        "Panepento", 
+        "Ben"
+      ], 
+      [
+        "Sun", 
+        "Anita"
+      ], 
+      [
+        "Gelbard", 
+        "Harris A"
+      ], 
+      [
+        "Burgess", 
+        "Robert W"
+      ], 
+      [
+        "Foster", 
+        "Thomas H"
+      ], 
+      [
+        "Nedergaard", 
+        "Maiken"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Two-photon NADH imaging exposes boundaries of oxygen diffusion in cortical vascular supply regions.", 
+    "pmid": "20859293", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2004"
+    ], 
+    "pubday": "3", 
+    "text": "Kasischke, K. A., Vishwasrao, H. D., Fisher, P. J., Zipfel, W. R., and Webb, W. W. (2004). Neural activity triggers neuronal oxidative metabolism followed by astrocytic glycolysis. Science 305, 99&#x02013;103.", 
+    "sponsors": [
+      "NIBIB"
+    ], 
+    "abstxt": "We have found that two-photon fluorescence imaging of nicotinamide adenine dinucleotide (NADH) provides the sensitivity and spatial three-dimensional resolution to resolve metabolic signatures in processes of astrocytes and neurons deep in highly scattering brain tissue slices. This functional imaging reveals spatiotemporal partitioning of glycolytic and oxidative metabolism between astrocytes and neurons during focal neural activity that establishes a unifying hypothesis for neurometabolic coupling in which early oxidative metabolism in neurons is eventually sustained by late activation of the astrocyte-neuron lactate shuttle. Our model integrates existing views of brain energy metabolism and is in accord with known macroscopic physiological changes in vivo.", 
+    "lpage": "9103", 
+    "grants": [
+      "P41-EB001976-16"
+    ], 
+    "journal-title": "Science (New York, N.Y.)", 
+    "fpage": "99", 
+    "keywords": [], 
+    "pubyear": "2004", 
+    "auths": [
+      [
+        "Kasischke", 
+        "Karl A"
+      ], 
+      [
+        "Vishwasrao", 
+        "Harshad D"
+      ], 
+      [
+        "Fisher", 
+        "Patricia J"
+      ], 
+      [
+        "Zipfel", 
+        "Warren R"
+      ], 
+      [
+        "Webb", 
+        "Watt W"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Neural activity triggers neuronal oxidative metabolism followed by astrocytic glycolysis.", 
+    "pmid": "15232110", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1982"
+    ], 
+    "pubday": "1", 
+    "text": "Kass, I. S., and Lipton, P. (1982). Mechanisms involved in irreversible anoxic damage to the in vitro rat hippocampal slice. J. Physiol. (Lond.) 332, 459&#x02013;472.", 
+    "sponsors": [
+      "NINDS", 
+      "NINDS"
+    ], 
+    "abstxt": "1. We have studied the effects of anoxia on the recovery of neural transmission between the perforant path and the dentate granule cells in the in vitro rat hippocampal slice. There is almost no recovery of the evoked population spike following 10 min of anoxia in slices from adult rats.2. A 2 h exposure of slices to creatine markedly improves the recovery of the population spike (80% vs. 5%). The creatine pre-incubation builds up phosphocreatine levels in the slice and prevents the large fall in ATP during anoxia; ATP falls to 7.9 rather than 3.6 nM/mg protein. The intracellular pH of both groups falls to the same level during anoxia.3. If calcium concentration in the medium is reduced to 0 while magnesium concentration is raised to 10 mM during anoxia the evoked response recovers to about 65%.4. The data suggest that an attenuation of the fall in ATP or entry of calcium during anoxia protects the tissue against irreversible transmission damage. Thus both of these factors participate in the generation of this damage. It is not yet clear if they act independently or if one acts by altering the other.5. In the post-anoxic recovery period the intracellular concentration of potassium is reduced by about 25%. However, it is still much higher than in slices that show only partial block of the evoked response when treated with ouabain. Therefore a fall in intracellular potassium 1 h after anoxia cannot explain the lack of recovery of the evoked response in adult tissue.6. ATP levels in the post-anoxic recovery period are reduced from their pre-anoxic levels (9.7 vs. 13.9 nM/mg protein). However when azide or antimycin A are used to directly reduce ATP to the level found 1 h after anoxia the evoked response is reduced by only about 45%. Thus the reduced post-anoxic ATP levels are not sufficient to explain the loss of the evoked response in adult tissue.7. The data show that the irreversible loss of transmission is not due to decreased cell ATP or to decreased cell K/Na levels 1 h after the anoxic period.8. Since creatine pre-incubation protects against irreversible transmission loss this compound or one closely related to it may prove useful in attenuating irreversible brain damage in situ.", 
+    "lpage": "472", 
+    "grants": [
+      "5F32 NS06316", 
+      "NS-15878"
+    ], 
+    "journal-title": "The Journal of physiology", 
+    "fpage": "459", 
+    "keywords": [], 
+    "pubyear": "1982", 
+    "auths": [
+      [
+        "Kass", 
+        "I S"
+      ], 
+      [
+        "Lipton", 
+        "P"
+      ]
+    ], 
+    "pubmonth": "11", 
+    "article-title": "Mechanisms involved in irreversible anoxic damage to the in vitro rat hippocampal slice.", 
+    "pmid": "6296376", 
+    "pmonth": [
+      "Nov"
+    ]
+  }, 
+  {
+    "pyear": [], 
+    "pubday": "24", 
+    "text": "Kim-Han, J. S., and Dugan, L. L. (2005). Mitochondrial uncoupling proteins in the central nervous system. Antioxid. Redox Signal. 7, 1173&#x02013;1181.", 
+    "sponsors": [
+      "NINDS"
+    ], 
+    "abstxt": "Mitochondrial uncoupling proteins (UCPs), a subfamily of the mitochondrial transporter family, are related by sequence homology to UCP1. This protein, which is located in the inner mitochondrial membrane, dissipates the proton gradient between the intermembrane space and the mitochondrial matrix to uncouple electron transport from ATP synthesis. UCP1 (thermogenin) was first discovered in brown adipose tissue and is responsible for non-shivering thermogenesis. Expression of mRNA for three other UCP isoforms, UCP2, UCP4, and BMCP1/UCP5, has been found at high levels in brain. However, the physiological function(s) of UCPs in the brain have not been determined, although it has recently been postulated that UCPs regulate free radical flux from mitochondria by physiologically modulating mitochondrial membrane potential. In the CNS, this hypothesis has been studied primarily for UCP2. UCP2 message has been shown to be up-regulated in the CNS by stress signals such as kainate administration or ischemia, and overexpression of UCP2 has been reported to be neuroprotective against oxidative stress in vivo and in vitro, although the exact mechanism has not been fully established. In this review, studies on UCPs in the nervous system will be reviewed, and the potential roles of these intriguing proteins in acute and chronic diseases of the nervous system will be discussed.", 
+    "lpage": "1181", 
+    "grants": [
+      "NS 41796"
+    ], 
+    "journal-title": "Antioxidants &amp; redox signaling", 
+    "fpage": "1173", 
+    "keywords": [], 
+    "pubyear": "2005", 
+    "auths": [
+      [
+        "Kim-Han", 
+        "Jeong Sook"
+      ], 
+      [
+        "Dugan", 
+        "Laura L"
+      ]
+    ], 
+    "pubmonth": "8", 
+    "article-title": "Mitochondrial uncoupling proteins in the central nervous system.", 
+    "pmid": "16115020", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "1995"
+    ], 
+    "pubday": "1", 
+    "text": "Klaidman, L. K., Leung, A. C., and Adams, J. D. Jr. (1995). High-performance liquid chromatography analysis of oxidized and reduced pyridine dinucleotides in specific brain regions. Anal. Biochem. 228, 312&#x02013;317.", 
+    "sponsors": [], 
+    "abstxt": "An ultrasensitive HPLC method has been developed for measuring NADP+, NADPH, NAD+, and NADH. A simple, rapid reaction of the oxidized nucleotides with cyanide in basic solution leads to two stable fluorescent products and allows all four nucleotides to be separated and quantitated on one chromatogram. Furthermore, only one extraction is needed, rather than prior procedures which require one acid extraction (for oxidized species) and one basic extraction (for reduced species). This method is particularly useful in quantitating pyridine dinucleotides in rodent brain, where no current method is adequate to quantitate the small amounts contained in various brain regions. The assay is sensitive enough to measure individual brain regions down to 10 mg of tissue. Due to the involvement of NAD(P)H enzymatic systems in combating oxidative stress it is important to be able to assess levels regionally in brain diseases.", 
+    "lpage": "317", 
+    "grants": [], 
+    "journal-title": "Analytical biochemistry", 
+    "fpage": "312", 
+    "keywords": [], 
+    "pubyear": "1995", 
+    "auths": [
+      [
+        "Klaidman", 
+        "L K"
+      ], 
+      [
+        "Leung", 
+        "A C"
+      ], 
+      [
+        "Adams", 
+        "J D"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "High-performance liquid chromatography analysis of oxidized and reduced pyridine dinucleotides in specific brain regions.", 
+    "pmid": "8572312", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1984"
+    ], 
+    "pubday": "20", 
+    "text": "Lamanna, J. C., Light, A. I., Peretsman, S. J., and Rosenthal, M. (1984). Oxygen insufficiency during hypoxic hypoxia in rat brain cortex. Brain Res. 293, 313&#x02013;318.", 
+    "sponsors": [], 
+    "abstxt": "To relate cerebral oxygen sufficiency and insufficiency with arterial oxygen tension, reduction/oxidation responses of the initial and terminal members of the mitochondrial respiratory chain (NADH and cytochrome c oxidase) were recorded in situ by optical techniques when increased cerebral energy use was provoked by direct electrical stimulation. Small decreases in paO2, produced by forced ventilation of hypoxic gas mixtures, resulted in decreased amplitude of the characteristic negative shift in extracellular potential which accompanies such stimulation and smaller oxidative response of NADH and cytochrome oxidase. When paO2 fell below 40-50 Torr, stimulation produced reductive rather than oxidative shifts of the mitochondrial respiratory chain components. The data suggest that when arterial oxygen tension is slightly decreased, compensating mechanisms allow brain function to continue with minimal changes in cortical metabolites and high energy phosphate compounds. When arterial oxygen falls below 40-50 Torr, however, compensation can no longer prevent tissue hypoxia during times of increased energy demand. Thus, hypoxemia is not necessarily synonymous with oxygen insufficiency, but oxygen sufficiency must be defined with due regard to the degree of energy demand.", 
+    "lpage": "318", 
+    "grants": [], 
+    "journal-title": "Brain research", 
+    "fpage": "313", 
+    "keywords": [], 
+    "pubyear": "1984", 
+    "auths": [
+      [
+        "LaManna", 
+        "J C"
+      ], 
+      [
+        "Light", 
+        "A I"
+      ], 
+      [
+        "Peretsman", 
+        "S J"
+      ], 
+      [
+        "Rosenthal", 
+        "M"
+      ]
+    ], 
+    "pubmonth": "2", 
+    "article-title": "Oxygen insufficiency during hypoxic hypoxia in rat brain cortex.", 
+    "pmid": "6320971", 
+    "pmonth": [
+      "Feb"
+    ]
+  }, 
+  {
+    "text": "Lindauer, U., Dirnagl, U., Fuchtemeier, M., Bottiger, C., Offenhauser, N., Leithner, C., and Royl, G. (2010a). Pathophysiological interference with neurovascular coupling &#x02013; when imaging based on hemoglobin might go blind. Front. Neuroenergetics 2:25. doi:10.3389/fnene.2010.00025"
+  }, 
+  {
+    "text": "Lindauer, U., Leithner, C., Kaasch, H., Rohrer, B., Foddis, M., Fuchtemeier, M., Offenhauser, N., Steinbrink, J., Royl, G., Kohl-Bareis, M., and Dirnagl, U. (2010b). Neurovascular coupling in rat brain operates independent of hemoglobin deoxygenation. J. Cereb. Blood Flow Metab. 30, 757&#x02013;768."
+  }, 
+  {
+    "pyear": [
+      "1982"
+    ], 
+    "pubday": "1", 
+    "text": "Lipton, P., and Whittingham, T. S. (1982). Reduced ATP concentration as a basis for synaptic transmission failure during hypoxia in the in vitro guinea-pig hippocampus. J. Physiol. (Lond.) 325, 51&#x02013;65.", 
+    "sponsors": [
+      "NINDS"
+    ], 
+    "abstxt": "1. Experiments were performed to determine whether a decrease in tissue ATP contributes to the rapid failure of cerebral synaptic transmission during hypoxia. Transmission between the perforant path and the dentate granule cells in the in vitro hippocampus was studied.2. Hippocampal slice ATP is decreased by approximately 15% at the time that the evoked response begins to diminish in standard Krebs bicarbonate buffer. This is about 2 min after the onset of hypoxia.3. When transmission failure is accelerated by increasing extracellular K(+) from 4.4 to 13.4 mM, the evoked response begins to decay about 30 sec after exposure to hypoxia. There is no decrease in hippocampal slice ATP at this time.4. However, ATP in the molecular layer (the synaptic region of the tissue) is decreased by approximately 15% at the time the evoked response begins to decay in the slices exposed to elevated K(+) concentration.5. Exposing the hippocampal slice to 25 mM-creatine for 3 hr elevates molecular layer phosphocreatine fourfold. Synaptic transmission during hypoxia survives three times as long as it does in the absence of creatine.6. In the creatine fortified medium, molecular layer ATP no longer declines within 30 sec of hypoxia. However the molecular layer ATP does decline within 90 sec of hypoxia, the time at which the evoked response begins to decay in this creatine-fortified buffer.7. The results establish that ATP in the region of the active synapses is lowered when the first signs of electrophysiological failure appear during hypoxia. They also show that maintaining ATP for longer than normal during hypoxia is associated with a prolonged maintenance of the evoked response. They thus suggest that a decline in ATP is one factor causing hypoxic block of synaptic transmission.8. It is further suggested that the very rapid failure of the electroencephalogram during anoxia may also result from a decline in ATP.", 
+    "lpage": "65", 
+    "grants": [
+      "NS 15878"
+    ], 
+    "journal-title": "The Journal of physiology", 
+    "fpage": "51", 
+    "keywords": [], 
+    "pubyear": "1982", 
+    "auths": [
+      [
+        "Lipton", 
+        "P"
+      ], 
+      [
+        "Whittingham", 
+        "T S"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "Reduced ATP concentration as a basis for synaptic transmission failure during hypoxia in the in vitro guinea-pig hippocampus.", 
+    "pmid": "6286944", 
+    "pmonth": [
+      "Apr"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1975"
+    ], 
+    "pubday": "25", 
+    "text": "Lothman, E., Lamanna, J., Cordingley, G., Rosenthal, M., and Somjen, G. (1975). Responses of electrical potential, potassium levels, and oxidative metabolic activity of the cerebral neocortex of cats. Brain Res. 88, 15&#x02013;36.", 
+    "sponsors": [], 
+    "abstxt": "We measured simultaneously the oxidative metabolic activity, monitored as the tissue fluorescence attribute to intramitochondrial NADH, the extracellular potassium level with ion-selective microelectrodes, and the focal extracellular electrical potential, of one site in intact cerebral cortex of cats. When the cerebral was stimulated by trains of repeated electric pulses applied either directly to its surface or to an afferent pathway, the corrected cortical fluorescence (F-R) declined indicating oxidation of NADH, the activity of extracellular potassium [K+]o increased, and the extracellular potential (Vec) shifted in the negative direction. When mild to moderate stimuli not exceeding 10-15 sec in duration were used, a 3-fold correlation was found between these three variables. The regression of F-R over either Vec, or over log [K+]o had a positive ordinal intercept. The results are in agreement with earlier suggestions 4,24,25,43,45,46 that (a) much but not all the oxidative metabolic response of cortex to electrical stimulation is expended in restoring disturbed ion balance; and (b) that sustained shifts of potential (SP) in response to repetitive electrical stimulation are generated by glia cells depolarized by excess potassium. The magnitude of SP shifts associated with a given elevation of [k+]o are smaller in cerebral cortex than in spinal cord48,49. The correlation of F-R with [K+]o breaks down when pathologic processes of either seizure activity or spreading depression set in. During paroxysmal activity [K+]o tends to remain confined below 10-12 mM, a level observed in non-convulsing cortex as well, but oxidation of NADH progresses beyond that seen in non-convulsing cortex as well, but oxidation of NADH progresses beyond that seen in non-convulsing tissue. This observation is hard to reconcile with the suggestion that excess potassium is a factor in the generation of seizures, at least of the type observed in this study. When [K+]o levels exceeded 10-12 mM, spreading depression invariably followed at least under the unanesthetized condition in these experiments. During spreading depression [K+]o levels rose to exceed 30 mM, sometimes 80 mM. NADH was oxidized during spreading depression to a level comparable to that seen in seizures. The observations are compatible with the suggestion13 that spreading depression occurs whenever the release of potassium into extracellular fluid is overloading its clearance therefrom.", 
+    "lpage": "36", 
+    "grants": [], 
+    "journal-title": "Brain research", 
+    "fpage": "15", 
+    "keywords": [], 
+    "pubyear": "1975", 
+    "auths": [
+      [
+        "Lothman", 
+        "E"
+      ], 
+      [
+        "Lamanna", 
+        "J"
+      ], 
+      [
+        "Cordingley", 
+        "G"
+      ], 
+      [
+        "Rosenthal", 
+        "M"
+      ], 
+      [
+        "Somjen", 
+        "G"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "Responses of electrical potential, potassium levels, and oxidative metabolic activity of the cerebral neocortex of cats.", 
+    "pmid": "164265", 
+    "pmonth": [
+      "Apr"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "14", 
+    "text": "Masamoto, K., Kershaw, J., Ureshi, M., Takizawa, N., Kobayashi, H., Tanishita, K., and Kanno, I. (2007). Apparent diffusion time of oxygen from blood to tissue in rat cerebral cortex: implication for tissue oxygen dynamics during brain functions. J. Appl. Physiol. 103, 1352&#x02013;1358.", 
+    "sponsors": [
+      "NIMH"
+    ], 
+    "abstxt": "To investigate the dynamics of tissue oxygen demand and supply during brain functions, we simultaneously recorded Po(2) and local cerebral blood flow (LCBF) with an oxygen microelectrode and laser Doppler flowmetry, respectively, in rat somatosensory cortex. Electrical hindlimb stimuli were applied for 1, 2, and 5 s to vary the duration of evoked cerebral metabolic rate of oxygen (CMR(O(2))). The electrical stimulation induced a robust increase in Po(2) (4-9 Torr at peak) after an increase in LCBF (14-26% at peak). A consistent lag of approximately 1.2 s (0.6-2.3 s for individual animals) in the Po(2) relative to LCBF was found, irrespective of stimulus length. It is argued that the lag in Po(2) was predominantly caused by the time required for oxygen to diffuse through tissue. During brain functions, the supply of fresh oxygen further lagged because of the latency of LCBF onset ( approximately 0.4 s). The results indicate that the tissue oxygen supports excess demand until the arrival of fresh oxygen. However, a large drop in Po(2) was not observed, indicating that the evoked neural activity demands little extra oxygen or that the time course of excess demand is as slow as the increase in supply. Thus the dynamics of Po(2) during brain functions predominantly depend on the time course of LCBF. Possible factors influencing the lag between demand and supply are discussed, including vascular spacing, reactivity of the vessels, and diffusivity of oxygen.", 
+    "lpage": "1358", 
+    "grants": [
+      "MH-57180"
+    ], 
+    "journal-title": "Journal of applied physiology (Bethesda, Md. : 1985)", 
+    "fpage": "1352", 
+    "keywords": [], 
+    "pubyear": "2007", 
+    "auths": [
+      [
+        "Masamoto", 
+        "Kazuto"
+      ], 
+      [
+        "Kershaw", 
+        "Jeff"
+      ], 
+      [
+        "Ureshi", 
+        "Masakatsu"
+      ], 
+      [
+        "Takizawa", 
+        "Naosada"
+      ], 
+      [
+        "Kobayashi", 
+        "Hirosuke"
+      ], 
+      [
+        "Tanishita", 
+        "Kazuo"
+      ], 
+      [
+        "Kanno", 
+        "Iwao"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Apparent diffusion time of oxygen from blood to tissue in rat cerebral cortex: implication for tissue oxygen dynamics during brain functions.", 
+    "pmid": "17626829", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2004"
+    ], 
+    "pubday": "4", 
+    "text": "Masamoto, K., Kurachi, T., Takizawa, N., Kobayashi, H., and Tanishita, K. (2004). Successive depth variations in microvascular distribution of rat somatosensory cortex. Brain Res. 995, 66&#x02013;75.", 
+    "sponsors": [], 
+    "abstxt": "Although hemodynamic-based functional brain imaging techniques are powerful tools to explore the brain functions noninvasively, hemodynamic-based signal is strongly affected by spatial configuration of microvessels. Understanding the quantitative relations between microvascular structure and functional activity is therefore significant to make a valid signal interpretation for the imaging techniques. In the present study, we evaluated depth profiles of microvascular distributions in rat somatosensory subfields (barrel field, forelimb region, trunk region and hindlimb region) and characterized depth variations in microvascular structures, such as locations, lengths and directions of microvessels, throughout the cortical layers (I-VI). To obtain the accurate microvascular structure, we made a customized casting method by using confocal laser scanning microscope. We observed that microvascular distribution successively varied throughout the cortical layers (I-VI) and that the maximum number density of microvessels was consistently found in middle layers (III-V). In addition, superficial layers had relatively long microvessels, almost perpendicular to the cortical surface, whereas middle layers had short microvessels propagating in all directions. These regional differences in microvascular structures were closely related to the somatosensory subfields, e.g., barrel field was the greatest number density of microvessels among the investigated subfields. Based on these observations, we compared microvascular profiles with previously reported distribution patterns of tissue partial pressure of oxygen (pO2). The results showed that tissue pO2 was correlated with microvascular distribution in some but not all of the subfields. This finding shows that detailed microvascular profiles are helpful to investigate causal relationships between microvascular structure and functional activities in cerebral cortex.", 
+    "lpage": "75", 
+    "grants": [], 
+    "journal-title": "Brain research", 
+    "fpage": "66", 
+    "keywords": [], 
+    "pubyear": "2003", 
+    "auths": [
+      [
+        "Masamoto", 
+        "Kazuto"
+      ], 
+      [
+        "Kurachi", 
+        "Takayoshi"
+      ], 
+      [
+        "Takizawa", 
+        "Naosada"
+      ], 
+      [
+        "Kobayashi", 
+        "Hirosuke"
+      ], 
+      [
+        "Tanishita", 
+        "Kazuo"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Successive depth variations in microvascular distribution of rat somatosensory cortex.", 
+    "pmid": "14644472", 
+    "pmonth": [
+      "Jan"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "16", 
+    "text": "Masamoto, K., Omura, T., Takizawa, N., Kobayashi, H., Katura, T., Maki, A., Kawaguchi, H., and Tanishita, K. (2003). Biphasic changes in tissue partial pressure of oxygen closely related to localized neural activity in guinea pig auditory cortex. J. Cereb. Blood Flow Metab. 23, 1075&#x02013;1084.", 
+    "sponsors": [], 
+    "abstxt": "An understanding of the local changes in cerebral oxygen content accompanying functional brain activation is critical for making a valid signal interpretation of hemodynamic-based functional brain imaging. However, spatiotemporal relations between changes in tissue partial pressure of oxygen (Po2) and induced neural activity remain incompletely understood. To characterize the local Po2 response to the given neural activity, the authors simultaneously measured tissue Po2 and neural activity in the identical region of guinea pig auditory cortex with an oxygen microelectrode (tip &lt; 10 microm) and optical recording with voltage-sensitive dye (RH 795). In addition, a laser displacement gauge and a laser-Doppler flowmeter were used to monitor the spatial displacement and regional cerebral blood flow, respectively, in the Po2 measurement region. In the activated region, tissue Po2 initially decreased during the approximately 3-seconds after the onset of acoustic stimuli, and then increased during the next approximately 5 seconds. Such biphasic changes are consistently found in cortical layers I to IV. In addition, amplitude of the biphasic change was closely related to detected peak height of the optical signal changes. The results suggest that the initial decrease in tissue Po2 is coupled to the induced neural activity and depends on response time of local increase in cerebral blood flow.", 
+    "lpage": "1084", 
+    "grants": [], 
+    "journal-title": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism", 
+    "fpage": "1075", 
+    "keywords": [], 
+    "pubyear": "2003", 
+    "auths": [
+      [
+        "Masamoto", 
+        "Kazuto"
+      ], 
+      [
+        "Omura", 
+        "Tetsuro"
+      ], 
+      [
+        "Takizawa", 
+        "Naosada"
+      ], 
+      [
+        "Kobayashi", 
+        "Hirosuke"
+      ], 
+      [
+        "Katura", 
+        "Takusige"
+      ], 
+      [
+        "Maki", 
+        "Atsushi"
+      ], 
+      [
+        "Kawaguchi", 
+        "Hideo"
+      ], 
+      [
+        "Tanishita", 
+        "Kazuo"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Biphasic changes in tissue partial pressure of oxygen closely related to localized neural activity in guinea pig auditory cortex.", 
+    "pmid": "12973024", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2008"
+    ], 
+    "pubday": "1", 
+    "text": "Masamoto, K., Vazquez, A., Wang, P., and Kim, S. G. (2008). Trial-by-trial relationship between neural activity, oxygen consumption, and blood flow responses. Neuroimage 40, 442&#x02013;450.", 
+    "sponsors": [
+      "NIBIB", 
+      "NINDS", 
+      "NIBIB", 
+      "NINDS"
+    ], 
+    "abstxt": "Trial-by-trial variability in local field potential (LFP), tissue partial pressure of oxygen (PO2), cerebral blood flow (CBF), and deoxyhemoglobin-weighted optical imaging of intrinsic signals (OIS) were tested in the rat somatosensory cortex while fixed electrical forepaw stimulation (1.0-ms pulses with amplitude of 1.2 mA at a frequency of 6 Hz) was repeatedly applied. The changes in the cerebral metabolic rate of oxygen (CMRO2) were also evaluated using a hypotension condition established by our group based on the administration of a vasodilator. Under normal conditions, CBF, PO2, and OIS showed positive signal changes (48%, 32%, and 0.42%, respectively) following stimulation. Over multiple trials, the CBF responses were well correlated with the integral of the LFP amplitudes (sigmaLFP) (Rmean=0.78), whereas a lower correlation was found between PO2 and sigmaLFP (Rmean=0.60) and between OIS and sigmaLFP (Rmean=0.54). Under the hypotension condition the LFP responses were preserved, but the CBF responses were suppressed and the PO2 and OIS changes were negative (-12% and -0.28%, respectively). In this condition, the trial-by-trial variations in PO2 and OIS were well correlated with the variability in sigmaLFPs (Rmean= -0.77 and -0.76, respectively), indicating a single trial coupling between CMRO2 changes and sigmaLFP. These findings show that CBF and CMRO2 signals are more directly correlated with neural activity compared to blood oxygen-sensitive methods such as OIS and BOLD fMRI.", 
+    "lpage": "450", 
+    "grants": [
+      "EB003375", 
+      "NS044589", 
+      "R01 EB003375-10", 
+      "R01 NS044589-05A1"
+    ], 
+    "journal-title": "NeuroImage", 
+    "fpage": "442", 
+    "keywords": [], 
+    "pubyear": "2008", 
+    "auths": [
+      [
+        "Masamoto", 
+        "Kazuto"
+      ], 
+      [
+        "Vazquez", 
+        "Alberto"
+      ], 
+      [
+        "Wang", 
+        "Ping"
+      ], 
+      [
+        "Kim", 
+        "Seong-Gi"
+      ]
+    ], 
+    "pubmonth": "2", 
+    "article-title": "Trial-by-trial relationship between neural activity, oxygen consumption, and blood flow responses.", 
+    "pmid": "18234525", 
+    "pmonth": [
+      "Apr"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "6", 
+    "text": "Mattson, M. P., and Liu, D. (2003). Mitochondrial potassium channels and uncoupling proteins in synaptic plasticity and neuronal cell death. Biochem. Biophys. Res. Commun. 304, 539&#x02013;549.", 
+    "sponsors": [], 
+    "abstxt": "The function of the nervous system relies upon synaptic transmission, a process in which a neurotransmitter released from pre-synaptic terminals of one neuron (in response to membrane depolarization and calcium influx) activates post-synaptic receptors on dendrites of another neuron. Synapses are subjected to repeated bouts of oxidative and metabolic stress as the result of changing ion gradients and ATP usage. Mitochondria play central roles in meeting the demands of synapses for ATP and in regulating calcium homeostasis, and mitochondrial dysfunction can cause dysfunction and degeneration of synapses, and can trigger cell death. We have identified two types of mitochondrial proteins that serve the function of protecting synapses and neurons against dysfunction and death. Mitochondrial ATP-sensitive potassium (MitoKATP) channels modulate inner membrane potential and oxyradical production; mitochondrial potassium fluxes can affect cytochrome c release and caspase activation and may determine whether neurons live or die in experimental models of stroke and Alzheimer's disease. Uncoupling proteins (UCPs) are a family of mitochondrial membrane proteins that uncouple electron transport from ATP production by transporting protons across the inner membrane. Neurons express at least three UCPs including the widely expressed UCP-2 and the neuron-specific UCP-4 and UCP-5 (BMCP-1). We have found that UCP-4 protects neurons against apoptosis by a mechanism involving suppression of oxyradical production and stabilization of cellular calcium homeostasis. The expression of UCP-4 is itself regulated by changes in energy metabolism. In addition to their roles in neuronal cell survival and death, MitoKATP channels and UCPs may play roles in regulating neuronal differentiation during development and synaptic plasticity in the adult.", 
+    "lpage": "549", 
+    "grants": [], 
+    "journal-title": "Biochemical and biophysical research communications", 
+    "fpage": "539", 
+    "keywords": [], 
+    "pubyear": "2003", 
+    "auths": [
+      [
+        "Mattson", 
+        "Mark P"
+      ], 
+      [
+        "Liu", 
+        "Dong"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Mitochondrial potassium channels and uncoupling proteins in synaptic plasticity and neuronal cell death.", 
+    "pmid": "12729589", 
+    "pmonth": [
+      "May"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "20", 
+    "text": "Mayevsky, A., and Chance, B. (2007). Oxidation-reduction states of NADH in vivo: from animals to clinical use. Mitochondrion 7, 330&#x02013;339.", 
+    "sponsors": [], 
+    "abstxt": "Mitochondrial dysfunction is part of many pathological states in patients, such as sepsis or stroke. Presently, the monitoring of mitochondrial function in patients is extremely rare, even though NADH redox state is routinely measured in experimental animals. In this article, we describe the scientific backgrounds and practical use of mitochondrial NADH fluorescence measurement that was applied to patients in the past few years. In addition to NADH, we optically measured the microcirculatory blood flow and volume, as well as HbO(2) oxygenation, from the same tissue area. The four detected parameters provide real time data on tissue viability, which is critical for patients monitoring.", 
+    "lpage": "339", 
+    "grants": [], 
+    "journal-title": "Mitochondrion", 
+    "fpage": "330", 
+    "keywords": [], 
+    "pubyear": "2007", 
+    "auths": [
+      [
+        "Mayevsky", 
+        "Avraham"
+      ], 
+      [
+        "Chance", 
+        "Britton"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Oxidation-reduction states of NADH in vivo: from animals to clinical use.", 
+    "pmid": "17576101", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "1", 
+    "text": "Ndubuizu, O., and Lamanna, J. C. (2007). Brain tissue oxygen concentration measurements. Antioxid. Redox Signal. 9, 1207&#x02013;1219.", 
+    "sponsors": [
+      "NIGMS", 
+      "NINDS"
+    ], 
+    "abstxt": "Brain function depends exquisitely on oxygen for energy metabolism. Measurements of brain tissue oxygen tension, by a variety of quantitative and qualitative techniques, going back for &gt;50 years, have led to a number of significant conclusions. These conclusions have important consequences for understanding brain physiology as it is now being explored by techniques such as blood-oxygen-level-dependent functional magnetic resonance imaging (BOLD fMRI) and near-infrared spectroscopy (NIRS). It has been known for some time that most of the measured oxygen tensions are less than venous pO2 and are distributed in a spatially and temporally heterogeneous manner on a microregional scale. Although certain large-scale methods can provide reproducible average brain pO2 measurements, no useful concept of a characteristic oxygen tension or meaningful average value for brain tissue oxygen can be known on a microregional level. Only an oxygen field exists with large local gradients due to local tissue respiration, and the most useful way to express this is with a pO2 distribution curve or histogram. The neurons of the brain cortex normally exist in a low-oxygen environment and on activation are oxygenated by increases in local capillary blood flow that lead to increases in hemoglobin saturation and tissue oxygen.", 
+    "lpage": "1219", 
+    "grants": [
+      "P50 GM066309", 
+      "R01-NS38632"
+    ], 
+    "journal-title": "Antioxidants &amp; redox signaling", 
+    "fpage": "1207", 
+    "keywords": [], 
+    "pubyear": "2007", 
+    "auths": [
+      [
+        "Ndubuizu", 
+        "Obinna"
+      ], 
+      [
+        "LaManna", 
+        "Joseph C"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Brain tissue oxygen concentration measurements.", 
+    "pmid": "17536959", 
+    "pmonth": [
+      "Aug"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2003"
+    ], 
+    "pubday": "23", 
+    "text": "Nicholls, D. G. (2003). Bioenergetics and transmitter release in the isolated nerve terminal. Neurochem. Res. 28, 1433&#x02013;1441.", 
+    "sponsors": [], 
+    "abstxt": "The isolated nerve terminal (or synaptosome) is the simplest preparation that allows mitochondrial bioenergetics to be studied in a physiological milieu, as well as facilitating investigation of the protein chemistry and regulation of synaptic vesicle exocytosis and recovery and providing a target for the study of the mechanism of action of numerous neurotoxins. This brief review discusses studies from our laboratory that may have provided some insight into these aspects of nerve terminal function.", 
+    "lpage": "1441", 
+    "grants": [], 
+    "journal-title": "Neurochemical research", 
+    "fpage": "1433", 
+    "keywords": [], 
+    "pubyear": "2003", 
+    "auths": [
+      [
+        "Nicholls", 
+        "David G"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Bioenergetics and transmitter release in the isolated nerve terminal.", 
+    "pmid": "14570388", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "8", 
+    "text": "Pellerin, L. (2010). Food for thought: the importance of glucose and other energy substrates for sustaining brain function under varying levels of activity. Diabetes Metab. 36(Suppl. 3), S59&#x02013;S63.", 
+    "sponsors": [], 
+    "abstxt": "The brain requires a constant and substantial energy supply to maintain its main functions. For decades, it was assumed that glucose was the major if not the only significant source of energy for neurons. This view was supported by the expression of specific facilitative glucose transporters on cerebral blood vessels, as well as neurons. Despite the fact that glucose remains a key energetic substrate for the brain, growing evidence suggests a different scenario. Thus astrocytes, a major type of glial cells that express their own glucose transporter, play a critical role in coupling synaptic activity with glucose utilization. It was shown that glutamatergic activity triggers an enhancement of aerobic glycolysis in this cell type. As a result, lactate is provided to neurons as an additional energy substrate. Indeed, lactate has proven to be a preferential energy substrate for neurons under various conditions. A family of proton-linked carriers known as monocarboxylate transporters has been described and specific members have been found to be expressed by endothelial cells, astrocytes and neurons. Moreover, these transporters are subject to fine regulation of their expression levels and localization, notably in neurons, which suggests that lactate supply could be adjusted as a function of their level of activity. Considering the importance of energetics in the aetiology of several neurodegenerative diseases, a better understanding of its cellular and molecular underpinnings might have important implications for the future development of neuroprotective strategies.", 
+    "lpage": "S63", 
+    "grants": [], 
+    "journal-title": "Diabetes &amp; metabolism", 
+    "fpage": "S59", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Pellerin", 
+        "L"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Food for thought: the importance of glucose and other energy substrates for sustaining brain function under varying levels of activity.", 
+    "pmid": "21211738", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2005"
+    ], 
+    "pubday": "31", 
+    "text": "Pena, F., and Ramirez, J. M. (2005). Hypoxia-induced changes in neuronal network properties. Mol. Neurobiol. 32, 251&#x02013;283.", 
+    "sponsors": [], 
+    "abstxt": "Because of their high energetic demand, neurons within the mammalian central nervous system are extremely sensitive to changes in partial pressure of oxygen. Faced with acute hypoxic conditions, an organism must follow a complex and highly dynamic emergency plan to secure survival. Behavioral functions that are not immediately essential for survival are turned off, and critical behaviors (such as breathing) undergo a biphasic response. An augmentation of breathing is initially adaptive, whereas prolonged hypoxic conditions are better served by an energy-saving mode. However, the hypoxic response of an organism depends on many additional factors. Environmental conditions, the animal's age and health, and the pattern (continuous vs intermittent) and duration (chronic vs acute) of hypoxia greatly determine the specific course of a hypoxic response. Different forms of hypoxia can cause pathology or be used as therapy. Therefore, it is not surprising that the hypoxic response of an organism results from widespread and highly diverse reconfigurations of neuronal network functions in different brain areas that are accomplished by diverse hypoxic changes at all levels of the nervous system (i.e., molecular, cellular, synaptic, neuronal, network). Hypoxia-induced changes in synaptic transmission are generally depressive and result primarily from presynaptic mechanisms, whereas changes in intrinsic properties involve excitatory and inhibitory alterations involving the majority of K+, Na+, and Ca2+ channels. This article reviews the response of the nervous system to hypoxia, accounting for all levels of integration from the cellular to the network level, and postulates that a better understanding of the diversity of cellular events is only possible if cellular and network events are considered in a functional and organismal context.", 
+    "lpage": "283", 
+    "grants": [], 
+    "journal-title": "Molecular neurobiology", 
+    "fpage": "251", 
+    "keywords": [], 
+    "pubyear": "2005", 
+    "auths": [
+      [
+        "Pe\u00f1a", 
+        "Fernando"
+      ], 
+      [
+        "Ramirez", 
+        "Jan-Marino"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Hypoxia-induced changes in neuronal network properties.", 
+    "pmid": "16385141", 
+    "pmonth": [
+      "Dec"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1987"
+    ], 
+    "pubday": "1", 
+    "text": "Pitler, T. A., and Landfield, P. W. (1987). Postsynaptic membrane shifts during frequency potentiation of the hippocampal EPSP. J. Neurophysiol. 58, 866&#x02013;882.", 
+    "sponsors": [
+      "NIA", 
+      "NIA"
+    ], 
+    "abstxt": "1. In some classes of central neurons, repetitive synaptic stimulation induces substantial changes in the postsynaptic membrane, in conjunction with robust frequency potentiation of the excitatory postsynaptic potential (EPSP). However, the nature and time course of these postsynaptic membrane shifts, or their possible contributions to EPSP frequency potentiation (e.g., by altering driving force or current pathways), have not been examined extensively. We therefore studied the simultaneous patterns of change in composite EPSP amplitude, postsynaptic input resistance (Rin), and postsynaptic membrane potential during a 4-min train of 10-Hz monosynaptic stimulation in CA1 neurons of hippocampal slices. Slices were maintained in media containing either control (4 mM) or high (6.5 mM) concentrations of K+. 2. Potentiation of the EPSP, hyperpolarization of the membrane, and a decline of Rin, all developed rapidly during 10-Hz synaptic stimulation; these responses reached maximal levels by 5-15 s of the stimulation train. In most cells, a membrane depolarization phase occurred between 15 and 45 s of stimulation, followed by rehyperpolarization by 1 min of stimulation. During the depolarization phase, both EPSP potentiation and the decline in Rin remained near maximal. No significant differences were seen as a function of K+ concentrations. 3. These results show that hyperpolarization is not invariably associated temporally with EPSP frequency potentiation. Moreover, if driving force and membrane conductance changes are assumed to be approximately similar in large dendrites and soma, then the increase in driving force due to membrane hyperpolarization was not sufficient to account for the three- and fourfold increases in EPSP amplitude seen during frequency potentiation. Further, based on similar assumptions and on dendritic models of EPSP attenuation, the decline in Rin should reduce EPSP amplitude at the dendritic synaptic site and, to a proportionately greater extent, at the soma. 4. Studies in which the membrane was hyperpolarized with injected current to approximately the IPSP reversal potential, or in which bicuculline methiodide was applied to the slices, indicated that depression of the IPSP by repetitive stimulation did not account for frequency potentiation of EPSP amplitude. 5. These data are therefore consistent with the conclusion that the frequency potentiation of composite EPSPs in central neurons depends on presynaptic mechanisms, rather than on generalized postsynaptic changes. However, our findings do not rule out localized postsynaptic changes in receptors or spines as possible contributing factors.(ABSTRACT TRUNCATED AT 400 WORDS)", 
+    "lpage": "882", 
+    "grants": [
+      "AG-04207", 
+      "AG-04542"
+    ], 
+    "journal-title": "Journal of neurophysiology", 
+    "fpage": "866", 
+    "keywords": [], 
+    "pubyear": "1987", 
+    "auths": [
+      [
+        "Pitler", 
+        "T A"
+      ], 
+      [
+        "Landfield", 
+        "P W"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Postsynaptic membrane shifts during frequency potentiation of the hippocampal EPSP.", 
+    "pmid": "3681399", 
+    "pmonth": [
+      "Oct"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2006"
+    ], 
+    "pubday": "17", 
+    "text": "Raichle, M. E., and Mintun, M. A. (2006). Brain work and brain imaging. Annu. Rev. Neurosci. 29, 449&#x02013;476.", 
+    "sponsors": [], 
+    "abstxt": "Functional brain imaging with positron emission tomography and magnetic resonance imaging has been used extensively to map regional changes in brain activity. The signal used by both techniques is based on changes in local circulation and metabolism (brain work). Our understanding of the cell biology of these changes has progressed greatly in the past decade. New insights have emerged on the role of astrocytes in signal transduction as has an appreciation of the unique contribution of aerobic glycolysis to brain energy metabolism. Likewise our understanding of the neurophysiologic processes responsible for imaging signals has progressed from an assumption that spiking activity (output) of neurons is most relevant to one focused on their input. Finally, neuroimaging, with its unique metabolic perspective, has alerted us to the ongoing and costly intrinsic activity within brain systems that most likely represents the largest fraction of the brain's functional activity.", 
+    "lpage": "476", 
+    "grants": [], 
+    "journal-title": "Annual review of neuroscience", 
+    "fpage": "449", 
+    "keywords": [], 
+    "pubyear": "2006", 
+    "auths": [
+      [
+        "Raichle", 
+        "Marcus E"
+      ], 
+      [
+        "Mintun", 
+        "Mark A"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Brain work and brain imaging.", 
+    "pmid": "16776593", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "1967"
+    ], 
+    "pubday": "1", 
+    "text": "Rolleston, F. S., and Newsholme, E. A. (1967). Control of glycolysis in cerebral cortex slices. Biochem. J. 104, 524&#x02013;533.", 
+    "sponsors": [], 
+    "abstxt": "1. Intracellular concentrations of intermediates and cofactors of glycolysis were measured in guinea-pig cerebral cortex slices incubated under varying conditions. 2. Comparison of mass-action ratios with apparent equilibrium constants for the reactions of glycolysis showed that hexokinase, phosphofructokinase and pyruvate kinase catalyse reactions generally far from equilibrium, whereas phosphoglucose isomerase, aldolase, phosphoglycerate kinase, phosphoglycerate mutase, enolase, adenlyate kinase and creatine phosphokinase are generally close to equilibrium. The possibility that glyceraldehyde 3-phosphate dehydrogenase may catalyse a ;non-equilibrium' reaction is discussed. 3. Correlation of changes in concentrations of substrates for enzymes catalysing ;non-equilibrium' reactions with changes in rates of glycolysis caused by alteration of the conditions of incubation showed that hexokinase, phosphofructokinase, pyruvate kinase and possibly glyceraldehyde 3-phosphate dehydrogenase are subject to metabolic control in cerebral cortex slices. 4. It is suggested that the glycolysis is controlled by two regulatory systems, the hexokinase-phosphofructokinase system and the glyceraldehyde 3-phosphate dehydrogenase-pyruvate kinase system. These are discussed. 5. It is concluded that the rate of glycolysis in guinea-pig cerebral cortex slices is limited either by the rate of glucose entry into the slices or by the hexokinase-phosphofructokinase system. 6. It is concluded that addition of 0.1mm-ouabain to guinea-pig cerebral cortex slices causes inhibition of either glyceraldehyde 3-phosphate dehydrogenase or phosphoglycerate kinase or both, in a manner independent of the known action of ouabain on the sodium- and potassium-activated adenosine triphosphatase.", 
+    "lpage": "533", 
+    "grants": [], 
+    "journal-title": "The Biochemical journal", 
+    "fpage": "524", 
+    "keywords": [], 
+    "pubyear": "1967", 
+    "auths": [
+      [
+        "Rolleston", 
+        "F S"
+      ], 
+      [
+        "Newsholme", 
+        "E A"
+      ]
+    ], 
+    "pubmonth": "8", 
+    "article-title": "Control of glycolysis in cerebral cortex slices.", 
+    "pmid": "4227784", 
+    "pmonth": [
+      "Aug"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1971"
+    ], 
+    "pubday": "1", 
+    "text": "Rosenthal, M., and Jobsis, F. F. (1971). Intracellular redox changes in functioning cerebral cortex. II. Effects of direct cortical stimulation. J. Neurophysiol. 34, 750&#x02013;762.", 
+    "sponsors": [], 
+    "abstxt": null, 
+    "lpage": "762", 
+    "grants": [], 
+    "journal-title": "Journal of neurophysiology", 
+    "fpage": "750", 
+    "keywords": [], 
+    "pubyear": "1971", 
+    "auths": [
+      [
+        "Rosenthal", 
+        "M"
+      ], 
+      [
+        "J\u0e23\u0e16bsis", 
+        "F F"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Intracellular redox changes in functioning cerebral cortex. II. Effects of direct cortical stimulation.", 
+    "pmid": "5097155", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "15", 
+    "text": "Schurr, A., and Payne, R. S. (2007). Lactate, not pyruvate, is neuronal aerobic glycolysis end product: an in vitro electrophysiological study. Neuroscience 147, 613&#x02013;619.", 
+    "sponsors": [], 
+    "abstxt": "For over 60 years, a distinction has been made between aerobic and anaerobic glycolysis based on their respective end products: pyruvate of the former, lactate of the latter. Recently we hypothesized that, in the brain, both aerobic and anaerobic glycolysis terminate with the formation of lactate from pyruvate by the enzyme lactate dehydrogenase (LDH). If this hypothesis is correct, lactate must be the mitochondrial substrate for oxidative energy metabolism via its oxidation to pyruvate, plausibly by a mitochondrial LDH. Here we employed electrophysiology of the rat hippocampal slice preparation to test and monitor the effects of malonate and oxamate, two different LDH inhibitors, and glutamate, a neuronal activator, in experiments, the results of which support the hypothesis that lactate, at least in this in vitro setting, is indeed the principal end product of neuronal aerobic glycolysis.", 
+    "lpage": "619", 
+    "grants": [], 
+    "journal-title": "Neuroscience", 
+    "fpage": "613", 
+    "keywords": [], 
+    "pubyear": "2007", 
+    "auths": [
+      [
+        "Schurr", 
+        "A"
+      ], 
+      [
+        "Payne", 
+        "R S"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Lactate, not pyruvate, is neuronal aerobic glycolysis end product: an in vitro electrophysiological study.", 
+    "pmid": "17560727", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "29", 
+    "text": "Shuttleworth, C. W. (2010). Use of NAD(P)H and flavoprotein autofluorescence transients to probe neuron and astrocyte responses to synaptic activation. Neurochem. Int. 56, 379&#x02013;386.", 
+    "sponsors": [
+      "NINDS", 
+      "NINDS", 
+      "NINDS"
+    ], 
+    "abstxt": "Synaptic stimulation in brain slices is accompanied by changes in tissue autofluorescence, which are a consequence of changes in tissue metabolism. Autofluorescence excited by ultraviolet light has been most extensively studied, and is due to reduced pyridine nucleotides (NADH and NADPH, collectively termed NAD(P)H). Stimulation generates a characteristic compound NAD(P)H response, comprising an initial fluorescence decrease and then an overshooting increase that slowly recovers to baseline levels. Evoked NAD(P)H transients are relatively easy to record, do not require the addition of exogenous indicators and have good signal-noise ratios. These characteristics make NAD(P)H imaging methods very useful for tracking the spread of neuronal activity in complex brain tissues, however the cellular basis of synaptically-evoked autofluorescence transients has been the subject of recent debate. Of particular importance is the question of whether signals are due primarily to changes in neuronal mitochondrial function, and/or whether astrocyte metabolism triggered by glutamate uptake may be a significant contributor to the overshooting NAD(P)H fluorescence increases. This mini-review addresses the subcellular origins of NAD(P)H autofluorescence and the evidence for mitochondrial and glycolytic contributions to compound transients. It is concluded that there is no direct evidence for a contribution to NAD(P)H signals from glycolysis in astrocytes following synaptic glutamate uptake. In contrast, multiple lines of evidence, including from complimentary flavoprotein autofluorescence signals, imply that mitochondrial NADH dynamics in neurons dominate compound evoked NAD(P)H transients. These signals are thus appropriate for studies of mitochondrial function and dysfunction in brain slices, in addition to providing robust maps of postsynaptic neuronal activation following physiological activation.", 
+    "lpage": "386", 
+    "grants": [
+      "NS051288", 
+      "R01 NS051288", 
+      "R01 NS051288-04"
+    ], 
+    "journal-title": "Neurochemistry international", 
+    "fpage": "379", 
+    "keywords": [], 
+    "pubyear": "2009", 
+    "auths": [
+      [
+        "Shuttleworth", 
+        "C William"
+      ]
+    ], 
+    "pubmonth": "12", 
+    "article-title": "Use of NAD(P)H and flavoprotein autofluorescence transients to probe neuron and astrocyte responses to synaptic activation.", 
+    "pmid": "20036704", 
+    "pmonth": [
+      "Feb"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1982"
+    ], 
+    "pubday": "1", 
+    "text": "Simon, A. J., and Torbati, D. (1982). Effects of hyperbaric oxygen on heart, brain, and lung functions in rat. Undersea Biomed. Res. 9, 263&#x02013;275.", 
+    "sponsors": [
+      "NHLBI"
+    ], 
+    "abstxt": "Electrocardiogram (ECG), electrocorticogram (ECoG), and respiratory rate (RR) were monitored in awake, unrestrained rats during continuous exposure to 1, 3, and 5 ATA O2 until death. The RR showed a consistent pattern at 1 and 3 ATA O2, while no pattern at 5 ATA O2 was observed. A characteristic pattern in heart rate (HR) was demonstrated at 3 ATA O2. At 5 ATA O2 a continuous reduction in HR occurred, while at 1 ATA O2 no significant change was found. The ECG at 3 ATA O2 showed various arrhythmias prior to convulsions, which were severely intensified concurrently with and following convulsions and respiratory distress. The ECG arrhythmias at 1 ATA O2 occurred after the first day of exposure and were intensified during respiratory distress and increased RR. The ECG arrhythmias at 5 ATA O2 usually occurred following the appearance of the first paroxysmal cortical electrical discharges (FED), and were extremely intensified following the onset of the first generalized clinical convulsions. Increased slow-wave activity in ECoG preceded the onset of the FED at 3 and 5 ATA O2. During days 2 and 3 at 1 ATA O2 the ECoG mostly contained slow and low-amplitude waves. The different levels of oxygen in this study often showed different effects on a particular physiological parameter. It is concluded that alterations in ECG, ECoG, HR, and RR at some pressures signal the appearance of severe pathophysiological changes during prolonged hyperbaric oxygen exposure in rats, and that the relations of these effects are not uniform at all oxygen pressures.", 
+    "lpage": "275", 
+    "grants": [
+      "HL-08899-15"
+    ], 
+    "journal-title": "Undersea biomedical research", 
+    "fpage": "263", 
+    "keywords": [], 
+    "pubyear": "1982", 
+    "auths": [
+      [
+        "Simon", 
+        "A J"
+      ], 
+      [
+        "Torbati", 
+        "D"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Effects of hyperbaric oxygen on heart, brain, and lung functions in rat.", 
+    "pmid": "7135636", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2004"
+    ], 
+    "pubday": "21", 
+    "text": "Sullivan, P. G., Springer, J. E., Hall, E. D., and Scheff, S. W. (2004). Mitochondrial uncoupling as a therapeutic target following neuronal injury. J. Bioenerg. Biomembr. 36, 353&#x02013;356.", 
+    "sponsors": [], 
+    "abstxt": "Mitochondrial dysfunction is a prominent feature of excitotoxic insult and mitochondria are known to play a pivotal role in neuronal cell survival and death following injury. Following neuronal injury there is a well-documented increase in cytosolic Ca(2+), reactive oxygen species (ROS) production and oxidative damage. In vitro studies have demonstrated these events are dependent on mitochondrial Ca(2+) cycling and that a reduction in membrane potential is sufficient to reduce excitotoxic cell death. This concept has gained additional support from experiments demonstrating that the overexpression of endogenous mitochondrial uncoupling proteins (UCP), which decrease the mitochondrial membrane potential, decreases cell death following oxidative stress. Our group has demonstrated that upregulation of UCP activity can reduce excitotoxic-mediated ROS production and cell death whereas a reduction in UCP levels increases susceptibility to neuronal injury. These findings raise the possibility that mitochondrial uncoupling could be a potential novel treatment for acute CNS injuries.", 
+    "lpage": "356", 
+    "grants": [], 
+    "journal-title": "Journal of bioenergetics and biomembranes", 
+    "fpage": "353", 
+    "keywords": [], 
+    "pubyear": "2004", 
+    "auths": [
+      [
+        "Sullivan", 
+        "P G"
+      ], 
+      [
+        "Springer", 
+        "Joe E"
+      ], 
+      [
+        "Hall", 
+        "Edward D"
+      ], 
+      [
+        "Scheff", 
+        "Stephen W"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Mitochondrial uncoupling as a therapeutic target following neuronal injury.", 
+    "pmid": "15377871", 
+    "pmonth": [
+      "Aug"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "8", 
+    "text": "Suzuki, A., Stern, S. A., Bozdagi, O., Huntley, G. W., Walker, R. H., Magistretti, P. J., and Alberini, C. M. (2011). Astrocyte-neuron lactate transport is required for long-term memory formation. Cell 144, 810&#x02013;823.", 
+    "sponsors": [
+      "NIMH", 
+      "NIMH", 
+      "NIMH", 
+      "NIMH", 
+      "NIMH", 
+      "NIMH", 
+      "NIMH", 
+      "NIMH", 
+      "NIMH", 
+      "NIMH", 
+      "NIMH"
+    ], 
+    "abstxt": "We report that, in the rat hippocampus, learning leads to a significant increase in extracellular lactate levels that derive from glycogen, an energy reserve selectively localized in astrocytes. Astrocytic glycogen breakdown and lactate release are essential for long-term but not short-term memory formation, and for the maintenance of long-term potentiation (LTP) of synaptic strength elicited in vivo. Disrupting the expression of the astrocytic lactate transporters monocarboxylate transporter 4 (MCT4) or MCT1 causes amnesia, which, like LTP impairment, is rescued by L-lactate but not equicaloric glucose. Disrupting the expression of the neuronal lactate transporter MCT2 also leads to amnesia that is unaffected by either L-lactate or glucose, suggesting that lactate import into neurons is necessary for long-term memory. Glycogenolysis and astrocytic lactate transporters are also critical for the induction of molecular changes required for memory formation, including the induction of phospho-CREB, Arc, and phospho-cofilin. We conclude that astrocyte-neuron lactate transport is required for long-term memory formation.", 
+    "lpage": "823", 
+    "grants": [
+      "R01 MH065635-07", 
+      "R01 MH065635-08", 
+      "R01 MH065635-09", 
+      "R01 MH065635-09S1", 
+      "R01 MH065635-10", 
+      "R01 MH074736-03", 
+      "R01 MH074736-04", 
+      "R01 MH074736-05", 
+      "R01-MH065635", 
+      "R01-MH074736", 
+      "T32-MH087004"
+    ], 
+    "journal-title": "Cell", 
+    "fpage": "810", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Suzuki", 
+        "Akinobu"
+      ], 
+      [
+        "Stern", 
+        "Sarah A"
+      ], 
+      [
+        "Bozdagi", 
+        "Ozlem"
+      ], 
+      [
+        "Huntley", 
+        "George W"
+      ], 
+      [
+        "Walker", 
+        "Ruth H"
+      ], 
+      [
+        "Magistretti", 
+        "Pierre J"
+      ], 
+      [
+        "Alberini", 
+        "Cristina M"
+      ]
+    ], 
+    "pubmonth": "3", 
+    "article-title": "Astrocyte-neuron lactate transport is required for long-term memory formation.", 
+    "pmid": "21376239", 
+    "pmonth": [
+      "Mar"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "1", 
+    "text": "Takano, T., Tian, G. F., Peng, W., Lou, N., Lovatt, D., Hansen, A. J., Kasischke, K. A., and Nedergaard, M. (2007). Cortical spreading depression causes and coincides with tissue hypoxia. Nat. Neurosci. 10, 754&#x02013;762.", 
+    "sponsors": [
+      "NINDS", 
+      "NINDS"
+    ], 
+    "abstxt": "Cortical spreading depression (CSD) is a self-propagating wave of cellular depolarization that has been implicated in migraine and in progressive neuronal injury after stroke and head trauma. Using two-photon microscopic NADH imaging and oxygen sensor microelectrodes in live mouse cortex, we find that CSD is linked to severe hypoxia and marked neuronal swelling that can last up to several minutes. Changes in dendritic structures and loss of spines during CSD are comparable to those during anoxic depolarization. Increasing O2 availability shortens the duration of CSD and improves local redox state. Our results indicate that tissue hypoxia associated with CSD is caused by a transient increase in O2 demand exceeding vascular O2 supply.", 
+    "lpage": "762", 
+    "grants": [
+      "NS30007", 
+      "NS38073"
+    ], 
+    "journal-title": "Nature neuroscience", 
+    "fpage": "754", 
+    "keywords": [], 
+    "pubyear": "2007", 
+    "auths": [
+      [
+        "Takano", 
+        "Takahiro"
+      ], 
+      [
+        "Tian", 
+        "Guo-Feng"
+      ], 
+      [
+        "Peng", 
+        "Weiguo"
+      ], 
+      [
+        "Lou", 
+        "Nanhong"
+      ], 
+      [
+        "Lovatt", 
+        "Ditte"
+      ], 
+      [
+        "Hansen", 
+        "Anker J"
+      ], 
+      [
+        "Kasischke", 
+        "Karl A"
+      ], 
+      [
+        "Nedergaard", 
+        "Maiken"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "Cortical spreading depression causes and coincides with tissue hypoxia.", 
+    "pmid": "17468748", 
+    "pmonth": [
+      "Jun"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2006"
+    ], 
+    "pubday": "18", 
+    "text": "Tsai, Y. C., Chou, Y. C., Wu, A. B., Hu, C. M., Chen, C. Y., Chen, F. A., and Lee, J. A. (2006). Stereoselective effects of 3-hydroxybutyrate on glucose utilization of rat cardiomyocytes. Life Sci. 78, 1385&#x02013;1391.", 
+    "sponsors": [], 
+    "abstxt": "In researches of ketone bodies, D-3-hydroxybutyrate (D-3HB) is usually the major one which has been investigated; in contrast, little attention has been paid to L-3-hydroxybutyrate (L-3HB), because of its presence in trace amounts, its dubious metabolism, and a lack of knowledge about its sources. In the present study we determined the distributions of enantiomers of 3-hydroxybutyrate (3HB) in rat brain, liver, heart, and kidney homogenates, and we found the heart homogenate contained an enriched amount of L-3HB (37.67 microM/mg protein) which generated a significant ratio of 66/34 (D/L). The ratio was altered to be 87/13 in the diabetic rat heart homogenate. We subsequently found this changed ratio of D/L-3HB may contribute to reduce glucose utilization in cardiomyocytes. Glucose utilization by cardiomyocytes with 5 mM of D-3HB was decreased to 61% of the control, but no interference was observed when D-3HB was replaced with L-3HB, suggesting L-3HB is not utilized for the energy fuel as other ketone bodies are. In addition, the reduced glucose utilization caused by D-3HB gradually recovered in a dose-dependent manner with administration of additional L-3HB. The results gave the necessity of taking L-3HB together with D-3HB into account with regard to glucose utilization, and L-3HB may be a helpful substrate for improving inhibited cardiac pyruvate oxidation caused by hyperketonemia.", 
+    "lpage": "1391", 
+    "grants": [], 
+    "journal-title": "Life sciences", 
+    "fpage": "1385", 
+    "keywords": [], 
+    "pubyear": "2005", 
+    "auths": [
+      [
+        "Tsai", 
+        "Yih-Chiao"
+      ], 
+      [
+        "Chou", 
+        "Yu-Ching"
+      ], 
+      [
+        "Wu", 
+        "An-Bang"
+      ], 
+      [
+        "Hu", 
+        "Chien-Ming"
+      ], 
+      [
+        "Chen", 
+        "Chau-Yang"
+      ], 
+      [
+        "Chen", 
+        "Fu-An"
+      ], 
+      [
+        "Lee", 
+        "Jen-Ai"
+      ]
+    ], 
+    "pubmonth": "10", 
+    "article-title": "Stereoselective effects of 3-hydroxybutyrate on glucose utilization of rat cardiomyocytes.", 
+    "pmid": "16225892", 
+    "pmonth": [
+      "Feb"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "5", 
+    "text": "Turner, D. A., and Adamson, D. C. (2011). Neuronal-astrocyte metabolic interactions: understanding the transition into abnormal astrocytoma metabolism. J. Neuropathol. Exp. Neurol. 70, 167&#x02013;176.", 
+    "sponsors": [
+      "NIA", 
+      "NIA", 
+      "NINDS", 
+      "NINDS"
+    ], 
+    "abstxt": "Brain function depends on complex metabolic interactions among only a few different cell types, with astrocytes providing critical support for neurons. Astrocyte functions include buffering the extracellular space, providing substrates to neurons, interchanging glutamate and glutamine for synaptic transmission with neurons, and facilitating access to blood vessels. Whereas neurons possess highly oxidative metabolism and easily succumb to ischemia, astrocytes rely more on glycolytic metabolism and hence are less susceptible tolack of oxygen. Astrocytoma cells seem to retain basic metabolic mechanisms of astrocytes; for example, they show a high glycolytic rate, lactate extrusion, ability to flourish under hypoxia, and opportunistic use of mechanisms to enhance cell division and maintain growth. Differences in metabolism between neurons and astrocytes may also extend to astrocytoma cells, providing therapeutic opportunities against astrocytomas, including sensitivity to acetate, a high rate of glycolysis and lactate extrusion, glutamate uptake transporters, differential sensitivities of monocarboxylate transporters, presence of glycogen, high interlinking with gap junctions, use of nicotinamide adenine dinucleotide phosphate for lipid synthesis, using different isoforms of synthetic enzymes (e.g. isocitrate dehydrogenase, pyruvate carboxylase, pyruvate kinase, lactate dehydrogenase), and different glucose uptake mechanisms. These unique metabolic susceptibilities may augment conventional therapeutic attacks based on cell division differences and surface receptors alone.", 
+    "lpage": "176", 
+    "grants": [
+      "R01 AG037599", 
+      "R01 AG037599-01", 
+      "R01 NS051856", 
+      "R01 NS051856-05"
+    ], 
+    "journal-title": "Journal of neuropathology and experimental neurology", 
+    "fpage": "167", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Turner", 
+        "Dennis A"
+      ], 
+      [
+        "Adamson", 
+        "David Cory"
+      ]
+    ], 
+    "pubmonth": "2", 
+    "article-title": "Neuronal-astrocyte metabolic interactions: understanding the transition into abnormal astrocytoma metabolism.", 
+    "pmid": "21293295", 
+    "pmonth": [
+      "Mar"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "26", 
+    "text": "Turner, D. A., Foster, K. A., Galeffi, F., and Somjen, G. G. (2007). Differences in O2 availability resolve the apparent discrepancies in metabolic intrinsic optical signals in vivo and in vitro. Trends Neurosci. 30, 390&#x02013;398.", 
+    "sponsors": [
+      "NINDS", 
+      "NINDS", 
+      "NINDS"
+    ], 
+    "abstxt": "Monitoring changes in the fluorescence of metabolic chromophores, reduced nicotinamide adenine dinucleotide and flavin adenine dinucleotide, and the absorption of cytochromes, is useful to study neuronal activation and mitochondrial metabolism in the brain. However, these optical signals evoked by stimulation, seizures and spreading depression in intact brain differ from those observed in vitro. The responses in vivo consist of a persistent oxidized state during neuronal activity followed by mild reduction during recovery. In vitro, however, brief oxidation is followed by prolonged and heightened reduction, even during persistent neuronal activation. In normally perfused, oxygenated and activated brain tissue in vivo, partial pressure of oxygen (P(O2)) levels often undergo a brief 'dip' that is always followed by an overshoot above baseline, due to increased blood flow (neuronal-vascular coupling). By contrast, in the absence of blood circulation, tissue P(O2)in vitro decreases more markedly and recovers slowly to baseline without overshooting. Although oxygen is abundant in vivo, it is diffusion-limited in vitro. The disparities in mitochondrial and tissue oxygen availability account for the different redox responses.", 
+    "lpage": "398", 
+    "grants": [
+      "R01 NS 051586", 
+      "R01 NS051856-02", 
+      "R21 NS045304-02"
+    ], 
+    "journal-title": "Trends in neurosciences", 
+    "fpage": "390", 
+    "keywords": [], 
+    "pubyear": "2007", 
+    "auths": [
+      [
+        "Turner", 
+        "Dennis A"
+      ], 
+      [
+        "Foster", 
+        "Kelley A"
+      ], 
+      [
+        "Galeffi", 
+        "Francesca"
+      ], 
+      [
+        "Somjen", 
+        "George G"
+      ]
+    ], 
+    "pubmonth": "6", 
+    "article-title": "Differences in O2 availability resolve the apparent discrepancies in metabolic intrinsic optical signals in vivo and in vitro.", 
+    "pmid": "17590447", 
+    "pmonth": [
+      "Aug"
+    ]
+  }, 
+  {
+    "text": "Vazquez, A. L., Masamoto, K., Fukuda, M., and Kim, S. G. (2010). Cerebral oxygen delivery and consumption during evoked neural activity. Front. Neuroenergetics 2:11. doi:10.3389/fnene.2010.00011"
+  }, 
+  {
+    "pyear": [
+      "2007"
+    ], 
+    "pubday": "10", 
+    "text": "Verweij, B. H., Amelink, G. J., and Muizelaar, J. P. (2007). Current concepts of cerebral oxygen transport and energy metabolism after severe traumatic brain injury. Prog. Brain Res. 161, 111&#x02013;124.", 
+    "sponsors": [], 
+    "abstxt": "Before energy metabolism can take place, brain cells must be supplied with oxygen and glucose. Only then, in combination with normal mitochondrial function, sufficient energy (adenosine tri-phosphate (ATP)) can be produced. Glucose is virtually the sole fuel for the human brain. The brain lacks fuel stores and requires a continuous supply of glucose and oxygen. Therefore, continuous cerebral blood flow (CBF), cerebral oxygen tension and delivery, and normal mitochondrial function are of vital importance for the maintenance of brain function and tissue viability. This review focuses on three main issues: (1) Cerebral oxygen transport (CBF, and oxygen partial pressure (PO2) and delivery to the brain); (2) Energy metabolism (glycolysis, mitochondrial function: citric acid cycle and oxidative phosphorylation); and (3) The role of the above in the pathophysiology of severe head injury. Basic understanding of these issues in the normal as well as in the traumatized brain is essential in developing new treatment strategies. These issues also play a key role in interpreting data collected from monitoring techniques such as cerebral tissue PO2, jugular bulb oxygen saturation (SjvO2), near infra red spectroscopy (NIRS), microdialysis, intracranial pressure monitoring (ICP), laser Doppler flowmetry, and transcranial Doppler flowmetry--both in the experimental and in the clinical setting.", 
+    "lpage": "124", 
+    "grants": [], 
+    "journal-title": "Progress in brain research", 
+    "fpage": "111", 
+    "keywords": [], 
+    "pubyear": "2007", 
+    "auths": [
+      [
+        "Verweij", 
+        "B H"
+      ], 
+      [
+        "Amelink", 
+        "G J"
+      ], 
+      [
+        "Muizelaar", 
+        "J P"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Current concepts of cerebral oxygen transport and energy metabolism after severe traumatic brain injury.", 
+    "pmid": "17618973", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "1984"
+    ], 
+    "pubday": "1", 
+    "text": "Whittingham, T. S., Lust, W. D., Christakis, D. A., and Passonneau, J. V. (1984). Metabolic stability of hippocampal slice preparations during prolonged incubation. J. Neurochem. 43, 689&#x02013;696.", 
+    "sponsors": [], 
+    "abstxt": "Hippocampal slices were prepared under three conditions: (1) in medium containing glucose and oxygen at 4 degrees C; (2) as in (1), but at 37 degrees C; (3) in medium devoid of glucose and oxygen at 37 degrees C. The rates of recovery to roughly steady-state levels and through 8 h of incubation were monitored for energy metabolite levels and related parameters. In vitro stable values are compared with in situ hippocampal levels. Regardless of the conditions under which slices were prepared, metabolite levels required up to 3 h to stabilize, and these levels were maintained or improved through 8 h of incubation. Further, the maximal concentrations of metabolites were independent of the conditions of slice preparation. Total adenylates and total creatine levels reached 55% of those in vivo. Lactate decreased from the decapitation-induced high levels, but stabilized at concentrations about twice those in rapidly frozen brain. Cyclic AMP and cyclic GMP exhibited peak levels at 30 min of incubation, and cyclic GMP remained elevated for 3 h. Although all three methods of slice preparation resulted in similar metabolite profiles on incubation, the initial decreases in high energy phosphates were delayed by chilling. Most striking, the slices prepared in the absence of glucose and oxygen exhibited much smaller orthodromic evoked potentials in the dentate gyrus. The presence of glucose and oxygen during preparation of the slices appears to be critical to the electrophysiological response of the tissue.", 
+    "lpage": "696", 
+    "grants": [], 
+    "journal-title": "Journal of neurochemistry", 
+    "fpage": "689", 
+    "keywords": [], 
+    "pubyear": "1984", 
+    "auths": [
+      [
+        "Whittingham", 
+        "T S"
+      ], 
+      [
+        "Lust", 
+        "W D"
+      ], 
+      [
+        "Christakis", 
+        "D A"
+      ], 
+      [
+        "Passonneau", 
+        "J V"
+      ]
+    ], 
+    "pubmonth": "9", 
+    "article-title": "Metabolic stability of hippocampal slice preparations during prolonged incubation.", 
+    "pmid": "6086837", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1979"
+    ], 
+    "pubday": "1", 
+    "text": "Wilson, D. F., Erecinska, M., Drown, C., and Silver, I. A. (1979). The oxygen dependence of cellular energy metabolism. Arch. Biochem. Biophys. 195, 485&#x02013;493.", 
+    "sponsors": [], 
+    "abstxt": null, 
+    "lpage": "493", 
+    "grants": [], 
+    "journal-title": "Archives of biochemistry and biophysics", 
+    "fpage": "485", 
+    "keywords": [], 
+    "pubyear": "1979", 
+    "auths": [
+      [
+        "Wilson", 
+        "D F"
+      ], 
+      [
+        "Ereci\u0139&bdquo;ska", 
+        "M"
+      ], 
+      [
+        "Drown", 
+        "C"
+      ], 
+      [
+        "Silver", 
+        "I A"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "The oxygen dependence of cellular energy metabolism.", 
+    "pmid": "224819", 
+    "pmonth": [
+      "Jul"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "20", 
+    "text": "Wyss, M. T., Jolivet, R., Buck, A., Magistretti, P. J., and Weber, B. (2011). In vivo evidence for lactate as a neuronal energy source. J. Neurosci. 31, 7477&#x02013;7485.", 
+    "sponsors": [], 
+    "abstxt": "Cerebral energy metabolism is a highly compartmentalized and complex process in which transcellular trafficking of metabolites plays a pivotal role. Over the past decade, a role for lactate in fueling the energetic requirements of neurons has emerged. Furthermore, a neuroprotective effect of lactate during hypoglycemia or cerebral ischemia has been reported. The majority of the current evidence concerning lactate metabolism at the cellular level is based on in vitro data; only a few recent in vivo results have demonstrated that the brain preferentially utilizes lactate over glucose. Using voltage-sensitive dye (VSD) imaging, beta-probe measurements of radiotracer kinetics, and brain activation by sensory stimulation in the anesthetized rat, we investigated several aspects of cerebral lactate metabolism. The present study is the first in vivo demonstration of the maintenance of neuronal activity in the presence of lactate as the primary energy source. The loss of the voltage-sensitive dye signal found during severe insulin-induced hypoglycemia is completely prevented by lactate infusion. Thus, lactate has a direct neuroprotective effect. Furthermore, we demonstrate that the brain readily oxidizes lactate in an activity-dependent manner. The washout of 1-[(11)C]L-lactate, reflecting cerebral lactate oxidation, was observed to increase during brain activation from 0.077 \u00b1 0.009 to 0.105 \u00b1 0.007 min(-1). Finally, our data confirm that the brain prefers lactate over glucose as an energy substrate when both substrates are available. Using [(18)F]fluorodeoxyglucose (FDG) to measure the local cerebral metabolic rate of glucose, we demonstrated a lactate concentration-dependent reduction of cerebral glucose utilization during experimentally increased plasma lactate levels.", 
+    "lpage": "7485", 
+    "grants": [], 
+    "journal-title": "The Journal of neuroscience : the official journal of the Society for Neuroscience", 
+    "fpage": "7477", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "Wyss", 
+        "Matthias T"
+      ], 
+      [
+        "Jolivet", 
+        "Renaud"
+      ], 
+      [
+        "Buck", 
+        "Alfred"
+      ], 
+      [
+        "Magistretti", 
+        "Pierre J"
+      ], 
+      [
+        "Weber", 
+        "Bruno"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "In vivo evidence for lactate as a neuronal energy source.", 
+    "pmid": "21593331", 
+    "pmonth": [
+      "May"
+    ]
+  }, 
+  {
+    "pyear": [
+      "1970"
+    ], 
+    "pubday": "1", 
+    "text": "Yamamoto, C., and Kurokawa, M. (1970). Synaptic potentials recorded in brain slices and their modification by changes in the level of tissue ATP. Exp. Brain Res. 10, 159&#x02013;170.", 
+    "sponsors": [], 
+    "abstxt": null, 
+    "lpage": "170", 
+    "grants": [], 
+    "journal-title": "Experimental brain research. Experimentelle Hirnforschung. Exp\u00e9rimentation c\u00e9r\u00e9brale", 
+    "fpage": "159", 
+    "keywords": [], 
+    "pubyear": "1970", 
+    "auths": [
+      [
+        "Yamamoto", 
+        "C"
+      ], 
+      [
+        "Kurokawa", 
+        "M"
+      ]
+    ], 
+    "pubmonth": "1", 
+    "article-title": "Synaptic potentials recorded in brain slices and their modification by changes in the level of tissue ATP.", 
+    "pmid": "4314011", 
+    "pmonth": []
+  }, 
+  {
+    "pyear": [
+      "1997"
+    ], 
+    "pubday": "1", 
+    "text": "Zhao, Y. T., Tekkok, S., and Krnjevic, K. (1997). 2-deoxy-D-glucose-induced changes in membrane potential, input resistance, and excitatory postsynaptic potentials of CA1 hippocampal neurons. Can. J. Physiol. Pharmacol. 75, 368&#x02013;374.", 
+    "sponsors": [], 
+    "abstxt": "Temporary block of glycolysis by 2-deoxy-D-glucose (2-DG) reversibly suppresses synaptic transmission in the CA1 region of hippocampal slices. Recovery of responses is followed by a sustained potentiation of field excitatory postsynaptic potentials (EPSPs) (2-DG-LTP). To investigate the mechanisms involved in this type of LTP, we studied the effects of 2-DG on membrane properties of CA1 neurons (in slices from Sprague-Dawley rats), recorded with sharp intracellular electrodes containing 3 M KCl, as well as patch electrodes, filled mainly with 150 mM KMeSO4 and Hepes. The predominant change produced by 15- to 20-min applications of 2-DG (10 mM, replacing glucose) was hyperpolarization (-5.6 +/- 1.1 mV for 18 intracellular recordings and -7.2 +/- 0.80 mV for 17 whole-cell recordings) accompanied by a fall in resistance (-33 +/- 2.5% for 14 intracellular recordings and -11.6 +/- 7.1% for 15 whole-cell recordings). Virtually identical hyperpolarizations were recorded in the presence of 20 microM glyburide (-5.5 +/- 1.5 mV, n = 6), but they were abolished by adenosine antagonists 8-(p-sulfophenyl)theophylline (8-SPT) and 8-cyclopentyl-3,7-dihydro-1,3-dipropyl-1H-purine-2,6-dione (DPCPX) (2.8 +/- 1.6 and 4.0 +/- 1.7 mV, respectively; n = 5 for both). It was concluded that the hyperpolarization is most likely caused by an increase in K+ conductance, activated by a 2-DG-induced rise in adenosine release. After such applications of 2-DG, a sustained potentiation of EPSPs (similar to the 2-DG-LTP of field EPSPs) was evident in five neurons recorded with intracellular electrodes but not in any of nine whole-cell recordings, where it was replaced by sustained, LTD-like depression. We conclude that a factor essential for 2-DG-LTP induction is lost during whole-cell recording.", 
+    "lpage": "374", 
+    "grants": [], 
+    "journal-title": "Canadian journal of physiology and pharmacology", 
+    "fpage": "368", 
+    "keywords": [], 
+    "pubyear": "1997", 
+    "auths": [
+      [
+        "Zhao", 
+        "Y T"
+      ], 
+      [
+        "Tekk\u00f6k", 
+        "S"
+      ], 
+      [
+        "Krnjevi\u0107", 
+        "K"
+      ]
+    ], 
+    "pubmonth": "5", 
+    "article-title": "2-Deoxy-D-glucose-induced changes in membrane potential, input resistance, and excitatory postsynaptic potentials of CA1 hippocampal neurons.", 
+    "pmid": "9250370", 
+    "pmonth": [
+      "May"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2010"
+    ], 
+    "pubday": "17", 
+    "text": "Zilberter, Y., Zilberter, T., and Bregestovski, P. (2010). Neuronal activity in vitro and the in vivo reality: the role of energy homeostasis. Trends Pharmacol. Sci. 31, 394&#x02013;401.", 
+    "sponsors": [], 
+    "abstxt": "The energy demands of the brain are exceptionally high compared with any other organ of the body. A complex control system maintains brain energy homeostasis, mobilizing appropriate energy substrates to satisfy the energy requirements. It is a common belief that many fundamental neuronal properties, including those governing excitability, are dependent on the energy supply. However, surprisingly little is known about how the specific factors underlying neuronal activity are affected by energy status. Most of these parameters have been studied in acute brain slices, in which the homeostatic system is absent and neurons in the artificial extracellular milieu are arbitrarily supplied with energy substrates. In this paper, we discuss the relationships between availability of energy substrates and neuronal excitability, and suggest that for in vitro studies, it is crucial to optimize the composition of the energy pool in the extracellular milieu.", 
+    "lpage": "401", 
+    "grants": [], 
+    "journal-title": "Trends in pharmacological sciences", 
+    "fpage": "394", 
+    "keywords": [], 
+    "pubyear": "2010", 
+    "auths": [
+      [
+        "Zilberter", 
+        "Yuri"
+      ], 
+      [
+        "Zilberter", 
+        "Tanya"
+      ], 
+      [
+        "Bregestovski", 
+        "Piotr"
+      ]
+    ], 
+    "pubmonth": "7", 
+    "article-title": "Neuronal activity in vitro and the in vivo reality: the role of energy homeostasis.", 
+    "pmid": "20633934", 
+    "pmonth": [
+      "Sep"
+    ]
+  }, 
+  {
+    "pyear": [
+      "2011"
+    ], 
+    "pubday": "22", 
+    "text": "Zur Nedden, S., Hawley, S., Pentland, N., Hardie, D. G., Doney, A. S., and Frenguelli, B. G. (2011). Intracellular ATP influences synaptic plasticity in area CA1 of rat hippocampus via metabolism to adenosine and activity-dependent activation of adenosine A1 receptors. J. Neurosci. 31, 6221&#x02013;6234.", 
+    "sponsors": [], 
+    "abstxt": "The extent to which brain slices reflect the energetic status of the in vivo brain has been a subject of debate. We addressed this issue to investigate the recovery of energetic parameters and adenine nucleotides in rat hippocampal slices and the influence this has on synaptic transmission and plasticity. We show that, although adenine nucleotide levels recover appreciably within 10 min of incubation, it takes 3 h for a full recovery of the energy charge (to \u2265 0.93) and that incubation of brain slices at 34\u00b0C results in a significantly higher ATP/AMP ratio and a threefold lower activity of AMP-activated protein kinase compared with slices incubated at room temperature. Supplementation of artificial CSF with d-ribose and adenine (Rib/Ade) increased the total adenine nucleotide pool of brain slices, which, when corrected for the influence of the dead cut edges, closely approached in vivo values. Rib/Ade did not affect basal synaptic transmission or paired-pulse facilitation but did inhibit long-term potentiation (LTP) induced by tetanic or weak theta-burst stimulation. This decrease in LTP was reversed by strong theta-burst stimulation or antagonizing the inhibitory adenosine A(1) receptor suggesting that the elevated tissue ATP levels had resulted in greater activity-dependent adenosine release during LTP induction. This was confirmed by direct measurement of adenosine release with adenosine biosensors. These observations provide new insight into the recovery of adenine nucleotides after slice preparation, the sources of loss of such compounds in brain slices, the means by which to restore them, and the functional consequences of doing so.", 
+    "lpage": "6234", 
+    "grants": [], 
+    "journal-title": "The Journal of neuroscience : the official journal of the Society for Neuroscience", 
+    "fpage": "6221", 
+    "keywords": [], 
+    "pubyear": "2011", 
+    "auths": [
+      [
+        "zur Nedden", 
+        "Stephanie"
+      ], 
+      [
+        "Hawley", 
+        "Simon"
+      ], 
+      [
+        "Pentland", 
+        "Naomi"
+      ], 
+      [
+        "Hardie", 
+        "D Grahame"
+      ], 
+      [
+        "Doney", 
+        "Alexander S"
+      ], 
+      [
+        "Frenguelli", 
+        "Bruno G"
+      ]
+    ], 
+    "pubmonth": "4", 
+    "article-title": "Intracellular ATP influences synaptic plasticity in area CA1 of rat hippocampus via metabolism to adenosine and activity-dependent activation of adenosine A1 receptors.", 
+    "pmid": "21508245", 
+    "pmonth": [
+      "Apr"
+    ]
+  }
+]
