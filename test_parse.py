@@ -244,7 +244,7 @@ class WhenParsingSingleEntryExtended5:
         self.result = parsed.line()
 
     def should_have_ref_number(self):
-        assert self.result.ref == '22'
+        assert self.result.ref == '62'
 
     def should_have_names(self):
         assert self.result.names == ['Eyal E', 'Yang LW', 'Bahar I']
