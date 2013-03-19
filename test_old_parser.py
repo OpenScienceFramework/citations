@@ -2,7 +2,10 @@ import json
 import glob
 import unittest
 import networkx as nx
-import matplotlib.pyplot as plt
+try:
+    import matplotlib.pyplot as plt
+except ImportError:
+    pass
 
 import citation
 
