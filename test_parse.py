@@ -34,7 +34,7 @@ class WhenParsingSingleEntry:
         assert self.result.doi == '10.1016/j.tics.2005.04.010'
 
 
-class WhenParsingSingleEntryExtended1:
+class _WhenParsingSingleEntryExtended1:
     # et al. in author list, slash in title, unicode in page reference
     
     def setup_method(self, method):
@@ -74,7 +74,7 @@ class WhenParsingSingleEntryExtended1:
         assert self.result.doi == '10.1126/science.2994223'
         
 
-class WhenParsingSingleEntryExtended2:
+class _WhenParsingSingleEntryExtended2:
     # et al. in author list, hyphen and numbers in title, long journal name, single page number
         
     def setup_method(self, method):
@@ -115,7 +115,7 @@ class WhenParsingSingleEntryExtended2:
         assert self.result.doi == '10.1073/pnas.0811427106'
 
 
-class WhenParsingSingleEntryExtended3:
+class _WhenParsingSingleEntryExtended3:
     # unicode in page reference
 
     def setup_method(self, method):
@@ -154,7 +154,7 @@ class WhenParsingSingleEntryExtended3:
         assert self.result.doi == '10.1529/biophysj.107.117580'
 
 
-class WhenParsingSingleEntryExtended4:
+class _WhenParsingSingleEntryExtended4:
     # parens in title; no journal name, volume; includes url for e-pub
     
     def setup_method(self, method):
@@ -192,7 +192,7 @@ class WhenParsingSingleEntryExtended4:
     def should_have_url(self):
         assert self.result.url == "http://home.earthlink.net/wjbuddenh/pack\u200b/sphere/intro.htm"
 
-class WhenParsingSingleEntryExtended5:
+class _WhenParsingSingleEntryExtended5:
     # et al. in author list, unicode in page reference, parens and hyphen in DOI
 
     def setup_method(self, method):
@@ -232,7 +232,7 @@ class WhenParsingSingleEntryExtended5:
         assert self.result.doi == "10.1016/S0006-3495(01)76033-X"
         
 
-class WhenParsingSingleEntryExtended5:
+class _WhenParsingSingleEntryExtended5:
     # colon in title, unicode in page range
     
     def setup_method(self, method):
@@ -288,7 +288,6 @@ class _WhenParsingManyEntries:
 
     def should_gives_multiple_results(self):
         assert len(self.result) == 2
-
 
 class CheckParseWords:
     def should_normalize_whitespace(self):

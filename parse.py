@@ -1,7 +1,9 @@
 # encoding: utf-8
 
-import re
 import collections
+import glob
+import re
+
 import parsley
 
 DASHES = ['-', u'–']
@@ -13,8 +15,12 @@ def normalize(string):
     string = re.sub(r'\s+', ' ', string)
     return string
 
-with open("citation.parsley") as gfile:
-    grammar = unicode(gfile.read())
+for gname in glob.glob("grammars/*.parsley"):
+    with open(gname) as gfile:
+        grammar = unicode(gfile.read())
 
 parser = parsley.makeGrammar(grammar, dict(DASHES=DASHES,
                              Reference=Reference, normalize=normalize))
+
+def to_dict(s):
+    return parser(s).line()._asdict()

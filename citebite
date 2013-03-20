@@ -4,6 +4,7 @@ import json
 
 import parse
 
+
 with open(sys.argv[1]) as f:
-    data = parse.parser(f.read()).line()._asdict()
+    data = parse.to_dict(f.read())
     print json.dumps(data, indent=2)
