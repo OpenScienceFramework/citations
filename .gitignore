@@ -1,3 +1,7 @@
+# Generics
+#####################
+*~
+
 # OS generated files
 ######################
 .DS_Store
@@ -37,3 +41,4 @@ pip-log.txt
 nosetests.xml
 *.mo
 .idea
+/mongodb
