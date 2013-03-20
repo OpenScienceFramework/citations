@@ -98,7 +98,8 @@ class OAIFetcher(Fetcher):
     xml_parse = BS(xml)
     
     # Extend records to docs
-    docs.extend(xml_parse.findAll('record'))
+    yield xml_parse.findAll('record')
+    #docs.extend(xml_parse.findAll('record'))
     
     # Get resumption token
     token = xml_parse.find(re.compile('resumptiontoken', re.I))
@@ -108,11 +109,12 @@ class OAIFetcher(Fetcher):
       params['resumptionToken'] = token.text
       xml = self.query(**params)
       xml_parse = BS(xml)
-      docs.extend(xml_parse.findAll('record'))
+      yield xml_parse.findAll('record')
+      #docs.extend(xml_parse.findAll('record'))
       token = xml_parse.find(re.compile('resumptiontoken', re.I))
     
-    # Done
-    return docs
+    ## Done
+    #return docs
 
   '''Gets documents from PMC OAI in XML
      params : params

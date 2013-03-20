@@ -1,5 +1,6 @@
 
 from pymongo import MongoClient
+from pymongo import ASCENDING, DESCENDING
 
 class IncompleteDocumentException(Exception):
   pass
@@ -15,7 +16,22 @@ class DB(object):
     coll = MongoClient()
     self.citations = coll.citations
     self.documents = self.citations.documents
+    self.batches = self.citations.batches
   
+  def last_date_range(self, source):
+    
+    return self.batches.find({'source' : source})\
+    .sort('from', DESCENDING)\
+    .limit(1)
+
+  def add_date_range(self, source, date_from, date_until):
+    
+    self.batches.insert({
+      'source' : source,
+      'from' : date_from,
+      'until' : date_until,
+    })
+   
   def add_or_update(self, document):
     '''Add document to database or update existing document(s).
 
