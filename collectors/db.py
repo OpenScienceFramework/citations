@@ -1,13 +1,20 @@
-
+'''
+Controller for handling add requests and queries to/from
+MongoDB.
+'''
 from pymongo import MongoClient
 from pymongo import ASCENDING, DESCENDING
 
+# @TODO: Implement this exception
+# Excepetion thrown when an attempt to add an article
+# missing required information
 class IncompleteDocumentException(Exception):
   pass
 
+# Controller class for handiling DB transactions
 class DB(object):
   
-  # Fields that all documents must have
+  # Fields that all documents objects must have to be added
   required_fields = ['author', 'title', 'date']
 
   def __init__(self):
@@ -18,12 +25,14 @@ class DB(object):
     self.documents = self.citations.documents
     self.batches = self.citations.batches
   
+  # returns the last datetime a source was probed for document data
   def last_date_range(self, source):
     
     return self.batches.find({'source' : source})\
     .sort('from', DESCENDING)\
     .limit(1)
 
+  # adds or updates the datetime a source was probed for document data
   def add_date_range(self, source, date_from, date_until):
     
     self.batches.insert({
@@ -32,42 +41,45 @@ class DB(object):
       'until' : date_until,
     })
    
+  '''
+     Adds or updates a document to the database
+     Params : 
+       document - document to be added/updated
+  '''
   def add_or_update(self, document):
-    '''Add document to database or update existing document(s).
-
-    '''
     
-    # Raise exception if fields missing
+    # Raise exception if a required field(s) is missing from the document
     if not all([field in document['data'] for field in self.required_fields]):
       raise IncompleteDocumentException
     
-    # Build query
+    # Build query to check if document exists in the database
     query = {
       'data.title' : document['data']['title'],
       'data.author.0.family-name' : document['data']['author'][0]['family-name'],
       'data.date' : document['data']['date'],
     }
     
-    # Run query
+    # Run query 
     results = self.documents.find(query)
     
-    # Check results for conflicts
+    # Check results (documents found in the db) for conflicts with 
+    # the document to be added/updated
     all_conflicts = True
     for result in results:
       union_keys = set(result['data'].keys()) & set(document['data'].keys())
       if any([result['data'][key] != document['data'][key] for key in union_keys]):
-        # Conflict: Add conflict? to existing result
+        # if a conflict is found: Add conflict? to existing result
         found_conflict = True
         document['flags']['conflict?'] = True
-        db.documents.update(
+        self.db.documents.update(
           {'_id' : result['_id']},
           {'$set' : {
             'flags.conflict?' : True,
           }},
         )
       else:
-        # No conflict: Update existing result
-        db.documents.update(
+        # else: Update existing result
+        self.db.documents.update(
           {'_id' : result['_id']},
           {
             '$set' : {'data' : document['data']},
@@ -76,6 +88,7 @@ class DB(object):
         )
         all_conflicts = False
 
-    # Insert document if no matches or all conflicts
+    # if there is no conflict and the document does not already exist
+    # in the database, add it
     if results is None or all_conflicts:
-      db.documents.insert(document)
+      self.db.documents.insert(document)
