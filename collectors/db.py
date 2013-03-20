@@ -50,21 +50,12 @@ class DB(object):
      Params : 
        document - document to be added/updated
   '''
-<<<<<<< HEAD
-  def add_or_update(self, document):
-
-    # @todo: Is it possible for a document to be corrupted between extraction and reinsertion?
-    #if document.document.hasMinData():
-    #    raise IncompleteDocumentException
-
-=======
   def add_or_update(self, doc):
     
     ## Raise exception if a required field(s) is missing from the document
     #if not all([field in document['properties'] for field in self.required_fields]):
     #  raise IncompleteDocumentException
     
->>>>>>> 13f550c3702013b1c79a743cabf5f040e36674da
     # Build query to check if document exists in the database
     query = {
       'uid' : doc.getUID(),
@@ -110,8 +101,4 @@ class DB(object):
     # if there is no conflict and the document does not already exist
     # in the database, add it
     if results is None or all_conflicts:
-<<<<<<< HEAD
-      self.db.documents.insert(document)
-=======
       self.documents.insert(doc.document)
->>>>>>> 13f550c3702013b1c79a743cabf5f040e36674da
