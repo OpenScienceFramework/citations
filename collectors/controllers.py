@@ -17,11 +17,12 @@ class CorpusController(object):
   # obtains, constructs, and adds a batch of documents form a source
   def batch(self, source):
     
-    pass
+    pass #TODO
+
   # obtains, constructs, and adds a target document from a source
   def target(self, article):
 
-    pass
+    pass #TODO
 
   def hybrid(self, source):
 
@@ -69,10 +70,12 @@ class OAIController(CorpusController):
     parser = OAIParser()
     for doc_batch in doc_batches:
       for doc in doc_batch:
-        return doc
-        doc_parsed = parser.parse(doc)
+        parsed_docs = parser.parse_document(doc)
+        return parsed_docs
+        print 'docs', len(parsed_docs)
         # Send parsed articles in DB
-        self.db.add_or_update(doc_parsed)
+        for doc in parsed_docs:
+          self.db.add_or_update(doc)
     
     # Update date range
     self.db.add_date_range('oai', date_from, date_until)
