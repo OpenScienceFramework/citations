@@ -12,24 +12,21 @@ import citation
 unneeded_tags = ['raw', 'type', 'style', 'post', 'page', 'volume', 'DOI',
                  'references', 'UID']
 
-class CheckCitation(unittest.TestCase):
-    pass
-
-def create_tests():
-    for name in glob.glob("tests/*.json"):
+def pytest_generate_tests(metafunc):
+    names = glob.glob("tests/*.json")
+    for name in names:
         with open(name) as f:
             citations = json.load(f)
-        for cit in citations:
-            test_name = 'test in {} - {}'.format(name, cit['raw'])
-            a = citation.Citation.parse(cit['raw'])
-            b = cit
-            for k in unneeded_tags:
-                if k in a:
-                    del a[k]
-                if k in b:
-                    del b[k]
-            def test(self):
-                assert a == b
-            setattr(CheckCitation, test_name, test)
+        metafunc.parametrize('cit', citations)
+        metafunc.parametrize('name', names)
 
-create_tests()
+def check_parse(name, cit):
+    test_name = 'test in {} - {}'.format(name, cit['raw'])
+    a = citation.Citation.parse(cit['raw'])
+    b = cit
+    for k in unneeded_tags:
+        if k in a:
+            del a[k]
+        if k in b:
+            del b[k]
+    assert a == b

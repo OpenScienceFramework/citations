@@ -20,3 +20,5 @@ Example
 
 The output follows the schema defined here:
     https://github.com/citation-style-language/schema/blob/master/csl-data.json
+
+Grammars for various formats are in the grammars/ subfolder.

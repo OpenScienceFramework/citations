@@ -31,6 +31,7 @@ class IncompleteDocumentException(Exception):
 class Document(dict):
 
     required_fields = ['author', 'title', 'date']
+    copy_fields = ['flags', 'source', 'properties', 'raw']
 
     def __init__(self, raw_document):
         self.document = {}
@@ -40,10 +41,9 @@ class Document(dict):
             self.document['uid'] = self.generateUID(raw_document)
 
             # grab the properties, flags, and source from the raw document
-            self.document['flags'] = raw_document['flags']
-            self.document['source'] = raw_document['source']
-            self.document['properties'] = raw_document['properties']
-            self.document['raw'] = raw_document['raw']
+            for copy_field in self.copy_fields:
+              if copy_field in raw_document:
+                self.document[copy_field] = raw_document[copy_field]
 
             # @todo generate number of pages from front/last page
 
