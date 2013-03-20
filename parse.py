@@ -8,9 +8,6 @@ DASHES = ['-', u'–']
 fields = "ref names year title journal edition pages doi".split()
 Reference = collections.namedtuple("Reference", ' '.join(fields))
 
-def to_dict(*reference):
-    return dict(zip(fields, reference))
-
 def normalize(string):
     string = string.strip()
     string = re.sub(r'\s+', ' ', string)
