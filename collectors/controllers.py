@@ -3,6 +3,7 @@ Represents the interface between user and location, addition,
 and querying of documents to and from the database.
 '''
 import sys
+import datetime
 
 from listers import *
 from fetchers import *
@@ -46,7 +47,7 @@ class CorpusController(object):
 
     for pmid in pmids_to_fetch:
       doc = fetcher(pmid).fetch()
-      refs = parser(doc).parse()
+      refs = parser(doc).parse_head_ref()
       # send stuff to db...
 
 class OAIController(CorpusController):
@@ -68,7 +69,8 @@ class OAIController(CorpusController):
     parser = OAIParser()
     for doc_batch in doc_batches:
       for doc in doc_batch:
-        doc_parsed = parser.parse(article)
+        return doc
+        doc_parsed = parser.parse(doc)
         # Send parsed articles in DB
         self.db.add_or_update(doc_parsed)
     
