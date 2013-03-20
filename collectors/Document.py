@@ -55,6 +55,7 @@ class Document(dict):
         hasFields = True
         for field in self.required_fields:
             if field not in raw_document['data'] or not raw_document['data'][field]:
+                print 'fuck missing %s' % (field)
                 hasFields = False
                 raise IncompleteDocumentException
         return hasFields

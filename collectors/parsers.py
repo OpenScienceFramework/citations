@@ -11,7 +11,7 @@ Returns:
 
 # Imports
 
-
+import Document
 from BeautifulSoup import BeautifulSoup as BS
 
 # Abstract parsing class
@@ -55,8 +55,8 @@ class OAIParser(Parser):
   # Generic XML fields
   fields = {
     'journal-title' : {'tag' : 'source'},
-    'article-title' : {'tag' : 'article-title'},
-    'year' : {'tag' : 'year'},
+    'title' : {'tag' : 'article-title'},
+    'date' : {'tag' : 'year'},
     'volume' : {'tag' : 'volume'},
     'first-page' : {'tag' : 'fpage'},
     'last-page' : {'tag' : 'lpage'},
@@ -64,12 +64,17 @@ class OAIParser(Parser):
     'doi' : {'tag' : 'pub-id', 'attrs' : {'pub-id-type' : 'doi'}},
   }
   
-  def parse_head_ref(self, ref):
-    
-      pass #TODO
-
   def parse_document(self, xml_parse):
     
+    # Parse main reference
+    main_ref = self.parse_ref(xml_parse.find('article'))
+    main_dict = {
+      'data' : main_ref,
+      'source' : ['oai'],
+      'flags' : {},
+    }
+    main_doc = Document.Document(main_dict).document
+
     # Get <ref-list>
     ref_list = xml_parse.find('ref-list')
 
@@ -81,14 +86,25 @@ class OAIParser(Parser):
     refs = ref_list.findAll('ref')
     
     # Parse <ref>s
+    ref_docs = []
     for ref in refs:
       ref_parse = self.parse_ref(ref)
-
+      ref_dict = {
+        'data' : ref_parse,
+        'source' : ['oai'],
+        'flags' : {},
+      }
+      try:
+        ref_doc = Document.Document(ref_dict)
+        ref_docs.append(ref_doc.document)
+      except:
+        pass
+    
     # Add <ref> UIDs to document
-    # ...
+    main_doc['references'] = [doc['uid'] for doc in ref_docs]
     
     # Done
-    #return ...
+    return [main_doc] + ref_docs
   
   def parse_ref_typeR(self, citation):
     
@@ -113,8 +129,8 @@ class OAIParser(Parser):
           if len(author_split) > 1:
             author_dict['given-names'] = ' '.join(author_split[1])
           authors_dict.append(author_dict)
-        extra_fields['authors'] = authors_dict
-        extra_fields['article-title'] = title.strip()
+        extra_fields['author'] = authors_dict
+        extra_fields['title'] = title.strip()
 
       # Lastpage field
       lastpage_search = re.search('^–(\d+)', field)
@@ -125,6 +141,7 @@ class OAIParser(Parser):
     return extra_fields
 
   def parse_ref_typeB(self, citation):
+    print 'BBB'
     
     # Initialize fields
     extra_fields = {}
@@ -172,11 +189,18 @@ class OAIParser(Parser):
     
     # Collect extra fields from specialized parsing functions
     extra_fields = {}
-    if hasattr(ref, 'id'):
-      if re.search('^r', ref['id'], re.I):
-        extra_fields = self.parse_ref_typeR(citation)
-      elif re.search('^b', ref['id'], re.I):
-        extra_fields = self.parse_ref_typeB(citation)
+    try:
+      id = ref['id']
+    except:
+      id = ''
+    #if hasattr(ref, 'id'):
+    #  id = getattr(ref, 'id')
+    #  id = id if id else ''
+    print 'argh', ref.name
+    if re.search('^r', id, re.I):
+      extra_fields = self.parse_ref_typeR(citation)
+    elif re.search('^b', id, re.I) or ref.name == 'article':
+      extra_fields = self.parse_ref_typeB(ref)
     
     # Add extra fields
     field_info.update(extra_fields)
