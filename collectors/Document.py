@@ -5,7 +5,7 @@ Constructs and builds a document object.
 Parameters:
 raw_document : dictionary containing some number of fields used to populate the document
 raw_document = {
-               'data' : { ... } -- dictionary containing meta data for a document
+               'properties' : { ... } -- dictionary containing meta properties for a document
                'flags' : { ... } -- dictionary  containing flags for analysis
                'source' : [ ... ] -- list containing all sources the document has obtained data from
                }
@@ -14,7 +14,7 @@ Returns:
 document : a completed document object
 document = {
             'uid' : '1234' -- unique identifier each document is given during insansiation
-            'properties' : { ... } -- dictionary containing meta data for a document - Follows
+            'properties' : { ... } -- dictionary containing meta properties for a document - Follows
                                       csl-data.json schema located at:
                                       https://github.com/citation-style-language/schema/blob/master/csl-data.json
             'flags' : { ... } -- dictionary  containing flags for analysis
@@ -36,14 +36,17 @@ class Document(dict):
         self.document = {}
         # verify the raw_document has the minimal fields to build a document
         if self.hasMinData(raw_document):
-            # construct the unique id ofr this file
-            print self.generateUID(raw_document)
+            # generate and add the unique id
             self.document['uid'] = self.generateUID(raw_document)
-            print(self.document['uid'])
 
-            # grab the flags and source from the raw document
+            # grab the properties, flags, and source from the raw document
             self.document['flags'] = raw_document['flags']
             self.document['source'] = raw_document['source']
+            self.document['properties'] = raw_document['properties']
+
+            # @todo generate number of pages from front/last page
+
+            # @todo add number of pages to raw_document['properties']
 
     def hasMinData(self, raw_document):
         """
@@ -54,7 +57,7 @@ class Document(dict):
         """
         hasFields = True
         for field in self.required_fields:
-            if field not in raw_document['data'] or not raw_document['data'][field]:
+            if field not in raw_document['properties'] or not raw_document['properties'][field]:
                 hasFields = False
                 raise IncompleteDocumentException
         return hasFields
@@ -65,9 +68,14 @@ class Document(dict):
         author's last name, and date published stripped out white space, non-alphabetic,
         non-digit, and non-underscore characters.
         """
-        title = raw_document['data']['title'].replace(' ', '').lower()
-        author = raw_document['data']['author'][0]['family-name'].lower()
-        date = raw_document['data']['date']
+        title = raw_document['properties']['title'].replace(' ', '').lower()
+        author = raw_document['properties']['author'][0]['family'].lower()
+        date = raw_document['properties']['date']
         uid = '__'.join([title, str(date), author])
         uid = re.sub('[^a-z0-9_]', '', uid)
         return hash(uid)
+
+    def getUID(self):
+        """returns the UID for a document
+        """
+        return self.document['uid']
