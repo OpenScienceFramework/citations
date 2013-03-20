@@ -1,4 +1,7 @@
-
+'''
+Represents the interface between user and location, addition, 
+and querying of documents to and from the database.
+'''
 import sys
 
 from listers import *
@@ -10,10 +13,11 @@ class CorpusController(object):
   def __init__(self, db):
     self.db = db
   
+  # obtains, constructs, and adds a batch of documents form a source
   def batch(self, source):
     
     pass
-
+  # obtains, constructs, and adds a target document from a source
   def target(self, article):
 
     pass

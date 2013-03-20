@@ -91,7 +91,7 @@ class OAIFetcher(Fetcher):
     # Initialize documents
     docs = []
 
-    # Fetch XML
+    # Fetch XML from OAI
     xml = self.query(**params)
     
     # Parse XML
@@ -126,16 +126,16 @@ class OAIFetcher(Fetcher):
     
     print 'Querying OAI with params %s...' % (kwargs)
     
-    # Delete extra parameters
+    # Delete extra parameters -- resumptionToken specific requirement
     if 'resumptionToken' in kwargs:
       for extra_param in ['from', 'until', 'metadataPrefix']:
         if extra_param in kwargs:
           del kwargs[extra_param]
 
-    # Build URL
+    # Build URL for request
     url_params = '&'.join(['%s=%s' % (key, val) for key, val in kwargs.iteritems()])
     url = '%s?%s' % (oai_base_url, url_params)
 
-    # Get XML from OAI
+    # Get and return XML from OAI
     req = requests.get(url)
     return req.text
