@@ -14,6 +14,7 @@ test_doc_one = {'properties': {
          'hasBeenParsed': False
     },
     'source': ['oai'],
+    'raw': 'asdfjiuawhefuahdslfkjhsadlkfh'
 }
 
 # test  doc two for uid only
@@ -28,6 +29,7 @@ test_doc_two = {'properties': {
         'hasBeenParsed': False
     },
     'source': ['oai'],
+    'raw': 'SdFlweijrlsijerlkfjlsiejlijsliejrlijsdvlijwleijlijflijsdlijfwe'
 }
 
 # test creation of document objects
@@ -53,6 +55,7 @@ test_doc_three = {'properties': {
         'hasBeenParsed': False
     },
     'source': ['oai'],
+    'raw': 'ALDSKJFAWEOIJASD OFJA;OSIDJF ;OIJWAF ;OWAJEJW;OF;OWAJE;OIJFOIWAJOFAIWJEF OOISADJF;'
 }
 
 result_three = Document(test_doc_three)

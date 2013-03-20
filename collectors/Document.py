@@ -43,6 +43,7 @@ class Document(dict):
             self.document['flags'] = raw_document['flags']
             self.document['source'] = raw_document['source']
             self.document['properties'] = raw_document['properties']
+            self.document['raw'] = raw_document['raw']
 
             # @todo generate number of pages from front/last page
 
