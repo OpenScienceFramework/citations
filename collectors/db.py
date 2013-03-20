@@ -46,18 +46,21 @@ class DB(object):
      Params : 
        document - document to be added/updated
   '''
-  def add_or_update(self, document):
+  def add_or_update(self, doc):
     
-    # Raise exception if a required field(s) is missing from the document
-    if not all([field in document['data'] for field in self.required_fields]):
-      raise IncompleteDocumentException
+    ## Raise exception if a required field(s) is missing from the document
+    #if not all([field in document['properties'] for field in self.required_fields]):
+    #  raise IncompleteDocumentException
     
     # Build query to check if document exists in the database
     query = {
-      'data.title' : document['data']['title'],
-      'data.author.0.family' : document['data']['author'][0]['family'],
-      'data.date' : document['data']['date'],
+      'uid' : doc.getUID(),
     }
+    #query = {
+    #  'properties.title' : document['properties']['title'],
+    #  'properties.author.0.family' : document['properties']['author'][0]['family'],
+    #  'properties.date' : document['properties']['date'],
+    #}
     
     # Run query 
     results = self.documents.find(query)
@@ -66,12 +69,15 @@ class DB(object):
     # the document to be added/updated
     all_conflicts = True
     for result in results:
-      union_keys = set(result['data'].keys()) & set(document['data'].keys())
-      if any([result['data'][key] != document['data'][key] for key in union_keys]):
+      result_keys = set(result['properties'].keys())
+      document_keys = set(doc.document['properties'].keys())
+      union_keys = result_keys & document_keys
+      #union_keys = set(result['properties'].keys()) & set(doc.document['properties'].keys())
+      if any([result['properties'][key] != doc.document['properties'][key] for key in union_keys]):
         # if a conflict is found: Add conflict? to existing result
         found_conflict = True
-        document['flags']['conflict?'] = True
-        self.db.documents.update(
+        doc.document['flags']['conflict?'] = True
+        self.documents.update(
           {'_id' : result['_id']},
           {'$set' : {
             'flags.conflict?' : True,
@@ -79,11 +85,11 @@ class DB(object):
         )
       else:
         # else: Update existing result
-        self.db.documents.update(
+        self.documents.update(
           {'_id' : result['_id']},
           {
-            '$set' : {'data' : document['data']},
-            '$pushAll' : {'sources' : document['sources']},
+            '$set' : {'properties' : doc.document['properties']},
+            '$pushAll' : {'source' : doc.document['source']},
           }
         )
         all_conflicts = False
@@ -91,4 +97,4 @@ class DB(object):
     # if there is no conflict and the document does not already exist
     # in the database, add it
     if results is None or all_conflicts:
-      self.db.documents.insert(document)
+      self.documents.insert(doc.document)
