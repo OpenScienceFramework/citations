@@ -4,9 +4,8 @@ import sys
 
 class CorpusController(object):
 
-  def __init__(self, dbin=None, dbout=None):
-    self.dbin = dbin
-    self.dbout = dbout
+  def __init__(self, db=db):
+    self.db = db
   
   def batch(self, source):
     
@@ -61,5 +60,6 @@ class OAIController(CorpusController):
       doc_parsed = parser.parse(article)
 
     ## Send parsed articles in DB
+    self.db.add_or_update(doc_parsed)
     #self.dbin.add_or_update(doc_parsed)
 
