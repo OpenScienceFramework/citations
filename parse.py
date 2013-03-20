@@ -15,12 +15,17 @@ def normalize(string):
     string = re.sub(r'\s+', ' ', string)
     return string
 
+parsers = []
 for gname in glob.glob("grammars/*.parsley"):
     with open(gname) as gfile:
         grammar = unicode(gfile.read())
+        parser = parsley.makeGrammar(grammar, dict(DASHES=DASHES,
+                                     Reference=Reference, normalize=normalize))
+        parsers.append(parser)
 
-parser = parsley.makeGrammar(grammar, dict(DASHES=DASHES,
-                             Reference=Reference, normalize=normalize))
+def parse(text):
+    for parser in parsers:
+        return parser(text).line()
 
 def to_dict(s):
     return parser(s).line()._asdict()

@@ -1,6 +1,6 @@
 # encoding: utf-8
 
-from parse import parser
+import parse
 
 class WhenParsingSingleEntry:
     def setup_method(self, method):
@@ -9,8 +9,8 @@ class WhenParsingSingleEntry:
         in the brain. Trends Cogn Sci 9: 296–305. doi:
         10.1016/j.tics.2005.04.010.  Find this article online
         """
-        parsed = parser(text)
-        self.result = parsed.line()
+
+        self.result = parse.parse(text)
 
     def should_have_ref_number(self):
         assert self.result.ref == '1'
@@ -292,7 +292,7 @@ class _WhenParsingManyEntries:
 class CheckParseWords:
     def should_normalize_whitespace(self):
         text = "Capacity limits of information processing\n in the brain"
-        parsed = parser(text)
+        parsed = parse.parser(text)
         assert parsed.words() == "Capacity limits of information processing in the brain"
 
 # TODO: Need to parse other formats.
