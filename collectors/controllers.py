@@ -66,13 +66,14 @@ class OAIController(CorpusController):
     fetcher = OAIFetcher()
     doc_batches = fetcher.fetch_batch(date_from, date_until)
     
-    # Pass fetched articles to Parser
+    # Initialize parser
     parser = OAIParser()
+
+    # Loop over batches of articles
     for doc_batch in doc_batches:
       for doc in doc_batch:
+        # Parse document
         parsed_docs = parser.parse_document(doc)
-        #return parsed_docs
-        print 'docs', len(parsed_docs)
         # Send parsed articles in DB
         for doc in parsed_docs:
           self.db.add_or_update(doc)

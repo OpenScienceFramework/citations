@@ -59,6 +59,8 @@ class Document(dict):
         hasFields = True
         for field in self.required_fields:
             if field not in raw_document['properties'] or not raw_document['properties'][field]:
+                print 'missing field %s' % (field)
+                print {k:v for k, v in raw_document.iteritems() if k != 'raw'}
                 hasFields = False
                 raise IncompleteDocumentException
         return hasFields

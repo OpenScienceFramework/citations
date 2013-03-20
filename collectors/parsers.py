@@ -86,7 +86,6 @@ class OAIParser(Parser):
     }
     try:
       main_doc = Document.Document(main_dict)
-      #main_doc = Document.Document(main_dict).document
     except:
       return []
 
@@ -112,13 +111,11 @@ class OAIParser(Parser):
       try:
         ref_doc = Document.Document(ref_dict)
         ref_docs.append(ref_doc)
-        #ref_docs.append(ref_doc.document)
-      except Exception as e:
-        print e
+      except Document.IncompleteDocumentException:
+        print 'incomplete document!'
     
     # Add <ref> UIDs to document
     main_doc['references'] = [doc.getUID() for doc in ref_docs]
-    #main_doc['references'] = [doc['uid'] for doc in ref_docs]
     
     # Done
     return [main_doc] + ref_docs
