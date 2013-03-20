@@ -51,6 +51,7 @@ class CorpusController(object):
       refs = parser(doc).parse_head_ref()
       # send stuff to db...
 
+# CorpusController designed for the OAI database
 class OAIController(CorpusController):
   
   START_DATE = datetime.datetime(2010, 1, 1)
@@ -80,3 +81,7 @@ class OAIController(CorpusController):
     
     # Update date range
     self.db.add_date_range('oai', date_from, date_until)
+
+# CorpusController designed for the Plos database 
+class PLOSController(CorpusController):
+    pass #@todo: implement

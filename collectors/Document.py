@@ -22,7 +22,7 @@ document = {
            }
 """
 
-
+# Exception thrown when a document is missing required fields
 class IncompleteDocumentException(Exception):
     pass
 
