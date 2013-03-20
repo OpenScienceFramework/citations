@@ -71,7 +71,7 @@ class DB(object):
         # if a conflict is found: Add conflict? to existing result
         found_conflict = True
         document['flags']['conflict?'] = True
-        db.documents.update(
+        self.db.documents.update(
           {'_id' : result['_id']},
           {'$set' : {
             'flags.conflict?' : True,
@@ -79,7 +79,7 @@ class DB(object):
         )
       else:
         # else: Update existing result
-        db.documents.update(
+        self.db.documents.update(
           {'_id' : result['_id']},
           {
             '$set' : {'data' : document['data']},
@@ -91,4 +91,4 @@ class DB(object):
     # if there is no conflict and the document does not already exist
     # in the database, add it
     if results is None or all_conflicts:
-      db.documents.insert(document)
+      self.db.documents.insert(document)
