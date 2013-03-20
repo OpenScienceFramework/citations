@@ -1,12 +1,14 @@
 
 import sys
 
+from listers import *
+from fetchers import *
+from parsers import *
 
 class CorpusController(object):
 
-  def __init__(self, dbin=None, dbout=None):
-    self.dbin = dbin
-    self.dbout = dbout
+  def __init__(self, db):
+    self.db = db
   
   def batch(self, source):
     
@@ -45,21 +47,26 @@ class CorpusController(object):
 
 class OAIController(CorpusController):
   
-  def batch(self, date_incr=datetime.timedelta(weeks=2)):
+  START_DATE = datetime.datetime(2010, 1, 1)
+
+  def batch(self, date_from=None, date_incr=datetime.timedelta(days=1)):
     
-    ## Get date of last completed batch
-    #date_from = ...
-    #date_until = date_from + date_incr
+    # Get date of last completed batch
+    if not date_from:
+      date_from = self.START_DATE
+    date_until = date_from + date_incr
 
     # Fetch batch of articles
     fetcher = OAIFetcher()
-    documents = fetcher.batch(date_from, date_until)
-
+    doc_batches = fetcher.fetch_batch(date_from, date_until)
+    
     # Pass fetched articles to Parser
     parser = OAIParser()
-    for document in documents:
-      doc_parsed = parser.parse(article)
-
-    ## Send parsed articles in DB
-    #self.dbin.add_or_update(doc_parsed)
-
+    for doc_batch in doc_batches:
+      for doc in doc_batch:
+        doc_parsed = parser.parse(article)
+        # Send parsed articles in DB
+        self.db.add_or_update(doc_parsed)
+    
+    # Update date range
+    self.db.add_date_range('oai', date_from, date_until)

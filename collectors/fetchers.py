@@ -1,4 +1,18 @@
+''' 
+Retrieves either raw target document data or a batch of raw document
+data from a speciifed source.
 
+Parameters:
+  fetch_target()
+    document id : Some way of identifying a document from a speciifed 
+    source
+  fetch_batch()
+    constraints : Some set of constraints for the size, time, delay, or
+    other relavent factors for a batch request.
+Returns:
+  raw_doc_data : The raw data for a target document or batch of
+    target documents
+'''
 import re
 import requests
 from BeautifulSoup import BeautifulSoup as BS
@@ -6,16 +20,27 @@ from BeautifulSoup import BeautifulSoup as BS
 doi_base_url = 'http://dx.doi.org'
 oai_base_url = 'http://www.pubmedcentral.gov/oai/oai.cgi'
 
+# Abstract fetcher class
 class Fetcher(object):
   
+  # Fetches and returns raw document data for a specific document
   def fetch_target(self):
     raise NotImplementedError
 
+  # Fetches and returns raw document data for a batch of documents
   def fetch_batch(self):
     raise NotImplementedError
 
+# Fetcher class designed to fetch data from PLOS
 class PLOSFetcher(Fetcher):
   
+  '''Fetch and return a target document
+     params: 
+       doi: doi of target document
+       pmid: pmid of target document
+     returns:
+       html version of target docment 
+  '''
   def fetch_target(self, doi=None, pmid=None):
     
     # Get DOI if missing
@@ -32,6 +57,7 @@ class PLOSFetcher(Fetcher):
     req = requests.get(publink)
     return req.text
 
+# Fetcher class designed to fetch data from OAI
 class OAIFetcher(Fetcher):
 
   # TODO: store history of requests in db
@@ -39,6 +65,13 @@ class OAIFetcher(Fetcher):
   # Print format for datetime objects
   date_fmt = '%Y-%m-%d'
 
+  '''Fetch and return a batch of documents
+     params:
+       date_from : datetime - start date of batch request
+       date_until : datetime - stop date of batch request
+     returns:
+       docs : a list of raw documents in xml
+  '''
   def fetch_batch(self, date_from=None, date_until=None):
     
     # Default query parameters
@@ -65,7 +98,8 @@ class OAIFetcher(Fetcher):
     xml_parse = BS(xml)
     
     # Extend records to docs
-    docs.extend(xml_parse.findAll('record'))
+    yield xml_parse.findAll('record')
+    #docs.extend(xml_parse.findAll('record'))
     
     # Get resumption token
     token = xml_parse.find(re.compile('resumptiontoken', re.I))
@@ -75,15 +109,19 @@ class OAIFetcher(Fetcher):
       params['resumptionToken'] = token.text
       xml = self.query(**params)
       xml_parse = BS(xml)
-      docs.extend(xml_parse.findAll('record'))
+      yield xml_parse.findAll('record')
+      #docs.extend(xml_parse.findAll('record'))
       token = xml_parse.find(re.compile('resumptiontoken', re.I))
     
-    # Done
-    return docs
+    ## Done
+    #return docs
 
+  '''Gets documents from PMC OAI in XML
+     params : params
+     returns : 
+  '''
   def query(self, **kwargs):
     '''Get articles from PMC OAI in XML format.
-
     '''
     
     print 'Querying OAI with params %s...' % (kwargs)
