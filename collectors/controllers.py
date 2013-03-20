@@ -71,7 +71,6 @@ class OAIController(CorpusController):
     for doc_batch in doc_batches:
       for doc in doc_batch:
         parsed_docs = parser.parse_document(doc)
-        return parsed_docs
         print 'docs', len(parsed_docs)
         # Send parsed articles in DB
         for doc in parsed_docs:

@@ -82,6 +82,7 @@ class OAIParser(Parser):
       'properties' : main_ref,
       'source' : ['oai'],
       'flags' : {},
+      'raw' : str(xml_parse),
     }
     try:
       main_doc = Document.Document(main_dict).document
