@@ -1,6 +1,10 @@
 '''
 Controller for handling add requests and queries to/from
 MongoDB.
+
+Database:
+citations.documents -- MongoDB collection storing document objects
+citations.batches -- MongoDB collection storing batch date information from various source Fetcher()s
 '''
 from pymongo import MongoClient
 from pymongo import ASCENDING, DESCENDING
@@ -28,17 +32,17 @@ class DB(object):
   # returns the last datetime a source was probed for document data
   def last_date_range(self, source):
     
-    return self.batches.find({'source' : source})\
-    .sort('from', DESCENDING)\
-    .limit(1)
+    return self.batches.find({'source': source})\
+        .sort('from', DESCENDING)\
+        .limit(1)
 
   # adds or updates the datetime a source was probed for document data
   def add_date_range(self, source, date_from, date_until):
     
     self.batches.insert({
-      'source' : source,
-      'from' : date_from,
-      'until' : date_until,
+      'source': source,
+      'from': date_from,
+      'until': date_until,
     })
    
   '''
@@ -47,11 +51,11 @@ class DB(object):
        document - document to be added/updated
   '''
   def add_or_update(self, document):
-    
-    # Raise exception if a required field(s) is missing from the document
-    if not all([field in document['data'] for field in self.required_fields]):
-      raise IncompleteDocumentException
-    
+
+    # @todo: Is it possible for a document to be corrupted between extraction and reinsertion?
+    #if document.document.hasMinData():
+    #    raise IncompleteDocumentException
+
     # Build query to check if document exists in the database
     query = {
       'data.title' : document['data']['title'],
