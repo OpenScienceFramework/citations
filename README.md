@@ -1,25 +1,22 @@
-citations
+Citations
 =========
 
-1. Create test JSON
+This is the part of the Open Science Foundation that parses citations in
+various formats.
 
-    Manually parse more citations into JSON -- Four done.
+Example
+-------
+    cat > citation.txt
+    1. Monty P, Circus F (1969) How Not To Be Seen.  Now For Something
+    Completely Different 9: 296–305. doi: 42.1024/c.l.py.
+    ^D
 
-    Multiple JSON integration -- test.py handles this now? glob.glob /test/*JSON
+    citebite citation.txt
 
-1. Revise engine to extrapolate minimal data necessary for initialdatabase construction
+    {
+        ...
+    }
 
-    <ol>
-    <li>authors</li>
-    <li>issued</li>
-    <li>title</li>
-    <li>journal</li>
-    </ol><br />
 
-1. Choose database -- MongoDB, Neo4j, OrientDB, HyperGraphDB, Titan?
-
-1. Heuristic approach to regexing citations
-
-1. Implement re.verbose for readability of complex regular expressions
-
-Schema we're using: https://github.com/citation-style-language/schema/blob/master/csl-data.json
+The output follows the schema defined here:
+    https://github.com/citation-style-language/schema/blob/master/csl-data.json
