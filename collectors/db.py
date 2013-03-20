@@ -55,7 +55,7 @@ class DB(object):
     # Build query to check if document exists in the database
     query = {
       'data.title' : document['data']['title'],
-      'data.author.0.family-name' : document['data']['author'][0]['family-name'],
+      'data.author.0.family' : document['data']['author'][0]['family'],
       'data.date' : document['data']['date'],
     }
     
