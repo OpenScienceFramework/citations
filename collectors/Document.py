@@ -1,4 +1,7 @@
+
 import re
+import datetime
+
 """
 Constructs and builds a document object.
 
@@ -22,7 +25,7 @@ document = {
            }
 """
 
-
+# Exception thrown when a document is missing required fields
 class IncompleteDocumentException(Exception):
     pass
 
@@ -31,19 +34,28 @@ class IncompleteDocumentException(Exception):
 class Document(dict):
 
     required_fields = ['author', 'title', 'date']
+    copy_fields = ['flags', 'source', 'properties', 'raw', 'refs']
 
     def __init__(self, raw_document):
         self.document = {}
         # verify the raw_document has the minimal fields to build a document
         if self.hasMinData(raw_document):
-            # generate and add the unique id
-            self.document['uid'] = self.generateUID(raw_document)
 
             # grab the properties, flags, and source from the raw document
-            self.document['flags'] = raw_document['flags']
-            self.document['source'] = raw_document['source']
-            self.document['properties'] = raw_document['properties']
-            self.document['raw'] = raw_document['raw']
+            for copy_field in self.copy_fields:
+              if copy_field in raw_document:
+                self.document[copy_field] = raw_document[copy_field]
+
+            # Check for valid date
+            idate = valid_date(self.document['properties']['date'])
+            if idate:
+              self.document['properties']['date'] = idate
+            else:
+              print 'bad'
+              raise IncompleteDocumentException
+
+            # generate and add the unique id
+            self.document['uid'] = self.generateUID(raw_document)
 
             # @todo generate number of pages from front/last page
 
@@ -59,6 +71,8 @@ class Document(dict):
         hasFields = True
         for field in self.required_fields:
             if field not in raw_document['properties'] or not raw_document['properties'][field]:
+                print 'missing field %s' % (field)
+                print {k:v for k, v in raw_document.iteritems() if k != 'raw'}
                 hasFields = False
                 raise IncompleteDocumentException
         return hasFields
@@ -72,7 +86,7 @@ class Document(dict):
         title = raw_document['properties']['title'].replace(' ', '').lower()
         author = raw_document['properties']['author'][0]['family'].lower()
         date = raw_document['properties']['date']
-        uid = '__'.join([title, str(date), author])
+        uid = '__'.join([title, unicode(date), author])
         uid = re.sub('[^a-z0-9_]', '', uid)
         return hash(uid)
 
@@ -80,3 +94,13 @@ class Document(dict):
         """returns the UID for a document
         """
         return self.document['uid']
+
+def valid_date(date):
+  
+  try:
+    idate = int(date)
+  except ValueError:
+    return False
+  if 1900 <= idate <= datetime.datetime.now().year:
+    return idate
+  return False

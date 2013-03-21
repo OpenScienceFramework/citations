@@ -85,7 +85,7 @@ class OAIParser(Parser):
       'raw' : str(xml_parse),
     }
     try:
-      main_doc = Document.Document(main_dict).document
+      main_doc = Document.Document(main_dict)
     except:
       return []
 
@@ -110,12 +110,12 @@ class OAIParser(Parser):
       }
       try:
         ref_doc = Document.Document(ref_dict)
-        ref_docs.append(ref_doc.document)
-      except:
-        pass
+        ref_docs.append(ref_doc)
+      except Document.IncompleteDocumentException:
+        print 'incomplete document!'
     
     # Add <ref> UIDs to document
-    main_doc['references'] = [doc['uid'] for doc in ref_docs]
+    main_doc.document['refs'] = [doc.getUID() for doc in ref_docs]
     
     # Done
     return [main_doc] + ref_docs
@@ -179,7 +179,7 @@ class OAIParser(Parser):
         if surname:
           author_dict['family'] = unicode(surname.string)
         given_names = author.find('given-names')
-        if given_names:
+        if given_names and given_names.string:
           author_dict['given'] = ' '.join(given_names.string)
         authors_dict.append(author_dict)
       extra_fields['author'] = authors_dict
@@ -196,7 +196,10 @@ class OAIParser(Parser):
     if primary:
       citation = ref
     else:
-      citation = ref.find('citation')
+      citation = ref.find(re.compile('(mixed-)?citation'))
+      if not citation:
+        print ref
+        return {}
     
     # Loop over generic fields
     for field in self.fields:

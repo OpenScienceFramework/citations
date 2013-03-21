@@ -1,0 +1,45 @@
+# limited code for APA journal refs.
+# current code is for one very simple case: one author, lastname, i.
+
+lines = line+
+
+line = ws names:name
+       ws '(' year:year ')' '.'
+       ws title:title
+       ws journal:journal    
+       ws edition:edition 
+       ws ('(' issue:issue ')')* ',' pages:pages '.'  
+       ws 'doi:' ws doi:doi 
+       anything*
+       -> Reference(name, year, title, journal, edition, issue, pages, doi[:-1])
+
+words = (<word (ws word)*>):w -> normalize(w)  # remove white space
+word = letter+
+
+year = <digit+>
+title = words:w '.' -> w
+journal = <words>
+edition = <digit+>
+issue = <digit+>
+
+pages = <digit+>:start anything:c ?(c in DASHES) <digit+>:end -> (start, end)
+
+doi = <(letterOrDigit | '.' | '/')+>
+
+# names, limited version with modified PLOS-1 code, 'Lastname IJ,' -> 'Lastname, I.'
+names = <words>:first (',' ws <letter> '.'):rest -> [first] + rest
+
+# additional notes
+# author name(s) = last name plus one or more initials+periods
+# followed by a comma if there are additional authors
+# last of two or more authors (but fewer than 8) is preceded by '&'.
+# more than 7 authors: '. . .' between n-2 author and last (nth) author.
+# basic example: Becker, L. J., & Seligman, C.
+
+# last name might include apostrophe and/or hyphen
+# lastname = '[A-Z][a-z'`-]{1,}'
+
+# next: one or more initial(s), each followed by a period
+# initials = '((\s[A-Z]+(\.)(\s?[A-Z](\.))*)'  # needs a lot of work
+
+# note: refnumber = <digit+>:n '.' -> n  # ref number not needed for APA refs? 
