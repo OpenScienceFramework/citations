@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+"""
+citebite utility. Takes a citation as copied from a journal article and returns
+a JSON formatted set of data from it.
+"""
 import sys
 import json
 
