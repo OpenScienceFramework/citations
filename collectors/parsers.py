@@ -115,7 +115,7 @@ class OAIParser(Parser):
         print 'incomplete document!'
     
     # Add <ref> UIDs to document
-    main_doc['references'] = [doc.getUID() for doc in ref_docs]
+    main_doc.document['refs'] = [doc.getUID() for doc in ref_docs]
     
     # Done
     return [main_doc] + ref_docs
@@ -196,7 +196,10 @@ class OAIParser(Parser):
     if primary:
       citation = ref
     else:
-      citation = ref.find('citation')
+      citation = ref.find(re.compile('(mixed-)?citation'))
+      if not citation:
+        print ref
+        return {}
     
     # Loop over generic fields
     for field in self.fields:

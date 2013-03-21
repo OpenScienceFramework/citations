@@ -5,9 +5,12 @@ and querying of documents to and from the database.
 import sys
 import datetime
 
-from listers import *
-from fetchers import *
-from parsers import *
+#from listers import *
+#from fetchers import *
+#from parsers import *
+import listers
+import fetchers
+import parsers
 
 class CorpusController(object):
 
@@ -54,28 +57,49 @@ class CorpusController(object):
 # CorpusController designed for the OAI database
 class OAIController(CorpusController):
   
-  START_DATE = datetime.datetime(2010, 1, 1)
+  # Default start date for batch retrieval
+  DATE_FROM = datetime.date(2010, 1, 1)
 
-  def batch(self, date_from=None, date_incr=datetime.timedelta(days=1)):
+  # Default time window for batch retrieval
+  DATE_INCR = datetime.timedelta(days=1)
+
+  def batch(self, date_from=None, date_incr=DATE_INCR):
+    '''Retrieve, parse, and push a batch of documents.
+
+    Args:
+      date_from (datetime.date): Start date
+      date_incr (datetime.timedelta): Time window
+
+    '''
     
-    # Get date of last completed batch
+    # Get start date
     if not date_from:
-      date_from = self.START_DATE
-    date_until = date_from + date_incr
+      date_from = self.db.last_date_range('oai')[0]['until'] + \
+        datetime.timedelta(days=1)
+
+    # Get end date
+    if date_incr:
+      date_until = date_from + date_incr
+    else:
+      date_until = None
 
     # Fetch batch of articles
-    fetcher = OAIFetcher()
+    fetcher = fetchers.OAIFetcher()
     doc_batches = fetcher.fetch_batch(date_from, date_until)
     
     # Initialize parser
-    parser = OAIParser()
+    parser = parsers.OAIParser()
 
     # Loop over batches of articles
     for doc_batch in doc_batches:
+
+      # Loop over articles in batch
       for doc in doc_batch:
+
         # Parse document
         parsed_docs = parser.parse_document(doc)
-        # Send parsed articles in DB
+
+        # Send parsed articles to DB
         for doc in parsed_docs:
           self.db.add_or_update(doc)
     
@@ -84,4 +108,4 @@ class OAIController(CorpusController):
 
 # CorpusController designed for the Plos database 
 class PLOSController(CorpusController):
-    pass #@todo: implement
+    pass #@TODO: implement
