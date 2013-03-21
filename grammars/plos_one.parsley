@@ -1,4 +1,16 @@
-lines = line+
+#Parse multiple lines (currently broken).
+lines = line+ 
+# A line consists of a...
+# - Reference number
+# - Names
+# - Article title
+# - Journal
+# - Journal edition
+# - page numbers
+# - doi reference.
+# - Other garbage we don't care about.
+# They're separated by whitespace. Some punctuation characters make good
+# delimiters, they are implemented in the grammar below.
 line = ws refnumber:ref
        ws names:name
        ws '(' year:year ')'
@@ -9,13 +21,24 @@ line = ws refnumber:ref
        <(ws 'doi:' ws doi){0,1}>:doi
        anything*
        -> Reference(ref, name, year, title, journal, edition, pages, doi[:-1])
+
+# Reference numbers are followed by a period.
 refnumber = <digit+>:n '.' -> n
+# Years are made out of digits.
 year = <digit+>
+# Edition is made out of digits.
 edition = <digit+>
+# Names are a comma separated list with whitespace between surnames and
+# initials. This probably needs to be a bit more detailed.
 names = <words>:first (',' ws <words>)*:rest -> [first] + rest
+# Titles are made up of words that are followed by a period.
 title = words:w '.' -> w
+# Words are made out of words separated by whitespace. This function calls
+# normalize to normalize the whitespace.
 words = (<word (ws word)*>):w -> normalize(w)
 word = letter+
 journal = <words>
+# Pages are separated by dashes, we have to look at various types of dashes.
 pages = <digit+>:start anything:c ?(c in DASHES) <digit+>:end -> (start, end)
+# DOIs are letters, numbers, dots and slashes.
 doi = <(letterOrDigit | '.' | '/')+>
