@@ -1,0 +1,56 @@
+# Sample documents for insert/update
+
+d0 = {
+  'uid' : 'lol',
+  'data' : {
+    'title' : 'my title',
+    'date' : 2005,
+    'author' : [
+      {'family-name' : 'smith', 'given-name' : 'bob'}
+      {'family-name' : 'smith', 'given-name' : 'jane'}
+    ],
+    'volume' : 5,
+    'issue' : 2,
+  },
+  'flags' : {
+  
+  },
+  'sources' : ['oai']
+  'citations' : [
+    
+  ],
+  'raw' : '...',
+}
+
+d1 = {
+  'uid' : 'lol',
+  'data' : {
+    'title' : 'my title',
+    'date' : 2005,
+    'author' : [{'family-name' : 'smith', 'given-name' : 'bob'}],
+    'volume' : 5,
+    'issue' : 3,
+  },
+  'flags' : {
+  
+  },
+  'sources' : ['plos']
+}
+
+d2 = {
+  'uid' : 'lol',
+  'data' : {
+    'title' : 'my title',
+    'date' : 2005,
+    'author' : [{'family-name' : 'smith', 'given-name' : 'bob'}],
+    'volume' : 5,
+    'issue' : 2,
+    'foo' : 'bar',
+  },
+  'flags' : {
+  
+  },
+  'sources' : ['pmc']
+}
+
+

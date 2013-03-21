@@ -12,9 +12,13 @@ import listers
 import fetchers
 import parsers
 
+import db
+
 class CorpusController(object):
 
-  def __init__(self, db):
+  def __init__(self, db=None):
+    if db is None:
+      db = db.DB()
     self.db = db
   
   # obtains, constructs, and adds a batch of documents form a source
@@ -63,15 +67,18 @@ class OAIController(CorpusController):
   # Default time window for batch retrieval
   DATE_INCR = datetime.timedelta(days=1)
 
-  def batch(self, date_from=None, date_incr=DATE_INCR):
+  def batch(self, date_from=None, date_incr=DATE_INCR, **kwargs):
     '''Retrieve, parse, and push a batch of documents.
 
     Args:
       date_from (datetime.date): Start date
       date_incr (datetime.timedelta): Time window
+      kwargs: Optional OAI parameters
 
     '''
     
+    #TODO: save kwargs to query metadata
+
     # Get start date
     if not date_from:
       date_from = self.db.last_date_range('oai')[0]['until'] + \
@@ -85,7 +92,7 @@ class OAIController(CorpusController):
 
     # Fetch batch of articles
     fetcher = fetchers.OAIFetcher()
-    doc_batches = fetcher.fetch_batch(date_from, date_until)
+    doc_batches = fetcher.fetch_batch(date_from, date_until, **kwargs)
     
     # Initialize parser
     parser = parsers.OAIParser()

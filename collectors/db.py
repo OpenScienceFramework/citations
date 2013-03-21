@@ -15,25 +15,21 @@ citations.batches -- MongoDB collection storing batch date information from vari
 from pymongo import MongoClient
 from pymongo import ASCENDING, DESCENDING
 
-# @TODO: Implement this exception
-# Excepetion thrown when an attempt to add an article
-# missing required information
-class IncompleteDocumentException(Exception):
-  pass
+import Document
 
-# Controller class for handiling DB transactions
 class DB(object):
+  '''Interface to MongoDB'''
   
-  # Fields that all documents objects must have to be added
-  required_fields = ['author', 'title', 'date']
-
-  def __init__(self):
+  def __init__(self, *args, **kwargs):
     
     # Set up database
-    collection = MongoClient()
-    self.citations = collection.citations
-    self.documents = self.citations.documents
-    self.batches = self.citations.batches
+    connection = MongoClient(*args, **kwargs)
+    database = connection.data
+    self.documents = database.documents
+    self.batches = database.metadata
+    #self.citations = collection.citations
+    #self.documents = self.citations.documents
+    #self.batches = self.citations.batches
   
   def last_date_range(self, source):
     '''returns the last datetime a source was probed for document data
@@ -62,6 +58,10 @@ class DB(object):
 
     '''
     
+    # doc must be a Document instance
+    if not isinstance(doc, Document.Document):
+      raise TypeError('add_or_update() must take a Document()')
+
     # Check for document in database
     results = self.documents.find({
       'uid' : doc.getUID(),
@@ -94,7 +94,7 @@ class DB(object):
           {'_id' : result['_id']},
           {
             '$set' : {'properties' : doc.document['properties']},
-            '$pushAll' : {'source' : doc.document['source']},
+            '$addToSet' : {'source' : {'$each' : doc.document['source']}},
           }
         )
         all_conflicts = False
