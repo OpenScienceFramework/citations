@@ -25,7 +25,10 @@ for gname in glob.glob("grammars/*.parsley"):
 
 def parse(text):
     for parser in parsers:
-        return parser(text).line()
+        try:
+            return parser(text).line()
+        except Exception:
+            pass
 
 def to_dict(s):
     return parser(s).line()._asdict()
