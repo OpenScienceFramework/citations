@@ -6,7 +6,7 @@ line = ws refnumber:ref
        ws journal:journal
        ws edition:edition ':'
        ws pages:pages '.'
-       ws 'doi:' ws doi:doi
+       <(ws 'doi:' ws doi){0,1}>:doi
        anything*
        -> Reference(ref, name, year, title, journal, edition, pages, doi[:-1])
 refnumber = <digit+>:n '.' -> n

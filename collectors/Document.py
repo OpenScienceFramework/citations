@@ -1,6 +1,7 @@
 
 import re
 import datetime
+import pprint
 
 """
 Constructs and builds a document object.
@@ -47,11 +48,12 @@ class Document(dict):
                 self.document[copy_field] = raw_document[copy_field]
 
             # Check for valid date
-            idate = valid_date(self.document['properties']['date'])
+            date = self.document['properties']['date']
+            idate = valid_date(date)
             if idate:
               self.document['properties']['date'] = idate
             else:
-              print 'bad'
+              print 'Bad date: %r' % (date)
               raise IncompleteDocumentException
 
             # generate and add the unique id
@@ -95,12 +97,30 @@ class Document(dict):
         """
         return self.document['uid']
 
+    def __repr__(self):
+        '''Pretty-formats a Document, excluding bulky fields
+
+        '''
+          
+        clean = {k: v for k, v in self.document['properties'].iteritems() 
+          if k not in ['raw']}
+        pp = pprint.PrettyPrinter()
+        return pp.pformat(clean)
+
 def valid_date(date):
-  
-  try:
-    idate = int(date)
-  except ValueError:
+    '''Check whether date is valid
+
+    Args:
+      date (int-able) : date
+    Returns:
+      valid date (int) if valid, else False
+
+    '''
+    
+    try:
+        idate = int(date)
+    except ValueError:
+        return False
+    if 1900 <= idate <= datetime.datetime.now().year:
+        return idate
     return False
-  if 1900 <= idate <= datetime.datetime.now().year:
-    return idate
-  return False
