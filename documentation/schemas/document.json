@@ -1,0 +1,9 @@
+
+{
+    uid : '...',
+    properties : '...',
+    flags : {
+        conflict : [True, False],
+        complete : [True, False]
+    }
+}

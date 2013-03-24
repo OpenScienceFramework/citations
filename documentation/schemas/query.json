@@ -1,0 +1,14 @@
+
+{
+    call : {
+        fun : '...',
+        args : '...',
+        kwargs : '...'
+    },
+    time : {
+        tstart : '...',
+        tstop : '...'
+    },
+    documents : ['...', '...'],
+    files : ['...', '...']
+}
