@@ -28,7 +28,7 @@ class OAIController(CorpusController):
 
     # Get start date
     if not date_from:
-      date_from = self.db.last_date_range('oai')[0]['until'] + \
+      date_from = self.database.last_date_range('oai')[0]['until'] + \
         datetime.timedelta(days=1)
 
     # Get end date
@@ -57,7 +57,7 @@ class OAIController(CorpusController):
 
         # Send parsed articles to DB
         for doc in parsed_docs:
-          self.db.add_or_update(doc)
+          self.database.add_or_update(doc)
 
     # Update date range
-    self.db.add_date_range('oai', date_from, date_until)
+    self.database.add_date_range('oai', date_from, date_until)

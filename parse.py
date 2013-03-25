@@ -40,7 +40,8 @@ def parse(text):
     for parser in parsers:
         try:
             return parser(text).line()
-        except Exception:
+        except Exception as e:
+            print e.message
             pass
 
 def to_dict(s):
