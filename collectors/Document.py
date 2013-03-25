@@ -35,7 +35,7 @@ class IncompleteDocumentException(Exception):
 class Document(dict):
 
     required_fields = ['author', 'title', 'date']
-    copy_fields = ['flags', 'source', 'properties', 'raw', 'refs']
+    copy_fields = ['flags', 'source', 'properties', 'raw', 'references']
 
     def __init__(self, raw_document):
         self.document = {}
@@ -121,6 +121,6 @@ def valid_date(date):
         idate = int(date)
     except ValueError:
         return False
-    if 1900 <= idate <= datetime.datetime.now().year:
+    if 1800 <= idate <= datetime.datetime.now().year:
         return idate
     return False
