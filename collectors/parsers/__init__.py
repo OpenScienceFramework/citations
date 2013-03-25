@@ -3,7 +3,8 @@
 import re
 from BeautifulSoup import BeautifulSoup as BS
 
-from .. import Document 
+from .. import Document
+from ..parsing import parse
 
 class Parser(object):
   '''Abstract parsing class
