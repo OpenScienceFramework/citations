@@ -53,6 +53,12 @@ allowed_chars = u',;:\'"’&?!()'
 dashes = pyp.Word(dash_chars)
 etal = pyp.Combine('et al' + pyp.ZeroOrMore('.'))
 number = pyp.Word(pyp.nums)
+date_inner = pyp.Combine(
+                number.copy().setResultsName('date') + \
+                pyp.Optional(pyp.Word(pyp.alphas))
+            )
+date = '(' + date_inner + ')' + pyp.Optional('.')
+#date = '(' + (number.setResultsName('date') + pyp.Word(pyp.alphas) + ')' + pyp.Optional('.')
 words_neglook = ~date + ~number + ~etal + ~pyp.Literal('http') + ~pyp.Literal('doi')
 
 word = pyp.Word(pyp.alphanums + dash_chars + allowed_chars)
@@ -73,11 +79,10 @@ authors = (pyp.Group(
           .setResultsName('author') + \
           pyp.Optional(etal))
 
-date = '(' + number.setResultsName('date') + ')' + pyp.Optional('.')
-
 title = words.\
         setResultsName('title')
 
+#journal = words.\
 journal = words_journal.\
           setParseAction(joiner(' ')).\
           setResultsName('journal-title')
@@ -104,9 +109,9 @@ doi = pyp.Optional(
 reference = authors + \
             date + \
             title + \
-            '.' + \
+            pyp.Word('.?') + \
             journal + \
-            volume + \
-            pages + \
+            pyp.Optional(volume) + \
+            pyp.Optional(pages) + \
             pyp.Optional('.') + \
             doi
