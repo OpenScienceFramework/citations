@@ -19,6 +19,11 @@ import re
 import requests
 from BeautifulSoup import BeautifulSoup as BS
 
+from ..utils import pubtools
+
+# Parameters
+timeout = 15
+
 # URLs
 doi_base_url = 'http://dx.doi.org'
 oai_base_url = 'http://www.pubmedcentral.gov/oai/oai.cgi'
